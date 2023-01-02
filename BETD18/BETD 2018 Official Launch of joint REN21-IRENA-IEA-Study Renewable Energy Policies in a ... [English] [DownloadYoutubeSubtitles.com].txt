@@ -1,0 +1,685 @@
+And i know you have divided up what you regard
+the key findings of the study.
+
+There is a division of labour here, so, without
+further ado, I would like you to present each
+
+of your sections and then, perhaps, afterwards,
+we will have time for a brief exchange.
+
+We will begin with Rana Adib.
+
+She is Executive Secretary of REN21.
+
+It is a global public-private multi-stakeholder
+network on renewable energy that's headquartered
+
+at the United Nations Environment Programme
+in Paris, France.
+
+She will be followed straightaway by Diala
+Hawila, Associate Programme Officer in the
+
+policy unit of IRENA, working on topics related
+to policy assessment, and focusing, amongst
+
+others, on renewable energy auctions.
+
+Finally, we will hear from the man in the
+middle, Paolo Frankl, Head of the Renewable
+
+Energy Division at the IEA.
+
+He provides policy advice in the areas of
+technology, markets, and system integration.
+
+Rana Adib, please begin.
+
+Unfortunately, maybe for here, or fortunately,
+actually, we have changed order.
+
+We just wanted to test basically the spontaneity
+of our audience.
+
+Diala is going to start.
+
+Sorry!
+
+I'm from the International Renewable Agency.
+
+I'm happy and honoured to be with you here
+today, and to share this presentation with
+
+to present our report on renewable energies
+in a time of transition.
+
+This is the first time the three institutions
+come together to deliver messages on policy
+
+recommendations on how further to deploy renewable
+energy, and to advance the energy transition
+
+globally.
+
+So far, we have presented the findings of
+the report in major events like the G20 and
+
+IRENA's major assembly in January.
+
+Through those presentations, we have received
+very valuable feedback, and also we have had
+
+more than 1,000 reviewers for our reports,
+many of whom are here today, and thank you
+
+for your feedback.
+
+In this report, we look at policies in the
+power sector, in heating and cooling, and,
+
+in transport.
+
+We look at measures in order to integrate
+renewable energy into the system, and we also
+
+propose an updated classification of renewable
+energy policies that places those policies
+
+in a broader context of other policies not
+only related to the energy sector itself.
+
+So, renewable energy deployment has made major
+strides in the past decade, driven mainly
+
+by technological advancement, cost reductions,
+and, of course, renewable energy policies.
+
+However, the progress has not been homogeneous
+across countries, and new developing markets,
+
+we still face barriers related to technology,
+to finance, to regulatory barriers, and, in
+
+an advanced market with a large share of renewable
+energy, we're now facing challenges that are
+
+related to the integration of variable renewable
+energy.
+
+This progress is not homogeneous across sectors,
+and while we can see the number of countries
+
+with targets and policies for renewable energy
+has been increasing in a staggering way, they
+
+still focus on the policies of the power sector.
+
+Today, the it will focus on the variable system
+integration on renewable energy and on policies
+
+to advance sectors in heating, and transport,
+which are the main consumers of energy globally.
+
+Before that, a few words on the policies and
+in the power sector.
+
+Today, we see that the still most widely adopted
+policy is tax incentives and tax reductions,
+
+and this is because they can be applied to
+projects from all sizes and installations,
+
+and in all contexts, especially the access
+context as we saw previously in the session
+
+before.
+
+For those to be successful, they need to be
+of course coupled with regulatory policies,
+
+capacity measures, and finance access measures,
+and other also policies.
+
+Tariffs and premiums are the second most widely
+adopted policies, and they've made a major
+
+role in deploying renewables globally.
+
+One challenge associated with feed-in tariffs
+that are administratively set tariffs and
+
+premiums is they need to be set - there is
+a challenge in setting the tariff, and in
+
+adapting the tariff to reflect changing market
+conditions such as the falling cost of technologies,
+
+while, at the same time, providing a stable
+environment for investments.
+
+And this is why lately auctions have been
+increasingly adopted because of their ability
+
+to capture the real price of a technology
+in a specific context, and also fulfil other
+
+policy objectives.
+
+So, as mentioned, auctions have been able
+to reflect the falling costs of technologies
+
+between 2010 and 2016 specifically for onshore
+wind and solar PV, and we have seen lately
+
+record-breaking prices in all regions of the
+world in all technologies, but it is very
+
+important to highlight the factors that are
+behind the prices that we are seeing, and
+
+that those prices are not necessarily replicable
+in any context.
+
+They can categorised in the country-specific
+factors such as cost of land, labour, and
+
+resources.
+
+The investors' confidence, such as the uptaker's
+risks.
+
+Other policies can also be applied at the
+same time such as, for example, tax incentives,
+
+and also the design of the auction.
+
+The auction can be designed in a way to account
+for trade-offs between the lowest price achieved
+
+and other objectives.
+
+It is very important to highlight that auctions
+are also associated with weaknesses such as
+
+they could probably drive small players out
+of the market, or they could sometimes result
+
+in underbidding and delays if they're not
+designed appropriately.
+
+So this is why it is very important to highlight
+that the choice of policy is not always the
+
+same in any context, and some context, it
+is very context-specific to the technology,
+
+to the left of maturity of the sector, and
+also, it is important to highlight that the
+
+success of any policy heavily relies on its
+design.
+
+The design of auctions, as we mentioned, is
+not only to have a low price at the end, but
+
+it can be designed to satisfy other objectives
+such as socio-economic development and also
+
+most recently system integration, and this
+is where I pass the floor to Paolo to talk
+
+about system integration and policies in the
+heating sector.
+
+Thank you.
+
+[Applause].
+
+PAOLO FRANKL: So this graph actually means
+entering in a new era, with solar PV and wind
+
+below five cents, these trends will continue
+in many countries, the prices announced below
+
+three cents, some also two cents.
+
+This is really changing the narrative and
+system integration is becoming a priority
+
+in many countries.
+
+So, a lot of this discussion is reserved on
+that, and there is still a lot of confusion,
+
+because many countries think that this is
+a problem starting from the onset.
+
+This is absolutely not true.
+
+It is helpful to look at different phases,
+and the phases are according to two parameters.
+
+One is the share of penetration of renewables,
+wind and sore similar in the mix, and the
+
+second is the flexibility of the rest of the
+system.
+
+We distinguish four starting phases.
+
+The first is no impact at all.
+
+Why?
+
+Because the variability, the flexibility of
+the system copes with variability of demand,
+
+which is much, much higher than the availability
+of wind and solar, so absolutely no action
+
+to be taken.
+
+Second, you see a difference in the net load,
+so in the remaining load curve, minus total
+
+the total minus wind and solar, but still,
+the flexibilities are abundant.
+
+Typically, if you avoid typical mistakes,
+below ten per cent of penetration, these are
+
+the two most important phases in the whole
+world.
+
+I have only a few countries listed here.
+
+I could add another 100-plus in phase one.
+
+In should be remembered.
+
+Then you have a number of countries which
+are above ten per cent of penetration.
+
+These typically are European countries but
+also some US markets where the flexibility
+
+becomes key, and I will come to flexibility
+again in a minute, and then you have only
+
+a very few countries with extremely high penetration
+rates where also the short-term stability
+
+of the system becomes an issue.
+
+Ireland here is a special case, because it
+is an island.
+
+It is weakly interconnected to the United
+Kingdom, so it faces those kind of problems
+
+well before Denmark and Southern Australia.
+
+Now, the typical question is how much is the
+share of renewables that can integrate?
+
+This really depends on flexibility.
+
+Flexibility has many sources.
+
+The first point, from the left to the right:
+also renewables can serve more flexibly and
+
+serve ancillary systems if we ask them to
+do it.
+
+If we apply the wrong standards, then there
+is no way.
+
+System-friendly renewables first.
+
+Second, also, dispatchable generation, which
+is by far the largest amount of flexibility
+
+today.
+
+There is a lot of flexibility in other renewables
+like hydro-bioenergy, and gas, and even coal
+
+and nuclear can be operated for flexibly.
+
+Demand-shaping: demand-size response is the
+cheapest way of flexibility and there are
+
+no markets with a few exceptions in the world.
+
+And then storage: there is a lot of discussion
+of storage, rightly so, but for the moment,
+
+this is the most expensive option.
+
+I'm referring here to batteries.
+
+The progress in batteries is phenomenal.
+
+It will continue, driven by electric vehicles,
+but bear in mind there are other delivery
+
+options.
+
+Grid is it is a huge resource in itself, but
+it is also the enabler of the other flexibility
+
+resources.
+
+Now, however, it is not about hardware.
+
+It is a lot also about software, and the system
+operation and the market rules, and here I
+
+want to be blunt: the market rules that we
+have where there are energy markets, were
+
+designed in another era for different proposals,
+and they're not necessarily fit for a high
+
+share of renewables in the system.
+
+They have to be redesigned.
+
+And, by doing this, we can have a very cost-effective,
+very high share integration of renewables.
+
+I would like to stress that the system integration
+of variable renewables is not a technical
+
+issue, it's by far a more economic optimisation
+issue.
+
+The last point is about the whole architecture
+and the role and the responsibilities.
+
+We speak a lot about distribution generation.
+
+Who is responsible if there is a disruption
+at distribution level?
+
+Is it the TSO?
+
+Are the suppliers?
+
+We need a set of new rules, and one important
+message of this report is that all this needs
+
+to be done in an integrated holistic way.
+
+Now, from a very advanced topic to what we
+call the Cinderella of the renewable policies,
+
+which is heat.
+
+Heat, as you know - heating and cooling - as
+you know, is 50 per cent of total final consumption,
+
+but there are many less renewable policies
+around the world, and there is much less expansion
+
+of renewables in the world on this.
+
+If you look, it is only nine per cent of modern
+renewables supplying renewable heat.
+
+Seven is direct use, and two per cent is renewable
+electricity.
+
+We have good examples of leaders inform the
+world - the Nordic countries, also Brazil
+
+- but there is a lot, lot to be done.
+
+If you look at this map, which is very different
+from the one that Diala showed, the most of
+
+the map is grey, which means no policies at
+all.
+
+Then the other interventions are obligations,
+and only a few countries, mainly Europe, are
+
+using direct incentives for renewable heat.
+
+We have to transform this and to make this
+Cinderella into a Princess.
+
+For doing this, we think it is useful to look
+at four different situations, four policy
+
+classes.
+
+One, the countries that have a strong either
+existing or potential district heating system
+
+- this is the model of the Nordic countries
+- but the next country that could step in
+
+here to provide this strategic heating and
+cooling with renewables instead of coal is
+
+China.
+
+The second is countries of that a heavy gas
+system, like my country, Italy, or the UK.
+
+The narrative here is completely different,
+and the first priority is to create a level
+
+playing field.
+
+The third point regardless of the infrastructure,
+countries where this is a potential market
+
+for industrial applications.
+
+Industry is not just high temperatures, steel
+and cement-making, but it is also low and
+
+medium temperature processes in the textile,
+in the food industry, with a lot of possibilities
+
+and, of course, for automatic water, and the
+fourth, last but not least, it was mentioned
+
+so much in the previous parts, clean cooking,
+and making sure that we have affordable products
+
+and this should be a policy priority for all
+countries in the world, much more than it
+
+was today, and, with this, I give the floor
+to Rana.
+
+Thank you.
+
+[Applause].
+
+Thank you.
+
+So, after having first the - heard the first
+energy sector, we're coming to the second
+
+one, to transport.
+
+Transport is basically the second largest
+energy end-use sector.
+
+It represents 29 of total final energy consumption.
+
+When we are looking at how energy uses are
+being used in this sector, we're at 3.1%.
+
+It is really a sector that is highly fossil-fuel
+dependent.
+
+As a result of this, it is contributing to
+a large extent to energy-related CO2 emissions.
+
+And this really means that, for a full decarbonisation
+of the transport sector and the energy sector,
+
+there's a need to have renewable energy deployed
+in the transport sector more than we currently
+
+have.
+
+As in other sectors, policies are key to do
+this, and, when we are looking at the policy
+
+activities which took place, we really see
+that there is experience basically only in
+
+the biofuels policies.
+
+On the production, on the use and the distribution
+of biofuels.
+
+This is something which is very important
+to do, but it is not enough.
+
+It also means that, today, the approaches
+to really lead to the uptake of energy in
+
+the transport sector needs top much, much
+broader.
+
+They need to look at the road transportation
+and aviation, and shipping, and they do not
+
+only need to focus on biofuel solely, we see,
+for instance, electrification.
+
+What is needed here is integrated planning,
+integrated policy design, and there is really
+
+a need to look at the energy carriers and
+the fuels on one side, but also policy that
+
+focuses on the development and the use and
+deployment of the vehicles, which can use
+
+these renewable fuels, and also the distribution
+also of these fuels.
+
+Another aspect which is really important is
+we do have a sector highly dependent on fossil
+
+fuels.
+
+Here, it is very clear to have a better enabling
+environment, I guess.
+
+There is really a need to phase out or address
+the fossil fuel subsidies.
+
+Remove the fossil fuel subsidies.
+
+Yesterday, there was a session on carbon pricing,
+too.
+
+Carbon pricing can be an essential element
+to address this too.
+
+When we are coming to - so we have heard basically
+in all sectors that we are entering another
+
+era, because the economic situation is a different
+one, because there is really a need to have
+
+a much broader integrated approach.
+
+This is something which needs to be reflected
+also in the positive classifications.
+
+What do we see today?
+
+Policies in the past were focusing very much
+on direct policies, direct supporting policies.
+
+Today, there is a need to have more integrated
+policies focusing on the enabling environment,
+
+the need to have integration with other sector
+policies, and also to put the policy framework
+
+into the broader sorry yes economic system.
+
+I'm not going to - broader socioeconomic system.
+
+You will have the opportunity to look at it
+in the full report.
+
+Now, what is the conclusion overall, I guess,
+of this work, of the three organisations?
+
+A part of the fact that this is the first
+report where the three major organisations
+
+working on renewable energy are working together,
+and I do think this is really also something
+
+important to mention, it means that we agree
+on the fact that policies are key.
+
+It also means that we agree on the fundamental
+principle that we need to move the policy
+
+development to a much broader approach, and
+integrate energy policies and develop them
+
+not in an isolated way but in a broader context.
+
+This is already one method.
+
+The other one is obviously that what we mentioned:
+we're looking into the other sectors.
+
+If we are serious about reaching the decarbonisation,
+reaching sustainable development goals, we
+
+cannot only have a focus on the power sector.
+
+We need to address transport, we need to address
+heating and cooling.
+
+We heard about energy access, and we also
+need to look into the regions where the renewable
+
+uptake is lower than in regions where we really
+see huge success of renewable energy.
+
+It is very clear that there is not one sole
+instrument policy which can be and lead to
+
+the success everywhere.
+
+So, policy design and policies need to be
+country-specific, and need to take into account
+
+the socio-economic context of the particularities.
+
+Again, I'm highlighting this again, but there
+is a need to break out of our energy silo,
+
+and to speak with players out of other sectors.
+
+This might not always be so easy because it
+means we have different mandates, it means
+
+we have different understanding.
+
+We need to bridge and create a dialogue, but
+this is fundamental if we are serious about
+
+renewable energy uptake and transition.
+
+Thank you very much.
+
+

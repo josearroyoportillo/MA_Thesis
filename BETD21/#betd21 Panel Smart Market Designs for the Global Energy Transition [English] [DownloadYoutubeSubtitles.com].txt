@@ -1,0 +1,772 @@
+Electricity networks worldwide see 
+dramatic increases in power demand.  
+
+Solar, and wind power capacities are being 
+added in large quantities globally every day.  
+
+At the same time digitization deeply impacts the 
+energy sector connecting everybody to everything,  
+
+with many new market opportunities.
+Smart market designs help to seize these  
+
+opportunities f.i. with prosumer models. But 
+there are also risks such as new monopolies.  
+
+How can these new paradigms be combined 
+to accelerate the energy transition?
+
+That, indeed, is our topic. I think I hardly 
+need to remind you, ladies and gentlemen,  
+
+that intermitted, distributed 
+measuring renewable energy sources  
+
+do pose a challenge for a market created a 
+decade ago for a world powered by fossil fuels.  
+
+How does this industry move from predictable 
+generation models to a far more variable grid  
+
+that is responsive to supply and demand and the 
+environment? Digital technologies, as we were  
+
+just reminded by the film, are a very key part of 
+that solution, and actors across the value chain  
+
+are moving to adopt them. To facilitate and scale 
+up their efforts coherent policy signals will be  
+
+absolutely critical. So, in this panel, we want 
+to look at the state of the market and assess both  
+
+benefits and risks. How can smart market design 
+maximize opportunities for green business models  
+
+and what risks and challenges are involved also 
+in the digitalization of energy systems. And  
+
+we've got an outstanding panel. I'm going to 
+introduce them in just a moment, but I do want  
+
+to take a look at how you're responding to the 
+first of our audience polls. We asked you which  
+
+objects and words come to your mind when thinking 
+of smart energy market designs, and you're already  
+
+avidly answering that question. I'm going to give 
+you a little more time to do so while I introduce  
+
+our panelists, and then we're going to come back 
+and look at what the main words and terms are  
+
+that you consider important. So, I will now keep 
+our introductions really short to maximize our  
+
+time for discussion. And it's a great pleasure to 
+welcome the Vice Minister in Vietnam's ministry of  
+
+industry of Energy and Trade. The former President 
+and CEO of Vietnam's national Load Dispatch Center  
+
+for Electricity. It's great to have with us 
+Antonella Battaglini, CEO of the Renewables  
+
+Grid Initiative which is a collaboration of NGOs 
+and TSOs from across Europe promoting sustainable  
+
+grid development. Great to have you with us. 
+Also very pleased to welcome Stefan Kapferer, CEO  
+
+of 50hertz. And finally, very pleased that 
+Jo-Jo Hubbard can join us. CEO and co?founder of  
+
+Electron, a startup digital platform connecting 
+users across multiple markets and networks. So  
+
+let's just quickly go back to that word cloud 
+and take a look at what our audience thinks are  
+
+the most important words and terms that occur 
+to them. Decentralization, optimized grids,  
+
+micro-grids, demand flexibility, smart grid. 
+And the smaller print has everything from smart  
+
+metering to sector coupling, realtime pricing, 
+flexibility absolutely crucial here, sufficiency  
+
+and more. So, bearing all that in mind, dear 
+panel, let me now ask all of you, what challenges  
+
+you see as posed by the current market model and 
+where you see the advantages of a market design  
+
+that, in fact, facilitates application of digital 
+technologies. And I'll start with the Vietnamese  
+
+Vice Minister. Please, sir, go ahead. By the 
+way, dear panel, as always, we are super short  
+
+on time. Our overall window for this panel is 30 
+minutes, so I'm going to be asking you to keep  
+
+your remarks truly brief, two to three minutes 
+maximum if you would. Please, go ahead Mr. Hoang  
+
+An.
+Thank you very much. It is  
+
+my pleasure to attend the Berlin Energy 
+Transition Dialogue. In Vietnam, the  
+
+energy market is one of the major tools 
+to facilitate the involvement of the  
+
+independent ?? and also the power system. So the 
+government of Vietnam have approved a roadmap for  
+
+establishing the ?? by the year 2040. And 
+basically in Vietnam like other countries,  
+
+the first is the power market. And the next power 
+market by introducing the power market region, we  
+
+end up all ?? to penetrate into the power system. 
+And so we provide step by step the choice for the  
+
+customer. Where the eligible customer, they may 
+select a supplier and then at the end of the  
+
+journey, we also ?? we treat the customer like 
+a household. They might select their supplier as  
+
+well. So this roadmap is very important for 
+and in line with the power sector process,  
+
+which has been ??
+[ Inaudible ] 
+
+So, in light of that, we also have as a roadmap 
+for the energy market, and we are having the  
+
+market for the primary fuel for the national 
+economy and also the power sector. So with  
+
+this smart market design, very important tools to 
+facilitate the penetration of the ?? to draw the  
+
+investment of this sector into the power sector 
+and energy sector. So like in other countries,  
+
+we have in the past an international opportunity 
+such as ?? and now we are in the bundling process  
+
+to transition. And distribution ??
+[ Inaudible ] 
+
+So together with that, we need a digital system 
+and sophisticated IT system for the market clearly  
+
+and also for building. So a smart roadmap 
+also helped by the government of Vietnam, and  
+
+we are also moving to the micro route 
+and also the management process. 
+
+Thank you.
+The development of a  
+
+power system in Vietnam. And we 
+see without the sophisticated  
+
+hardware and software, we could not implement the 
+successful power market and so together with that,  
+
+we ?? really sophisticated and modern system for 
+the system market operator and the ?? and the  
+
+management to ?? one of the successes of Vietnam, 
+when we introduce the power market is that we  
+
+reduced the ??
+[ Inaudible ] 
+
+From 100% in the past to 46% now. So I 
+think in the future, not the private sector  
+
+producers be increases ?? and I think that's 
+very consistent policy from Vietnam government. 
+
+Thank you. Thank you very much. Thank you very 
+much. Let me go now to Antonella Battaglini,  
+
+because as I mentioned, you work across 
+Europe. So I'd like to see what challenges  
+
+you're seeing when you look at different countries 
+and power markets. To what extent are energy grids  
+
+and markets able to absorb growing quantities 
+of renewable power and what needs to happen? 
+
+Thank you very much for having 
+me and your question. So,  
+
+of course, there are huge differences from one 
+region to another. I may refer to Europe, although  
+
+there are similarities also with other developed 
+markets. What is important to stress is that  
+
+markets and energy and infrastructure need to be 
+developed hand-in-hand. The increasing shares of  
+
+reliable renewable energy sources in the 
+system indeed poses some challenges, but also  
+
+offers plenty of opportunities. What 
+I would like to stress is that today  
+
+there is a clear need to expand the 
+electricity grid at all voltage levels  
+
+because many of the reliable renewables are 
+also connected at the low-voltage level,  
+
+but these quantities of renewable energy 
+sources have to be transported from one area  
+
+to another area. Generally from where they 
+are generated to where they are consumed.  
+
+At the same time, a system which is increasingly 
+based on renewables, of course it requires a  
+
+different mechanism, including market mechanism. 
+These have to be ?? the markets have to be  
+
+updated and also redesigned to actually leverage 
+and enable flexibility. All types of flexibility  
+
+will be needed is needed today and the ?? by 
+adding more, flexibility is going to be probably  
+
+the most valuable resource that we have. 
+And this should be reflected in the market.  
+
+Additionally, I would like to mention the fact 
+that today neither grid infrastructure nor market  
+
+designs are fully representing, yeah, fully 
+represented and considering all the potential  
+
+options that can be leveraged by distributed 
+resources. We still have some difficulties in  
+
+modelling distributed resources, and this is 
+something that has to change very quickly.  
+
+Distributed resources, not only distributed 
+generation, but also distributed flexibility  
+
+are important elements not only for keeping 
+the system stable to decarbonize quickly, but  
+
+also to increase public acceptance. Where there 
+is a very clear demand, especially in Europe,  
+
+but not only, for participation of communities 
+and citizens into this energy transition. So,  
+
+the key challenge is that I see is really 
+linked to timing. We need to speed up  
+
+the build-up of energy infrastructure. We 
+need to plan it in a collaborative way.  
+
+And we need to improve the markets to the world. 
+Move products, including flexibility products. 
+
+Thank you very much. Let me take those 
+remarks and go straight over to Stefan  
+
+Kapferer. From your perspective as one of the TSOs 
+with the largest share of renewable green power,  
+
+what do you see as the challenges and 
+the solutions to acquire the kind of  
+
+flexibility that Antonella Battaglini was 
+just talking about? She said we're not  
+
+making the most of the opportunities that are 
+there. How can digitalization change that? 
+
+I think there are three topics, Melinda. 
+The first is to introduce infrastructure  
+
+as efficient as possible. And we all know that 
+there are some periods over the year of the grid  
+
+infrastructure where it is not really efficiently 
+used, and that digitalization can help us. Dynamic  
+
+line rating where we have a lot of data about the 
+temperature, and the temperature is, of course,  
+
+a limiting factor for the grid infrastructure is 
+relevant. The second topic is sector coupling. I  
+
+was a little surprised, Melinda, that this word 
+was so small written in the word cloud, because  
+
+obviously sector coupling is an extremely relevant 
+aspect in the future. Power to heat technologies.  
+
+Power to gas technologies, hydrogen in terms of 
+industry. A key role to get between production  
+
+of renewable energy and at the same time demand 
+is lower will be immediate. And the last aspect,  
+
+and it was mentioned, of course, by Antonella, 
+is the managing of the flexibility. And that  
+
+situation is changing now very fast because in a 
+few years, we will have in our control area in the  
+
+eastern part of Germany, millions of electric 
+vehicles. We will see millions of heat pumps.  
+
+Storage capacities at home are becoming cheaper 
+and cheaper. So what is needed now for managing  
+
+this kind of flexibility in the future is to 
+find the right balance between realtime prices,  
+
+which give an incentive to use these cheap 
+electricity if it is in the market and to reduce  
+
+consumption if electricity is more expensive. 
+And on the other hand, of this balance, we need  
+
+a situation that we still can guarantee 
+the stability of the system. Our balancing  
+
+obligations which will be, of course, also 
+needed in a decentralized or more decentralized  
+
+extremely complex system in the future.
+Thank you very much, Stefan Kapferer. As a big fan  
+
+of sector coupling, let me just say that perhaps 
+it got bigger as we went away from the word cloud,  
+
+because, in fact, a lot of the audience was 
+still voting. So we'll take another look at that  
+
+perhaps later on. Let me go now to Jo-Jo 
+Hubbard. And for you as a pioneering  
+
+start?up in this sector, which market rules 
+and structures do you think are most in need  
+
+of change and what are the most promising 
+solutions for getting that change? 
+
+Melinda, hi. Thanks very much for having me. So I 
+think it goes directly toward what Stefan was just  
+
+saying about moving to realtime price signals 
+to granular price signals, but also crucially to  
+
+local price signals. So one of the big winners 
+on that word cloud was decentralization  
+
+with an "S" and a "Z," so I think it would 
+have been bigger if we all agreed on spelling.  
+
+Put quite simply, today's power markets and price 
+signals are too imprecise to incentivize the  
+
+network capacity at a local level. So we've got 
+trillions worth of Euros being spent on upgrading  
+
+and extending local networks for all of these new 
+assets connecting, and to enable those new kind  
+
+of sector coupling-type business models, and, 
+you know, every heat panel, battery, electric  
+
+charging station going in is able to respond 
+to quite granular price signals. It's able to  
+
+respond to this near realtime?type markets, so 
+that type of flexibility just needs to see those  
+
+pricing signals. And I think we're seeing 
+some of this being introduced. We're seeing  
+
+Article 32 requiring local optimization markets. 
+As of this year, we're seeing a lot in the UK  
+
+and Australia and now in North America as well, 
+North America about resilience. We are absolutely  
+
+going to have to cede to these markets in order 
+to optimize probably about 30% of the generation  
+
+and probably the majority of utilization is 
+going to be happening at the local level. 
+
+Thank you very much for that. I'd like to do 
+a second really short round of questions that  
+
+allows us to take a bit of a deeper dive and get 
+even more concrete, but I've also got my eye on  
+
+the clock. We have about ten minutes left, so 
+I'm going to ask everybody to be super brief if  
+
+you would with your answers to these questions, 
+but let me start again with the Vice Minister,  
+
+Mr. Hoang An, and ask you to talk very concretely 
+about what you are doing in Vietnam to get that  
+
+kind of flexibility that everybody on the panel 
+has emphasized is so important, especially  
+
+bringing in smaller decentralized producers into 
+the grid. So, please, go ahead and, sir, if you  
+
+would, under two minutes in length. Thank you.
+Yeah, I have to admit that we have foreseen  
+
+a lot of challenges with the 
+penetration of renewable energy.  
+
+And we are still designing measures how we can 
+adapt better to the power system. And one of the  
+
+challenges is to ensure this safe operation 
+with the power system. In terms of Vietnam,  
+
+we have almost ?? cooperation with the local 
+countries, and countries power systems could not  
+
+support Vietnam. That's really different compared 
+with the European system. That's the first one.  
+
+And the second one is that in terms of the market, 
+how to adopt the new market draw of the renewable  
+
+energy power solution. It is another one of the 
+challenges. So, that's really what we need to do. 
+
+Thank you very much. And I will now 
+ask the others to also share concrete  
+
+cases and examples, if you would, 
+about adapting to ?? for a smart  
+
+market design. And perhaps, first of all, 
+to Stefan Kapferer on what you are doing at  
+
+50hertz to really accommodate the green 
+power surge and the rise of digitalization.  
+
+I think you're on mute, Stefan. Stefan?
+Sorry for that, Melinda. Three very clear  
+
+answers to these questions. And behind me you can 
+see our target, 100% covering of an electricity  
+
+demand in our area in 2032. This will only 
+work with more flexibility in the system.  
+
+First, we'll check together with local utilities 
+in Germany, we organized power to heat for some  
+
+local communities in this area. Second aspect, 
+decarbonize means energy in terms of industry  
+
+to very concrete projects with steel industry in 
+Hamburg, with chemistry in the middle of Germany.  
+
+Both industries are interested in green hydrogen 
+because they are hard to abate electrification.  
+
+So we cooperate to organize and to organize 
+electroilizers in these areas. The manufacture  
+
+of heat pumps in Germany and one car manufacturers 
+was electric vehicles to look at these millions  
+
+of decentralized capacity of surge in electricity 
+in the future. That is something that is a mid  
+
+and long?term perspective, but this will be 
+extremely relevant from my perspective as well. 
+
+Thank you very much. And to Antonella Battaglini, 
+do you have a case study or two that you could  
+
+share with us where you have seen a very 
+effective use of new technologies to get at  
+
+some of the challenges that we're talking about? 
+I'm also bearing in mind asking you for these  
+
+case studies that BETD, among other things, 
+is all about best practices. So if you have  
+
+a couple of best practices that you could 
+cite, that would be very helpful, I think. 
+
+I would like to mention the work that 
+we started to do with large consumers.  
+
+Recently engaged with Google in particular 
+because of their 24/7 visions. Which is,  
+
+in my point of view, a revolutionary approach. 
+Google has moved from their commitment to be  
+
+fully renewable to being 24/7 fully 
+decarbonized. This means there is a  
+
+critical opponent attached to that, and what 
+we are working on is trying to cluster large  
+
+consumers which share similar objectives and to 
+figure out what exactly is needed from the grid  
+
+to help achieve these objectives, but 
+also what these large consumers can offer  
+
+to the grid in terms of stability and 
+security. We are at the very beginning of this  
+
+process, and there is more work to do 
+than what we have done in the past, but  
+
+generally I think this is very much needed.
+Thank you very much. And I'll go now to  
+
+Jo-Jo Hubbard again with the request, if you have 
+one, for a case study that showcases some of the  
+
+advantages of start?up digital 
+technologies in addressing ?? in  
+
+addressing the need for flexibility, 
+decentralization, and so on. Thank you. 
+
+Thanks very much. So, I just want to 
+give one example, marketplace Electron  
+
+is supporting ?? this is a marketplace with 
+farms being constrained off the grid because  
+
+there's not enough network capacity to be 
+able to pay to produce less in that period,  
+
+and essentially create space on the networks 
+for those wind farms to be taken off ?? so,  
+
+what does that mean? It means everyone wins. 
+It means consumers are paid to use power.  
+
+It means more are being built on to the grid. It's 
+happening in real time and it's a physical market,  
+
+so it's actually affecting how power flows. It's 
+one of very, very few examples of that globally,  
+
+if not one of the only where that is happening. 
+I think some of the challenges around that,  
+
+it has to be super granular, it has to 
+be real time, it has to be differentiated  
+
+region?to?region. You have to start that 
+through national market coordination. 
+
+Thank you very much. Very interesting. Ladies and 
+gentlemen, our speakers have been so disciplined  
+
+that we actually have time for one more audience 
+question to you. So let me go to our second  
+
+audience question for this panel, and it's this. 
+Can you imagine producing power on your own roof  
+
+and selling the excess power with online tools? 
+And let me ask the audience to vote now, and maybe  
+
+we're going to have time to get a really quick 
+response from our speakers. So, can we ?? can we  
+
+get the question up on screen, dear technicians? 
+Second audience question. There we go. 
+
+Okay, we are, of course, at a 
+renewables conference, but let's give  
+
+a few more people time to vote. Maybe there 
+will still be other votes coming in that don't  
+
+have such a resounding positive ?? okay, 
+we have 3% saying no, but I'm gonna give us  
+
+about 20 seconds more, and then I'm just going 
+to ask our speakers for their take on this.  
+
+So, a few more no votes as the numbers mount, but 
+the overwhelming majority of people answering that  
+
+poll ?? and I realize that we are definitely 
+seeing a result of the pool of those who are  
+
+voting and the fact that many people attending 
+this conference are very, very interested in the  
+
+green energy transition and renewables, but 
+maybe I can just ask all of. Are you seeing  
+
+a change in public sentiment surrounding 
+prosumerism? Are you seeing more and more  
+
+willingness among citizens to become decentralized 
+producers? Straight down the list of speakers,  
+
+starting with the Vietnamese Vice Minister Hoang 
+An. Are you seeing a change in Vietnam, sir? 
+
+Yes, I think we are shifting to prosumer. 
+And that's a tendency in Vietnam, now we  
+
+are promoting the rooftop power producer. One of 
+the prosumer. I think a decentralized system is  
+
+going to be the future, but we need ?? we have to 
+manage the ?? that process so that we can ensure  
+
+the safety approach of the whole system.
+Thank you. Antonella Battaglini, are  
+
+you seeing a sea change in public attitudes?
+The appetite is very, very big all across Europe,  
+
+but the barriers continue to be quite high, and 
+so penetration is still limited. We need to find  
+
+solutions quickly to enable this possibility 
+for all consumers. But we should always keep  
+
+in mind that we need to optimize the entire 
+system, so that will lead to some limitations. 
+
+Thank you very much. And Stefan 
+Kapferer, what are you seeing out there? 
+
+Yeah, obviously, Melinda, as a trend, it's very 
+clear, but I think at the moment self-consumption  
+
+is becoming more relevant, and the reason for that 
+is taxes, fees and levies are not very attractive  
+
+to sell these renewable energies to other 
+places, so this is something we have to work on. 
+
+Thank you. And Jo-Jo Hubbard, over there, 
+and in the various markets that you are  
+
+working in, are you seeing 
+a major change in attitudes? 
+
+Yes, absolutely. It's no surprise. They can 
+generate their own power that they want to  
+
+sell it. I think there are three stages in 
+this transition. The first stage is done,  
+
+getting the renewables in the ground. 
+Digitalization for optimization. We've  
+
+got to do that first before phase three 
+where this really kicks in, differentiators,  
+
+different consumer service leaders.
+Thank you very much. Antonella Battaglini,  
+
+I'd like to ask you to very quickly 
+wrap things up for us. Can you share  
+
+what you think are the guiding principles for 
+power market design and also perhaps some of  
+
+the concrete advantages for digitalization for 
+both small and large power producers and users? 
+
+So, let me summarize with maybe three 
+points, and I'll start with the market ones.  
+
+We need realtime pricing signals. These 
+have to be as granular as possible, because  
+
+only by implementing these price signal with 
+a high level of granularity, we can develop  
+
+local solutions which will be an optimized 
+way of dealing with growth for renewables.  
+
+Digitalization can definitely help, not 
+only to optimize and leverage our resources,  
+
+but also optimize the use of the assets that 
+we have in place, and finally sector coupling  
+
+is an important element and will highly contribute 
+to the decarbonization process. So with this,  
+
+I think it's a short summary of the conversation.
+Indeed, it is, but a very fitting one, so many  
+
+thanks to you, Antonella Battaglini. Many thanks 
+to you, Stefan Kapferer from 50hertz. Many thanks  
+
+to the Vice Minister from Vietnam, Mr. Hoang An, 
+and also Jo-Jo Hubbard representing the start-up  
+
+perspective on smart market design. I think 
+you've all made it very clear that our word  
+
+cloud was pretty accurate in highlighting some 
+of the challenges, but also undoubtedly some of  
+
+the opportunities here in this space. So let's go 
+back and look at that word cloud one more time,  
+
+if we can. Can we get that back on screen one more 
+time to just take a very quick look? Not that one.  
+
+Can we get the other one that we started out with, 
+dear technicians? I'm sorry, I'm surprising them  
+
+with this request, but we want to see, among 
+other things, whether sector coupling got any  
+
+bigger. I'm not seeing the slide yet, so maybe 
+we're gonna have difficulties getting that. Then  
+
+hopefully we will be able, all of us, to see it 
+online when our conference has concluded. So,  
+
+many thanks to our speakers for this very, very 
+thought-provoking and interesting interaction.
+
+

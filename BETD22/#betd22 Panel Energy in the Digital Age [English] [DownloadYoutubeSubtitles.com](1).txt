@@ -1,0 +1,1733 @@
+Digitisation is a key enabler for the energy 
+transition. Due to the growing pressure from  
+
+the International Community, declining costs, 
+and new innovative digital technologies.  
+
+From AI to blockchain to virtual power plants 
+and aggregated community energy models,  
+
+which digital solutions will be most crucial 
+to create more resilience, more efficient,  
+
+and more cost effective energy solutions? 
+Welcome back, everyone. Welcome back to our online  
+
+audience. Welcome back to all of those joining 
+us in?person here in the Weltsaal. If you were  
+
+listening to Jennifer's discussion right now with 
+the Irish Environment Minister, then you will have  
+
+heard him talking about the dance that's at 
+the centre of the energy transition challenge.  
+
+Namely a dance between renewable energy 
+supply and demand. Between intermittent,  
+
+variable renewable energy sources, and variable 
+demand. And integrating those is a perennial topic  
+
+here at the Berlin Energy Transition 
+Dialogue because it is so challenging. 
+ 
+
+And, of course, one of the reasons for that 
+is that we are integrating renewable sources  
+
+into an electricity grid that was built 
+decades ago to handle fossil fuels. So  
+
+that challenge has now become even more critical 
+as countries and societies are winding down,  
+
+bridging technologies like coal and gas. Now 
+more than ever, as we've been hearing throughout  
+
+the day. Maxemising renewables and minimising 
+emissions while simultaneously maintaining system  
+
+stability is absolutely dependent upon accurate 
+forecasts of power generation, of net load,  
+
+and that, of course, is where digitalisation 
+comes in. Digitalisation as you just heard  
+
+is our topic here. Grid developers and 
+consumers are harnessing the capabilities  
+
+of AI, algorithms to forecast both supply and 
+demand and asset operations supported by digital  
+
+technologies ranging from sensors and blockchain 
+to the internet of things. In this panel,  
+
+leaders from government and industry are going 
+to tell us which technologies they consider most  
+
+promising and what frameworks are needed to manage 
+both risks and unlock benefits. And we've got an  
+
+outstanding array of speakers with us. I'll keep 
+the introductions brief in the interest of mime.  
+
+Andrea Meza joins us online. You see her 
+here if you're with us in the Weltsaal.  
+
+On the screen. She is Minister of Environment 
+and Energy for Costa Rica. Welcome. Great to have  
+
+you with us. And it's a pleasure to welcome Jan 
+Lipavsky. He is Minister of Foreign Affairs of the  
+
+Czech Republic. Thank you for joining us. We are 
+very pleased to welcome Dr. Alparslan Bayraktar,  
+
+Deputy Minister of Energy and Natural Resources 
+for Turkey. Wonderful that you can be here, sir.  
+
+Seated here in the middle is Sandra Trittin. She 
+is co?founder and CSO of the decentralised energy  
+
+management start?up tiko Energy Solutions. And 
+founder of the software company grid singularity,  
+
+and co?founder of the blockchain organisation, 
+Energy Web Foundation. Thank you for being here.  
+
+Dear panellists, it would be great if we could 
+just go right into our dialogue. I'm very happy  
+
+if you can keep your answers concise, within 
+three minutes or less, please, as we had agreed. 
+ 
+
+So before I pose my first question, let me 
+just very quickly bring in our first audience  
+
+poll. And, again, dear audience members, you can 
+vote either on #betd22 or with our digital tool.  
+
+See a lot of you have already found it. What 
+should be the highest priority in digitalising  
+
+and modernising the energy sector? That was 
+our question. And our answers are a digitally  
+
+skilled population and professionals. Secure a 
+sufficient and sustainable digital infrastructure.  
+
+Transparent involvement of citizens and 
+protection of fundamental digital rights.  
+
+Or increasing energy access. 
+So those are our choices and we're gonna  
+
+come back and take another look. I see right 
+now neck and neck between infrastructure and  
+
+access. But we're gonna come back and 
+look at the final result in a moment.  
+
+Let me start by asking all of you to say a 
+few words about which technologies and systems  
+
+you're particularly excited about. Which 
+digital solutions you think are most crucial  
+
+to supporting a sustainable energy transition. 
+And I'll begin right here, if I may. 
+ 
+
+Thank you very much for this great conference. 
+Thank you very much for inviting me. And my answer  
+
+is very simple. And it goes to all technology 
+and all systems that lies behind and that enables  
+
+transmission network. This is the key for 
+renewable sources to be integrated into a network,  
+
+and for these resources and on 
+the demand side of energy grid. 
+ 
+
+So this is absolutely pivotal for us to work and 
+create a reliable energy network. And the power of  
+
+these technologies, and the way ?? how the grid 
+can be controlled and understood. Recently the  
+
+Ukraine has switched from the Russian?controlled 
+energy grid to European. It was a project  
+
+which was prepared for many years, but the 
+current events, the horrible Putin wars, you know,  
+
+pushed those to be done in days. Without those 
+kinds of technologies, it couldn't be possible  
+
+to do so. So for me the answer is very clear. 
+On the other side, every kind of this technology  
+
+opens an open space for hackers to have 
+these opportunities to attack the network.  
+
+The most sophisticated, the most vulnerable. 
+Therefore, cybersecurity has to go hand?in?hand  
+
+with that and we have to have also these backup 
+plans. Without them it would be very vulnerable. 
+ 
+
+Thank you very much. We're going to come 
+back to hear a little bit more about what  
+
+your company is doing in this area in just a 
+moment. I'm going to jump ?? I'm going to take  
+
+our policymakers first and our companies second. 
+I'll jump over to minister Bayraktar if I may. 
+ 
+
+Thank you very much. I want to say something about 
+the conflict between Russia and Ukraine today.  
+
+Showing a slight improvement. This is 
+slightly good news I wanted to share with you.  
+
+When I go back to your question. I'd like to 
+approach it from a more macro perspective, the  
+
+role of digitisation. And the greatest challenge 
+of today's energy world is how we are going to  
+
+have this energy transition, whether it's going to 
+be turbulent or smooth, that all we have discussed  
+
+during these panels throughout the day. 
+And they're all indications, as of today, showing  
+
+us that it will be a turbulent transition. We all 
+are seeing high energy prices, commodity prices,  
+
+supply chain disruptions in the market. And all 
+these things actually started before Russian  
+
+innovation on the Ukraine. So, I mean, the market 
+already started one crisis after another that you  
+
+were describing this morning. 
+So the indication is, again, it will  
+
+be a turbulent transition. And to have a smoother 
+transition, what I believe that we need to talk,  
+
+not only energy transition, but smart energy 
+transition. And when I say "smart," I do mean  
+
+responsive, rational, flexible, and 
+digital energy transition. We need to be  
+
+flexible enough and we need to realize the market 
+realities. I mean, the energy transition will  
+
+not be overnight. It will take some time to take 
+us to this 1.5 celsius degrees target. So we need  
+
+to be really rational, not emotional. That we 
+are showing very emotional and ambitious talk,  
+
+but in terms of action, unfortunately, we are 
+really behind. And when it comes to digitalisation  
+
+of energy systems like IT and energy is 
+converging very heavily pretty recently. 
+ 
+
+But still, we are really behind all 
+these technological developments because  
+
+the major concern right now, we have this security 
+of supply. Now, everybody is considering the oil  
+
+supply, gas supply, and eventually the electricity 
+supply, and how we are going to have continuous  
+
+and quality?based power supply to consumers. So 
+I think the macro question is that how we can  
+
+utilise the digital technologies into an energy 
+system in a more Harmonised and smoother ways. 
+ 
+
+We're going to dive deeper in our next 
+round of responses. Let me go to Minister  
+
+Meza to get her same response on the issue. 
+Thank you. I will do the same. Take this broader  
+
+approach coming from the government perspective. 
+And it's a little bit ?? when we're talking about  
+
+this digitalisisation and energy transition, and 
+I think it's very important when we keep in mind,  
+
+at least from the Costa Rican point of view, that 
+we're talking about the three Ds, decarbonisation,  
+
+digitalisation ?? changing the paradigm of how 
+we are doing things in the energy part for sure.  
+
+And this will require new legal frameworks. 
+And I think new policies that will allow us to  
+
+move towards that end. But I think it's very 
+important that we keep in mind this three?D  
+
+perspective. And, of course, when we talk about 
+technologies, we ?? and coming from a developing  
+
+country, I think it's very important also to 
+consider the cost of these technologies. And  
+
+that this transition should try to be an inclusive 
+transition and a just transition. So this will be  
+
+some of the elements coming from our perspective. 
+This needs to be with ?? this systemic approach,  
+
+what we want is to decarbonize our economies. Two, 
+of course, technology. It's a good instrument, but  
+
+we really need to take into account the rights 
+of people, consumers will be taking part in  
+
+all of these mechanisms, and, of course, 
+coming from the part of the governments,  
+
+we will need to develop good frameworks that will 
+give good signals to the private sector that will  
+
+enable innovation, but at the same time 
+it will protect the rights of consumer. 
+ 
+
+So how do we really develop a good 
+legal framework and policy framework,  
+
+considering all these needs? I will leave the 
+there and continue my reflections later. 
+ 
+
+Thank you very much. And indeed, we will come back 
+especially to that initial topic you mentioned,  
+
+governance, a little bit later on. But 
+let me now get the point of view of our  
+
+private sector representatives on the 
+panel, starting with you, Ms. Trittin. 
+ 
+
+Thank you. Just building on what has been said 
+so far, with the private sector, the three Ds  
+
+that were mentioned, the digitalisisation is what 
+will bring everything together. And with that, you  
+
+have different focus areas, right? On one side, 
+it's like how do you connect everything that is  
+
+in the distributed space out there, right? How do 
+you bring solar panels, how do you bring storage,  
+
+batteries, whatsoever together, how can you deal 
+with it? And there the first part of technology or  
+
+area of technology, I think which is important, is 
+everything related to internet of energy and how  
+
+you connect and interconnect all these assets. 
+Then based on that, you can work with all  
+
+the data. You can work with the assets.
+You can derive value out of that. Might it be  
+
+for more secure energy supply. Energy efficiency 
+reasons. Creating the flexibility. What you  
+
+mentioned at the beginning, bringing the volatile 
+supply together with the demand that every one of  
+
+us has every day and every evening at home. 
+And here I think technologies like blockchain  
+
+which Ana will for sure talk more about it. But 
+also Artificial Intelligence, machine learning,  
+
+they are all crucial technologies in that space. 
+Thank you very much. Ana Trbovich, your thoughts  
+
+on how what you're offering links up to 
+what we've heard from the policymakers. 
+ 
+
+Thank you. As usual, I'll agree with my 
+co?entrepreneur in that the answer is all  
+
+to the above. So save you the struggle of the 
+poll as well, there is technology to meet all  
+
+of those objectives. We do not have to choose. 
+And one thing that I would add is democratize,  
+
+which is inherent in the other three Ds, and I'm 
+sure the policymakers would agree. Therefore,  
+
+we need the IoT for connectivity. We need the 
+Artificial Intelligence and machine learning  
+
+to overcome the size data because that 
+can also be a challenge. And to take  
+
+advantage of that data to learn and to be more 
+efficient and automate different processes.  
+
+And then finally, what blockchain allows is a mix 
+of security and decentralised interoperability.  
+
+So, for example, if we had a 
+decentralised energy asset registry  
+
+in a certain region as there is a project 
+currently in Australia, for example.  
+
+Then an application like the one that is 
+offering for our virtual power plant could  
+
+much more easily be set up in that region. 
+Or an application that we're building which  
+
+is to allow energy communities, people to 
+trade with each other locally and to consume  
+
+more what is produced locally. That could also 
+be implemented more and more easily. The one  
+
+disagreement I have is respectfully with the 
+colleague from the Czech Republic in that not  
+
+everything is at the highest levels of the grid. 
+Yes, transmission is critical, but actually if you  
+
+make it easier for people to engage locally, to 
+alleviate the strain from the grid, that will  
+
+actually help you decrease the investment 
+that is needed at the transmission level. 
+ 
+
+And if you have advanced application the 
+that are possible with technology today,  
+
+you can also use local marketplaces to support the 
+flexibility and the balancing of the grid level.  
+
+And this is what technology offers today. 
+And our hope only is that the current events,  
+
+not just geopolitical, but the climate crisis, 
+which is finally, you know, the number of people  
+
+who are in denial are getting smaller. That this 
+will accelerate the regulatory side of things.  
+
+Because the technology is there. I think this 
+is the main message that we have today. 
+ 
+
+And I want to give Minister Lipavsky a chance to 
+respond to that. I want to add a question of my  
+
+own and perhaps you can speak to both points. 
+The Czech Republic received the title recently  
+
+of digital challenger and digitalisation already 
+account for a larger share of GDP in your country,  
+
+if my math is right, than the five biggest 
+EU Member States. And the share in the Czech  
+
+Republic is actually growing twice as fast. So 
+I wonder if you could say a little bit about  
+
+how you do see that playing out in the Czech 
+energy system, in the shift to renewables,  
+
+and then also, of course, feel free to 
+speak to the point made by Ms. Trbovich. 
+ 
+
+Yes, I will just shortly reply to you. So I was 
+speaking about the whole energy grid of Europe.  
+
+And we have to think about big business 
+and industry as part of the energy grid.  
+
+Which I don't see to be a possible solved by this 
+localised solution in the big scale. That was  
+
+my idea. I was looking at it from that ?? from 
+top?down view, and you offered bottom?up view,  
+
+which is very valuable, and I think at the end of 
+the day it will meet in the middle. So both, both  
+
+of these approaches are necessarily. And for the 
+digitalisation. So we are an industrious country.  
+
+We have many universities. Many foreign 
+companies from U.S. and from other  
+
+states have own branches in Czech development 
+centres. So it definitely helps. 
+ 
+
+But for us, since we do not ?? the landscape 
+is not the best one for renewable resources,  
+
+we are not spurring these initiatives. You have to 
+have a certain environment. So this is something  
+
+where we can do much that I would comment on that. 
+So even though we are tech savvy for renewables,  
+
+we need new input. 
+Thank you very much.  
+
+And Minister Bayraktar, Turkey is putting a high 
+context of digitisation on its anniversary that  
+
+will mark the 100th year of its Republic. 
+Where you see special applications in the  
+
+digital sector. What are your priorities there?
+Thank you. To understand it better, what is the  
+
+role of digitisation in the Turkey energy market, 
+you need to know two things about our market.  
+
+Energy demand in Turkey is growing. So we need 
+to meet this growing demand. On the other hand,  
+
+we rely heavily on imported resources, mainly 
+gas, oil, and coal. So we need to meet this  
+
+growing demand at the same time we are trying 
+to reduce dependency. To be able to do that,  
+
+we need energy efficiency. We have a very strong 
+programme on that for 2023. And afterwards. And we  
+
+have also a goal of utilization of our renewable 
+resources. Solar, behind, hydro and others.  
+
+So to add all of these to major pillars to deal 
+with our existing problems and also our goals to  
+
+decarbonize the Turkish economy, which President 
+Erdogan announced pretty recently. In the year  
+
+2053, Turkey will be a carbon?neutral economy. 
+So in three decades' time, to reach that level,  
+
+to add more renewables, more intermittent 
+resources into our network, we need to have  
+
+a digital solution, digital tools to be able 
+to do that. We have to have a decentralised,  
+
+distributed generation. Great potential in our 
+country in terms of renewables, but very diverse,  
+
+let's say, areas in terms of resources. 
+And in terms of energy efficiency, which we  
+
+announced our National Energy Efficiency Action 
+Plan including many different sectors building  
+
+transportation, agriculture, industry, and 
+energy. Again, we need digital solutions. We need  
+
+demand?side management to be able to have more 
+efficient energy consumption. So digitalisation is  
+
+not a luxury or not just a trendy tool that 
+everybody is following and Turkey is following,  
+
+but it's a necessity for our country. 
+But the main question, and I think we can discuss  
+
+in the second round, that how we should introduce 
+digital solution into energy systems without  
+
+giving up on system security or reliability. 
+Yeah, absolutely. And I do want to pick up very  
+
+much on that point. Let me go over to 
+Minister Meza if I may. Because, again,  
+
+your country gets gold stars for being the Silicon 
+Valley of Latin America, as it's sometimes called.  
+
+You have a very knowledge?intensive economy that 
+hosts 16 of the world's top 100 IT companies.  
+
+So how are you building on all of that in 
+your national decarbonisation plan? What  
+
+digital technologies do you see us particularly 
+promising within the Costa Rican framework? 
+ 
+
+Thank you. And, again, coming from this broader 
+perspective. Because I don't want to talk about  
+
+only one particular technology. Because I think 
+that there are many important technologies in  
+
+the different areas. And what I would say is, 
+again, technology and digitalisation are only  
+
+a mean and not an end for something. And what 
+we're trying to do, it's understanding ?? and I  
+
+think it was one of the previous speakers that was 
+saying this digitalisation will be one of these  
+
+key components to achieve decarbonisation 
+and to continue moving towards these ends. 
+ 
+
+And what we are trying to do right now, 
+it's generating this enabling condition.  
+
+Bringing in the right signals. And in our case, as 
+you know, we are producing electricity almost 99%  
+
+comes from renewables. And, yes, we are dealing 
+right now with this other part that we want to  
+
+continue moving towards the decarbonisation of our 
+whole energy matrix, which means at the end seeing  
+
+that everything, especially the transport sector, 
+will be using electricity. And this will also be  
+
+having an increasing demand on generating more 
+electricity, and we will be facing the same  
+
+challenges of a stability and flexibility. But 
+here is where a lot of these technologies and  
+
+these different digitalisation that we 
+see it would play a critical role. 
+ 
+
+What are some of the big challenges that we're 
+facing right now? And as I would say, we really  
+
+need to see it and understand what would be the 
+demands or the things that we need to elaborate  
+
+on the regulatory part. Because we know that we 
+will have more interaction with the consumers,  
+
+and this is something that we really want 
+to understand better. What are the risks,  
+
+again, and what are the right elements that we 
+need to cover coming from this legal framework and  
+
+this policy framework? And this is some of the big 
+challenges that ?? and some of the big questions  
+
+that we are ?? we are asking ourselves. 
+We want innovation. We want to continue  
+
+bringing this innovation, but at the 
+same time, we know that there are many  
+
+rights of people and that we need to cover and 
+there are some guarantees that we need to look for  
+
+this balance. So we are really having these big 
+questions right now inside of that government. 
+ 
+
+And we're going to come back to those questions 
+in just a moment. I wanted to give us a look  
+
+shortly at the audience poll that we did which 
+the audience sees as some of the priorities.  
+
+By the way, dear audience, we'd love to 
+hear your questions for our panellists.  
+
+If you have a question for us, please do send it 
+to us through our digital tool or through #betd22  
+
+and we'll bring it into the discussion. 
+Let me ask you, Sandra Trittin, as one of the  
+
+biggest realtime smart grids in the world, what 
+tiko is deploying in the way of innovation and  
+
+where you think additional innovation is needed. 
+Are there gaps in the picture at the moment where  
+
+you would say, you know, we need further work in 
+this area or that area to bring this forward? 
+ 
+
+To probably it's a quick explanation. We're 
+providing power plants mainly from the bottom up.  
+
+In the residential and commercial sector. 
+We are interconnecting everything which  
+
+is in residential homes and belonging to 
+the area of distributed energy resources.  
+
+Boxes for cars, battery storage, solar inverters. 
+We are providing services to the transmission grid  
+
+through fast?frequency response, 
+balancing group optimisation,  
+
+different kinds of services. So the virtual power 
+plant can act like a normal power plant. Just  
+
+without the gap, let's say, that it 
+cannot produce new electrons, right? 
+ 
+
+But the idea is to align the demand better with 
+the volatile production of the renewable energies.  
+
+Now where is the gap? The gap is quite a lot 
+at the moment in the policy area. So in the new  
+
+regulations. Because not all the markets are open 
+yet. Not even in Europe. Not worldwide. To allow  
+
+these kinds of systems. And they will be crucial 
+for the future to utilise all the assets that we  
+
+are building anyway and that every one of us 
+is building probably with solar rooftop, et  
+
+cetera. But the policy just does not allow access 
+to markets. This is one thing. The second thing  
+
+is that at some point ?? and I'm building a 
+bit on what Ana was saying also ?? there are  
+
+local markets missing. So, for example, we could 
+think about local flexibility markets. Not only  
+
+on the transmission grid but also on the 
+distribution grid level. There is no market at  
+
+all. It's not just there is just policy missing, 
+but there is a market mechanism at all missing. 
+ 
+
+But it will be useful. And then the question on 
+how does it interact with the transmission grid,  
+
+right, over the different levels? So I think this 
+is one thing. The second part which I think is  
+
+also important is how can we create financial, 
+let's say, stability for investments into  
+
+that field? Because if you invest into energy 
+efficiency or if you invest into flexibility,  
+
+it's nothing that you can hold on, right? If 
+you're building up a gas power station, you know,  
+
+okay, I have to go through a certain process. 
+It will be built. Then I have running time of  
+
+probably 40 to 60 years. I can see it. I can see 
+the electrons. If you're building a virtual power  
+
+plant, it comes with 2,000 that you have to 
+convince to join your business model, then you  
+
+have to interconnect them and work also with these 
+clients, right? Then you need to have the market  
+
+access and then you can provide the service. 
+This creates often the problem that investors  
+
+are saying, well, it sounds nice, right, 
+but it's a bit unsecure. It's a bit risky,  
+
+so probably I better stick with my investment for 
+the gas power station. There are many, many other  
+
+examples out there. Also if you are thinking 
+about the topic of energy communities, right?  
+
+If you want to build up an energy community 
+nowadays where you can do a peer?to?peer trading,  
+
+which investor is really going to take the risk 
+at the moment to say, I'm going to build that  
+
+up? Because there are so many unsecure pieces in 
+this system, but at one point we have to start. 
+ 
+
+I see Minister Bayraktar 
+wanting to weigh in here. 
+ 
+
+I was just going to say now are gas power plants 
+too risky. Whether we will find the gas or not. 
+ 
+
+Thank you for weighing in on that. Let me go over 
+to Ana Trbovich. Because, in fact, blockchain is a  
+
+technology where there are a number of potential 
+use cases in the technology sector, particularly  
+
+right here in Berlin, lots of start?ups 
+trying to be part of this. Are there also  
+
+gaps, would you say, when you look at the 
+overall picture, whether in innovation or in  
+
+governance and investment structures? 
+Normally, policy is technology agnostic.  
+
+And I believe everyone in the room knows that. 
+And this is how policymakers act. You do not  
+
+perfect normally or forbid a certain technology 
+to be used. However, policy is more to do  
+
+how that technology is used. So what can you do 
+?? what can you make happen with that technology?  
+
+And this is why we do have a gap. We have a 
+gap in that something is possible technically.  
+
+Something that could have a significant 
+impact. But the policy does not recognise  
+
+that type of an operation on the market. 
+And this is exactly what Sandra was also  
+
+saying just earlier. So, for example, if you look 
+at the perspective of how much you need to invest,  
+
+that could also be zero, right? It all depends 
+on how connected the energy assets are. Which is  
+
+why you need this infrastructure. I mentioned 
+one project which is a decentralised energy  
+
+asset registry. Why is that important? Because 
+each energy asset would have an ID and would  
+
+be able to interact with different applications 
+seamlessly, in that you would not need a manager,  
+
+organizing, it would be as simple as using an 
+app on your phone. And this is where we need to  
+
+get to. It needs to be easy for us to connect. 
+It needs to become a lot easier for people to  
+
+invest in and install renewable assets. 
+To me, I do not understand to this day why  
+
+it is so difficult to do that. Why, you know, 
+everyone ?? where it would not be very normal  
+
+like you buy a fridge or whatever device you 
+buy, you also buy a solar panel, a heat pump,  
+
+whatever it is. At the moment, I know there is 
+a skills shortage. That, you know, installation  
+
+companies do not even have sales departments 
+anymore because they have too much work.  
+
+We also have a shortage of some of those 
+renewables. The EU recently asked the heat  
+
+pump producers to increase their production. 
+So there are some gaps there as well. 
+ 
+
+On the core infrastructure, there are 
+some projects like the ones I mentioned  
+
+where the governments could make a lot of 
+progress with very limited investment. And  
+
+one example that was given about energy 
+communities is one where there is a very  
+
+enabling legislation, for example, at the EU 
+level. But when you come to the EU member level,  
+
+then either they do not explain how the directive 
+can be implemented in practise or they do allow  
+
+its implementation, but in a very limited way. 
+For example, you can set up an energy community.  
+
+You can even do peer?to?peer trading, but you 
+do not do this based on market conditions.  
+
+You do not do this in a way that you can 
+respond to it from a distribution operator with  
+
+flexibility and balancing first at that level 
+and then up the grid. You do it based on a  
+
+pre?determined pricing scheme. And while it 
+is good to encourage people to self?assume,  
+
+it may also be countereffective if the market 
+really wants you to support flexibility. And  
+
+if that is a more productive way of use 
+of that particular resource at that time.  
+
+So certainly there are gaps. While there is 
+technology to allow a much more optimal use  
+
+of renewables. And also that would encourage 
+individuals to invest more in renewables. 
+ 
+
+And to really activate the citizen in this 
+process, not to have the entire burden  
+
+at the central government side. 
+Thanks very much. Let me get the ?? our  
+
+technical team to please show us the results of 
+our audience poll, because I'd like to now talk,  
+
+do a deeper dive on governance and what's needed 
+in that area. So if we could see those results.  
+
+Here they are. And what we see. We asked, what 
+should be the highest priority in digitalising  
+
+and modernising the energy sector? We see that 
+55% of those who responded said, secure and  
+
+efficient sustainable infrastructure. The next 
+largest share, 20%, say increasing energy access.  
+
+Then we have 18% saying adigit alley skilled 
+profession. You, in fact, talked about a lack  
+
+of staff in some cases, skills shortages. 
+And finally, transparent involvement of  
+
+citizens and protections of fundamental digital 
+rights. That's just 6%. Which is interesting.  
+
+Fairly low share. Concerned about that. 
+Minister Lipavsky, you would like to comment? 
+ 
+
+Yes, I think the last option is very connected 
+to the first one. Fundamentally digital rights.  
+
+And efficient, sustainable infrastructure cannot 
+be created without these rights. And it comes to  
+
+my question and my point I wanted to raise during 
+this debate. We get a lot of data. We get a  
+
+vast amount of data. Where do we store them? Under 
+which conditions? Who will have access to them?  
+
+How will this be regulated? This is a 
+fundamental question for EU, for Europe.  
+
+We have to be looking for these answers. Do we 
+want to share them with our friends in the U.S.?  
+
+Do we want to send them to China? Do we want 
+to ?? how do we work this dataset? So this is  
+
+something where I see a role of politicians 
+to be actively answering those questions. 
+ 
+
+And what's your answer to some of those questions? 
+For example, there is a very ongoing controversial  
+
+debate about whether Europe needs its own cloud. 
+Yes, it is an ongoing debate, and I feel there  
+
+is some progress in talks with the U.S. side. 
+And this is ?? this is exactly the debate I'm  
+
+pointing to. And yes, we have to find ways how 
+to protect data in Europe. To have a control over  
+
+them. But not to lose connection, to know?how, 
+and know?how and ?? how to put it mildly.  
+
+The minds of the rest of the democratic world. 
+U.S., Japan, Taiwan, for example, Australia,  
+
+you want to have them on board when we speak 
+about digitalisation and creating new things. 
+ 
+
+Let me ask everybody else to give their 
+perspective on the poll results and also  
+
+in general on the question of what you see as the 
+most important prerequisites for policymakers to  
+
+be setting when it comes to deployment of digital 
+technology. I'll first take the policymakers and  
+
+then I'll come to our business ?? our business 
+representatives. Please, Minister Bayraktar. 
+ 
+
+Thank you. I mean, when I see the result of the 
+poll it shows also today's biggest concern about  
+
+energy. You know, the security of supply. The 
+efficiency problems and sustainability questions  
+
+comes to everybody's mind. So this is kind of 
+also affected, I belive, the current realities  
+
+and concerns. When it comes to the role of ?? 
+the right governance of the digital deployment,  
+
+I think the most important challenge is the 
+regulatory challenge. I agree with that. And  
+
+as a former regulator, I can tell you a secret. 
+I'm sure you know it, but the problem with the  
+
+regulatory world is ?? and especially these new 
+technologies ?? technologies or digitalisation  
+
+that we need to somehow increase and train the 
+regulator as well because we ?? they basically  
+
+don't understand how the system works. 
+And when they don't understand, the obvious  
+
+reaction from them is just not to deploy 
+anything because we all know very conventionally  
+
+we do tariff regulation. We do licensing. Market 
+entry and exit. These are tools as a regulator  
+
+they use. I used to use. So the stakeholder 
+management, regulators, policymakers,  
+
+consumers. I mean, I was a little bit surprised 
+and disappointed about the role of citizens that  
+
+it seems like 6% is quite low. But I think the 
+most important part is a consumer empowerment  
+
+and the role of consumers to involve in this 
+new digital world. New digital energy world. 
+ 
+
+So we need to increase the awareness of the 
+people. How are they gonna engage with the  
+
+market activities. How they can play a different 
+role in the market, in terms of consumers.  
+
+But first and foremost, also, I would say that the 
+right market design, we need a new market design  
+
+for this digital energy world. To have that, 
+we need to digitalise the system. We need to  
+
+make the system intelligent or smart. And we need 
+to protect the system. The cybersecurity that we  
+
+all are referring to. So these are the key 
+factors that we need to ?? we need to have. 
+ 
+
+Just before you put your mic down, what 
+would you say both as a former regulator  
+
+and as a current policymaker to Sandra Trittin's 
+remark that, in fact, there are technologies out  
+
+there that can't be introduced to the market 
+because the regulatory system isn't able,  
+
+essentially, to conceive of them within the 
+existing framework? Is that a problem you're  
+
+aware of? Are regulators and policymakers ?? 
+Well, we do aware of, but the problem is ?? I  
+
+think you will all agree with me, 
+these new technologies, digitalisation  
+
+is continuously improving. It's not like the 
+mature system that we are going to introduce. So  
+
+we don't know. We are so insecure 
+and we don't know how we are gonna  
+
+implement the right policies, the right 
+incentives, right legislation that it will  
+
+allow us ?? we will avoid any stranded assets, 
+stranded costs. Because eventually there will be  
+
+new things coming into online. And this, I mean, 
+that's, I think, the main problem, and I hope  
+
+that we will learn more and we engage more 
+with the relevant actors to introduce the right  
+
+policies and set of regulations. 
+And I saw Minister Meza nodding her  
+
+head quite emphatically. So I'll go to you 
+now for a comment on the same question. 
+ 
+
+I totally echo what the Minister has said. I 
+think, I mean, we are building a new market,  
+
+and we are building a new way of managing the 
+whole energy system. And this is why we don't have  
+
+the answers right now. And we need to be 
+very clear and aware of these aspects. But  
+
+this is why it's so important that we really 
+need to keep in mind what are the main goals  
+
+of this? Because then we can really lose ourselves 
+if we are not clear on why are we doing this?  
+
+And these are the kinds of questions 
+that as policymakers, we really need to  
+
+have these in the centre of the things and the 
+discussions. We are doing this because we want  
+
+to decarbonise our economies. We are doing 
+this because we want to have also a better  
+
+system and a better economy for all the people. 
+And this is also an inclusion aspect that I want  
+
+to bring here. This is for the people. And that's 
+why I was very surprised looking at the answers of  
+
+the polls as well. And I was ?? I totally agree. 
+I think it was the first minister who mentioned  
+
+we will be generating and we will be having a lot 
+of information from the consumers, that consumers  
+
+will be their best interaction. And I think this 
+is great. This is fantastic. But at the same time,  
+
+what are we gonna do with all this 
+information? How are we going to use it?  
+
+Is everyone so clear that we will be having access 
+to all of this information? So I think that this  
+
+is about understanding this part, but I also ?? 
+I'm very clear that ?? and coming and hearing the  
+
+other panellists from the private sector, it's 
+so clear that we also need to understand that  
+
+everything is changing right now and that we need 
+to cover the risk, send in the right signals, that  
+
+we know that these technologies will allow us to 
+achieve the main goals that we want to achieve. 
+ 
+
+So it's a complex moment. And my main point 
+here is not to lose the big objectives. Because  
+
+nothing is clear right now. We are writing 
+the future and it's so important to have  
+
+clear goals coming from the policy part. Why are 
+we doing this? Be asking ourselves all the time.  
+
+Because otherwise just technology for technology, 
+digitalisation for digitalisation can also become  
+
+a very big risk and can leave a lot of people 
+out of the system in we don't do this having the  
+
+people, human being in the centre. And, of course, 
+our environmental goals there very clear as part  
+
+of all of these transitions. 
+So let me now go to the two innovators  
+
+on the panel. And certainly if you like, give us 
+your response to what the ?? to the poll results  
+
+and how you see them. But then I'd also like to 
+you to talk about finding this balance between  
+
+policy frameworks as enablers that allow the new 
+?? the technologies that are available and future,  
+
+not yet fully ?? fully optimised technologies 
+to flow into the market. And at the same time  
+
+address the risks that need to be dealt with. So 
+finding that balance. But first, if you'd like,  
+
+just tell us your brief response to the poll. 
+So I only have two reactions to that.  
+
+So one reaction was that for the secure 
+infrastructure, for me, the key word in  
+
+that question was the digital infrastructure. 
+Which means on the different levels, like,  
+
+if you're looking to the different levels of the 
+energy system, I think the consumer, for example,  
+
+has no understanding what it means to digitalise 
+on the transmission grid level, right? 
+ 
+
+You bring in more technology, you 
+have more overview, data, et cetera.  
+
+Where it becomes interesting. This is 
+relating to the last point, the last question  
+
+with the limited number of percentage, right? 
+Where people said digital rights are let's say  
+
+less important. I think what people have 
+understood already is that, yes, for sure,  
+
+we need to have some basic privacy rights, but 
+on the side, to be honest, who cares about how  
+
+much energy I consume every day? I mean, would 
+you all be interested in seeing that? Or seeing  
+
+my energy bill. If it's, like, 100 Euros up or 
+down? I'm personally interested, right? Because I  
+
+want to see how much I saved in comparison to last 
+year. But, you know, if anyone sees it out there,  
+
+I personally don't care too much. And I think 
+it might be also a question of generation.  
+
+This just as a thought. I'm not saying that 
+I'm fully agreeing with that, but it's more  
+
+my interpretation of the results. 
+Then in terms of the policy,  
+
+what the minister was just saying before. I think 
+that's really a problem. Is the matter of speeds.  
+
+Technology and especially in the digitalisation 
+is developing so quick, whereas policymaking  
+
+just takes time. And this difference in speeds 
+creates quite some tension. I think we have all  
+
+seen that in the country where we are at the 
+moment, in Germany with the smart metering,  
+
+where there was a good approach in bringing 
+smart metering full?scale into the country.  
+
+Whereas other technology providers, about 
+or most of them are thinking, well, it's a  
+
+good approach, but it's ten years old already. 
+But it's normal, right? Because the thoughts of  
+
+bringing policy into that system here in Germany 
+have been made ten years ago to be at the point  
+
+where by are at the moment. So I think the major 
+challenge will be on how we align that speed?  
+
+How can, I think, also policymakers help to 
+find let's say some basic rules which are  
+
+not preventing future further developments and 
+increase in technology, right? And changes. 
+ 
+
+Thank you. It's occurring to me as I look at the 
+results, ladies and gentlemen, we can see the  
+
+results still on our screen up here, that if we 
+consider policymakers and regulators to be amongst  
+
+the digital professionals, then that 16% share 
+is, indeed, quite low. Because you're telling  
+
+us very clearly that regulators and policymakers 
+essentially need to be brought along in terms of  
+
+their understanding. Please, minister Bayraktar. 
+I was just going to say, yes, we do regulation,  
+
+so we do something for five 
+years later, ten years later, and  
+
+maybe we do have a right to make some mistakes, 
+but eventually if you are ?? I mean, what you're  
+
+seeing today, I mean, people are complaining 
+and criticising policymakers or regulators  
+
+to rely on one single country or one single 
+source of energy. That creates a lot of  
+
+problem in terms of security of supply. 
+We might have that kind of difficulties  
+
+and challenges in the future, in terms of 
+digitalisation of energy. You can consider,  
+
+like, we can rely on one single 
+software ten years from now on. 
+ 
+
+Can I just comment quickly? I fully agree with 
+your perspective. I see the challenges. This  
+
+is more looking from an entrepreneurship point of 
+view. We always said, like, we want to build up a  
+
+solution which can live without the policy having 
+to change, right? Something which can support  
+
+let's say the implementation, increased speed, 
+but in the end, let's say start?ups have to live  
+
+with the stages, at least how it is today, right? 
+You cannot build your future business on something  
+
+that there might be a change in policy. I can give 
+you an example. I'm waiting since ten years that  
+
+the Swiss energy market will be liberalised. And 
+I think I will wait probably another ten, right? 
+ 
+
+But that's fine. That's just how the world is. 
+Still, tiko is still alive. We have created  
+
+our own business model. In that case it worked 
+out. There might be other cases it doesn't. 
+ 
+
+Thank you very much. I want to go to Ana 
+Trbovich because I wanted to get your take  
+
+also on the poll result. Then I have a 
+question as well about security to you. 
+ 
+
+Thank you. I will perhaps turn to energy 
+access, because in my work I actually see  
+
+an intersection that some may not, which is 
+one with transparent citizen involvement.  
+
+Energy access is a basic right to have literally 
+access to energy. Usually translates to access  
+
+to the grid. Because we still have a significant 
+portion of the globe with no access to the grid.  
+
+And what happens in these communities 
+that do have some access through  
+
+solar or home management systems while 
+others end up paying more for less.  
+
+Because of the situation. And also in part 
+because the electricity comes from the grid  
+
+often in those exact regions tends to be heavily 
+subsidised and not reflective of the real price. 
+ 
+
+So we have a disconnect where future 
+solutions are developing and can develop  
+
+to allow those communities to function 
+off the grid in a more optimal way.  
+
+But as soon as the community connects with 
+the grid, they no longer want this solution.  
+
+Which helps relieve congestion from the grid 
+because the electricity from the grid is  
+
+cheaper. So there is also a disconnect there. 
+Then in contrast to such communities, we have  
+
+communities in very advanced economies where 
+people get together for energy access because  
+
+they want to be off the grid. Because they want to 
+be self?sufficient. Because they can. Because they  
+
+have the resources. They usually are experts 
+themselves. They can afford to buy the most  
+
+advanced technology batteries to store. Everything 
+to be off the grid and are proud to be off the  
+
+grid and self?sufficient and not dependent. And 
+in the long term, they end up doing much better,  
+
+right? Because they don't get charged every month 
+and so forth. So gene we have a disconnect between  
+
+who needs to be supported and who 
+ends up having a better deal. 
+ 
+
+And this is what needs to align. And to end 
+on a positive note, as always an optimist,  
+
+we are going in a good direction. Every single 
+policymaker that I have met who has become  
+
+educated, like you said, about blockchain, for 
+example, falls in love with the technology because  
+
+it adds transparency. Because it adds security. 
+Because it adds efficiency. And because it goes  
+
+very nicely with other technologies like AI and 
+IoT. And it's always a hybrid solution. But we do  
+
+need to increase education. 
+There are also  
+
+what are called regulatory testbeds, right? 
+Which are places where you can safely innovate.  
+
+And there are many pilots around the world 
+that have implemented solutions. Then there is  
+
+a waiting room, right? When do you decide and 
+what do you need to decide to move from that pilot  
+
+and that regulatory testbed to mainstream? This 
+is where we get a little frustrated as innovators.  
+
+Because like Sandra said, we adapt our technology 
+to what is possible in terms of regulation,  
+
+but we know we could do a lot 
+more if we were allowed to. 
+ 
+
+And this is where we need to continue to talk and 
+have this dialogue, and that's why today has an  
+
+important role and that's why we're both here. 
+Thank you very much. I'd like to just briefly  
+
+pick up on the point here about secure and 
+efficient sustainable digital infrastructure.  
+
+I'm not ?? infrastructure ?? I'm not sure if 
+it was you, Minister Lipavsky or you, Minister  
+
+Bayraktar. The concern about the security of our 
+systems' critical infrastructure, particularly  
+
+in view of potential cyber attacks. So just 
+briefly to you, Ana Trbovich. Because blockchain  
+
+is often conceived of as a particularly 
+secure technology. In general, not only  
+
+with regard to blockchain, but how secure is our 
+digital infrastructure? How vulnerable is it? 
+ 
+
+Okay. Maybe let's go back to this cloud.  
+
+Blockchain is more secure because it is very 
+difficult to hamper with the blockchain based  
+
+solution and to manipulate the data that is 
+there and a set of transactions that follow  
+
+a certain path which is usually called a smart 
+contract. But essentially it means how are  
+
+things done? What is the process? You know, what 
+steps are followed and what happens as a result?  
+
+What is always vulnerable is the input. Right? 
+So if your input comes from a digital system,  
+
+a battery that is generating a certain output at 
+a certain time and you're taking that as input,  
+
+that is more secure than someone ?? a person 
+copying from an Excel sheet or telling you  
+
+that's what the numbers are, right? So 
+you can decrease the vulnerability input,  
+
+but there is always that vulnerability at 
+the beginning, which cannot be prevented. 
+ 
+
+One example of many cases that already work are 
+these renewable energy certificates where instead  
+
+of having sets of people having to verify, yes, 
+this is a hydroplant. Yes, we can see this is what  
+
+they produced in the Excel sheet. Instead, you are 
+just stamping minute by minute or second by second  
+
+through whatever system you have there. You avoid 
+cheating, which happens in the system with double  
+
+certificates. You can arrange for contracts 
+in advance to purchase. That's one use case. 
+ 
+
+Another use case is if a battery 
+in your car has a digital ID,  
+
+then you are not in the closed system where only 
+the owner or the car manufacturer can decide  
+
+who has access to the data from your car, from 
+your battery and use that for their own purpose  
+
+and give you a product based on 
+that, but you can choose among other  
+
+providers and use your battery not just for your 
+car, but also to sell back at a certain time  
+
+and provide a vehicle?to?grid service. 
+Simply, you have this interoperability that  
+
+becomes more secure because you have this digital 
+ID. Many countries have digital IDs for citizens.  
+
+The digital ID for energy assets follows a 
+similar system, but we now have a technology  
+
+to do it in a more secure way. And let's 
+say that everybody has a digital ID,  
+
+every asset does, that also allows you the 
+possibility for everybody to keep their data  
+
+and exchange what is needed for a certain service 
+to work. Just like, again, we select apps and  
+
+what we allow an app to do on our phone. This also 
+prevents one cloud storing all of the information  
+
+because everybody can store theirs and exchange 
+what is required to that particular use case. 
+ 
+
+So this is just to spark your curiosity 
+about an alternative to one cloud. 
+ 
+
+Thank you very much. And just very 
+briefly, we have about 2 1/2 minutes left,  
+
+and I would like to just ask all of you. 
+Because a central theme of this conference  
+
+is cooperation and how cooperation can take 
+us forward in the energy transition. So put  
+
+that together, if you would, with digital 
+and tell me, what would be the key priority,  
+
+in your view, moving forward where cooperation 
+is important or essential? Minister Lipavsky. 
+ 
+
+Yes, we need to be working on European common 
+solution. That is absolutely clear. We have to do  
+
+it in a matter of energy security. We have to do 
+it in the area of digitalisation and regulation.  
+
+And that basically would be my answer to that 
+question. So common regulatory framework which  
+
+would allow for these technologies to thrive. 
+Thank you very much. Minister Bayraktar. 
+ 
+
+To me, we can co?operate on the change management. 
+Because the main question here is how are we gonna  
+
+be able to successfully manage this change, big 
+changes happening in the world of energy? The  
+
+distribution of utilities is happening right 
+now. Some colleague mentioned already the speed  
+
+of change is enormous. So how are we gonna 
+let's say manage this change of speed? So  
+
+we need to co?operate on that front. Also, 
+very important things on cybersecurity. Again,  
+
+another cooperation area we all share. And 
+also we can learn from different sectors.  
+
+It's not only energy, but banking sector, 
+telecommunication. They're already having these  
+
+just questions. And one less thing to the private 
+sectors, to innovators, to try to be more simple,  
+
+to simplify things for consumers, becoming more 
+consumer friendly and for also policymakers and  
+
+regulators would be really nice. 
+Thank you so much. Minister Meza. 
+ 
+
+I will say that we need to continue this 
+collaboration with, well, these dialogues  
+
+with the private sector and I totally agree 
+with the Minister. It's very important that we  
+
+continue having these conversations between 
+all of these innovators and the policymakers.  
+
+This is very important. Continue piloting. There 
+is ?? I know that they don't know we want to  
+
+scale up things, but we're still in the phase 
+where we need to continue doing some piloting.  
+
+And, of course, this cooperation between 
+developing countries and developed countries,  
+
+it would be crucial, again, because we are 
+all facing a lot of these challenges. And,  
+
+again, it's very important that we leave 
+no one behind in this transition. 
+ 
+
+Thank you so much. Sandra Trittin. 
+The word being cooperation to the people  
+
+attending here on that panel, I think what's just 
+been mentioned, keeping the continuous exchange.  
+
+Also the speed of exchange I think has to 
+increase because we are talking about technology  
+
+which is quickly changing. It's crucial. 
+And then I think also what has been just  
+
+mentioned from the Minister before, 
+that on one side, we can still pilot,  
+
+but also how can we help to secure policymakers to 
+go to the next level to make it a possibility for  
+
+mass market applications? So not only to learn 
+and to exchange knowledge from both sides, but  
+
+also how can we support in a day?to?day business 
+each other on how to move forward more quickly? 
+ 
+
+Thank you so much. Ana Trbovich. 
+I believe I have already concluded in a way,  
+
+so I can only reiterate that we will always 
+be back and find time to talk. And you should  
+
+also meet your entrepreneurs in your countries and 
+listen to them and try to create these goal posts,  
+
+you know? How much evidence do you need to move 
+forward with the policy? Maybe leave that as  
+
+the final note. And one example, we actually had 
+a hack?a?thon with a young Turkish entrepreneur  
+
+who involved students from university last week 
+to start that bug early, to make them think out  
+
+of the books. Like you said, thinking about 
+a completely new market design. Because it  
+
+is not the technology that has disrupted the 
+market. The market is already disrupted. And  
+
+we need to use this technology to better manage 
+the market that is distributed and disrupted. 
+ 
+
+Thank you so much to all of you. It's been 
+a very lively and interesting discussion.  
+
+We appreciate it very much. Let's 
+give them a nice round of applause.
+
+

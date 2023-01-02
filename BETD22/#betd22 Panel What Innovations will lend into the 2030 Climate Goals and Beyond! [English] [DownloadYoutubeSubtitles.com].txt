@@ -1,0 +1,1582 @@
+With me to discuss this very, very important 
+subject I have the pleasure of introducing to you  
+
+four amazing startup founders who have contributed 
+to innovation and are award winners of the startup  
+
+energy transition. So, I'm going to ask 
+my panelists, when I introduce your name,  
+
+kindly give a nod or a little wave so 
+the audience can know who you are.
+ 
+
+I would like to start introduce the CEO of Kraft 
+we can, and that is Sascha Kuhn. And next to him  
+
+we have Aylin Ozkarakas, the CEO of -- 
+sorry, the chief of staff, I beg your pardon.  
+
+The chief of staff of village data analytics. 
+And we have next to her, Claudia Rothe,  
+
+project manager of ecoligo. And finally, we have 
+Sebastian Berning who is the CEO of Instagrid.
+ 
+
+And then sitting to my far right is the founder 
+and the creator of startup transition awards,  
+
+the SET awards we call it in short. And that 
+is Mr. Andreas Kuhlmann. Now, before we come  
+
+back and really get into understanding how 
+this four people come to be sitting with us,  
+
+I would like to ask Mr. Andreas to tell 
+us a few words. And how do you feel  
+
+seeing these four individuals on stage today?
+Thank you, Linda. I'm very happy to have this  
+
+panel today. Before I say a few words, and then 
+the fifth startup on stage. That's you, Linda.  
+
+You're working a startup as well. That's very 
+important. Next time we have you as an interview.
+ 
+
+Thank you.
+When we created this energy transition award, for  
+
+us it was important to create a global network on 
+innovation. Connecting minds for a greater good.  
+
+Since then, we have had 2700 applications of 
+startups. And I think we did indeed create  
+
+a great network of startups. And those we see 
+here on stage, unfortunately are not from all  
+
+over the world. But from a special part of this 
+world only that is due to the corona. But they are  
+
+here in the name of all the others. And I think 
+it is super-important that this conference focuses  
+
+on innovation. Because if we do not scale those 
+smart ideas, business models and innovation,  
+
+we will never be able to reach our climate 
+targets. That's why the panel is here, and  
+
+that's why I'm here. And thanks for listening.
+Thank you very much for those very kind remarks.  
+
+Excellent. So, how we're going to spend the next 
+30 or 40 minutes is firstly I'm gonna give the  
+
+panelists a chance to just tell us a little bit 
+about your organization, the problems you are  
+
+solving. You know, perhaps 4 minutes each. And 
+then after that, we're gonna go into a discussion  
+
+where we're going to go do a deeper dive into 
+what your future plans are. We are a startup,  
+
+but obviously we have growth plans, right? What 
+your future plans are. And the next thing we're  
+
+gonna discuss is how specifically those plans fit 
+into our climate goals. And then we'll discuss  
+
+a little bit about how the current policies 
+actually support you in what you would like to see  
+
+differently as far as a policy framework is. And 
+then finally, I'm gonna ask you to make a little  
+
+bit of a comment around how your innovations 
+would fit into the current political environment  
+
+and what we're doing. So, a little bit of a 
+comment around how you see your work as solving  
+
+some of these global problems. That is the last 
+thing we're going to end up with our discussion.
+ 
+
+So, without further ado, 
+I'm gonna ask you, Dr. Kuhn,  
+
+CEO Kraftwerk to tell us about your innovation.
+Thank you. Thank you for the nice introduction.  
+
+Yeah, Kraftwerk is a company that 
+developed a new soled oxide fuel cell  
+
+that's different to other fuel cells. 
+We started already 20 years ago in  
+
+fundamental research on this technology. We 
+developed the new nanotechnology and nan know  
+
+technologic with the stabilized zirconia. And that 
+is part of the fuel cell that we now can produce.  
+
+And it is used in several applications. Not 
+only in standard fuel cells, but also in fuel  
+
+batteries or in electrolyzers. So, it louse to 
+produce methane or other gases like hydrogen and  
+
+ammonia and other E-fuels with 
+very high efficiencies. Up to 90%.  
+
+And that is important technology for the next 
+time. Because we need to transport the technology.  
+
+We need to transport the electricity to -- to 
+the place where it is needed. Example given,  
+
+in a car or into an airplane. And therefore, 
+this has to be done with very high efficiencies.
+ 
+
+And on the airplanes, for example, with our 
+technology we can then produce electricity  
+
+out of the E-fuels again. Also with very 
+high efficiencies. And that is a way to get  
+
+natural energy, solar energy, into 
+the application where it is needed.
+ 
+
+Fantastic. You actually raise a very good 
+point close to my heart. You know, just  
+
+minimizing transmission losses is something that 
+we definitely recognize in Africa. But certainly  
+
+your technology is very, very advanced. 
+You know, fantastic. Brilliant. Just really  
+
+reducing demand and reusing it. Over 
+to you, Aylin. And just introduce your  
+
+organization and the problems you're solving.
+Sure. Thank you, Linda. So, at Village Data  
+
+Analytics we have created a data platform which 
+serves as a basis for planning energy systems.  
+
+So, what we do is we fuse different data sources 
+such as satellite imagery, statistical data,  
+
+server data, smart meter data, IoT data, just 
+lots of different sources. And we bring them  
+
+together into one map. From here, our users can 
+then analyze, plan, and monitor energy projects.  
+
+They can interactively collaborate in it. And 
+yeah, just save a lot of resources when it comes  
+
+to developing and executing such projects. For 
+example, we would have let's say a government  
+
+working alongside financiers, investors on a 
+project. And they could then collaborate through  
+
+VDAN with the developers without having to be 
+in the same time zone or location. They can just  
+
+work within this digital twin that we create.
+And what we do currently -- so, we work mainly in  
+
+developing and emerging countries in Africa and 
+Asia. But also in Germany with municipalities.  
+
+But, for example, we are just in the progress of 
+a project that is also very close to my heart with  
+
+the government of the Democratic Republic of 
+Congo. And the IFC. And this is a very, very large  
+
+project to replace diesel generators. And also 
+we're working with the government of Pakistan to  
+
+digitize the grid. And yeah. We just recently 
+also partnered with a German electricity supplier.  
+
+A lot of very exciting things coming up.
+That have been. Great, great work. And thank  
+
+you for sharing the information about the markets 
+that you work in. Brilliant. And we'll come back  
+
+and dive into how, you know, we can interact more 
+with your organizations. Yeah. But for now I would  
+
+like to hand over to Miss Claudia. And perhaps 
+you can tell us a little bit about ecoligo.
+ 
+
+Thank you, Linda. Ecoligo is a global energy as a 
+service provider, supplying businesses in markets  
+
+with clean manager. We design and operate the 
+clean energy in the markets where they can have  
+
+the highest CO2 impact. And finance them here 
+in Germany through the crowd investing platform,  
+
+ecoligo investments. We were founded in 2017, and 
+I'm part of a team of 30 people spread around the  
+
+globe. We started in Ghana. One of the first 
+projects we realized was also together with the  
+
+German energy agencies with the renewable 
+energy program. It was the bank in Ghana.  
+
+We had the support there. And the 
+next market we entered was Kenya.  
+
+Now active in South America, Latin America, and 
+Asia with Thailand being part of our markets.
+ 
+
+and yes, we're headquartered here in Berlin. We 
+have achieved 166 projects which are 66 megawatts.  
+
+And our emerging markets. We have a chocolate 
+producer in Ghana. They just built a new  
+
+chocolate factory and we provides them with 
+the finance and the operation and maintenance  
+
+of the solar rooftop system on their factory.
+ 
+
+We also have, for example, manufacturing 
+businesses. The reusable bag producer in Vietnam.  
+
+Or a fair trade flour farm, rose farm, actually, 
+produces roses in Kenya. What they all have in  
+
+common is high energy costs from the grid. And 
+we are here to solve that problem by offering  
+
+them our energy as a service solution which means 
+they enter into a leasing or power purchasing with  
+
+us where they pay monthly fees for the systems 
+built on their grounds. The solar PV systems.  
+
+We finance them here in Germany with the crowd. 
+And this is the part that I'm responsible for.  
+
+The crowd investing platform who has to now 
+raised over 21 million Euros by just 3600 crowd  
+
+investors. A number I'm super-proud of. We have 
+a very loyal crowd who make that happen so far.
+ 
+
+And yes, we take basically care of all the rest. 
+The client doesn't need to have any knowledge.  
+
+And they don't need to invest any capital 
+in it because they pay off the solar system  
+
+during the contract duration with us. And 
+what's best about it, they also save money  
+
+because our solution officer cheaper 
+kilowatt hour prices than they would  
+
+get from the utility on-site in the location. 
+This is probably one of the reasons why  
+
+we won a SET award last year. Really the 
+innovation in our business model where we  
+
+create this win-win-win situation for the crowd 
+investors in Germany who gain 5 to 6% of interest.  
+
+Compared a large number of interest in leaving 
+money in the bank account at the moment.  
+
+Clients who save money. And us making 
+our margin, of course, in the contracts.
+ 
+
+Wow.
+Thank you.
+ 
+
+I'm just curious and we can come back to it 
+later. You work specifically in the solar space.
+ 
+
+We would like to enlarge our product range 
+to other projects to other technologies  
+
+and energy efficient measures in the future.
+Thank you. Thank you for sharing that. Finally  
+
+I would like to have on stage -- have the mic, 
+Sebastian Berning. Who is as I said the CEO  
+
+of Instagrid. Tell us about your organization.
+Thank you. So, at Instagrid we're on a mission to  
+
+ultimately remove up to 1 billion combustion 
+engines from the global energy system.  
+
+We're talking about diesel 
+generators, for example,  
+
+and small energies that you need 
+for -- for coal chain logistics.  
+
+So, they are basically everywhere. And we want 
+to replace them with advanced mobile batteries.
+ 
+
+So, instead of generating electricity or other 
+forms of energy on-site from small combustion  
+
+engines which is a huge problem which is rarely 
+addressed in the public. We're all talking about  
+
+energies and road transport. And we have a lot 
+of famous companies looking after replacing  
+
+these. This is really something that has been 
+overlooked so far, at least in our opinion.  
+
+So, what we are doing is instead of local 
+generation, which is extremely inefficient,  
+
+we -- we turn to larger sources of electricity 
+like a large PV plant that we heard about before.  
+
+And we do the last mile. Like last mile 
+electricity by means of super-portable,  
+
+but very capable advanced batteries. So, the 
+reason we're doing this. First of all, of course,  
+
+we want to stop all these -- these combustion 
+engines from contributing to global warming by  
+
+burning billions of liters of fuel every day. 
+And secondly, we want cleaner air because  
+
+a single one of these engines is -- could be 
+polluting in terms of smog-forming emissions.
+ 
+
+Similarly to about 100 modern cars. So, this 
+is in terms of NOX and particulate matter,  
+
+it's a huge problem. And third, we 
+want -- we want that these engines  
+
+stop eating the money from basically probably 
+the poorest economies on our planet. Because  
+
+people generally with the lowest or the least 
+access to electricity, they pay the highest rates  
+
+as probably every one of you is aware of. 
+So, we really believe in forming grids,  
+
+forming last-mile grids for regional electricity 
+supply by means of advanced batteries.
+ 
+
+So far we are only operating in Europe. We have a 
+very simple business model. We're kind of selling  
+
+these devices to the end customers which are 
+usually in construction, for example. I cannot  
+
+tell that our customers have a dirty business. But 
+there is a lot to do on that site, let's put it  
+
+this way. And it's -- it's definitely something 
+that we're really proud that have we see a lot  
+
+of traction in this sector and now we're moving 
+forward to supply other sectors with energy.
+ 
+
+Fantastic. You know, I'm curious how you know 
+and maybe in the next round you can address this.  
+
+I'm curious about how you think about the life 
+cycle of batteries. Because battery technology  
+
+obviously, how long do they last? And then what do 
+you do at the end of the battery life? Perhaps you  
+
+can -- you can address that in the next round.
+Now we have a bit of an impression of what this  
+
+four amazing individuals do. So, I'm 
+gonna give you a chance to, you know,  
+
+look down the next 3, 5 years. And tell us a 
+little bit more about what is the next frontier  
+
+for your startup? You know? What are you 
+looking to grow into a 3 to 5 year time frame?
+ 
+
+Yeah. That's good question. And looking in 
+the future, it's not to easy. But for us, it's  
+
+that we got some contracts with major automotive 
+and airplane industry players. So, for example,  
+
+Airbus, Nissan and even Volkswagen are on 
+our contractor list. And to be able to supply  
+
+later on to such industries, it's always needed 
+that you have several metrics and that's the  
+
+one -- so, we are trying to build modern this 
+one giga factory now. And that is not so easy.  
+
+Because we don't have much time for it.
+And that's the major topic that we have on our  
+
+list. And therefore we need partners, of course. 
+Have to build up our -- yeah -- community.
+ 
+
+Yeah. You took the words right out 
+of my mouth. Now, what partners do  
+
+you need? Obviously financing is one of the 
+ingredients we need for growth and future.  
+
+And then also the right partners that kind of 
+cooperation and collaboration. Thank you for  
+
+raising that. Now, over to you, Aylin. What does 3 
+to 5 years look like and how are you plugging into  
+
+the energy transition with your future plans?
+Well, we obviously will continue to engage with  
+
+public and private sector partners to help 
+scale and accelerate the energy transition  
+
+and the energy access globally. And what we 
+are realizing is that energy access or SDG7 is  
+
+basically the foundation for all other SDGs and 
+all other developmental initiatives as well. So,  
+
+we are experiencing many new use cases that our 
+product can be beneficial for. For example, with  
+
+projects in healthcare, in agriculture, which is 
+going to be huge in the upcoming years, obviously.  
+
+And so, we're currently, yeah. Looking at new 
+markets that always connect to energy access  
+
+and using this platform to help analyze. And 
+also on the long-term monitor such projects.
+ 
+
+Brilliant. Thank you. Thank you. Data 
+definitely an enabling platform for sure.  
+
+Fantastic. I'm going to turn over to you, 
+Claudia, and answer that same question.  
+
+What does it look like for you at ecoligo?
+Yes. So, in the next 3 to 5 years, we want to roll  
+
+out our solution in other markets, other emerging 
+markets where the regulatory environment allows us  
+
+because we need a liberalized energy market for 
+that, of course. And also not highly-subsidized  
+
+energy costs. And as you pointed out, we focus at 
+the moment strongly on solar PV systems. But we  
+
+are already looking into more energy-efficiency 
+and we want to -- and other technologies so we  
+
+can approach a customer's or business energy 
+supply more holistically. And we want to offer  
+
+a solution also for, yep. Energy efficiency, 
+solar, water, mobility is a big topic for us. And  
+
+another one, of course, will be batteries. We see 
+the decreasing prices of batteries and how they,  
+
+of course, at the moment our customers are only 
+grid-connected customers. So, it doesn't play such  
+
+a huge role for them at the moment. But there 
+is the demand to become even more independent  
+
+from the utilities. So, we can in the future 
+couple our solar systems with energy storage.
+ 
+
+This is on -- this is on the side in the markets 
+where we built our products. On the financing  
+
+side, I really want to roll out our platform 
+in other EU countries. Because at the moment,  
+
+it's only possible for German investors to invest. 
+And only active in Germany. This is where --  
+
+where our projects are financed at the moment. But 
+I think there's so much huge potential in crowd  
+
+funding in general. The EU regulation is there and 
+we need to take the next steps and implement it.  
+
+Also offer new products like a green 
+bond. Also in the beginning of this year,  
+
+we started with a second financial pillar 
+for our project finance. Because as we grow  
+
+also our project sizes grow in the markets. And 
+we need also institutional partners who finance  
+
+together with the crowd. And one collaboration 
+we already did was with eCO Credit which we  
+
+announced in the beginning of this year and 
+they're financing a portfolio of projects in Ghana  
+
+and Kenya already with our crowd. And we want to 
+have more collaborations like this in the future.
+ 
+
+Fantastic. You know, you touched on 
+some policy, policy work as well.  
+
+That's great. Because that bring us to the next 
+discussion. Andreas, I'm gonna ask you after  
+
+Sebastian speaks just if you have 
+any impressions on the ambitious  
+
+plans that the panelists have talked about. 
+But first I'm gonna ask Sebastian to give us  
+
+his -- his 3 to 5 year, you know, what is 
+it that your organization is working on?
+ 
+
+Yes. So, as I said before, we are to date 
+producing batteries and we're selling them  
+
+directly to end customers which is a hugely 
+successful business. But on the other hand,  
+
+we believe that ultimately we should 
+be the owners of all of our batteries.  
+
+We believe that batteries are inherently an asset 
+that should be operated in a circular fashion.  
+
+So, we really want to move on and offer services. 
+You know? We want to do that last mile electricity  
+
+delivery and really become the owner of the 
+-- of all of our assets in the future. I hope,  
+
+you know, we can explain that to our investors. 
+And then be responsible end-to-end for, you know,  
+
+getting the electricity in a reliable fashion 
+to the end customer. We also want to do that in  
+
+vastly different applications all over the world.
+We believe that this is the energy distribution is  
+
+actually a general problem. I think every 
+single economy that is turning towards  
+
+renewable energies is facing distribution 
+problems, is facing the problem. How can we  
+
+build distribution capabilities fast enough 
+and on the right scale? I think we can  
+
+offer an answer for many of these problems if we 
+manage to build the right service infrastructure  
+
+and the right asset management on all of 
+these devices that we want to produce.
+ 
+
+No, that's great and that resonates with me as 
+well in the project that I'm working on. So,  
+
+evacuating energy from where it is being produced 
+to where it's being -- to where it's needed is a  
+
+challenge that is, you know, for now quite costly, 
+right? Because then we're asking the utilities  
+
+to build, to extend their lines. And then we've 
+talked about power losses and things like that.  
+
+So, certainly we'll be watching your advancements 
+and wishing you all the best. Our special guest,  
+
+I do not know whether you have some comments 
+based on the two questions we have discussed.  
+
+Just some words of encouragement as well.
+Maybe briefly before I unfortunately have to go.  
+
+What we see already is a wonderful idea of how 
+these business models could scale up and how good  
+
+that would be for the global energy transition. 
+Again, you see there are some policy issues  
+
+and there are some network issues. And I think 
+that is exactly why this is so important to bring  
+
+them on stage on such a conference. Because 
+we have to discuss policy issues in order to  
+
+scale up those ideas. And we have to bring people 
+together in this kind of network. Where we just  
+
+have to encourage everybody to invest in these 
+things. And that's the task we at the German  
+
+Energy Agency will try to fulfill. And yeah. Maybe 
+that's what I see again when I hear them speak.
+ 
+
+Fantastic. Excellent. And that was 
+just a fantastic cue to the next  
+
+subject I wanted us to discuss. Is are you 
+supported? Thank you very much, our special  
+
+guest Andreas and founder of the SET Awards. 
+Thank you for your presence and your comments.
+ 
+
+So, are we supported? Are we supported by the 
+policies within the markets within which you  
+
+work? This will be the opportunity to maybe 
+tell us what's working, which policies are  
+
+working for you, and where you would like to 
+see some changes. And I'm gonna start with you.
+ 
+
+Again.
+Yes, again.
+ 
+
+It's not an easy question.
+It's not an easy question.  
+
+You get to set the stage for us.
+I will try.
+ 
+
+Thank you.
+At the moment, I think  
+
+it's a good time for our technology.
+Yeah.
+ 
+
+And the supportive network from 
+politics and everything is there.
+ 
+
+Good.
+But what is needed is more support for startups.  
+
+Because the first years to go to this stage 
+were very hard. And I think there are other  
+
+good inventors out there. And there are a lot of 
+other startups out there that need more support.  
+
+And we need more rules because they go in such 
+high risks with the things they are doing to  
+
+bring up such industries and to bring up such new 
+startups. And to go the first years is very hard.
+ 
+
+And there is much more support needed. And the 
+risks have to be seen. I mean, if there's a corona  
+
+crisis, no one has to apply for insolvency 
+processes. But startups are always in a higher  
+
+risks in a corona crisis. Much higher risks.
+Yeah.
+ 
+
+And there's a lot of these 
+rules that have to be, yeah.  
+
+Adapted for such. Especially technology startups 
+because they have the highest risks. We just have  
+
+to invest in the technology and so on.
+Yeah. I think putting on my  
+
+startup founder hat, you know, what you 
+say absolutely resonated with me. Because,  
+
+you know, going into the COVID period, you know, 
+we raising funds and really influencing the  
+
+policy environment happened. And then this global 
+event for me anyway, just completely wiped out,  
+
+you know, two years of opportunity. Because 
+in an emerging market where I work in,  
+
+the -- the investors felt that they might 
+have to do more of a public health response.  
+
+So, no more of the energy because it wasn't seen 
+as a critical emergency in the light of COVID. So,  
+
+having the right policy frameworks where 
+we keep the agenda of energy access,  
+
+of the energy transition front and center. So, 
+it is not kind of put to one side. You know?  
+
+Because of something else bigger happening. For 
+example, right now we have the conflict in -- the  
+
+war in Ukraine as well. And then you are finding 
+governments moving towards, you know, responding  
+
+to that crisis to the detriment of providing the 
+necessary support that is needed with all this  
+
+other issues that we are trying to solve, right?
+The lack of energy was slow moving, right? With  
+
+the climate change slowly building up and it's 
+now really become an energy such as what we  
+
+have been told. Definitely a stable policy 
+environment is something that I absolutely  
+
+resonate with. But I'm really encouraged 
+that you say that for your organization,  
+
+the policy environment is supportive for now. That 
+is a very rare statement. For where I come from,  
+
+the policy environment is usually quite unstable.
+Anyways. So, I'm curious to know whether  
+
+Village Data, you know, what would 
+you like to see differently? What's  
+
+working in the policy environment and 
+what changes would you like to see?
+ 
+
+For us, being a data and software solution, 
+I think we don't come across as many policies  
+
+in governance that people do that work with 
+resolutions or have a closer linkage to the actual  
+
+development of things. So, I have to say, I have 
+-- I have had a very beautiful experience of the  
+
+ambition that the government and the policymakers 
+are making. I know there is -- there is always  
+
+stereotypical like the cliche in the private 
+sector that public sector is so slow and nothing  
+
+happens. And digitization is moving so slow. But 
+I really have to say I have witnessed firsthand  
+
+that there are really, really big steps being made 
+to use solutions like hours to implement them in  
+
+organizations where things like this are 
+a bureaucratic nightmare. they push for it  
+
+and speed it up and want the benefits to 
+reach the end beneficiaries. That's really,  
+
+really nice thing to watch and witness.
+I agree with you, Linda, that it has been --  
+
+I would say a painful experience to see that this 
+war accelerated the whole energy transition topic  
+
+in Europe once again. Where I thought it's just -- 
+yeah. Sad to see that something like this had to  
+
+happen to get another gear up that could have been 
+done without such a tragic side event happening.  
+
+But as some of the speakers yesterday 
+also said that a crisis is always also  
+
+bringing up opportunities which I'm glad 
+that many of the nations are taking now.
+ 
+
+Absolutely. Never let a good crisis go to waste. 
+And certainly this one touches on a subject near  
+
+and dear to us as the Energy Transition. That's 
+very powerful. Thank you for reminding that.  
+
+Reminding us of that, Aylin. Claudia, your 
+thoughts as well? You started to discuss  
+
+how the policy framework supports you. 
+So, perhaps you can do a deeper dive  
+
+into that. What would you like to see changed?
+Yes. Yep. For us, the -- our business model  
+
+works on its own. We don't need any -- in the 
+energy market, we only need a liberalized energy  
+
+market where it's possible that anybody can 
+sell energy. There's no monopolies on that.  
+
+And we need on the other hand, though, our clear 
+regulations and standardized processes to get  
+
+supplier license, for example, to be 
+able to sell the power to our clients.
+ 
+
+We see that in some markets. 
+In other markets it's more  
+
+fluid, flexible. There's certain new movements.
+You can say Kenya, you can say Kenya.
+ 
+
+You got the reference. There's always surprise. 
+But, of course, business has to, of course,  
+
+also anticipate. On the -- and also, feed 
+in tariffs, and metering systems, they help,  
+
+especially when you deal with businesses. Because 
+they close on the weekends, for example. Don't  
+
+produce, but the solar system produces power. 
+So, it could be fed into the grid. And wouldn't  
+
+go to waste. On the other hand, coming back 
+to Germany and to the policy that I mentioned,  
+
+it's the European crowd funding 
+service provider regime which is  
+
+a long word for a simple passporting solution. 
+So, you apply for one license, for example,  
+
+in Germany, in one EU country. And you 
+can offer your solution, the transparent  
+
+and direct green investment opportunities that we 
+have, we could offer them in other EU countries.
+ 
+
+This is what the E U wants. And they put 
+in a beautiful implementation. However,  
+
+the German implementation of the law puts 
+employees like me into personal liability.  
+
+No one wants to take that. We hope with the German 
+government, with the new government might look  
+
+into this again, it puts on a brake from rolling 
+out from Germany into the European crowd market.  
+
+This is a thing where you have a working 
+business model. You are innovative. But  
+
+then -- and also the political will is there. But 
+it stopped -- yeah, at this point implementation.
+ 
+
+Thank you. Sounds like it's solvable situation.
+Hopefully, yes. Maybe not in Germany.
+ 
+
+Yeah. Excellent. Thank you. 
+Over to you, Sebastian.
+ 
+
+So, I think overall I must say that there 
+has probably never been a better time to be  
+
+a climate tech entrepreneur.
+Wow.
+ 
+
+We started four years ago. I also say that 
+was pre-Greta. Just a little bit before  
+
+Fridays for Future caught public attention. 
+We started as a productivity solution. Because  
+
+we knew that like anything in the eco area would 
+have probably scared away investors that burned  
+
+a lot of money in the decade before. You wouldn't 
+have gotten attention for this. So, just us being  
+
+on this panel today, for example, and having a 
+prize with a lot of visibility in the media, et  
+
+cetera. That's really valuable. And I think that's 
+things that -- yeah. Weren't available before. And  
+
+so, we mostly have everything today that we 
+need. We got -- we have access to capital.  
+
+Even venture capital is back in that 
+market. And they're betting big today.
+ 
+
+We see that policy is changing at a speed that, 
+you know, wasn't heard of. I agree that trigger  
+
+is probably something that we would have liked to 
+avoid. But I think the most important policy that  
+
+we need is that the alternatives for clean energy 
+that we stop subsidizing them. Basically many  
+
+countries are still subsidizing fossil fuels. And 
+what we really need is the carbon taxation that  
+
+we start seeing. So, to give really energy a fair 
+market value. And then I don't think that any real  
+
+clean energy company needs public support 
+anymore. You know? Just be sure that we have  
+
+fair market conditions that we stop subsidizing 
+what we don't want to have anymore. And I think  
+
+there are a lot of companies that will flourish 
+and change the energy system for the better.
+ 
+
+Yeah. Absolutely. Now, thank you. This is 
+definitely a rare first for me. To sit with  
+
+entrepreneurs who feel for the most part supported 
+by their policy frameworks. That's fantastic. So,  
+
+for new innovators out there, you know, I 
+want to echo what Sebastian has said. It's  
+
+never been a better time to be a climate 
+innovator. That is something that I am going to  
+
+take with me. And maybe start to believe in my 
+own space and, you know, as I'm sure you've all  
+
+got your founder's stories. You know? Quite a few 
+bruises. But certainly the word of hope is very,  
+
+very powerful. There's never been a better 
+time to be a climate entrepreneur. Fantastic.
+ 
+
+Well, panelists, I'm gonna press a little bit more 
+in the last set of 10 minutes in our conference  
+
+here. And, you know, we started to touch on 
+that issue about resilience. And right now  
+
+obviously the topic on everyone's mind is we've 
+got the COVID-19 that is still going. A lot of us  
+
+want to think it is gone. It is still with us. Now 
+we've got the compounding geopolitical matters.  
+
+As an east African Kenyan, you know, we've got 
+drought conditions. Extreme drought conditions  
+
+that are really impacting the most vulnerable 
+amongst us. We have forgotten that we had a  
+
+locust invasion, you know, in East Africa. 
+Maybe you heard about it, maybe you didn't.  
+
+But all of these vulnerabilities have really 
+come to show that we cannot innovate fast  
+
+enough. Right? The work that you're doing 
+is basically needed yesterday. Right? So,  
+
+again, for all the -- all the innovators out 
+there looking to the energy space, you know,  
+
+we really do need all hands on deck. And make sure 
+that we are working together cooperatively as we  
+
+have been encouraged to make this a reality.
+So, with those few words, you know, you want  
+
+to again perhaps have you drill down more how your 
+specific innovation helps support vulnerabilities.  
+
+Vulnerable communities who are the first to 
+feel the effects of climate change. Right?  
+
+Developed nations. They have adaptation 
+capability from a financing standpoint.  
+
+Maybe from a technological standpoint. But 
+that is not equal across the world. So,  
+
+just thinking through how your innovation has 
+a global platform. And how your innovation  
+
+helps protect the most vulnerable amongst us in 
+the first hit when climate change is a reality.  
+
+And that's a big one. And Dr. Kuhn, I'm going 
+to spare you this one and I'm going to ask  
+
+Sebastian to start this one for us. 
+And then we'll come down this way.
+ 
+
+Thank you.
+You're welcome.
+ 
+
+Yes. We're doing this round backwards.
+Yes.
+ 
+
+Yes. So,  
+
+I'm going to make it short. I think it is always 
+best if you give people tools. I'm a huge believer  
+
+in giving people the tools to act on. And what we 
+give the people today in Europe is a possibility  
+
+to actually take matter into their own hands. They 
+don't need to wait for anything to be invented.  
+
+But they can't -- they have a solution to take 
+clean energy and to use it in their everyday work.  
+
+And they have the decision. It's a decision 
+they can take together. They -- today, you know,  
+
+they have to purchase something. They get their 
+money back. It's a good investment. And this is  
+
+the same thing I want to apply in general. And we 
+want to make tools for people and especially for  
+
+smaller communities to act on. As you said before, 
+I don't want to keep waiting for a utility to take  
+
+the arbitrary decision to connect my house to 
+the grid. I can take things into my own hands.
+ 
+
+Maybe someday I can take out my smartphone 
+and push a button in the app and say I need  
+
+electricity and someone is going 
+to deliver that electricity to me.  
+
+And if I'm a good customer and the whole thing 
+turns well, then in the next stage I'm going to be  
+
+investable also. I'm paying my bills. Someone 
+might put a landline to my house, or someone  
+
+might bullet a rooftop PV system on my house. And, 
+you know, we can enforce that cycle. You know? We  
+
+can go forward. But I really would like to see 
+that everyone has something they can do now to  
+
+improve their situation, to act on climate change. 
+And to take the first step. And I think a lot of  
+
+people, they just feel -- there's this fear 
+of, you know, something coming up. And what  
+
+you really want is really a possibility to change 
+things. And to take things into your own hands.
+ 
+
+Fabulous. Democratizing energy.
+Hopefully. It's a very big aim.
+ 
+
+Absolutely.
+And I really see  
+
+all of the solutions we heard together are 
+kind of puzzle pieces in getting that done.
+ 
+
+I like that. That's very 
+powerful. Thank you. Claudia.
+ 
+
+That was really a great cue for our 
+democratization, actually. Because this is  
+
+us being present only in emerging markets. 
+And having implementing our solution  
+
+there is already doing some of that work. So, we 
+are producing the energy where it is consumed.  
+
+Already contributing to the decentralized power 
+supply that -- and we don't need for a grid to  
+
+develop that clean energy and go to the energy 
+transition. We are making it possible now and  
+
+fast. We're fast in our implementation also 
+because the clients don't need any up front  
+
+capital because it's brought from the developed 
+world into the countries where it's needed.
+ 
+
+and also with that, yeah, since our beginning, of 
+course, since our clients do not need to invest  
+
+any capital into renewable energy solutions, they 
+can focus on their core business. And access to  
+
+finance for them is really in those markets more 
+-- yeah. They are very, very important and they  
+
+can put it into their core business and strengthen 
+the businesses and with that the communities  
+
+around them. Because they have, of course, 
+more security for their employees, et cetera.
+ 
+
+So, this is something we are already doing 
+today and with rolling out in more markets and  
+
+helping our clients to become more independent 
+of the grid and more independent also of fossil  
+
+fuels. I think we can really, yeah, take a lot 
+of the challenges that we are seeing right now  
+
+and that as you rightly put, this is said that 
+this is put to the agenda now only because of  
+
+this. Because of this war. But yeah. It's yeah. 
+A good crisis that we would -- we need to use.
+ 
+
+Absolutely. Yes.
+Well, in our case, this last question is  
+
+basically the core of our mission.
+Yeah.
+ 
+
+So, as I said in our introduction, our main 
+markets are the developing countries. When I talk  
+
+about the technology that we use and develop, it's 
+like speaking of Earth observation data and data  
+
+platforms. This all sounds like or is a very, very 
+sophisticated state-of-the-art technology, but  
+
+what we're doing with it is essentially bringing 
+light into the data darkness that is currently  
+
+the situation in those geographical areas. And 
+to shed light on this. Like we work in places,  
+
+for instance, rural areas in lots of African 
+countries where it is not known how many people  
+
+live in a village. Or if they have infrastructure 
+there. Or what type of commercial activities they  
+
+have. And now imagine investors or governments 
+wanting to bring development and wanting to  
+
+channel investments into those places without 
+knowing enough about the basic conditions. And  
+
+yeah. So, I see this as absolutely the -- 
+our top priority that we're trying to solve  
+
+with our technology that these things can be 
+catalyzed there on scale. And with fast speed.
+ 
+
+Yeah. I couldn't agree more. Could not agree 
+more. Data, absolutely powerful. Yeah, yeah.
+ 
+
+Yeah. It's a risky situation we are in, I think. 
+There is not much more fossil fuel available  
+
+at the moment. And that's a major problem 
+for the whole planet and for our regions.
+ 
+
+Some would argue that we 
+have quite a few reserves.
+ 
+
+Yeah, we have 50% of the reserves, I would 
+guess. But that means that we from now on  
+
+will not be able to produce more. We will 
+produce less every day. And that's -- that's  
+
+the point where wars will start because 
+everyone wants to have those percents.  
+
+And it's a risky situation we are 
+in. And it's more risky for the  
+
+states that are not as powerful. And now we 
+depend on this last reserves. And we have to  
+
+power up the renewable energy resources. And we 
+have to do that fast. And we have to do the second  
+
+thing, which we are working on, to raise the 
+efficiency level. You know, with our technology,  
+
+you can reach up to 90% of production 
+of electricity, for example. Whereas the  
+
+standard model reaches about 25 to 30%. It's 
+a huge difference that you have. A factor of  
+
+three depending on the application a factor of 
+five. And having five times the amount of energy  
+
+is filling up those few percents. And 
+we need -- we need a lot of energy also  
+
+to build more solar cells. They 
+are not produced by nothing.
+ 
+
+If you want to raise the amount of solar cells 
+and wind power, then you have to invest energy.  
+
+And that's -- that's the risk we are in. And we 
+don't rely only on these power sources, but also  
+
+on raw materials. And that's the next critical 
+point because there is not cobalt available  
+
+for more than 10 years and so, with lithium cobalt 
+cells we will not reach anything. And lithium  
+
+is also fully in the hands of China. And if we 
+have to apply sanctions because they start wars,  
+
+we are in a very risky situation. I don't hope it 
+will come to that point. But as I started with,  
+
+the risks are getting higher now.
+Yeah.
+ 
+
+So, we have to vastly improve the efficiency 
+levels. So, we have to invest in fuel cells. And  
+
+we have to invest in all other energy sectors.
+No, that's absolutely -- absolutely powerful.  
+
+And god forbid any of that happens with -- with 
+the interdependencies that we have seen that have  
+
+been thrown open with the current events.
+So, ladies and gentlemen, you can see for  
+
+yourself, you have heard for yourselves how these 
+four individuals and the organizations that they  
+
+represent absolutely are in the cutting edge of 
+innovations towards our 2030 climate goals. You've  
+
+heard their success stories, you've heard how 
+they've entered new markets, how they brought in  
+
+new technologies. How they're applying technology 
+integrated into -- into platforms that can then be  
+
+used in a democratic fashion. You know? That is 
+absolutely powerful. So, I want to congratulate  
+
+you four again. But I also know there are quite 
+a few winners. Since the SET was invented or,  
+
+you know, came to life 6 years ago. So, as we go 
+into our final round of comments, you know, I want  
+
+you to, you know, just, you know, conclude with 
+your final thoughts about this conference. Your  
+
+final thoughts about being a SET Award winner. 
+But most importantly, I would like you to spare  
+
+some words of encouragement that you can share 
+with other innovators out there who are looking to  
+
+advance SDG7. Right? That would be very, very 
+powerful for all the young people. And maybe not  
+
+so young like myself who are listening to you 
+and how you managed to succeed. A couple words  
+
+of encouragement that we can take away. Will 
+be powerful. I'm certainly taking away, it's  
+
+never been a better time to be climate innovator. 
+That's really going to stay with me for a while.
+ 
+
+So, help me close the panel by giving us your 
+final words. And your encouraging words. Yeah.  
+
+I think you can start with that.
+Yeah. So, be part of the SET awards.
+ 
+
+Yes!
+For us, it was really helpful to  
+
+win the SET awards last year. Because it gives 
+you a lot of a platform that you really need.
+ 
+
+And the platform, of course, 
+is a visibility. You are here.
+ 
+
+Yes.
+What else  
+
+are you encouraging others that they're going to 
+receive that you've received from the SET Award?
+ 
+
+It's also credibility that you get because it's 
+a huge community that checked on the technology  
+
+in the background. A lot of professors that are 
+really well known and have a lot of experience in  
+
+these topics.
+Fantastic, fantastic.  
+
+Excellent. How about you, Aylin?
+So, my takeaway is definitely the strength of  
+
+partnership that is needed but is also happening 
+between the public and private sector. And I was  
+
+very excited about having the professor here on 
+the first day who was promoting this very strongly  
+
+that we need a very strong partnership here. And 
+that especially the public sector needs to be  
+
+involved even more. Not only as a regulator, but 
+also in participating to move this all forward.  
+
+And my words of encouragement would probably, 
+Sebastian, inspired by what you said before, go to  
+
+investors and the people with the money saying 
+that they should really come along and continue on  
+
+this path that is happening. But also, get into it 
+and invest in the future rather than in the past.
+ 
+
+Fantastic. Excellent. Yep. 
+Claudia, your remarks, please?
+ 
+
+Yes. I think with energy transition having 
+it done worldwide. I see it globally and also  
+
+make the energy transition a just one. This is 
+what was discussed this morning. Is I think very,  
+
+very important to always keep that 
+in mind. And when we talk about that,  
+
+it's also talking about economic development. 
+It has to go hand in hand with that. From  
+
+the -- encouraging words from a startup that's 
+now 7 years old. It's all about realizing your  
+
+first -- I think you can all agree -- realizing 
+your first project and demonstrating that it's  
+
+working. And partnerships with the German 
+energy agencies and other support team, yeah,  
+
+public partners, you can get your foot into 
+the market. You can also enter new markets with  
+
+the support from the public. And I think when 
+you believe, yeah, in your solution. And it's  
+
+tackling those SDGs and the Climate Goals, 
+you should go ahead and move forward.
+ 
+
+Fantastic. No, thank you. Last, 
+but not least, Sebastian.
+ 
+
+Yes. So, a lot of takeaways from my 
+side. Maybe the most important was  
+
+walking away from a corporate career that I was 
+in before and actually starting my own business.  
+
+It was a hugely rewarding experience. So, I 
+really want to recommend to everyone out there who  
+
+is -- I think entrepreneurship is probably not for 
+everyone. But everyone who has thought about it,  
+
+who wants to do it, I would say try it, go ahead. 
+You know, there's -- whatever you think of, there  
+
+is probably a customer out there who was waiting 
+for you to come by and offer that solution.  
+
+And there's nothing better the moment when you 
+realize, oh, I have actually solved a problem that  
+
+has been there before. So, for me, that was always 
+really important. I think also if you consider  
+
+entrepreneurship, I want to encourage everyone 
+to really work on the problems that matter.  
+
+We see a lot of talent going into, I don't know, 
+NFTs, et cetera. There -- I think that we have  
+
+huge problems out there. And the transformation of 
+the energy system is probably one of the biggest  
+
+challenges that we ever had. So, I really want 
+to encourage people to work on these problems and  
+
+really, yeah, join us or any of the other 
+startups. So, if you don't want to found your  
+
+own company, there are a lot of quickly-growing 
+companies that need all the talent they can get.  
+
+And I -- I promise you it's going to be as 
+rewarding working for a company with a vision,  
+
+with a mission to change things as founding 
+your own. And yeah. And that's really something  
+
+we all need people to join us. We're not lonely 
+entrepreneurs here. We enjoy having the greatest  
+
+talent with us to move things. And I hope we can 
+make this a movement, actually. You know? So,  
+
+it doesn't really matter which movement you're 
+-- or which of the companies you join or if you  
+
+found your own, but in the end it's really 
+important that you start taking action.  
+
+And here we have it again. You know? It's your 
+chance to take action to do something about it.  
+
+And I think that's what we all did.
+And we want to encourage others or at least  
+
+I want to encourage others to do the same.
+Fantastic. Absolutely a powerful last round  
+
+from each of our speakers. We have heard, you 
+know, just literally, you know, solve problems and  
+
+just as we are doing here on stage. And I really 
+like that. Find problems that actually matter.  
+
+And I would like to offer that the climate 
+change energy issue is a problem worth  
+
+your time. Thank you very much, panelists. And 
+I wish you all the best. We will be cheering on  
+
+and hoping for your continued success. Especially 
+as we protect the most vulnerable amongst us  
+
+with your innovations. Act local, think global.  
+
+Those are the words that I would leave us 
+with. Thank you very much for joining us today  
+
+in celebrating this amazing startups at -- you 
+know, at the SET innovation panel. Thank you. 
+
+
