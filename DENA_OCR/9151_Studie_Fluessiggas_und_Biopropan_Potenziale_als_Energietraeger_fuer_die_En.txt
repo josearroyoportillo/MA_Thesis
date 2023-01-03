@@ -1,0 +1,2943 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flüssiggas und BioLPG.
+Potenziale als Energieträger für die Energiewende im ländlichen Raum.
+
+Impressum.
+
+Herausgeber.
+Deutsche Energie-Agentur GmbH (dena) Chausseestraße 128 a
+10115 Berlin
+
+Tel.: +49 (0)30 72 61 65-600
+Fax: +49 (0)30 72 61 65-699
+E-Mail: info@dena.de Internet: www.dena.de
+
+Autoren.
+Uwe Bigalke, dena Toni Reinholz, dena
+Stefan Siegemund, dena
+
+Auftraggeber.
+PRIMAGAS Energie GmbH & Co. KG
+
+Druck.
+druck.haus rihn GmbH, Blomberg
+
+Stand: 04/2016
+Alle Rechte sind vorbehalten. Die Nutzung steht unter dem Zustimmungsvorbehalt der dena.
+
+Diese Publikation wurde erstellt mit freundlicher Unterstützung durch die
+PRIMAGAS Energie GmbH & Co. KG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2      F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Inhalt.
+
+
+Executive Summary.                                              4
+1    Ziele der Energiewende im Wärmesektor.                              5
+1.1    Energiekonzept der Bundesregierung.                                    5
+1.2   Nationaler Aktionsplan Energieeffizienz (NAPE).                             5
+1.3   Instrumente zur Steigerung der Energieeffizienz und des Anteils erneuerbarer Energien.   5
+1.4   Energetische Sanierung als zentrale Säule der Energiewende.                       5
+2    Entwicklung und Szenarien des Energieverbrauchs in Deutschland.                6
+2.1   Aktueller Stand des Endenergieverbrauchs in Deutschland.                       6
+2.2   Szenarien.                                                  8
+2.3   Wärmeversorgung im ländlichen Raum.                                  10
+3    Energieträger Flüssiggas und BioLPG.                               13
+3.1    Einsatzmöglichkeiten von Flüssiggas.                                    13
+3.2   Eigenschaften von Flüssiggas.                                        13
+3.3   Ressourcengewinnung, Herkunft und Verfügbarkeit.                            14
+3.4   Flüssiggas in Deutschland.                                          15
+3.5   BioLPG – erneuerbares Potenzial von Flüssiggas.                              15
+4    Potenzial von Flüssiggas im Wärmebereich.                            17
+4.1   Modellrechnungen: Erreichung der Klimaziele der Bundesregierung
+in flüssiggasbeheizten Gebäuden.                                     17
+4.1.1   Perspektive 2030: 40 Prozent Primärenergiebedarfsreduzierung.                     18
+4.1.2   Perspektive 2050: 80 Prozent Primärenergiebedarfsreduzierung.                     21
+4.2   Rahmenbedingungen für die Wettbewerbsfähigkeit von Flüssiggas und
+BioLPG im Wärmemarkt.                                          23
+5    Fazit.                                                  24
+6    Literaturverzeichnis.                                         25
+7    Glossar.                                                28
+8    Abkürzungen.                                             30
+9    Anhang: Berechnungsergebnisse.                                  31
+9.1   Kaum gedämmte Gebäude (Perspektive 2030).                              31
+9.2   Mäßig gedämmte Gebäude (Perspektive 2030).                              32
+9.3   Mäßig gedämmte Gebäude (Perspektive 2050).                              33
+9.4   Gut gedämmte Gebäude (Perspektive 2050).                                34
+
+
+
+
+
+
+
+
+
+
+
+3
+
+Executive Summary.
+
+
+
+Eine effiziente Wärmeversorgung bildet die Basis für das Erreichen der Energiewendeziele der 
+Bundesregierung bis 2050. Das wichtigste Langfristziel für den Gebäudebereich ist es, dessen 
+Primärenergiebedarf bis 2050 um 80 Prozent gegenüber 2008 zu senken.
+
+Im Rahmen dieser Studie werden Möglichkeiten zur Erreichung dieses Ziels unter Nutzung des 
+Energieträgers Flüssiggas, der insbesondere für die rund zwei Millionen Gebäude ohne 
+Erdgasnetzanschluss im ländlichen Raum eine Alternative darstellt, aufgezeigt.
+
+Die wichtigsten Studienergebnisse:
+Flüssiggas ist heute und in Zukunft als Nebenprodukt der Herstellung von Mineralölprodukten und 
+Erdgas ausreichend verfügbar und leistet einen Beitrag zur Energieträgerdiversifikation und 
+Versorgungssicherheit. Zudem ist davon auszugehen, dass die Produktion von BioLPG in den kommenden 
+Jahren deutlich zunehmen wird. Damit eröffnen sich Optionen die CO2-Emissions- werte von Flüssiggas 
+zusätzlich zu senken.
+
+Einzelne Gebäude können durch den Austausch alter Heizungen gegen bewährte Flüssiggas-Anlagen- 
+kombinationen (z. B. Kombination Gas-Brennwert- mit Solarthermie- und Lüftungsanlage) oder gegen 
+innovative Heizsysteme (z. B. Gas-Wärmepumpe) rund 40 Prozent Primärenergie einsparen. In 
+Kombination mit einem Energieträgerwechsel von Öl oder Strom zu Flüssiggas sind sogar 
+CO2-Reduzierungen von über
+50 Prozent möglich.
+Die Primärenergiebedarfsziele der Bundesregierung sind für flüssiggasbeheizte Gebäude im Jahr 2050 
+erreichbar, sofern diese gut gedämmt und mit effizienter Heizungstechnologie ausgestattet sind. 
+Werden Gebäude bis 2050 nur mäßig gedämmt, ist die Zielerreichung durch den Einsatz von 
+hocheffizienten Heizungstechniken und Anlagenkombinationen sowie die anteilige Nutzung von BioLPG 
+möglich.
+
+Die Energieeffizienzstrategie Gebäude des Bundes sieht eine deutlich stärkere Nutzung von Biomasse 
+(fest, gasförmig, flüssig) vor. Sollen die Potenziale von BioLPG gehoben werden, müssen die 
+politischen
+Rahmenbedingungen verbessert werden. Ansatzpunkte dafür bieten beispielsweise die 
+Energieeinsparver- ordnung und das Erneuerbare-Energien-Wärmegesetz, in denen eine Anrechnung der 
+Nutzung von BioLPG derzeit nur sehr eingeschränkt möglich ist, d. h. bei räumlichem Zusammenhang 
+der Produktion bzw. nur bei Einsatz in KWK. Zudem müssen die wirtschaftlichen Rahmenbedingungen so 
+gestaltet werden, dass die energetische Gebäudesanierung für alle Einkommens- gruppen auch im 
+ländlichen Raum umsetzbar ist.
+
+Mäßig gedämmte Gebäude können in Kombination mit einer Gas-Brennwertheizung ein für 2030 
+anzustreben- des Zwischenziel von 40 Prozent Primärenergiebedarfs- reduzierung gegenüber einem 
+durchschnittlichen Wohngebäude im Basisjahr 2008 erreichen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4      F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Ziele der Energiewende im Wärmesektor.    1
+
+
+
+
+
+1   Ziele der Energiewende im Wärmesektor.
+
+
+
+Mit der Energiewende hat sich Deutschland das Ziel gesetzt, die eigene Energieversorgung auf eine 
+nachhaltige Basis zu stellen. Zum einem beinhaltet dies die Notwendig- keit einer effizienteren 
+Nutzung der Energie, um möglichst große Einsparungen zu erzielen, und zum anderen den Ausbau der 
+erneuerbaren Energien. Während die Entwick- lung des Anteils erneuerbarer Energien im Stromsektor
+die Erwartungen bisher übersteigt, hat der Wärmesektor noch Nachholbedarf. Um die gesteckten Ziele 
+zu erreichen, hat die Bundesregierung daher mehrere Maßnahmen beschlossen, die mittlerweile in 21 
+Gesetzen und Verord- nungen sowie verschiedenen Förderprogrammen umge- setzt wurden.
+
+
+1.1 Energiekonzept der Bundesregierung.
+
+Im Jahr 2010 erarbeitete die Bundesregierung eine lang- fristige Gesamtstrategie mit klima- und 
+energiepolitischen Zielsetzungen. Mit dem Energiekonzept hat die Bundes- regierung ehrgeizige und 
+verbindliche Ziele für den Klima- schutz auf nationaler Ebene formuliert. Danach sollen die 
+Emissionen bis zum Jahr 2020 um mindestens 40 Prozent und bis 2050 um 80 bis 95 Prozent gegenüber 
+1990 gesenkt werden. Der Beitrag der erneuerbaren Energien am Brutto- endenergieverbrauch soll bis 
+2020 auf 18 Prozent und bis 2050 auf 60 Prozent ausgeweitet werden. Um einen nahezu klimaneutralen 
+Gebäudebestand bis 2050 zu erreichen, sollen der Wärmebedarf bis 2020 um 20 Prozent und der Primär- 
+energiebedarf der Gebäude bis 2050 um 80 Prozent sinken.
+
+
+1.2 Nationaler Aktionsplan
+Energieeffizienz (NAPE).
+
+Eine wichtige Säule zum Gelingen der Energiewende ist die Energieeffizienz. Mit dem Nationalen 
+Aktionsplan Energie- effizienz (NAPE) hat die Bundesregierung ein umfassendes Paket zur Steigerung 
+der Energieeffizienz beschlossen.
+Diese basiert im Wesentlichen auf zwei Standbeinen. Das erste Standbein beinhaltet verschiedene 
+Sofortmaß- nahmen wie die Erhöhung des Fördervolumens für die Gebäudesanierung und die Einführung 
+einer von Bund und Ländern getragenen steuerlichen Förderung von Effizienz- maßnahmen im 
+Gebäudesektor (Umsetzung noch offen) sowie die verpflichtende Einführung von Energieaudits für 
+Nicht-KMU (kleine und mittlere Unternehmen). Das zweite Standbein besteht für den Wärmebereich aus 
+der Entwick- lung und Umsetzung einer Energieeffizienzstrategie für Gebäude, kurz ESG (BMWi, 
+2015a), die unter anderem die
+Einführung individueller Sanierungsfahrpläne beinhaltet. Mit dem NAPE wurden für Energieerzeuger 
+und Verbrau- cher folgende Ziele formuliert:
+Die Energieeffizienz im Gebäudebereich voranbringen Die Energieeffizienz als Rendite- und 
+Geschäftsmodell etablieren
+Die Eigenverantwortlichkeit für Energieeffizienz erhöhen
+Mithilfe der Maßnahmen soll der Primärenergieverbrauch aller Sektoren in Deutschland bis 2020 um 20 
+Prozent und bis 2050 um 50 Prozent gegenüber 2008 gesenkt werden.
+
+
+1.3 Instrumente zur Steigerung
+der Energieeffizienz und des Anteils
+erneuerbarer Energien.
+
+Die wesentlichen Elemente zur Steigerung der Energie- effizienz und des Ausbaus der erneuerbaren 
+Energien im Wärmemarkt sind die Energieeinsparverordnung (EnEV), das 
+Erneuerbare-Energien-Wärmegesetz (EEWärmeG),
+das Marktanreizprogramm (MAP) sowie weitere Förderpro- gramme der KfW. Die EnEV enthält rechtliche 
+Vorgaben für Bauherren – insbesondere im Hinblick auf Mindestanfor- derungen an die 
+Energieeffizienz von Neubauten oder die Mindestqualität einzelner Sanierungsmaßnahmen. Von den 
+Regelungen sind sowohl Wohn- als auch Nichtwohn- gebäude betroffen. Mit dem EEWärmeG soll vor allem
+der Anteil der erneuerbaren Energien am Endenergiever- brauch im Wärmesektor bis 2020 auf 14 
+Prozent ansteigen. Dies gilt aber weitestgehend nur für Neubauten. Für den Gebäudebestand ist vor 
+allem die Förderung mit Investitions- zuschüssen und zinsgünstigen Krediten durch die KfW und durch 
+das Marktanreizprogramm relevant.
+
+
+1.4 Energetische Sanierung als zentrale Säule der Energiewende.
+Den größten Einzelanteil am Endenergieverbrauch hat in Deutschland der Gebäudebestand mit 36 
+Prozent (dena, 2015). In diesem Bereich entstehen nach Berechnungen der dena ca. 32 Prozent aller 
+CO2-Emissionen. Damit kommt der energetischen Sanierung des Gebäudebestands zur Mini- mierung des 
+Energieverbrauchs für Heizung, Warmwasser und Lüftung eine besondere Bedeutung für die Erreichung 
+der Klimaschutzziele zu. Um die ambitionierten Ziele
+der Energiewende erreichen zu können, bedarf es einer Erhöhung der energetischen Sanierungsrate von 
+aktuell ca. 1 Prozent auf 1,5 bis 2 Prozent (Prognos et al., 2015).
+
+
+
+
+
+5
+
+2    Entwicklung und Szenarien des Energieverbrauchs in Deutschland.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 1: Ziele der Energiewende
+
+
+
+
+
+2  Entwicklung und Szenarien des
+Energieverbrauchs in Deutschland.
+
+2.1 Aktueller Stand des Endenergieverbrauchs in Deutschland.
+
+
+Deutschlands Energieverbrauch ist noch immer zu einem überwiegenden Teil von fossilen 
+Energieträgern
+abhängig. Gleichwohl ist der Anteil erneuerbarer Energien kontinuierlich gestiegen und betrug Ende 
+2014 13,7 Prozent (AGEE-Stat, 2015). Im Bereich Wärme- und Kältebereit- stellung sind es 12,5 
+Prozent, beim Stromverbrauch nach ersten Schätzungen in 2015 bereits knapp 33 Prozent.
+Das Erreichen eines höheren Anteils erneuerbarer Energien am Endenergieverbrauch aller Sektoren 
+wird dabei entschei- dend von den Fortschritten bei der Energieeffizienz und dem Energiesparen 
+abhängen. Der Endenergieverbrauch
+in Deutschland ist heute deutlich unabhängiger von
+der wirtschaftlichen Entwicklung als in der Vergangenheit, jedoch nicht vollständig entkoppelt. Wie 
+in Abbildung 2 ersichtlich, ist der Endenergieverbrauch aller Verbrauchs- sektoren gegenüber 1990 
+um gut 8 Prozent auf 2.402 TWh
+gesunken (BMWi, 2016), obwohl das Bruttoinlandsprodukt im selben Zeitraum um mehr als 30 Prozent 
+gewachsen ist (Statistisches Bundesamt, 2016).
+
+Während der Endenergieverbrauch seit 2008 (Bezugsjahr Energieziele im Gebäudebereich) in den 
+Bereichen Haushalte sowie Gewerbe, Handel, Dienstleistungen (GHD) um 11 bzw. 8 Prozent gesunken 
+ist, ist er in der Industrie konstant geblieben und im Verkehrssektor sogar um 2 Pro- zent 
+gestiegen. Dominiert wird der Endenergieverbrauch von Kraftstoffen und Mineralölprodukten (30 
+Prozent), Gasen (24 Prozent) und dem Bezug von Strom (21 Prozent). Die Herkunft des Stroms basiert 
+in Deutschland zu
+50 Prozent auf Kohle, gefolgt von erneuerbaren Energien (BMWi, 2016).
+
+
+
+
+
+
+
+
+6      F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Entwicklung und Szenarien des Energieverbrauchs in Deutschland.    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 2: Endenergieverbrauch in Deutschland nach Verbrauchssektoren 1990 bis 2014
+
+
+
+
+
+Private Haushalte und GHD haben mit 975 TWh einen Anteil von 40 Prozent am gesamten 
+Endenergieverbrauch (BMWi, 2016). Der Energiebedarf wird dabei zu 34 Prozent über Gas (davon 97 
+Prozent Erdgas, ca. 3 Prozent Flüssiggas) gedeckt. Es folgen der Verbrauch von Strom (28 Prozent),
+Heizöl (18 Prozent) und erneuerbaren Wärmeträgern (10 Prozent). Die größten Verbrauchsfaktoren sind 
+die Bereitstellung von Raumwärme und Warmwasser.
+Knapp 83 Prozent der Endenergie in privaten Haushalten und 53 Prozent in GHD werden dafür 
+aufgewendet.
+Im Bereich Raumwärme und Warmwasser spielt die Energie- bereitstellung durch Erdgas als Folge der 
+verbesserten Netzabdeckung eine immer größere Rolle. Knapp ein Viertel der Energie wird über Heizöl 
+bezogen (Destatis, 2014).
+Flüssiggas ist in den Statistiken unter dem Energieträger
+„Gas“ jeweils mit erfasst. Es kommt vor allem dort zur Anwendung, wo Erdgas mangels Netzabdeckung 
+nicht zur Verfügung steht. Kapitel 3.4 geht im Detail auf die Anwendungsbereiche und den Umfang des 
+Einsatzes von Flüssiggas ein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 3 : Endenergieverbrauch in GHD und privaten Haushalten 2014
+
+7
+
+2    Entwicklung und Szenarien des Energieverbrauchs in Deutschland.
+
+
+
+
+
+2.2 Szenarien.
+
+
+Die Bundesregierung verfolgt mit ihrem Energiekonzept das ambitionierte Ziel, die Emissionen von 
+Treibhausgasen (THG) sektorübergreifend bis 2050 um 80 bis 95 Prozent zu senken. Um dieses Ziel zu 
+erreichen, strebt die Bundesre- gierung bis 2050 einen nahezu klimaneutralen Gebäudebe- stand und 
+eine Senkung des Primärenergiebedarfs um
+80 Prozent, unter anderem durch eine deutlich höhere energetische Sanierungsrate (Gebäudehülle und 
+Anlagen- technik) von 2 Prozent p.a., an (Bundesregierung, 2010).
+
+Gemäß Energiereferenzprognose und Trendszenario des BMWi (Prognos/EWI/GWS, 2014) wird unter der 
+Annahme, dass die Endenergieproduktivität um knapp 2 Prozent p.a. steigt, der Endenergieverbrauch 
+im Jahr 2030 16 Prozent und im Jahr 2050 28 Prozent unter dem Referenzwert von 2011 (2.467 TWh) 
+liegen.
+
+Die in privaten Haushalten und GHD benötigte Energie wird demnach überproportional abnehmen, um 19 
+bzw. 27 Prozent bis 2030 und um 37 bzw. 36 Prozent bis 2050. Der Anteil erneuerbarer Energien (ohne 
+Strom) in privaten Haushalten wird gemäß Trendszenario bis 2050 auf 32 Pro- zent steigen und damit 
+das Niveau von Erdgas (28 Prozent) und Heizöl (7 Prozent) übertroffen haben. In GHD wird
+im Jahr 2050 Strom mit 53 Prozent die Energienachfrage bestimmen, der Anteil der erneuerbaren 
+Energien wird deutlich von derzeit 6 auf 20 Prozent anwachsen (Prognos/ EWI/GWS, 2014).
+
+Wesentlichen Einfluss auf die gesamte Energienachfrage wird die Entwicklung des Raumwärmebedarfs 
+besitzen. Die Ergebnisse unterschiedlicher Entwicklungsszenarien gehen von einer 
+Endenergieminderung von 41 bis 88 Prozent bis 2050 gegenüber 2014 aus. Würde das WWF- 
+Innovationsszenario (WWF, 2009), dem bereits ab 2020 eine konsequente Sanierung des Bestands sowie 
+Neubau im Passivhausstandard zu Grunde liegen, umgesetzt, könnte das Politikziel, die THG um 80 
+Prozent zu reduzieren, nahezu ohne einen zusätzlichen Einsatz erneuerbarer Energien erreicht 
+werden. Dies würde jedoch eine erhebliche Steigerung der energetischen Sanierungsrate gegenüber den 
+letzten zehn Jahren erfordern. Demgegenüber gehen das Referenzszenario SzEK Ref (Prognos/EWI/GWS, 
+2010) wie auch das BMWi-Trendszenario (Prognos/EWI/GWS, 2014) von einer Endenergieminderung um gut 
+40 Prozent aus. Damit würde ein deutlich höherer Anteil erneuerbarer Energien benötigt werden, um 
+die gesteckten Ziele zur Reduzierung des Primärenergiebedarfs und der THG zu
+erreichen. Die Energieeffizienzstrategie Gebäude des BMWi (BMWi, 2015a) sieht die möglichen Pfade 
+der Endenergie- reduzierung in einem deutlich engeren Bereich zwischen 36 und 54 Prozent¹ – je 
+nachdem, ob künftig verstärkt auf
+Energieeffizienz der Gebäudehüllen und -anlagentechnik oder erneuerbare Energien gesetzt wird. Der 
+Anteil, den die vorwiegend fossilen Energieträger Öl und Gas 2050 am Wärmemarkt noch haben werden, 
+beträgt nach den Prog- nosen der Strategie zwischen ca. 15 und 30 Prozent des dann deutlich 
+geringeren Endenergieverbrauchs für Wärme.
+Der Verbrauch von Öl und Gas läge damit 2050 um über 80 Prozent niedriger als 2008. Im 
+Erneuerbare-Energien-
+Szenario steigt zudem der Verbrauch von Biomasse – zu der die Strategie auch Biogas zählt – um 70 
+Prozent gegenüber 2008 an und deckt 2050 insgesamt bis zu 22 Prozent des Wärmebedarfs.
+
+Die Wärmewende ist folglich weder ohne eine effiziente Gebäudedämmung noch ohne effiziente 
+Heizungsanlagen und den Einsatz erneuerbarer Energien zu erreichen.
+Gleichwohl verbleibt ein Bedarf an fossiler Wärmeenergie, der beispielsweise zur Deckung von 
+Verbrauchsspitzen erforderlich ist.
+
+Laut BMWi-Trendszenario wird sich der Endenergiebedarf für Raumwärme in privaten Haushalten und GHD 
+bis 2050 durch Energieeffizienzmaßnahmen auf 324 TWh halbieren. Mit dieser Entwicklung einher geht 
+eine deutliche Änderung der Energieträgerstruktur. Insbesondere Heizöl (–54 Prozent) verliert an 
+Bedeutung, aber auch der Erdgasverbrauch sinkt aufgrund der geringeren Gesamtnachfrage.
+Demgegenüber gewinnen dezentral einsetzbare erneuer- bare Energien wie Holz oder Solarthermie an 
+Bedeutung. Für die Bereitstellung der Raumwärme bleibt Erdgas mit einem Anteil von 36 Prozent der 
+wichtigste Energieträger, Öl hat 2050 noch einen Anteil von 9 Prozent (Prognos/EWI/ GWS, 2014). Die 
+oben beschriebenen Szenarien nehmen nur eine Gesamtbetrachtung der Wärmeversorgung vor. Etwaige 
+Besonderheiten des ländlichen Raums werden dabei nicht explizit bewertet. In den folgenden Kapiteln 
+wird daher im Detail auf diese Besonderheiten eingegangen.
+
+1   Anders als in der EnEV sind dabei Endenergieeinsparungen nicht einbezogen, die durch die 
+Nutzung von Umgebungswärme (Wärmepumpen) und Solarthermie entstehen. Abzüglich der Umgebungswärme 
+und der Solarthermie ergeben sich sogar erforderliche Einsparungen von 54 bis 62 Prozent Endenergie 
+gegenüber 2008.
+
+8      F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Entwicklung und Szenarien des Energieverbrauchs in Deutschland.    2
+
+
+
+
+
+900
+
+.8 800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+
+0
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+
+
+
+—  Stand 2008
+
+SzEK II/III
+
++  BMWI Trendszenario
+
+IWU/IFEU/Prognos - SZEffizienz
+Stand 2014
+
+x  SzEK Ref
+0  BMUB Leitszenario
+
+IWU/IFEU/Prog nos - SZErneuerbare
+SzEK I/IV
+
+WWF- Szenario „Innovation“ IWU/IFEU/Prog nos - RefSz
+
+
+
+Abbildung 4: Übersicht Szenarien Raumwärmebedarf in TWh in Deutschland (Werte nicht klimabereinigt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+2    Entwicklung und Szenarien des Energieverbrauchs in Deutschland.
+
+
+
+
+
+2.3 Wärmeversorgung im ländlichen Raum.
+
+
+Die Wärmeversorgung im ländlichen Raum unterscheidet sich deutlich von der Versorgung des urbanen 
+Raumes durch den Grad des Gas- und Fernwärmenetzanschlusses. Die Optionen der Wärmeversorgung 
+beschränken sich dort häufig auf nicht-leitungsgebundene Energieträger wie Flüssiggas, Heizöl und 
+Holz sowie auf Solarwärme.
+Die Kosten der Energieversorgung spielen im ländlichen Raum wegen der geringeren Wirtschaftskraft 
+eine beson- dere Rolle: Laut OECD ist der Anteil des ländlichen Raums am Bruttoinlandsprodukt (BIP) 
+mit 9 Prozent deutlich niedriger als der Bevölkerungsanteil (12 Prozent) und damit im Vergleich zum 
+städtischen Raum unterdurchschnittlich (OECD, 2007).
+
+Der ländliche Raum wird in der Forschung meist über die Einwohnerdichte der Gebiete definiert. Im 
+weiteren Verlauf dieser Studie werden dagegen unter dem Begriff
+„ländlicher Raum“ die Gebiete zusammengefasst, in denen kein Gasnetzanschluss verfügbar ist. Nach 
+hohen Investitionen in das Erdgasnetz in den Nachwendejahren (durchschnittlich ca. 2,5 Mrd. EUR 
+p.a.), in deren Folge das Netz von 250.000 auf 500.000 km anwuchs, sind die Inves- titionen wieder 
+deutlich auf ein Niveau von 1,2. bis 1,3 Mrd. EUR p.a. zurückgegangen. In den letzten Jahren wuchs 
+die Länge des Erdgasnetzes nur noch um 1 bis 2 Prozent pro Jahr – der ländliche Raum wird also auch 
+in Zukunft auf nicht-leitungsgebundene Energieträger angewiesen sein (BDEW, 2016).
+Zur genauen Zahl von Gebäuden und Wohnungen ohne Erdgasanschluss gibt es keine offiziellen 
+Statistiken.
+Für eine Näherung dieser Zahl wurde für diese Studie auf Basis von Geodaten die Anzahl von Häusern 
+verschiedenen Typs ermittelt, die sich in einem Gebiet ohne Gasnetz- betreiber befinden (Lutum + 
+Tappert, 2016). Dabei wird Deutschland in eine Vielzahl von kleinen Gebieten einge- teilt, von 
+denen die meisten noch kleiner als die über 11.000 Gemeinden in Deutschland sind. Jedes dieser 
+Gebiete wird dann jeweils einem Gasnetzbetreiber zugeordnet, der dieses Gebiet ganz oder teilweise 
+abdeckt. Alle Gebiete,
+die keinem Gasnetzbetreiber zugeordnet sind, können als
+„Gebiete ohne Gasnetz“ eingeordnet werden, für die dann mithilfe von Geo-Informations-Systemen 
+(GIS) die Anzahl der verschiedenen Gebäude ermittelt werden kann, die sich darin befinden. 
+Abbildung 5 zeigt das Ergebnis als Anteil der Wohngebäude ohne Gasanschluss auf Kreis- ebene im 
+Vergleich zur Einordnung der städtischen und ländlichen Kreise.
+
+Aus der Auswertung (Tabelle 1) ergeben sich die folgenden Zahlen je Bundesland:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 5: Verteilung der städtischen und ländlichen Kreise (BBSR, 2015) und Anteil der 
+Wohngebäude im Kreis ohne Gasnetzanschluss (eigene Berechnungen auf Basis von (Lutum + Tappert, 
+2016) und (Statistische Ämter des Bundes und der Länder, 2016)).
+
+
+10     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Entwicklung und Szenarien des Energieverbrauchs in Deutschland.    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabelle 1: Anzahl von Gebäuden je Bundesland ohne Gasanschluss (Lutum + Tappert, 2016)
+
+
+
+
+Aus der Auswertung lässt sich die Zahl von mindestens
+1,9 Millionen Ein- und Zweifamilienhäusern (12 Prozent des Bestands) mit ca. 2,3 Millionen 
+Wohnungen sowie rund
+230.000 Mehrfamilienhäusern (7 Prozent des Bestands) mit ca. 1,1 Millionen Wohnungen ableiten, die 
+über keinen Gasanschluss verfügen. In Summe sind dies also rund
+3,4 Millionen Wohnungen (vgl. Tabelle 1).
+
+Darüber hinaus sind ca. 100.000 der rund 3 Millionen Nicht- wohngebäude (3 Prozent des Bestands) 
+nicht an das Gas- netz angeschlossen. Da es derzeit keine belastbaren Zahlen für Nichtwohngebäude 
+je Bundesland gibt, kann der Anteil je Bundesland nicht ausgewiesen werden.
+
+Es zeigt sich, dass der Anteil der nicht an das Gasnetz angeschlossenen Ein- und Zweifamilienhäuser 
+besonders hoch in Bayern (30 Prozent), Rheinland-Pfalz (22 Prozent) sowie in Hessen (19 Prozent) 
+und dem Saarland (19 Prozent) ist. In diesen Bundesländern gibt es eine Vielzahl von
+
+Kreisen – in Summe über 20 –, in denen in mehr als 50 Pro- zent der Wohngebäude kein Erdgas 
+verfügbar ist. In den Stadtstaaten Berlin, Hamburg und Bremen sind dagegen nahezu alle Gebäude an 
+das Gasnetz angeschlossen.
+
+Die absolute Zahl von Gebäuden in Regionen ohne Gasnetz ist in Bayern mit fast 1 Million Gebäuden 
+am höchsten, gefolgt von Baden-Württemberg, Rheinland-Pfalz und Hessen mit jeweils etwa einer 
+Viertel Million Gebäuden (vgl. Abbildung 6).
+
+Laut (BDEW, 2015) werden ca. 600.000 Wohnungen in Deutschland mit Flüssiggas beheizt (Hochrechnung 
+aus Umfragen). Es ist davon auszugehen, dass sich ein großer Teil dieser Wohnungen im ländlichen 
+Raum, insbesondere in Regionen ohne Gasanschluss, befindet. Nach (Prognos, 2011) ist knapp die 
+Hälfte des Flüssiggasverbrauchs (Brenngas Tank) auf den ländlichen Raum zurückzuführen.
+
+11
+
+2    Entwicklung und Szenarien des Energieverbrauchs in Deutschland.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 6: Anzahl der Gebäude ohne Gasnetzanschluss in den Bundesländern ( (Lutum + Tappert, 
+2016), eigene Berechnungen)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Energieträger Flüssiggas und BioLPG.   3
+
+
+3  Energieträger Flüssiggas und BioLPG.
+
+
+3.1 Einsatzmöglichkeiten von Flüssiggas.
+
+Flüssiggas ist ein vielseitig einsetzbarer Energieträger, der in allen Verbrauchssektoren Anwendung 
+findet. Verbrau- chern ist Flüssiggas auch geläufig unter den Bezeichnungen Autogas, Treibgas oder 
+LPG (Liquified Petroleum Gas).
+Die stärkste Nachfrage besteht als Brennstoff zum Heizen, zur Warmwassererzeugung oder als 
+Prozesswärme, für die Weiterverarbeitung zu Kunststoffen und anderen chemischen Produkten in der 
+Industrie oder als Kraftstoff im Verkehr.
+
+Insbesondere im ländlichen Raum, wo ca. 26 Prozent der Einwohner Deutschlands leben (Prognos, 
+2011), ist Flüssig- gas eine wichtige Energiequelle. Denn in Gegenden abseits der Ballungszentren 
+ist die Verlegung von Erdgasleitungen häufig unwirtschaftlich. Flüssiggas ist leitungsungebunden, 
+unter geringem Druck transportierbar sowie einfach
+zu lagern.
+
+
+3.2 Eigenschaften von Flüssiggas.
+
+
+Flüssiggase bestehen hauptsächlich aus Kohlenstoff (C) und Wasserstoff (H2). Im engeren Sinne 
+werden darunter die beiden Gase Propan (C3H8) und Butan (C4H10) zusammenge- fasst. Propan und Butan 
+bestehen aus leicht verflüssigbaren Kohlenwasserstoff-Verbindungen (CnHm) mit drei oder vier 
+Kohlenstoff-Atomen (C) und können miteinander als Flüssiggas vermischt werden. Flüssiggas muss in 
+Deutsch- land im Wärmemarkt die Anforderungen der DIN 51622 erfüllen. Diese sieht ein 
+Mischungsverhältnis von 95 Prozent Propan und Propen zu 5 Prozent aus den Bestand- teilen Ethan, 
+Butan und Butanisomeren vor. In anderen Verwendungspfaden ist das Mischungsverhältnis weniger 
+begrenzt und variiert entsprechend stärker.
+
+Flüssiggas ist im Normalzustand (20 °C Raumtemperatur) ein gasförmiges Brenngas, das unter einem 
+Druck von
+ca. 8 bar flüssig wird. Die Verflüssigung kann aber auch über die Kühlung des Gases erreicht 
+werden. Propan geht bei einer Temperatur von –42,1 °C in den flüssigen Zustand über, Butan bereits 
+bei einer Temperatur von –0,5 °C.
+Im Gegensatz zu Erdgas ist Flüssiggas schwerer als Luft und fällt im gasförmigen Zustand 
+sprichwörtlich zu Boden. Dabei besitzt es das 260-fache Volumen im Vergleich zum flüssigen Zustand. 
+Das bedeutet, dass aus etwa 4 Litern Flüssiggas 1.000 Liter Gas werden. Dadurch wird der ein- fache 
+und leitungsungebundene Transport per Tank-Lkw, Binnenschiff oder Zug ermöglicht. Bei der 
+Verbrennung von Flüssiggas reagieren dessen einzelne Bestandteile
+
+
+
+
+
+
+
+
+
+
+Abbildung 7: Einsatzmöglichkeiten von Flüssiggas (PRIMAGAS, 2016)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 8: Treibhausgasemissionen in CO -Äquivalent pro kWh²
+
+2 CO2 ist das bedeutendste Treibhausgas. Unter bestimmten Bedingungen können bei der Verbrennung 
+auch andere Treibhausgase in hohen Anteilen anfallen. Das CO2-Äquivalent beschreibt, wie viel ein 
+Treibhausgas zum Treibhauseffekt beiträgt. Als Vergleichswert dient Kohlendioxid. Weitere Gase mit 
+THG-Potenzial sind unter anderem Methan oder Lachgas. Diese werden gemäß ihrer Klimawirksamkeit bei 
+der Bilanzierung der Treibhausgase entsprechend berücksichtigt.
+
+13
+
+3    Energieträger Flüssiggas und BioLPG.
+
+
+
+
+
+
+(Kohlenstoff [C] und Wasserstoff [H2]) mit Sauerstoff (O2) zu Kohlendioxid (CO2) und Wasserdampf 
+(H2O). Aufgrund des geringen Kohlenstoffanteils setzt es dabei rund 16 Prozent weniger CO2 frei als 
+Heizöl (IWU, 2014).
+
+Ein weiterer Vorteil von Flüssiggas ist, dass dieses bei seiner Verbrennung weniger Luftschadstoffe 
+emittiert. Unter anderem zählen hierzu die Feinstaubemissionen, welche über die Atemwege bis in den 
+Blutkreislauf eines Menschen gelangen können. Weitere Luftschadstoffe sind Schwefeldioxid, dessen 
+Emissionen direkt vom Schwefel- gehalt des Brennstoffes abhängen und Stickoxide, die als 
+unerwünschte Nebenreaktionen bei der Verbrennung entstehen. Aufgrund des niedrigeren 
+Schwefelgehalts sind die Schwefeldioxid-Emissionen von Flüssiggas um über die
+Hälfte geringer als bei Heizöl. Auch die Feinstaubemissionen sind infolge der geringeren Ruß- und 
+Aschebildung im Flüssiggas geringer. Zudem emittiert Flüssiggas als Brenn- stoff weniger Stickoxide 
+als Heizöl.
+Flüssiggasnutzung bei gleichzeitiger Substitution bzw. Schonung anderer fossiler Quellen kann auf 
+einfachem Wege die Ressourceneffizienz erhöht werden. Durch verschiedene Bestrebungen 
+erdölfördernder Länder war die Abfackelung von Erdölbegleitgasen von 2005 bis 2010 weltweit um ca. 
+15 Prozent rückläufig. Seitdem verbleiben die jährlichen Abfackelmengen jedoch auf einem hohen 
+Niveau von ca. 140 Milliarden m³ (ERA, 2015).
+
+Weltweit stammen etwa 60 Prozent des Flüssiggases aus der Erdgasförderung und etwa 40 Prozent aus 
+der Rohölverarbeitung in Raffinerien. Bei der Verarbeitung des Rohöls in Raffinerien werden die 
+darin enthaltenen
+Kohlenwasserstoffe durch Erhitzung und Druck in einzelne Fraktionen zerlegt und schließlich zu 
+verschiedenen Mineralölprodukten verarbeitet. Flüssiggas hat davon einen Anteil von 2,5 bis 3 
+Prozent (BAFA, 2014). Der größte Teil
+des produzierten Flüssiggases wird direkt in den Herkunfts- ländern verbraucht.
+
+
+
+
+
+
+
+
+
+
+Tabelle 2: Luftschadstoffe verschiedener Energieträger im Vergleich (Quelle: (GEMIS, 2014)⁵)
+
+
+3.3 Ressourcengewinnung, Herkunft und Verfügbarkeit.
+
+
+Flüssiggas fällt als Nebenprodukt in Form von Begleitgasen bei der Rohöl- und Erdgasförderung sowie 
+bei der Rohöl- verarbeitung in Raffinerien an. Die Zusammensetzung dieser Begleitgase variiert 
+mitunter stark und besteht zum Großteil aus Methan, Butan und Propan.
+
+Um bei der Rohölförderung aus dem Begleitgas Flüssiggas zu gewinnen, muss es gereinigt und 
+aufbereitet werden. In der Vergangenheit wurde daher meist auf die Aufbereitung verzichtet und die 
+Begleitgase wurden in die Atmosphäre abgelassen (sogenanntes Venting) oder per Gasfackel 
+abgefackelt (sogenanntes Flaring). Nach Berechnungen
+der US-amerikanischen Umweltbehörde und der Weltbank sind allein durch Begleitgase 
+Treibhausgasemissionen in Höhe von 460 Millionen Tonnen CO2-Äquilvalent pro Jahr
+entstanden (Donner & Winter, 2012). Dies entspricht mehr
+als 2 Prozent der globalen energiebedingten Treibhaus- gasemissionen. Aus Perspektive des 
+Ressourcen-, Klima- und Umweltschutzes sowie der sozialen Gerechtigkeit sollten die Begleitgase 
+daher einer energetischen oder stofflichen Nutzung zugeführt werden. Mit Erhöhung der
+
+
+
+
+
+Abbildung 9: Produktion und Verbrauch von Flüssiggas weltweit
+
+
+
+Nach Schätzungen von BP wird sich die langfristige weltweite Nachfrage nach Erdöl und Erdgas 
+aufgrund des steigenden Bevölkerungswachstums sowie des weiterhin zu erwartenden hohen 
+Wirtschaftswachstums signifikant erhöhen (BP, 2016). Damit wird auch eine erhöhte Produk- tion von 
+Flüssiggas einhergehen. Des Weiteren ist es wahrscheinlich, dass die weltweiten Bestrebungen zur 
+Vermeidung von Venting und Flaring und die damit ver- bundene erhöhte Ressourceneffizienz ebenfalls 
+zu einer Erhöhung des Flüssiggasangebots führen werden.
+
+
+14     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Energieträger Flüssiggas und BioLPG.   3
+
+
+
+
+
+3.4 Flüssiggas in Deutschland.
+
+Das in Deutschland eingesetzte Flüssiggas stammt zu einem überwiegenden Teil aus der Produktion 
+deutscher Raffinerien, die Flüssiggas als Koppelprodukt der Rohölver- arbeitung gewinnen (MWV, 
+2015). Die daraus produzierten Mengen beliefen sich 2014 auf 2.518.347 Tonnen (BAFA, 2014). Die 
+importierten Mengen an Flüssiggas stammen hauptsächlich aus dem Nordseeraum. Die Mengen gelangen 
+dabei über die LPG-Terminals in Antwerpen, dem nieder- ländischen Vlissingen oder Brunsbüttel nach 
+Deutschland. Im Jahr 2014 wurden 672.370 Tonnen Flüssiggas nach Deutschland importiert (BAFA, 
+2014). Die Versorgung mit Flüssiggas kann nach derzeitigem Stand als langfristig gesichert 
+angesehen werden.
+
+Flüssiggasanwendungen haben eine lange Tradition in Deutschland und gehen bis in die 1950er Jahre 
+mit dem einsetzenden Wachsen des Energiebedarfs zurück.
+Im ersten Jahrzehnt nach der Jahrtausendwende stieg der Flüssiggasverbrauch jährlich an, was vor 
+allem auf die Verwendung als Kraftstoff und den verstärkten Einsatz in der chemischen Industrie 
+zurückzuführen ist. Im Jahr 2014 belief sich der Verbrauch von Flüssiggas auf ca. 37 TWh, davon ca. 
+15 TWh als Heizstoff (Destatis, 2015). Über die Hälfte des Verbrauchs als Heizstoff geht dabei auf 
+die privaten Haushalte mit ihren ca. 600.000 Flüssiggas beheizten Wohnungen zurück. Daraus folgt, 
+dass die übrigen Mengen auf die Wärmeerzeugung in Gewerbe und Industrie entfallen. Die Nachfrage 
+aus dem Kraftstoffsektor ging 2014 um ca. 0,4 TWh gegenüber dem Vorjahreszeitraum zurück (Destatis, 
+2014). Gleiches gilt für die chemische Industrie. Insbesondere die verringerte Produktion der 
+Grundstoffchemie führte zu einem starken Nachfragerück- gang. Insgesamt kann aber von einer 
+stabilen Nachfrage ausgegangen werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 10: Flüssiggasverbrauch in Deutschland nach Sektoren
+
+
+
+
+3.5 BioLPG – erneuerbares Potenzial von Flüssiggas.
+
+Die Energieversorgung der Zukunft wird vor allem auf erneuerbaren Energien basieren. Mittlerweile 
+gibt es mehrere unterschiedliche technische Verfahren, die die Gewinnung von Propan aus 
+nachwachsenden Rohstoffen und biogenen Abfallstoffen ermöglichen.
+
+Eine interessante Option zur Gewinnung von BioLPG bietet sich bei der Produktion von 
+Biokraftstoffen aus hydrierten Pflanzenölen (HVO) an. Als HVO werden Pflanzenöle wie Rapsöl 
+bezeichnet, die durch eine katalytische Reaktion mit Wasserstoff (Hydrierung) in Kohlenwasserstoffe 
+um- gewandelt werden. Um die Reaktion auf dem Katalysator auszulösen, müssen die Einsatzstoffe 
+zunächst erhitzt werden. Bei der Reaktion entsteht dann neben dem hyd- rierten Pflanzenöl 
+CO2-freies BioLPG aus nachwachsenden Rohstoffen (Thünen, 2015).
+
+
+
+
+
+
+
+
+
+Auch wenn die Produktion von BioLPG bisher stark von der produzierten Menge an HVO abhängig ist, 
+bietet das Ver- fahren die Chance die bestehende Raffinerieinfrastruktur zu nutzen. Durch 
+Umwandlung dieser Anlagen zu Bioraf- finerien kann zum einen auf eine etablierte Struktur in der 
+Produktion gesetzt werden und zum anderen die Kosten der Transformation hin zu einer nachhaltigen 
+Ökonomie gering gehalten werden. Die momentan verfügbaren Kapa- zitäten für HVO-Anlagen liegen bei 
+ca. 2 Millionen Tonnen. In den nächsten drei Jahren sollen nach offiziellen Angaben noch einmal 
+1,77 Millionen Tonnen hinzukommen (Gree- nea, 2015). Unter Berücksichtigung des daraus ableitbaren 
+technischen Potenzials könnten ca. 200.000 Tonnen (ca.
+2,57 TWh) BioLPG produziert werden. Mit dieser Menge könnten schon heute ca. 17 Prozent des 
+Flüssiggases, das derzeit zur Deckung des Heizbedarfs eingesetzt wird, durch BioLPG ersetzt werden.
+
+Die Herstellung von BioLPG aus der HVO-Produktion steht noch am Anfang und ist das zurzeit einzige 
+kommerziali- sierte Verfahren im Markt. Erste Produktionsanlagen, wie zum Beispiel in Rotterdam, 
+werden noch in diesem Jahr ihre Arbeit aufnehmen (Global Energy, 2016). Inwiefern sich das 
+Potenzial aus der HVO-Produktion neben den bereits bekannten Projekten weiterentwickeln wird, kann 
+nach
+
+3 Die Angabe „Staub“ beinhaltet sowohl unspezifizierte Staubpartikel als auch die detailliert 
+angegebenen Staubpartikel wie zum Beispiel Feinstaub PM 10.
+4 Leichtes Heizöl.
+5  Wärmebereitstellung endenergiebezogen in kWh (inputbezogen), Szenario für Heiz- und 
+Prozesswärmesysteme – alle Heiz- und Prozesswärmelieferanten definitorisch mit 100 Prozent 
+Nutzungsgrad angesetzt, um die Emissionen usw. auf den Endenergieeinsatz zu beziehen. Neben 
+Heizsystemen sind auch Kessel für Fernwärme (Gas, Öl) sowie industrielle Prozesswärmekessel für 
+Gas, Öl und Kohle enthalten. Gesamter Lebenszyklus inklusive Transporten und Materialvorleistung, 
+ohne Entsorgung.
+
+15
+
+3    Energieträger Flüssiggas und BioLPG.
+
+
+
+
+
+
+
+
+Pflanzenöle, tierische Fette
+
+
+
+HVO
+Zellulosehaltige Biomasse, Stärke, Zucker
+
+Fischer- Tropsch- Verfahren
+
+
+
+Pyrolyse
+
+
+
+MTG-
+Verfahren
+
+Glyzerin
+
+
+
+Dehydration/ Hydrierung
+
+
+
+Abbildung 11: Bestehendes Potenzial von BioLPG als Substitut von fossilem Flüssiggas
+Abbildung 12: Ausgangsmaterialien und Verfahren zur Gewinnung von BioLPG
+
+
+
+heutigem Kenntnisstand nur schwer vorausgesagt werden. Einen wichtigen Schub könnte HVO aber aus 
+dem Flugver- kehr erhalten, da es hier als Kerosinersatz verwendet werden könnte. Die Kosten und 
+der Aufwand zur Beschaffung des notwendigen Wasserstoffs zur Hydrierung verhindern aber eine noch 
+stärkere Entwicklung des Ausbaus der HVO- Kapazität und damit auch der von BioLPG.
+
+Interessante Einsatzstoffquellen zur Herstellung von BioLPG sind neben Pflanzenölen auch tierischen 
+Fette, Glyzerin, Zucker, Stärke sowie zellulosehaltige Biomasse (z. B. Holz). Durch Anwendung 
+verschiedener chemischer Verfahren, wie beispielsweise Pyrolyse, Vergasung oder Dehydration, kann 
+aus diesen biogenen Einsatzstoffen BioLPG gewonnen werden (DECC, 2014).
+
+Bis auf das HVO-Verfahren befinden sich alle erwähnten Herstellungsmethoden noch im 
+Forschungsstatus oder sind gerade erst auf dem Wege zur Kommerzialisierung. Ein Verfahren mit 
+Potenzial stellt dabei die Herstellung von BioLPG aus Glyzerin dar, welches als Abfallprodukt bei 
+der Biodieselproduktion anfällt. Aus diesem fettbasierten Reststoff werden durch eine inzwischen 
+bewährte Techno- logie hochwertige gasförmige Kohlenwasserstoffgemische erzeugt (SGC, 2008). Unter 
+anderem könnte daraus auch BioLPG gewonnen werden. Bei der Produktion einer Tonne Biodiesel fallen 
+ungefähr 100 kg Glyzerin an. Unter Be- rücksichtigung der Biodieselproduktion in Europa im Jahr 
+2014 (UFOP, 2016) fallen demnach ca. 1 Million Tonnen des
+Reststoffs an. Über die Hälfte davon wird in der chemischen Industrie zur Weiterverarbeitung 
+eingesetzt (Rothermel, 2015). Mit dem restlichen Glyzerin könnte BioLPG in einem ähnlichen 
+Mengenumfang wie aus der HVO-Produktion gewonnen werden. BioLPG aus HVO erfüllt schon heute die 
+strengen Nachhaltigkeitsanforderungen der Europäischen Union an den Klima- und Umweltschutz. 
+Demnach gelten flüssige Biobrennstoffe nur als nachhaltig, wenn sie zu einer THG-Minderung von 
+mindestens 35 Prozent (ab 2017:
+50 Prozent) gegenüber einem fossilen Referenzwert bei- tragen (EU, 2009).
+BioLPG aus Pflanzenölen reduziert den THG-Ausstoß um ca. 50-60 Prozent (Neste, 2014) und liegt 
+damit auf einem ähnlichen Niveau wie Bioheizöl (Shell & BDH, 2013). Es hat aber den Vorteil, dass 
+es im Gegensatz dazu in einem beliebigen Mischungsverhältnis fossilem Flüssiggas bei- gemischt 
+werden kann (DECC, 2014) und somit in Summe höhere THG-Einsparungen erzielen kann. BioLPG aus 
+Abfall- und Reststoffen könnte sogar bis zu 90 Prozent an THG einsparen (Neste, 2014). Zukünftig 
+wird der europä- ische Gesetzgeber verstärkt auf THG-Minderung setzen, wodurch die 
+Weiterentwicklung dieser Verfahren einen größeren Anreiz erfahren sollte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 13: Treibhausgasemissionen von BioLPG in CO2-Äquivalent pro kWh
+
+
+16     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Potenzial von Flüssiggas im Wärmebereich.    4
+
+
+4  Potenzial von Flüssiggas im Wärmebereich.
+
+
+
+Aus technischer Sicht ist die Anwendung von BioLPG im Wärmebereich praktisch ohne Einschränkungen 
+möglich, da BioLPG aufgrund seiner DIN-Qualität Flüssiggas un- begrenzt beigemischt und sogar als 
+alleiniger Brennstoff eingesetzt werden kann (Neste, 2014). Auch wenn die Verfügbarkeit von BioLPG 
+derzeit stark steigt, so ist sie doch auf absehbare Zeit noch als begrenzt anzusehen. Ein 
+effizienter Einsatz von BioLPG ist daher angezeigt, sodass in Zukunft möglichst viele Haushalte 
+damit versorgt werden können. Auf Anlagenseite stehen dazu künftig mit der
+Gas-Wärmepumpe und der Flüssiggas-Brennstoffzelle zwei Techniken zur Verfügung, die die Effizienz 
+des gesamten Heizsystems nochmals deutlich gegenüber aktuellen Brennwertheizungen steigern können. 
+Ziel der folgenden Berechnungen ist es, zu zeigen, wie gerade auch im ländli- chen Raum mit 
+verschiedenen flüssiggasbasierten Heizsys- temen die Energieziele der Bundesregierung – konkret 
+eine Minderung des Primärenergiebedarfs der Gebäude um
+80 Prozent bis zum Jahr 2050 – technisch erreicht werden können.
+
+
+4.1 Modellrechnungen:
+Erreichung der Klimaziele der Bundesregierung
+in flüssiggasbeheizten Gebäuden.
+
+Für den Weg bis 2050 hat die Bundesregierung keine Zwischenziele für den Primärenergiebedarf der 
+Gebäude festgelegt. Eine Betrachtung für das Jahr 2030 erscheint jedoch als mittelfristiger 
+Meilenstein besonders bedeutsam, um die erforderlichen Effizienzsteigerungen, die jedes einzelne 
+Gebäude durchschnittlich erreichen muss, greif- bar zu machen. Aus diesem Grund wird in der 
+folgenden Betrachtung für das Jahr 2030 ein Zwischenzielwert von
+40 Prozent Primärenergiebedarfseinsparung angenom- men – also die halbe Zielerreichung in etwa der 
+Hälfte der Zeit zwischen 2008 und 2050.
+
+Zum Vergleich der verschiedenen Heizungstechniken, die für einen Flüssiggasbetrieb in Betracht 
+kommen, wurden im Rahmen dieser Studie für insgesamt sechs
+Anlagentechnikkombinationen Modellrechnungen durch- geführt, und zwar jeweils für kaum und mäßig 
+gedämmte Wohngebäude (Perspektive 2030) sowie für mäßig und
+gut gedämmte Wohngebäude (Perspektive 2050), unter- schieden nach Einfamilienhäusern und 
+Mehrfamilien- häusern. Alle Maßnahmen schließen eine Optimierung des gesamten Heizsystems (Dämmung 
+von Rohrleitungen, hydraulischer Abgleich etc.) mit ein. Für die Perspektive 2030 wird zudem ein 
+einfacher Austausch eines alten Niedertemperaturkessels gegen einen Flüssiggas-Brenn- wertkessel 
+zum Vergleich mit aufgeführt (Variante 0).
+Die gewählten Anlagenkombinationen sind:
+0) Gas-Brennwertkessel (nur Perspektive 2030)
+
+1) Gas-Brennwertkessel mit Solarthermieanlage
+zur Heizungsunterstützung und Lüftungsanlage mit Wärmerückgewinnung (WRG):
+Der Gas-Brennwertkessel ist mit über 50 Prozent Marktanteil im Bestand die am weitesten verbreitete 
+Anlagentechnik bei der Heizungssanierung (dena, 2015). Brennwertkessel können auch in der 
+Bestandssanierung einfach mit Solarthermieanlagen kombiniert werden.
+Lüftungsanlagen mit Wärmerückgewinnung vermindern nicht nur Wärmeverluste beim Lüften, sondern 
+tragen auch zu einer besseren Luftqualität bei. Neben wohnungs- und gebäudezentralen Anlagen 
+existieren unter anderem auch dezentrale Anlagen, die bereits im Fensterrahmen installiert sind und 
+beim Fensteraustausch einfach mit eingebaut werden können.
+
+2) Ergänzung der Variante 1 um einen Kamin (nur Einfamilienhaus):
+In vielen Ein- und Zweifamilienhäusern im ländlichen Raum steht Brennholz zur Heizungsunterstützung 
+zur Verfügung. Dies kann einen – wenn auch rechnerisch nach Norm auf 10 Prozent des Wärmebedarfs 
+begrenzten – Beitrag zur Reduzierung des Primärenergiebedarfs leisten.
+
+3) Brennstoffzelle mit Brennwert-Spitzenlastkessel: Brennstoffzellen wandeln zum Beispiel 
+gasförmige Energie in elektrische Energie und Wärme um. Anders als bei einem Blockheizkraftwerk 
+(BHKW) mit Ottomotor wird die Energie jedoch auf elektrochemischem Wege umgewandelt.
+Da es in der Brennstoffzelle kaum mechanisch (z. B. durch Bewegung) beanspruchte Teile gibt, ist 
+ein niedrigerer Wartungsaufwand als bei Motor-BHKWs zu erwarten.
+Als weitere Vorteile werden ein um 10 bis 15 Prozentpunkte höherer elektrischer Wirkungsgrad in 
+kleinen Leistungs- klassen und sehr gute Wirkungsgrade im Teillastbereich genannt (Calovini GmbH, 
+2016). Ähnlich wie bei Motor- BHKWs werden Brennstoffzellen im Heizungsbereich auf eine lange 
+Laufzeit bzw. einen hohen Nutzungsgrad ausge- legt. Das bedeutet, dass zur Wärmeversorgung an 
+besonders kalten Tagen ein zusätzlicher Spitzenlastkessel (hier:
+Gas-Brennwertkessel) erforderlich ist. Die markttaugliche Entwicklung von LPG-Mikro-KWK-Systemen 
+auf Brennstoff- zellenbasis ist derzeit Gegenstand eines BMWi-geförderten Forschungsvorhabens 
+(Projektträger Jülich, 2016).
+Die Brennstoffzellentechnik wird künftig im „Anreizpro- gramm Energieeffizienz“ durch das BMWi 
+gefördert.
+
+4) Ergänzung der Variante 3 um einen Kamin (nur Einfamilienhaus)
+
+
+
+17
+
+4    Potenzial von Flüssiggas im Wärmebereich.
+
+
+
+
+
+
+5) Gas-Wärmepumpen:
+Derzeit kommen Gas-Wärmepumpen noch relativ selten zum Einsatz, da sie erst in den letzten Jahren 
+Marktreife erlangt haben. In den Berechnungen wurden zwei unterschiedliche Typen von 
+Gas-Wärmepumpen angesetzt: die Gas-Absorptions-Wärmepumpe für das Ein- oder Zweifamilienhaus und 
+die Gas-Motorwärmepumpe für das Mehrfamilienhaus. Gegenüber elektrischen Wärmepum- pen können 
+Gas-Wärmepumpen höhere Wassertempera- turen erzeugen und erfordern daher nicht unbedingt den 
+kostenintensiven Einbau einer Fußbodenheizung im Haus, um effizient betrieben werden zu können.
+
+6) Mikro-Blockheizkraftwerk mit Brennwert- Spitzenlastkessel:
+Ein Mikro-BHKW besteht vereinfacht beschrieben aus einem kleinen Stirling-Motor und einem Generator 
+und erzeugt darüber sowohl Strom als auch Wärme. Mikro- BHKWs sind für den Langzeitbetrieb in 
+Einfamilienhäusern ausgelegt, benötigen daher jedoch für kalte Tage einen zusätzlichen 
+Spitzenlastkessel.
+
+Die Modellrechnungen wurden für insgesamt drei ver- schiedene Dämmstandards durchgeführt⁶:
+Hoher Dämmstandard (nur Perspektive 2050), der etwa dem Hocheffizienzstandard Effizienzhaus 55 der 
+KfW entspricht (vgl. dena 2015). Dies entspricht beispielsweise einem Altbau, der in allen 
+Bauteilen auf einen überdurchschnittlichen Standard gedämmt wurde und dessen Wärmebrücken optimiert 
+wurden. Mäßiger Dämmstandard (Perspektive 2030 und 2050), der etwa dem inzwischen nicht mehr von 
+der KfW geförderten Effizienzhaus 130 entspricht. Diesen Standard kann beispielsweise ein 
+1960er-Jahre-Altbau bei guter Dach- und Außenwanddämmung auch noch mit den ursprünglichen 
+zweifachverglasten Fenstern und einer ungedämmten Kellerdecke erreichen.
+Dämmstandard „kaum gedämmt“, der zum Beispiel einem 1960er-Jahre-Altbau mit einem gut gedämmten 
+Bauteil (z. B. dem Dach) und ansonsten Bauteilen im Urzustand entspricht.
+
+Neben den Hocheffizienzvarianten werden die Varianten mit niedrigerem Dämmstandard berechnet, um zu 
+eruieren, ob auch Eigentümer mit niedrigem Einkommen, die nur schrittweise oder im geringeren 
+Umfang sanieren, die Energiewendeziele erreichen können.
+
+Als Ausgangswert für die Berechnung der Einsparung in den Modellrechnungen wird von einem mittleren 
+Primär- energieverbrauch dieser Gebäude im Jahr 2008 (Basisjahr des Energiekonzepts der 
+Bundesregierung) von ca. 170 kWh/ (m²AN·a)⁷ für Einfamilienhäuser sowie von 155 kWh/(m²AN·a) für 
+Mehrfamilienhäuser ausgegangen (eigene Berechnun- gen auf Basis von (BMWi, 2016)). Bricht man das 
+Ziel der Bundesregierung, den Primärenergiebedarf⁸ dieser Gebäude bis 2050 um 80 Prozent zu 
+reduzieren, auf das einzelne
+
+
+
+
+
+
+Gebäude herunter, so muss dieses im Durchschnitt 2050 Zielwerte von 34 bzw. 31 kWh/(m²AN·a) 
+erreichen⁹.
+
+Zur primärenergetischen Bilanzierung der stromprodu- zierenden Heizsysteme (Brennstoffzelle und 
+Mikro-BHKW) wurde der durch den erzeugten Strom vermiedene Primär- energieeinsatz in fossilen 
+Kraftwerken (Verdrängungs- strommix, konservative Annahme) mit dem Primärener- gieeinsatz für den 
+Betrieb der Brennstoffzelle verrechnet (Gutschrift-Methode)¹⁰.
+
+Laut EnEV darf für gasförmige Biomasse nur dann ein geringerer Primärenergiefaktor als für Erdgas 
+angesetzt werden (Primärenergiefaktor fP = 0,5 statt fP = 1,1), wenn sie im unmittelbaren 
+räumlichen Zusammenhang des Gebäudes erzeugt wird. Dies trifft auf BioLPG im Allgemeinen nicht zu. 
+Der Einsatz von BioLPG zur Gebäudeheizung wird folg- lich im Rahmen der EnEV-Bilanzierung – mit 
+Ausnahme des Einsatzes in Anlagen der Kraft-Wärme-Kopplung – derzeit nicht positiv angerechnet.
+
+Zur Erläuterung der Einsatzmöglichkeiten und Auswirkungen von BioLPG wird in den folgenden 
+Berechnungen die Möglichkeit einer positiven Bewertung von BioLPG in der energetischen Bilanzierung 
+vorausgesetzt.
+
+4.1.1 Perspektive 2030:
+40 Prozent Primärenergiebedarfsreduzierung.     In den Grafiken der folgenden Kapitel wird die 
+Reduzierung des Primärenergiebedarfs für verschiedene Heizungs- systeme unter Verwendung von 
+100-prozentigem fossilen Flüssiggas dargestellt (blauer Balken). Dort, wo dies zur Erreichung des 
+40-Prozent-Ziels nicht ausreicht, wird dargestellt, mit welcher BioLPG-Beimischung das Ziel 
+erreicht würde (grüner Balken) bzw. mit welchem Anteil Strom dies alternativ unter Verwendung von 
+Power to
+Heat möglich wäre (gelber Balken) – also der Nutzung des nicht in das Stromnetz integrierbaren 
+Stroms (vereinfacht
+„Überschussstrom“) aus erneuerbaren Energien oder des am Haus produzierten PV-Stroms¹¹ über einen 
+„intelligent“ (d. h. je nach Verfügbarkeit) gesteuerten Heizstab im Warmwasserspeicher. Zwar 
+bestehen für die Nutzung von
+„Überschussstrom“ derzeit noch diverse rechtliche Hürden und damit keine entsprechenden Angebote 
+seitens der Energiedienstleister. Es ist jedoch vor dem Hintergrund der wachsenden Anforderungen an 
+eine effiziente Nutzung der Energieträger denkbar, dass diese Option bis 2030 einen Beitrag zur 
+Energieversorgung leisten wird.
+
+Einfamilienhaus, kaum gedämmt.
+Abbildung 14 zeigt die Berechnungsergebnisse für ein kaum gedämmtes Einfamilienhaus. Es wird 
+deutlich, dass in kaum gedämmten Ein- und Zweifamilienhäusern eine Reduzierung des 
+Primärenergiebedarfs um rund
+40 Prozent gegenüber dem Gebäudedurchschnitt 2008 bereits durch Maßnahmen der Anlagentechnik wie 
+zum Beispiel eine Kombination aus Brennwertheizung, Solaran-
+
+18     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Potenzial von Flüssiggas im Wärmebereich.    4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 14: Reduzierung Primärenergiebedarf Einfamilienhaus, kaum gedämmt
+
+
+
+lage und Lüftungsanlage mit Wärmerückgewinnung oder eine Absorptions-Wärmepumpe erreichbar ist. 
+Auch die Varianten Mikro-BHKW sowie Brennstoffzellenheizung mit Spitzenlastkessel + Kamin erreichen 
+mit rund 30 Prozent Senkung des Primärenergiebedarfs das für 2030 definierte Zwischenziel bereits 
+zu einem großen Teil. Um den Primärenergiebedarf um 40 Prozent gegenüber durch- schnittlichen 
+Einfamilienhäusern im Jahr 2008 zu reduzieren, wären noch ca. 20 bis 25 Prozent BioLPG-Beimischung
+oder ein Anteil von ca. 10 Prozent erneuerbarem Strom erforderlich. Der Einbau einer 
+Brennwertheizung allein führt dagegen noch nicht zu einem gegenüber dem angesetzten 
+Durchschnittsgebäude 40 Prozent reduzierten Primärenergiebedarf. Die dafür erforderlichen hohen 
+Deckungsanteile von über 50 Prozent BioLPG oder
+ca. 30 Prozent erneuerbarem Strom („Überschussstrom“
+oder am Haus produzierter PV-Strom) lassen diesen Weg aufgrund des noch recht hohen absoluten 
+Endenergiever- brauchs von über ca. 130 kWh/(m²AN·a) wenig sinnvoll bzw. realistisch erscheinen. 
+Neben den oben genannten anlagen- technischen Maßnahmen (Solaranlage, Lüftungsanlage) müssten in 
+diesen Gebäuden daher weitere Maßnahmen
+im Bereich der Gebäudedämmung dazu beitragen, dass das 40-Prozent-Ziel erreicht wird.
+
+Mehrfamilienhaus, kaum gedämmt.
+Die Ergebnisse für kaum gedämmte Mehrfamilienhäuser sind sehr ähnlich denen der Einfamilienhäuser. 
+Punktuell liegen die Primärenergiebedarfsreduzierungen um wenige Prozentpunkte niedriger (vgl. 
+Anhang, Kapitel 9.1).
+
+
+6 Für den hohen Dämmstandard wurde ein Transmissionswärmeverlust der Gebäudehülle von H’T = 0,25 
+W/(m²·K) angenommen, für den mäßigen Dämmstandard H’T = 0,50 W/(m²·K) und für kaum gedämmte 
+Wohngebäude H’T = 0,90 W/(m²·K).
+7 Einheit kWh/(m²AN·a): Kilowattstunden pro Quadratmeter Nutzfläche nach EnEV (AN) pro Jahr.
+8 Vereinfachte Annahme: rechnerischer Primärenergiebedarf = tatsächlicher Primärenergieverbrauch. 
+Untersuchungen der dena zeigen, dass dies in der Praxis in der Breite erreichbar ist (u. a. dena 
+2011).
+9  Voraussetzung für diese vereinfachte Betrachtungsweise ist, dass der Neubau von 2008 bis 2050 im 
+Durchschnitt primärenergiebedarfsneutral ist. Da dies technisch bereits heute möglich ist 
+(Plusenergiehäuser), erscheint diese Annahme erreichbar. Wird der Neubau bis 2050 mit einem 
+mittleren Primärenergie- bedarfskennwert von ca. 30 kWh/(m²AN·a) errichtet, müsste der 
+Gebäudebestand im Durchschnitt etwa 85 Prozent Primärenergie einsparen, um den Zubau auszugleichen 
+(Annahme: Neubaurate in Deutschland = 0,6 Prozent/Jahr).
+10 Mit zunehmendem Anteil erneuerbarer Energien im Strommix und der damit einhergehenden 
+Abschaltung ineffizienter fossiler Kraftwerke wird die Stromgutschrift nach dieser Methode mit der 
+Zeit geringer und daher die Primärenergiebilanz von BHKW schlechter. Es wird daher über den niedrig 
+gewählten Primärenergiefaktor (fP = 1,8) eine relativ geringe Stromgutschrift angesetzt. Dies 
+entspricht etwa der Annahme, dass das ineffizienteste Kraftwerk mit einem Wirkungsgrad von rund 60 
+Prozent für heutige Maßstäbe sehr effizient ist. Auch für 2030 wird dieser niedrige Faktor 
+angesetzt, um nur zeitweise geltende hohe Primärenergiegutschriften nicht zu berücksichtigen und 
+die Vergleichbarkeit mit den Berechnungsergebnissen für 2050 zu gewährleisten.
+11 Vereinfacht mit Primärenergiefaktor fP = 0 angesetzt.
+19
+
+4    Potenzial von Flüssiggas im Wärmebereich.
+
+
+
+
+
+
+Fazit für kaum gedämmte Gebäude:
+Durch den Einsatz innovativer Heiztechniken wie der Brennstoffzelle mit Kaminunterstützung oder des 
+Mikro-BHKW kann das Zwischenziel von 40 Prozent Primärenergiebedarfseinsparung gegenüber dem 
+deutschen Gebäudebestand 2008 bereits im kaum gedämmten Einfamilienhaus mit dem Energieträger 
+Flüssiggas zu einem großen Teil erreicht, im Falle der Gas-Wärmepumpe sogar deutlich übertroffen 
+werden. Auch durch die Anlagenkombination Flüssiggas- Brennwertkessel mit Solarthermieanlage und 
+Lüftungsanlage mit Wärmerückgewinnung wird dieses Ziel vollständig erreicht. In allen anderen 
+Fällen wäre eine BioLPG-Beimischung von 20 bis 60 Prozent oder ein signifikanter Anteil 
+„Überschussstrom“ bzw. am Haus produzierter PV-Strom zur Erreichung des Zielwerts notwendig.
+CO2-Einsparungen bei kaum gedämmten Gebäuden. Für die Höhe der CO2-Einsparungen ist der 
+Energieträger vor Sanierung von großer Bedeutung. Beim Wechsel von
+Heizöl zu Flüssiggas entstehen allein durch den niedrigeren CO2-Emissionsfaktor von Flüssiggas 
+bereits nennenswerte CO2-Einsparungen. Tabelle 3 stellt die CO2-Einsparungen der verschiedenen 
+Anlagentechniken für kaum gedämmte Gebäude mit und ohne Energieträgerwechsel gegenüber¹². Bei einem 
+Wechsel von Heizöl auf Flüssiggas liegt die CO2- Reduzierung je nach Heiztechnik um ca. 8 bis 13 
+Prozentpunkte höher als ohne Energieträgerwechsel. Damit können durch den Austausch eines 
+Öl-Niedertemperaturkessels gegen die effizienteste der untersuchten Heiztechniken – die flüssig- 
+gasbetriebene Absorptions-Wärmepumpe – bei gleichzeitiger Optimierung der Heizungsanlage über 50 
+Prozent CO2 eingespart werden. Noch höher sind die CO2-Minderungen beim Ersatz alter 
+Strom-Nachtspeicherheizungen: hier sind derzeit über 60 Prozent CO2-Einsparungen möglich.
+
+Mäßig gedämmte Gebäude.
+In mäßig gedämmten Gebäuden (Ein- und Mehrfamilien- häuser) wird das Zwischenziel von 40 Prozent 
+Primärenergie- bedarfseinsparung gegenüber dem deutschen Gebäude- bestand 2008 mit allen 
+untersuchten Heiztechniken erreicht. Bereits beim Einsatz einer Flüssiggas-Brennwertheizung wird 
+der Referenzwert von 2008 um 48 Prozent (Einfamilien- häuser) bzw. 43 Prozent (Mehrfamilienhäuser) 
+unterschritten (vgl. Anhang, Kapitel 9.2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabelle 3: CO2-Reduzierung durch Austausch des Heizsystems (Niedertemperaturheizung) in einem kaum 
+gedämmten Ein-/Zweifamilienhaus mit unterschiedlichen Heizsystemen vor der Heizungssanierung.
+
+12 Im Zustand vor Sanierung wurde von einer Flüssiggas- oder Heizöl-Niedertemperaturheizung der 
+80er Jahre bzw. einer Kombination aus Nachtspeicher- heizung mit elektrischem Durchlauferhitzer zur 
+Warmwasserbereitung und einer einheitlich kaum gedämmten Gebäudehülle ausgegangen.
+13 Vereinfachter Ansatz: Strommix mit einem CO2-Faktor von 438 g CO2eq/kWh (Wert für das Jahr 2020 
+nach (Prognos et al., 2015))
+20     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Potenzial von Flüssiggas im Wärmebereich.    4
+
+
+
+
+
+
+4.1.2 Perspektive 2050:
+80 Prozent Primärenergiebedarfsreduzierung.
+Eine Primärenergiebedarfsreduzierung von 80 Prozent gegenüber einem mittleren Wohngebäude 2008 ist 
+ohne eine weitgehende Dämmung der Gebäudehülle nicht erreichbar. Im Rahmen dieser Studie wurde 
+jedoch über- prüft, inwieweit das Primärenergieziel 2050 auf Ebene des Einzelgebäudes 
+gegebenenfalls auch mit einer mäßig gedämmten Gebäudehülle zu erreichen ist.
+
+Mäßig gedämmte Einfamilienhäuser.
+Abbildung 15 zeigt, dass auch für mäßig gedämmte Einfamilienhäuser das Ziel der 
+80-Prozent-Reduktion des Primärenergiebedarfs grundsätzlich erreichbar ist. Bei allen Heizsystemen 
+ist dazu jedoch ein größerer zusätz- licher Beitrag erneuerbarer Energien erforderlich, da ohne 
+diesen die Primärenergiebedarfsreduzierungen mit
+58 bis 67 Prozent noch deutlich unter dem Zielwert von 80 Prozent liegen.
+
+Wird dieser zusätzliche Beitrag durch BioLPG bereitge- stellt, ergeben sich für die Systeme 
+Brennwertheizung + Solarthermie + WRG sowie Gas-Absorptions-Wärmepumpe erforderliche 
+BioLPG-Beimischungen von ca. 80 bis
+90 Prozent, für die stromproduzierenden Systeme von ca. 40 bis 50 Prozent.
+
+
+
+
+
+Auch bei einer Deckung dieses zusätzlichen Beitrags durch die Nutzung von im Netz nicht 
+integrierbarem Strom („Überschussstrom“) liegen die erforderlichen Anteile bei der 
+Gas-Brennwertheizung und der Gas-Absorptions- Wärmepumpe relativ hoch (rund 50 Prozent) und bei den 
+stromproduzierenden Systemen mäßig hoch (20 bis 30 Prozent). Derartige Anteile werden nach 
+Einschätzung der dena nicht überall in Form von „Überschussstrom“ über das Jahr verfügbar sein, 
+sondern voraussichtlich eher in Gebieten mit hoher Stromproduktion und geringer Stromabnahme – in 
+starker Abhängigkeit vom regionalen Netzausbau.
+
+Tendenziell könnte dies eher auf ländliche Gebiete, vor allem in Norddeutschland, zutreffen. Auf 
+der anderen Seite bieten sich gerade im ländlichen Raum oft größere Flächen für eine zusätzliche 
+Photovoltaik- oder Solarthermienut- zung, durch die diese Anteile erheblich reduziert werden 
+können. Zu beachten ist dabei, dass auch der durch eigene Photovoltaik für die Heizung erzeugbare 
+Strom durch den zeitlichen Versatz (Solarstrom eher im Sommer, Heizung eher im Winter) – je nach 
+Größe der Anlage – auf eine Größenordnung von rund 20 bis 30 Prozent beschränkt ist.
+
+
+
+
+
+
+
+
+
+
+
+
+65 %
+
+67 %
+
+
+
+58 %
+
+
+63 %
+
+66 %
+
+
+60 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 15: Reduzierung Primärenergiebedarf Einfamilienhaus, mäßig gedämmt
+
+21
+
+4    Potenzial von Flüssiggas im Wärmebereich.
+
+
+
+
+
+
+
+
+
+
+
+82 %   82 %
+74 %   76 %
+
+78 %
+
+
+76 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 16: Reduzierung Primärenergiebedarf Einfamilienhaus, gut gedämmt
+
+
+
+Mäßig gedämmte Mehrfamilienhäuser.
+Im mäßig gedämmten Mehrfamilienhaus ergeben sich sehr ähnliche Werte wie im mäßig gedämmten
+Einfamilienhaus. Die niedrigste BioLPG-Beimischung benö- tigt hier ebenfalls die 
+Brennstoffzellen-Kombination (ca. 45 Prozent). Die höchste BioLPG-Beimischung ist
+mit bis zu 100 Prozent beim Heizsystem der Gas-Motor- Wärmepumpe erforderlich (vgl. Anhang, Kapitel 
+9.3).
+
+
+
+Fazit für mäßig gedämmte Gebäude:     Auch mäßig gedämmte Gebäude (Ein- und Mehrfamilien- häuser) 
+können eine 80-prozentige Primärenergiebe- darfsreduzierung gegenüber 2008 erreichen, sofern
+je nach Heiztechnik ca. 50 bis 100 Prozent BioLPG genutzt und primärenergetisch angerechnet werden 
+können. Die CO2-Reduktion beträgt bei den mäßig
+gedämmten Gebäuden zwischen 53 und 69 Prozent.
+Gut gedämmte Einfamilienhäuser.
+Abbildung 16 zeigt, dass bei gut gedämmten Einfamilien- häusern bereits durch den Einsatz einer 
+Gas-Brenwert- heizung mit Solarthermie und Lüftungsanlage mit Wärmerückgewinnung (mit und ohne 
+Kamin) eine über 80-prozentige Reduzierung des Primärenergiebedarfs gegenüber einem 
+durchschnittlichen Einfamilienhaus 2008 erreicht wird. Alle anderen untersuchten Heiztech- niken (3 
+bis 6) erreichen ohne Solarthermieanlage oder Lüftungsanlage das Ziel weitestgehend (74 bis 78 
+Prozent Reduktion). Durch eine BioLPG-Beimischung von rund
+20 Prozent könnte in diesen Fällen die geringe Differenz zur 80-Prozent-Reduktion überbrückt 
+werden. Alternativ könnte das Ziel auch durch Deckung von ca. 10 Prozent des Wärmeverbrauchs durch 
+eine Power to Heat Lösung erreicht werden. Der Beitrag des Kamins zur Primärenergie- 
+bedarfsreduzierung ist – bedingt durch die normative Begrenzung seiner Anrechnung – relativ gering. 
+Je nach Nutzerverhalten kann dieser Beitrag in der Praxis aber durchaus höher liegen.
+
+Eine weitere Alternative zur Zielerreichung besteht bei den Kombinationen 3 bis 6 immer auch in der 
+zusätzlichen Nutzung von Solarthermie oder der Vermeidung von Wärme- verlusten durch eine 
+Lüftungsanlage mit Wärmerückge- winnung, die hier nicht im Detail untersucht werden.
+
+
+22     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Potenzial von Flüssiggas im Wärmebereich.    4
+
+
+
+
+
+
+Gut gedämmte Mehrfamilienhäuser.
+Auch im untersuchten gut gedämmten Mehrfamilien- haus erreicht die Kombination Gas-Brennwertheizung 
++ Solarthermieanlage + Lüftungsanlage mit Wärmerück- gewinnung das 80-Prozent-Reduktionsziel, alle 
+weiteren Varianten rund 70 Prozent. Diese erfordern daher eine BioLPG-Beimischung in Höhe von 30 
+Prozent (Brennstoff- zelle und Mikro-BHKW mit Spitzenlastkessel) bis
+60 Prozent (Gas-Motor-Wärmepumpe). Alternativ könnte dieser Beitrag durch ca. 15 Prozent 
+(Brennstoffzelle und Mikro-BHKW-Kombinationen) bzw. ca. 30 Prozent (Gas- Motor-Wärmepumpe) 
+„Überschussstrom“ oder eigenen PV-Strom erreicht werden (vgl. Anhang, Kapitel 9.4).
+
+
+
+Fazit für gut gedämmte Gebäude:
+In gut gedämmten Gebäuden sind die Ziele der Bundesregierung, den Primärenergiebedarf gegen- über 
+2008 um 80 Prozent zu senken, mit allen unter- suchten Heiztechniken erreichbar, sofern BioLPG
+in einer Größenordnung von bis zu ca. 20 Prozent (Einfamilienhaus) bzw. bis zu ca. 60 Prozent 
+(Mehrfamilienhaus) beigemischt und angerechnet werden kann. Die CO2-Reduktion beträgt bei den gut
+gedämmten Gebäuden zwischen 71 und 85 Prozent.
+
+
+
+
+4.2 Rahmenbedingungen für die Wettbewerbsfähigkeit von Flüssiggas und BioLPG im Wärmemarkt.
+Für flüssiggasbeheizte Gebäude stehen verschiedene Opti- onen zur energetischen Sanierung zur 
+Verfügung, die mit höheren Investitionen wahlweise in die Anlagentechnik oder die Gebäudehülle eine 
+Erreichung der Klimaziele der Bundesregierung ermöglichen. Diese Investitionen können auch 
+schrittweise – zum Beispiel im Rahmen ohnehin anstehender Sanierungsmaßnahmen der Gebäudehülle und 
+der Anlagentechnik – erfolgen. So können die Mehr- kosten für eine verbesserte Energieeffizienz 
+möglichst gering gehalten werden. Dies ist gerade für schwächere Einkommensgruppen im ländlichen 
+Raum sehr wichtig, um trotz niedriger Einkommen eine Instandhaltung ihrer Häuser zu gewährleisten. 
+Eine stärkere Förderung der Teilsanierung des Gebäudebestands durch den Gesetzgeber könnte daher 
+eine Umsetzung der Wärmewende im ländli- chen Raum beschleunigen.
+
+Derzeit ist die Sanierungsrate im deutschen Gebäude- bestand deutlich zu niedrig, um die Ziele der 
+Bundesregie- rung für den Gebäudebestand im Jahr 2050 zu erreichen. Gelingt es in den nächsten 
+Jahren nicht, sie auf den von der Bundesregierung angestrebten Wert von 2 Prozent zu erhöhen, muss 
+der verstärkte Einsatz von erneuerbaren
+
+
+
+
+
+Energien dazu beitragen, die entstehende Lücke zu verkleinern oder gar zu schließen.
+
+Wie bereits aus Kapitel 4.1 hervorgegangen ist, stellt BioLPG hierfür eine zukünftige Option dar. 
+Es erfüllt schon heute die Anforderungen an Biomasse nach § 2 Absatz 1
+Nr. 4 des EEWärmeG. Jedoch wird in der EnEV die Anforderung gestellt, dass die genutzte gasförmige 
+oder flüssige Bio- masse auch in einem räumlichen Zusammenhang mit dem Gebäude erzeugt worden 
+ist.¹⁴ Dadurch kann für BioLPG in der Regel nicht der geringere Primärenergiefaktor von
+fP = 0,5 angesetzt werden, sondern nur der von fossilem Flüssiggas in Höhe von fP = 1,1. 
+Hintergrund dieser Regelung ist die problematische Kontrolle, da der Gebäudenutzer  den Versorger 
+und das bezogene BioLPG kurzfristig wech- seln kann und es nicht durch die Art des Wärmeerzeugers 
+sichergestellt ist, dass der entsprechende erneuerbare Ener- gieanteil tatsächlich bezogen wird.
+
+Dieser Sorge des Gesetzgebers kann entgegengehalten werden, dass sich mittlerweile entsprechende 
+Nachweis- systeme im Markt etabliert haben, die dieses Problem lösen können. Als Beispiel ist hier 
+die staatliche Web-Anwendung Nachhaltige-Biomasse-System (Nabisy) der Bundesanstalt für 
+Landwirtschaft und Ernährung zu nennen. Darüber werden die Nachhaltigkeitsanforderungen für die 
+Herstel- lung und Nutzung von flüssiger und gasförmiger Biomasse nach der 
+Erneuerbare-Energien-Richtlinie dokumentiert. Über die im Nachweissystem geführte Massenbilanz 
+würde sich das genutzte BioLPG von seiner Verwendung bis zur Entstehung zurückverfolgen lassen. Die 
+ausgestellten Nachhaltigkeitsnachweise über das eingesetzte BioLPG müssten vom Verwender des 
+BioLPGs vorgehalten
+werden und zur Kontrolle der Einhaltung der Vorschriften der zuständigen Baubehörde vorgelegt 
+werden können.
+
+Eine weitere denkbare Möglichkeit zur Förderung von BioLPG bietet das EEWärmeG. Das Gesetz 
+beinhaltet bereits vordefinierte Anforderungen an flüssige und gas- förmige Biomasse, wobei BioLPG 
+im Sinne des EEWärmeG als gasförmige Biomasse eingestuft wird und somit nur beim Einsatz in 
+KWK-Anlagen oder bei der Einhaltung der Vorgaben an öffentliche Gebäude bei der Sanierung als 
+Erfüllungsoption gilt. Durch eine Gleichbehandlung mit flüssiger Biomasse wäre eine Anrechnung von 
+BioLPG zur Erfüllung des EEWärmeG beim Einsatz in der besten
+verfügbaren Technik möglich. Ein Grund für die Ungleich- behandlung von flüssiger und gasförmiger 
+Biomasse ist nicht ersichtlich.
+
+Im EWärmeG von Baden-Württemberg ist bereits eine anteilige Erfüllung durch gasförmige und flüssige 
+Bio- masse gleichermaßen vorgesehen. Als Nachweis sind hier die entsprechenden Lieferbelege bis zu 
+fünf Jahre lang aufzubewahren und bei Bedarf der unteren Bauaufsichts- behörde vorzulegen.
+
+14 § 3 Absatz 3 EnEV i.V.m. Anlage 1 Nr. 2.
+23
+
+5    Fazit.
+
+
+
+
+5  Fazit.
+
+
+
+Flüssiggas ist heute und in Zukunft als Nebenprodukt der Herstellung von Mineralölprodukten und 
+Erdgas ausreichend verfügbar und kann damit einen Beitrag zur Energieträgerdiversifizierung und 
+Versorgungs- sicherheit leisten.
+
+Einsatzmöglichkeiten bieten sich vor allem im länd- lichen Raum abseits von Erdgasnetzen sowie
+Nah- oder Fernwämenetzen. Die Zahl der nicht an das Gasnetz angeschlossenen Gebäude wurde in dieser 
+Studie erstmals auf Basis von Geodaten abgeschätzt und liegt bei rund 2,2 Millionen Wohn- und 
+Nichtwohn- gebäuden.
+
+Mit Hilfe von Flüssiggas-Anlagenkombinationen
+(z. B. Kombination Gas-Brennwert- mit Solarthermie- und Lüftungsanlage) oder innovativen 
+Heizsystemen (z. B. Gas-Wärmepumpe) kann in kaum gedämmten
+Gebäuden ein Primärenergieverbrauch erreicht werden, der um ca. 40 Prozent unter dem 
+Primärenergiever- brauch eines durchschnittlichen Gebäudes des Jahres 2008 liegt.
+
+Durch den Austausch veralteter Heizungen gegen diese Flüssiggas-Heizsysteme können CO2-Einsparungen 
+von über 40 Prozent erreicht werden, bei einem Energie- trägerwechsel (Heizöl oder 
+Strom-Nachtspeicherheizungen zu Flüssiggas) sogar bis zu ca. 60 Prozent.
+
+Sofern Gebäude über die Jahre mäßig gedämmt wurden bzw. werden, genügt der Einbau einer 
+Gas-Brennwert- heizung zur Erreichung eines für 2030 anzustrebenden Zwischenziels von 40 Prozent 
+Primärenergiebedarfs- reduzierung gegenüber dem durchschnittlichen Gebäudebestand im Basisjahr 
+2008.
+
+Mit Flüssiggas sind auch die Ziele der Bundesregierung für das Jahr 2050 erreichbar, sofern es in 
+gut gedämmten Gebäuden mit effizienter Heizungstechnik eingesetzt wird. Werden Gebäude bis 2050 nur 
+mäßig gedämmt,
+ist die Zielerreichung durch den Einsatz hocheffizienter Heizungstechniken und Anlagenkombinationen 
+sowie die anteilige Nutzung von BioLPG möglich.
+Die Herstellung und die Nutzung von BioLPG
+befinden sich derzeit noch am Anfang. Es ist aber davon auszugehen, dass sich die zur Verfügung 
+stehende Menge kurz- bis mittelfristig erhöhen wird. BioLPG
+aus der sogenannten HVO-Produktion erfüllt schon heute die Nachhaltigkeitsanforderungen der 
+Erneuer- bare-Energien-Richtlinie der EU. Da es darüber hinaus eine Vielzahl von 
+Herstellungsverfahren gibt und sich diese erst noch am Markt etablieren müssen, ist eine 
+langfristige Mengenabschätzung für BioLPG nicht möglich. Die technischen Voraussetzungen lassen 
+aber darauf schließen, dass sich bei einer größeren Markt- nachfrage die Produktion in den nächsten 
+zehn Jahren auf mehrere Terrawattstunden erhöhen wird.
+
+Damit BioLPG einen Beitrag zu den energie- und klimapolitischen Zielen leisten kann, müssen 
+attraktivere politische Rahmenbedingungen geschaffen werden.
+Ein Ansatzpunkt ist, den Primärenergiefaktor von BioLPG nach EnEV auch dann mit einem niedrigeren 
+Wert (z. B. dem aktuellen Wert fP=0,5) ansetzen zu können, wenn es nicht im räumlichen Zusammenhang 
+mit dem Gebäude erzeugt wurde. Voraussetzung und gleichzeitig politische Herausforderung dafür wäre 
+ein bürokratiearmes, zwischen den Bundesländern verein- heitlichtes Kontrollsystem.
+
+Die geplante Zusammenlegung von EEWärmeG und EnEV kann eine Möglichkeit bieten, die Ungleichbe- 
+handlung von flüssiger und von gasförmiger Biomasse aufzuheben und damit die Verwendung von BioLPG
+in der besten verfügbaren Technik zur Erfüllung der Nutzungspflicht anzuerkennen.
+
+Das Nachverfolgen zur Sicherstellung des Einsatzes von BioLPG sollte über ein geeignetes 
+Massenbilanz- system nach Vorbild des Biogasregisters erfolgen, das die spezifischen Anforderungen 
+des Energieträgers BioLPG berücksichtigt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+24     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Literaturverzeichnis.    6
+
+
+6  Literaturverzeichnis.
+
+
+
+AGEE-Stat (2015). Zeitreihen zur Entwicklung der erneuerbaren Energien in Deutschland. Berlin. Von 
+http://www.erneuerbare-energien.de/EE/ Redaktion/DE/Downloads/zeitreihen-zur- 
+entwicklung-der-erneuerbaren-energien-in- deutschland-1990-2014.pdf?  blob=publication File&v=5.
+BAFA (2014). Amtliche Mineralöldaten für die Bundesrepublik Deutschland. Eschborn: Bundesamt für 
+Wirtschaft und Ausfuhrkontrolle (BAFA).
+Von http://www.bafa.de/bafa/de/energie/mine raloel_rohoel/amtliche_mineraloeldaten/2014/ 
+index.html.
+BBSR (2015). SiedlungsstrukturelleKreistypen 2013.
+Bonn: Bundesinstitut für Bau-, Stadt- und Raum forschung (BBSR).
+Von http://www.bbsr.bund.de/BBSR/DE/Raumbe obachtung/Raumabgrenzungen/Kreistypen4/ 
+Download_Karte_PDF.pdf? blob=publication File&v=7.
+BDEW (2015). „Wie heizt Baden-Württemberg?“ – Studie zum Heizungsmarkt. Berlin: BDEW Bundesverband 
+der Energie- und Wasserwirtschaft e.V.
+Von https://www.bdew.de/internet.nsf/id/F9D39 6123E565823C1257F1800386680/$file/151207_
+Studie_Heizungsmarkt_Baden-W%C3%BCrttem berg.pdf.
+BDEW (2016). Energiedaten. Berlin: BDEW Bundesverband der Energie- und Wasserwirtschaft.
+Von https://www.bdew.de/internet.nsf/id/DE_ Energiedaten#cat/Daten%2FGrafiken%5CEnergie
+%20allgemein%5CEnergiedaten%5C2.%20 Gasversorgung/2-11-investitionen-der-gasversor- ger-de.
+BMWi (2015a). Energieeffizienzstrategie Gebäude. Berlin: Bundesministerium für Wirtschaft und 
+Energie. Von http://www.bmwi.de/BMWi/Redaktion/PDF/ 
+Publikationen/energie-effizienz-strategie-gebaeu- de-langfassung,property=pdf,bereich=bmwi2012, 
+sprache=de,rwb=true.pdf.
+BMWi (2015b). Ein gutes Stück Arbeit. Die Energie der Zukunft.
+Vierter Monitoring-Bericht zur Energiewende. Berlin: Bundesministerium für Wirtschaft und Energie.
+Von https://www.bmwi.de/BMWi/Redaktion/ PDF/V/vierter-monitoring-bericht-energie-der-zuk 
+unft,property=pdf,bereich=bmwi2012,sprache=d e,rwb=true.pdf.
+BMWi (2016). Zahlen und Fakten Energiedaten. Nationale und internationale Entwicklung. Berlin: 
+Bundes- ministerium für Wirtschaft und Energie.
+Von http://bmwi.de/DE/Themen/Energie/ Energiedaten-und-analysen/Energiedaten/ 
+gesamtausgabe,did=476134.html.
+BP (2016). BP Energy Outlook 2016 Edition. BP.
+Von http://www.bp.com/content/dam/bp/pdf/ energy-economics/energy-outlook-2016/bp-ener- 
+gy-outlook-2016.pdf.
+Bundesregierung (2010). Energiekonzept für eine umwelt- schonende, zuverlässige und bezahlbare 
+Energiever- sorgung.
+Von https://www.bundesregierung.de/ContentAr- chiv/DE/Archiv17/_Anlagen/2012/02/energiekon- 
+zept-final.pdf?  blob=publicationFile&v=5.
+Calovini GmbH (2016). Callux - Praxistest Brennstoffzelle fürs Eigenheim – Callux Basismodul. 
+Schwelm.
+Von http://www.callux.net/home.MarktpartnerIn- teressent.html.
+DECC (2014). RHI Evidence Report: Biopropane for Grid Injection. Department of Energy and Climate 
+Change.
+Von https://www.gov.uk/government/uploads/ system/uploads/attachment_data/file/376487/ 
+RHI_Evidence_Report_-_Biopropane_for_Grid_ Injection 2  2_.pdf.
+dena (2015). Der dena Gebäudereport 2015. Statistiken und Analysen zur Energieeffizienz im 
+Gebäudebestand. Berlin: Deutsche Energie-Agentur GmbH (dena). Von 
+http://www.zukunft-haus.info/gesetze-studi- en-verordnungen/studien/dena-gebaeudereport. html.
+Destatis (2011). Zensus 2011: Gebäude mit Wohnraum nach Gebäudetyp-Bauweise und Zahl der Wohnungen 
+im Gebäude (3 Klassen). Wiesbaden: Statistisches Bundesamt.
+Von https://ergebnisse.zensus2011.de/#StaticConte nt:00,GWZ_11_7,m,table.
+Destatis (2014). Baugenehmigungen und Baufertigstellungen von Wohn- und Nichtwohngebäuden (Neubau) 
+nach Art der Beheizung und Art der verwendeten Heizenergie - Lange Reihen - 1980-2014. Wiesbaden: 
+Statistisches Bundesamt.
+Von https://www.destatis.de/DE/Publikationen/ Thematisch/Bauen/BautaetigkeitWohnungsbau/ 
+BaugenehmigungenHeizenergie.html.
+
+
+
+
+
+
+
+
+25
+
+6    Literaturverzeichnis.
+
+
+
+
+
+
+Destatis (2014). Energiesteuerstatistik 2013. Wiesbaden: Statistisches Bundesamt.
+Von https://www.destatis.de/DE/Publikationen/ Thematisch/FinanzenSteuern/Steuern/Verbrauch- 
+steuer/Energiesteuer2140930137004.pdf?  blob=publicationFile.
+Destatis (2015). Energiesteuerstatistik 2014. Wiesbaden: Statistisches Bundesamt.
+Von https://www.destatis.de/DE/Publikationen/ Thematisch/FinanzenSteuern/Steuern/Verbrauch- 
+steuer/Energiesteuer2140930147004.pdf?  blob=publicationFile.
+Donner, S., & Winter, A. (2012). WD 8 – 3010 – 047/12:
+Das Abfackeln (gas flaring) und Ablassen (gas venting) von Begleitgasen bei der Erdölförderung. 
+Berlin: Wissenschaftliche Dienste Deutscher Bundestag.
+Von https://www.bundestag.de/blob/192776/3cdd 77be499d9ccc0ce6644583cf3dae/abfackeln_und_ 
+ablassen_von_begleitgasen-data.pdf.
+DVFG (2015). Jahresbericht 2014. Berlin: Deutscher Verband Flüssiggas e.V.
+Energie der Zukunft (2015). Stellungnahme zum vierten Monitoringbericht der Bundesregierung für das 
+Berichtsjahr 2014. Berlin: Expertenkommission zum Monitoring-Prozess „Energie der Zukunft“. Von 
+https://www.bmwi.de/BMWi/Redaktion/ PDF/M-O/monitoringbericht-energie-der-zukunft- 
+stellungnahme-2014,property=pdf,bereich=bmwi 2012,sprache=de,rwb=true.pdf.
+ERA (2015). Aktuelle Entwicklung und Auswirkungen von Marginal Oil. Berlin: Energy Research 
+Architecture. Von http://era-er.com/uploaded/content/proyec- to/1621304098.pdf.
+EU (2009). Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009. 
+Brüssel.
+Von http://eur-lex.europa.eu/LexUriServ/LexUri- Serv.do?uri=OJ:L:2009:140:0016:0062:DE:PDF.
+GEMIS (2014). Globales Emissions-Modell Integrierter Systeme (GEMIS), Version 4.93. Darmstadt: 
+IINAS GmbH – Internationales Institut für Nachhaltigkeitsana- lysen und -strategien.
+Von http://www.iinas.org/gemis-de.html.
+Global Energy (2016). European Biopropane fuel produced in Rotterdam.
+Von http://www.energyglobal.com/downstream/  refining/11022016/European-Biopropane-fuel-  
+produced-in-Rotterdam-2451/.
+Greenea (2015). Is HVO the Holy Grail of the world biodiesel market? Coivert: Greenea Team.
+Von http://t.co/CcuR7fE8Wy.
+IWU (2014). Kumulierter Energieaufwand und CO2-Emissions- faktoren verschiedener Energieträger und 
+-versor- gungen. Institut Wohnen und Umwelt GmbH. Von http://www.iwu.de/fileadmin/user_upload/ 
+dateien/energie/werkzeuge/kea.pdf.
+Lutum + Tappert (2016). Datensatz Marktdaten Energie.
+Bonn: Lutum + Tappert, DV-Beratung GmbH. MWV (2015). Jahresbericht 2015, Mineralöl-Zahlen 2014.
+Berlin: Mineralölwirtschaftsverband e.V. Von http://www.mwv.de/upload/Presseinfor-
+mation/Pressemeldungen/Meldungen/MWV- JB_Web_2014_YyMtkGHT53tFbHd.pdf.
+Neste (2014). Bio-LPG aus HVO-Produktion Gegenwart und Potential (DVFG-Herbstarbeitstagung).
+Ulm: Neste Oil.
+OECD (2007). OECD-Prüfbericht zur Politik für ländliche Räume – Deutschland. Paris: Organisation 
+für Wirtschaftliche Zusammenarbeit und Entwicklung, OECD Publishing.
+Von http://www.bmel.de/SharedDocs/Downloads/ Landwirtschaft/LaendlicheRaeume/OECD-Pruef- 
+bericht.pdf? blob=publicationFile.
+PRIMAGAS (2016). Grafik zu Nutzungsmöglichkeiten von Flüssiggas.
+Krefeld: PRIMAGAS Energie GmbH & Co. KG. Prognos (2011). Flüssiggas im ländlichen Raum.
+Berlin: Prognos AG.
+Von http://www.prognos.com/themen/energie- klimaschutz/energiewirtschaft/referenzen/.
+Prognos et al. (2015). Hintergrundpapier zur Energieeffizienz- strategie Gebäude. Berlin, 
+Heidelberg, Darmstadt: prognos AG, ifeu – Institut für Energie- und Umweltforschung Heidelberg 
+GmbH, Institut für Wohnen und Umwelt GmbH (IWU).
+Prognos/EWI/GWS (2010). Energieszenarien für ein Energie- konzept der Bundesregierung. 
+Basel/Köln/Osnabrück. Von http://www.bmwi.de/BMWi/Redaktion/PDF/ 
+Publikationen/Studien/studie-energieszenarien- fuer-ein-energiekonzept,property=pdf,bereich=b 
+mwi2012,sprache=en,rwb=true.pdf.
+Prognos/EWI/GWS (2014). Entwicklung der Energiemärkte– Energiereferenzprognose.Endbericht.
+Basel/Köln/Osnabrück.
+Von http://www.bmwi.de/BMWi/Redaktion/PDF/ Publikationen/entwicklung-der-energiemaerkte- 
+energiereferenzprognose-endbericht,property=p df,bereich=bmwi2012,sprache=de,rwb=true.pdf.
+Projektträger Jülich (2016). Forschungsdatenbank EnArgus, Suche mit dem Stichwort 
+„Brennstoffzellen-Heizgerät“. Projektträger Jülich.
+Von https://www.enargus.de/pub/bscw. cgi/26?op=enargus.eps2&m=0&v=10&p=0&q=bre 
+nnstoffzellen-heizger%C3%A4t&y=1.
+Rothermel, D. J. (2015). Stoffliche Nutzung von Biomasse in der chemischen Industrie – Perspektiven 
+für Biomethan. Berlin: Verband der chemischen Industrie e.V. (VCI).
+Von http://www.dena.de/fileadmin/user_upload/ Veranstaltungen/2015/biogaspartner_die_konfe- 
+renz/4_Rothermel.pdf.
+
+26     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Literaturverzeichnis.    6
+
+
+
+
+
+
+SGC (2008). Bio-Propane from glycerol for biogas addition.
+Malmö: Svenskt Gastekniskt Center.
+Von http://www.sgc.se/ckfinder/userfiles/files/ SGC198.pdf.
+Shell & BDH (2013). Klimaschutz im Wohnungssektor – Wie Heizen wir morgen? Fakten, Trends und 
+Perspektiven für Heiztechniken bis 2030.
+Köln: Shell Deutschland Oil GmbH.
+Von http://www.hwwi.org/fileadmin/hwwi/Pub- likationen/Studien/Shell_BDH_Hauswaerme_Stu- 
+die_II.pdf.
+Shell (2015). LPG als Energieträger und Kraftstoff. Fakten, Trends und Perspektiven.
+Hamburg: Shell Deutschland Oil GmbH.
+Von http://s02.static-shell.com/content/dam/shell- new/local/country/deu/downloads/pdf/shell-lpg- 
+studie-de-2015.pdf.
+Statistische Ämter des Bundes und der Länder (2016). 035-02-4 Fortschreibung auf Basis GWZ 2011, 
+Wohngebäude- und Wohnungsbestand – Stichtag
+31.12. – regionale Tiefe: Kreise und krfr. Städte.
+Düsseldorf.
+Von https://www.regionalstatistik.de.
+Statistisches Bundesamt (2016). Volkswirtschaftliche Gesamtrechnungen – Bruttoinlandsprodukt ab 
+1970. Wiesbaden.
+
+
+
+
+
+Thünen (2015). Abschlussbericht zum Projektvorhaben Diesel R33.
+Von http://www.ufop.de/files/8214/5275/8185/Ab- schlussbericht_v5.pdf.
+UFOP (2016). Biodiesel 2014/2015 – Sachstandsbericht und Perspektive – Auszug aus dem 
+UFOP-Jahresbericht. Berlin: Union zur Förderung von Öl- und Proteinpflanzen e.V.
+Von http://www.ufop.de/files/9514/5216/0468/ WEB_UFOP-Biodieselbericht_2015.pdf.
+WLPGA/ARGUS (2015). Statistical review of Global LPG 2015.
+London: Argus Media.
+WWF (2009). Modell Deutschland. Klimaschutz bis 2050: Vom Ziel her denken. Basel/Berlin.
+Von http://www.wwf.de/fileadmin/fm-wwf/Publi- kationen-PDF/WWF_Modell_Deutschland_Endbe- richt.pdf.
+Zukunft Erdgas (2015). Sanierungsfahrpläne für Mehrfamilienhäuser. Berlin: Zukunft Erdgas e.V. Von 
+https://www.zukunft-erdgas.info/index. php?eID=tx_nawsecuredl&u=0&g=0&t=1458291 
+377&hash=126685c41328cdf46ed048c1c3a914b3 5cb31f7a&file=/fileadmin/private/MaFo/Studien/ 
+Waermemarkt_MFH_online.pdf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27
+
+7    Glossar.
+
+
+
+
+7  Glossar.
+
+
+Begriff                Definition
+
+
+Endenergieverbrauch
+Der Endenergieverbrauch ist die vom Eigentümer oder Mieter als Endverbraucher individuell 
+verbrauchte Endenergie, zum Beispiel die in der Jahresrechnung in Kilowattstunden ausgewiesene 
+Strom- oder Gasmenge.
+
+
+Energieeinsparverordnung (EnEV)
+Verordnung über energiesparenden Wärmeschutz und energiesparende Anlagentechnik bei Gebäuden
+
+
+Erneuerbare-Energien-Wärmegesetz (EEWärmeG)
+Das Erneuerbare-Energien-Wärmegesetz (EEWärmeG) ist ein deutsches Bundesgesetz, das den Ausbau 
+erneuerbarer Energien im Wärme- und Kältesektor bei der energetischen Gebäudeversorgung 
+vorantreiben soll. Es trat am 1. Januar 2009 in Kraft. Das Gesetz führt erstmals bundesweit eine 
+Pflicht zur Verwendung von erneuerbaren Energien beim Neubau von Gebäuden ein (sogenannte 
+Nutzungspflicht). Den Bundesländern bleibt vorbehalten, das Gesetz im Falle einer energetischen 
+Sanierung auch auf bestehende Gebäude anzuwenden.
+
+
+Gut gedämmt
+Gebäude, bei dem alle Bauteile auf einen guten bis sehr guten Standard gedämmt und alle 
+Wärmebrücken optimiert wurden.
+Transmissionswärmeverlust H’T = 0,25 W/(m²·K)
+
+
+Kaum gedämmt
+Gebäude, zum Beispiel Einfamilienhaus aus den 1960er Jahren, bei dem ein Bauteil bereits gedämmt 
+wurde.
+Transmissionswärmeverlust H’T = 0,90 W/(m²·K)
+
+
+Mäßig gedämmt
+Gebäude, zum Beispiel Einfamilienhaus aus den 1960er Jahren, bei dem ein Bauteil nicht saniert und 
+die übrigen auf einen mittleren Standard gedämmt wurden.
+Transmissionswärmeverlust H’T = 0,50 W/(m²·K)
+
+
+Primärenergiebedarf
+Der Primärenergiebedarf bildet die Gesamtenergieeffizienz eines Gebäudes ab. Er berücksichtigt 
+neben der Endenergie auch die sogenannte „Vorkette“ (Erkundung, Gewinnung, Verteilung, Umwandlung) 
+der jeweils eingesetzten Energieträger (z. B. Heizöl, Gas, Strom, erneuerbare Energien etc.). 
+Kleine Werte signalisieren einen geringen Bedarf und damit eine hohe Energieeffizienz und eine die 
+Ressourcen und die Umwelt schonende Energienutzung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Glossar.   7
+
+
+
+
+
+
+
+
+
+Begriff                Definition
+
+
+Primärenergiefaktor (fP)
+Der Primärenergiefaktor berücksichtigt neben dem Energiegehalt eines Energie- trägers auch den 
+Energieaufwand von der Gewinnung eines Energieträgers
+bis zur Bereitstellung der Endenergie beim Nutzer. Es werden damit die Vorketten für Förderung, 
+Umwandlung und Transport der betrachteten Energieträger erfasst. Der fP wird in der EnEV festgelegt 
+und ändert sich entsprechend der fort- schreitenden Einbindung von regenerativen Energien. So hat 
+sich der fP von Strom von 3,0 auf aktuell 1,8 (2016) entwickelt.
+
+
+Primärenergieverbrauch
+Der Primärenergieverbrauch (PEV) bezeichnet den Energiegehalt aller im Inland eingesetzten 
+Energieträger, wie zum Beispiel Kohle, Mineralöl oder Erdgas als sogenannte Primärenergieträger 
+oder durch Umwandlung entstandene Sekundär- energieträger, wie beispielsweise Stein- und 
+Braunkohleprodukte, Strom oder Fernwärme. Er ist die Summe aller Energieträger, die im Inland 
+gewonnen werden, und des Saldos von importierten/exportierten Mengen sowie Bestandsveränderungen 
+abzüglich der auf Hochsee gebunkerten Vorräte.
+
+
+Terrawattstunde (TWh)
+Kilowattstunde ist die Maßeinheit der elektrischen Arbeit: Arbeit ist gleich Leistung mal Zeit (1 
+kWh = 1 kW x 1 h). Eine Terrawattstunde sind eine Million Kilowattstunden.
+
+
+Treibhausgasemissionen
+Der Ausstoß von Gasen, die zum Treibhauseffekt beitragen. Als Hauptverursacher des Treibhauseffekts 
+gelten Kohlendioxid-Emissionen. Aber auch andere Treibhaus- gase, wie beispielsweise Methan, 
+Distickstoffoxid, Fluorkohlenwasserstoffe, Perfluorchlorkohlenwasserstoffe sowie Sulfathexafluorid, 
+werden als klimaschädlich eingestuft. Die verschiedenen Treibhausgase unterscheiden sich in ihrer 
+Klima- schädlichkeit aufgrund der unterschiedlichen Haltbarkeit, die sich durch die 
+durchschnittliche Verweildauer der Moleküle ergibt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+8    Abkürzungen.
+
+
+
+
+8  Abkürzungen.
+
+
+BHKW     Blockheizkraftwerk
+BMWi     Bundesministerium für Wirtschaft und
+Energie
+BZ       Brennstoffzelle
+CO2        Kohlendioxid
+EEWärmeG   Erneuerbare-Energien-Wärmegesetz EnEV      Energieeinsparverordnung
+fP          Primärenergiefaktor
+gCO2eq/kWh  Gramm Kohlendioxid-Äquivalent pro
+Kilowattstunde
+GHD      Gewerbe, Handel, Dienstleistungen
+g/kWh    Gramm pro Kilowattstunde
+HVO      Hydrierte Pflanzenöle
+kWh      Kilowattstunde
+kWh/(m²AN·a)  Kilowattstunden pro Quadratmeter
+Nutzfläche nach EnEV (AN) und Jahr
+KWK     Kraft-Wärme-Kopplung
+LPG      Liquified Petroleum Gas
+MAP      Marktanreizprogramm
+µm       Mikrometer
+NAPE      Nationaler Aktionsplan Energieeffizienz THG       Treibhausgase
+TWh     Terrawattstunde
+W/(m²·K)    Watt je Kelvin und Quadratmeter WRG      Wärmerückgewinnung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Anhang: Berechnungsergebnisse.   9
+
+
+9  Anhang: Berechnungsergebnisse.
+
+
+9.1 Kaum gedämmte Gebäude (Perspektive 2030).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 %
+
+
+40 %
+
+45 %
+
+
+
+
+
+24 %
+
+
+
+
+29 %
+
+45 %
+
+
+
+
+28 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 17: Reduzierung Primärenergiebedarf Einfamilienhaus, kaum gedämmt
+
+
+
+
+
+
+
+
+
+
+
+
+43 %
+
+39 %
+
+
+27 %
+28 %
+
+14 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 18: Reduzierung Primärenergiebedarf Mehrfamilienhaus, kaum gedämmt
+
+31
+
+9    Anhang: Berechnungsergebnisse.
+
+
+
+
+
+
+
+
+
+
+9.2 Mäßig gedämmte Gebäude (Perspektive 2030).
+
+
+
+
+
+
+
+
+
+
+
+48 %
+65 %    67 %        63 %   66 %
+58 %             60 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 19: Reduzierung Primärenergiebedarf Einfamilienhaus, mäßig gedämmt
+
+
+
+
+
+
+
+
+
+
+
+
+
+43 %
+63 %
+
+55 %
+
+
+
+59 %
+
+55 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 20: Reduzierung Primärenergiebedarf Mehrfamilienhaus, mäßig gedämmt
+
+32     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+Anhang: Berechnungsergebnisse.   9
+
+
+
+
+
+
+
+9.3 Mäßig gedämmte Gebäude (Perspektive 2050).
+
+
+
+
+
+
+
+
+65 %
+
+67 %
+
+
+63 %
+58 %
+
+66 %
+
+
+60 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 21: Reduzierung Primärenergiebedarf Einfamilienhaus, mäßig gedämmt
+
+
+
+
+
+
+
+
+
+
+63 %
+
+55 %
+
+59 %
+
+55 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 22: Reduzierung Primärenergiebedarf Mehrfamilienhaus, mäßig gedämmt
+
+33
+
+9    Anhang: Berechnungsergebnisse.
+
+
+
+
+
+
+
+
+9.4 Gut gedämmte Gebäude (Perspektive 2050).
+
+
+
+
+
+
+82 %   82 %
+74 %   76 %
+78 %
+
+76 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 23: Reduzierung Primärenergiebedarf Einfamilienhaus, gut gedämmt
+
+
+
+
+
+
+
+
+80 %
+
+
+70 %
+
+
+72 %
+
+
+70 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 24: Reduzierung Primärenergiebedarf Mehrfamilienhaus, gut gedämmt
+
+34     F l ü s s i g g a s u n d BioLP G . P o t e n z i a l e a l s E n e r g i e t r ä g e r für 
+d i e E n e r g i e w e n d e i m ländlichen Raum .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+
+

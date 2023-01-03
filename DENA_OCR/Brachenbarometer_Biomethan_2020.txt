@@ -1,0 +1,948 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dena-ANALYSE
+Branchenbarometer Biomethan 2020
+
+Impressum
+Methodik
+Die Datenerhebung wurde mithilfe eines teilstandardisierten Fragebogens durchgeführt. Die 
+Zusammenstel- lung der Inhalte erfolgte zudem durch Einzelinterviews und Hinzunahme relevanter 
+Publikationen Dritter.
+Weiterhin erfolgte eine Plausibilisierung der Daten mithilfe eines in anonymisierter Form 
+durchgeführten Ab- gleichs mit Daten aus dem Biogasregister Deutschland.
+
+Herausgeber
+Deutsche Energie-Agentur GmbH (dena) Nachhaltige Mobilität & alternative Energieträger 
+Chausseestraße 128 a
+10115 Berlin
+Tel: +49 (0)30 66 777-0
+Fax: +49 (0)30 66 777-699
+E-Mail: info@dena.de Internet: www.dena.de
+
+Autoren
+Klaus Völler, dena
+
+Foto
+Ökobit GmbH
+
+
+
+Stand: 04/2020
+
+Alle Rechte sind vorbehalten. Die Nutzung steht unter dem Zustimmungsvorbehalt der dena.
+Sämtliche Inhalte wurden mit größtmöglicher Sorgfalt und nach bestem Wissen erstellt. Die dena 
+übernimmt keine Gewähr für die Aktualität, Richtigkeit und Vollständigkeit der bereitgestellten 
+Informationen. Für Schä- den materieller oder immaterieller Art, die durch Nutzung oder 
+Nichtnutzung der dargebotenen Informatio- nen unmittelbar oder mittelbar verursacht werden, haftet 
+die dena nicht, sofern ihr nicht nachweislich vor- sätzliches oder grob fahrlässiges Verschulden 
+zur Last gelegt werden kann.
+
+Bitte zitieren als:
+Deutsche Energie-Agentur (dena, 2020)
+„Branchenbarometer Biomethan 2020“
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+1 Hintergrund: die Biogaspartnerschaft
+
+Im Rahmen der Biogaspartnerschaft werden Marktakteure der gesamten Wertschöpfungskette der Bioga- 
+seinspeisung zusammengebracht und in ihren Aktivitäten zur Marktgestaltung unterstützt. Die dena 
+über- nimmt die Rolle des Moderators und stellt eine Plattform für die Informationsbeschaffung und
+-aufbereitung sowie deren nationale und internationale Verbreitung zur Verfügung. Am Projekt 
+„Biogas- partner“ nehmen die wichtigsten Partner der Branche aus Landwirtschaft, Anlagenbau, 
+Energiewirtschaft und Wissenschaft teil.
+Die Umfrage zum „Branchenbarometer“ führt die dena seit 2012 durch. Die Ergebnisse werden jährlich 
+veröf- fentlicht und bieten Datenerhebungen, Einschätzungen, Meinungen und Prognosen der 
+Branchenakteure zu Entwicklungen, Chancen und Herausforderungen des Biomethanmarktes. Die 
+Zusammenstellung erfolgt mit- hilfe eines Fragebogens sowie durch Einzelinterviews und den Einbezug 
+der Daten aus dem Biogasregister Deutschland, sowie relevanter Publikationen Dritter.
+Das Branchenbarometer stellt ein vertieftes Monitoring der Marktentwicklung von Biomethan dar und 
+er- gänzt es um nationale und internationale Trends, Fakten und Stimmungen in der Branche.
+
+1.1  Teilnehmer
+An der Umfrage nahmen Vertreterinnen von 83 deutschen und vereinzelt europäischen Unternehmen der 
+Biomethanbranche teil. Die Beantwortung der Fragen war freiwillig. Es gab keine Pflichtfragen. Die 
+Umfrage wurde mittels Online-Umfragetool durchgeführt. Der Link zur Umfrage wurde relevanten 
+Unternehmen per E- Mail direkt zugeschickt. Die Umfrage lief vom 02.03.2020 bis zum 30.03.2020.
+
+
+
+Sonstige 12%
+
+Anlagenhersteller: 4%
+
+
+
+
+
+
+
+Biomethanproduze nt: 25%
+Energieversorgung (Verwerter, BHKW- Betreiber): 27%
+
+
+
+
+
+
+
+Projektentwicklung
+: 5%
+
+
+
+
+
+Handel: 27%
+
+
+Abbildung 1: Einordnung der Unternehmen in der Biomethan-Wertschöpfungskette (Mehrfachantworten 
+möglich]
+
+2 Beurteilung der allgemeinen Geschäftslage im In- und Ausland
+Geschäftslage im Inland
+Nach einer zweijährigen Erholung nimmt die kurzfristige Geschäftslage (+1Jahr) im Jahr 2019 den 
+niedrigs- ten Wert seit Beginn der Befragungen in 2012 an. Besonders der bereits im vergangenen 
+Jahr beobachtete und weiterhin anhaltende Preisverfall drückt aktuell stark auf die 
+Geschäftsaussichten (siehe auch Abschnitt 4 Preisgestaltung und -entwicklung), insbesondere auf 
+Produzentenseite. Dieser Preisverfall betrifft vor al- lem Biomethan aus nachwachsenden Rohstoffen. 
+Mit dem Wegfall der vermiedenen Netznutzungsentgelte (vNNE) für einige Anlagen, lässt sich 
+Biomethan vereinzelt bereits nur schwer wirtschaftlich produzieren.
+Die langfristige Geschäftslage zeigt sich dazu im Gegensatz leicht positiv. Eine absehbare 
+Entspannung der Handelspreise auf ein auskömmliches Niveau und leichtes Absatzwachstum in beinahe 
+allen Absatzpfaden lassen auf eine bessere Marktlage hoffen. Dennoch beklagen die Befragten 
+fehlende politische Unterstützung bei der Erschließung anderer Märkte, wie z.B. dem Wärmemarkt. In 
+diesem Marktumfeld versuchen die Ak- teure bereits seit einigen Jahren neue Geschäftsmodelle und 
+Produkte zu entwickeln, um der absehbar sin- kenden Nachfrage im EEG-Geschäft zu begegnen. Bisher 
+allerdings mit mäßigen Erfolg.
+
+Geschäftslage im Ausland
+Der europäische Markt steht weiterhin auf Wachstum. Bereits in den vergangenen Jahren hat sich hier 
+so- wohl für den Anlagenbau, als auch für den Handel von Biomethan ein stabiler Markt etabliert.
+Der Anlagenbau erfreut sich weiterhin starker Nachfrage bspw. in Frankreich und Großbritannien, 
+aber auch in Nordamerika und China ist die Nachfrage nach der deutschen Anlagenbauerfahrung 
+weiterhin hoch.
+Der innereuropäische Handel bleibt ebenfalls stabil bis wachsend, was einigen Händlern und Brokern 
+ein stabiles Geschäft ermöglicht. Größter Treiber dieses Handelsgeschäftes ist die Nachfrage aus 
+der Schweiz, deren Bedarf mittlerweile bei jährlich rund 500 GWh liegt und beinahe ausschließlich 
+aus Dänemark, Groß- britannien und Deutschland gedeckt wird. Des Weiteren finden zwischen Schweden 
+und Dänemark ebenfalls erhebliche Handelsaktivitäten von dänischen Mengen statt.
+Auch der freiwillige Markt und vereinzelt die Nutzung von Biomethan im EU-ETS in Deutschland bieten 
+im kleinen Rahmen Handelsmöglichkeiten, die von Akteuren genutzt und ausgebaut werden. Mit 
+Umsetzung der RED II könnte insbesondere im direkten Endkundengeschäft eine Steigerung der 
+Aktivitäten erwartet wer- den. Die Harmonisierung von Biomethannachweisen in Europa könnte bspw. 
+die Nutzung von Biomethan in Unternehmen oder als Beimischung in fossilen Gaslieferungen 
+vereinfachen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+Beurteilung der Biomethan-Geschäftslage
+
+sehr gut
+
+
+
+gut
+
+
+befriedigend
+
+
+schlecht
+
+
+sehr schlecht
+
+
+
+2,8
+
+
+3,0  3,2
+2,9
+
+
+
+2,9  3,0
+
+
+3,1  3
+
+2,9
+2,5
+
+
+
+2,8  2,8
+
+2,7  2,9
+
+
+3,2   3,4
+
+2,7
+
+2,4
+
+
+
+
+Deutschland   Ausland
+
+
+Abbildung 2: Beurteilung der Biomethan-Geschäftslage 2012 bis 2020 (Stand April 2020, dena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branchenbarometer Biomethan 2020  5
+
+3 Status quo Biomethaneinspeisung
+
+Biomethananlagen im Betrieb
+Der Zubau von Anlagen bewegt sich auch in 2019 auf weiterhin niedrigem Niveau. Mit Stand April 2020 
+waren an 210 Standorten 219 Anlagen mit einer Aufbereitungskapazität von 133.734 Nm³/h in Betrieb.
+
+
+
+200.000
+180.000
+160.000
+140.000
+120.000
+100.000
+80.000
+60.000
+40.000
+20.000
+0
+Anlagenentwicklung und Einspeisekapazität
+
+
+
+
+
+
+
+
+
+
+
+
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 Apr.
+2020
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+Anlagenzahl   Einspeisekapazität
+
+Abbildung 3: Anzahl und Einspeisekapazität von Biogasaufbereitungsanlagen 2006-2020 (Stand April 
+2020, dena)
+
+
+Im Jahr 2019 wurden drei Anlagen mit einer Aufbereitungskapazität von 1.100 Nm³/h in Betrieb 
+genommen, die zusammen bei durchschnittlicher Auslastung rund 140 GWh Biomethan einspeisen können. 
+Gleichzeitig reagiert der Markt aber auf die niedrigen Marktpreise, was dazu führte, dass einige 
+Anlagen vorübergehend den Betrieb einstellten, stärker auf die Vor-Ort-Verstromung des Rohbiogas 
+setzten oder die Produktion signi- fikant gesenkt haben. Insgesamt ging daher die Einspeisemenge 
+aller Anlagen 2019 erstmalig seit der statisti- schen Erfassung zurück und fiel wieder deutlich 
+unter 10 TWh.
+
+
+
+
+Einspeisevolu- men in GWh
+Ø Volllast- Stunden
+
+2011   2012   2013   2014   2015   2016   2017   2018   2019
+2.901   4.533   5.976   7.327   8.591   9.318   9.893   10.093  9.826
+6.854   6.352   6.618   6.959   7.166   7.422   7.548   7.541   7.260
+Tabelle 1:  Einspeisevolumen und durchschnittliche Volllaststunden deutscher Biomethananlagen(Stand 
+April 2020,dena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+Planungs- und Bauaktivitäten
+Die Planungs- und Bauaktivitäten waren im Vergleich zu den Vorjahren gleichbleibend auf niedrigem 
+Niveau. Aktuell sind acht Aufbereitungsanlagen in Bau oder Planung, die evtl. in 2020 in Betrieb 
+genommen werden sollen. Inwiefern diese in der aktuell schlechten Marktlage tatsächlich fertig 
+gestellt werden, ist nur schwer abzusehen. Allerdings handelt es sich überwiegend um Anlagen mit 
+hohem oder ausschließlichem Einsatz von Abfall- und Reststoffen, für die auch der Ausblick deutlich 
+positiver ist, als dies für Anlagen mit dem Ein- satz nachwachsender Rohstoffe der Fall ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branchenbarometer Biomethan 2020  7
+
+4 Preisgestaltung und -entwicklung
+Der Preisverfall der Jahre 2017 und 2018 setzte sich auch 2019 weiter fort. Bereits in der 
+letztjährigen Befra- gung gaben rund 50% der Befragten an, sinkende Preise im Bereich der NawaRo 
+und güllestämmigen Biome- thanprodukte wahrgenommen zu haben. Jedoch ging eine deutliche Mehrheit 
+von einer Stabilisierung der Preise im Jahr 2019 aus. Diese Preisstabilisierung blieb jedoch in 
+allen Einsatzstoffkategorien aus. Lediglich die Preisentwicklung von abfallstämmigem Biomethan war 
+gleichbleibend bis leicht sinkend. Besonders deutlich war die Preisentwicklung bei Biomethan aus 
+NawaRo, bei dem 91% der Befragten eine sinkende Preisentwicklung beobachteten, die sich auch in 
+2020 fortsetzen wird.
+2018          2019     2019          2020
+Preisentwicklung
+
+NawaRo (n=46)       0%     9%
+91%    0%
+38%
+63%
+
+Gülle (n=26)        0%
+31%
+69%
+27%
+40%
+33%
+
+Abfall und Reststoffe (n=34) 0%
+76%
+24%
+29%
+65%    6%
+Tabelle 2:   Einschätzung der Preisentwicklung 2018 zu 2019 und voraussichtliche Preisentwicklung 
+2019 zu 2020 für Biomethan nach Haupteinsatzstoffen (Stand April 2020, dena)
+Während langfristige Lieferverträge meist aus vergangenen Jahren ein höheres Preisniveau besitzen 
+und mit- unter noch eine mehrjährige Restlaufzeit aufweisen, schlägt sich das aktuelle Preisniveau 
+insbesondere bei kurzfristigen Lieferungen (Spot) deutlich nieder.
+
+durchschnittliche Einkaufspreise Biomethan 2020 Spot
+
+9
+8                      7,4
+7                         7,2
+6,7                          6,6
+
+6
+5        5,5
+4
+3
+2
+1
+0
+6,1
+5,8
+
+5,2
+5,7
+NawaRo          Gülle           Abfall
+n=9          n=4          n=5
+
+Abbildung 4: Durchschnittliche, höchste und niedrigste Biomethanpreise (Spot) nach 
+Haupteinsatzstoff (Stand April 2020, dena)
+
+
+
+
+
+
+
+8
+
+Auf Kunden mit langfristigen Verträgen haben kurzfristige Preisänderungen nur eingeschränkt 
+Einfluss. Im Vergleich zu der Vorjahresbefragung sind die durchschnittlichen Preise für 
+langfristige Lieferungen nur ge- ringfügig gesunken. Es zeigt sich aber auch, dass seit längerem 
+bestehende Lieferverträge ein deutlich höhe- res Preisniveau aufweisen als Neuabschlüsse. Sollte 
+dieser Trend anhalten, wird sich das in den nächsten Jahren stärker auf das durchschnittliche 
+Preisniveau auswirken. Immerhin liegt bei neu abgeschlossenen langfristigen Verträgen das 
+Preisniveau um durchschnittlich 13% über dem von kurzfristigen Lieferverträgen (insbesondere bei 
+NawaRo).
+
+durchschnittliche Einkaufspreise Biomethan 2020 langfristig
+
+9
+8         8,1            8,4
+
+7
+6
+5        5,0
+4
+3
+2
+1
+0
+7,0            7,4
+5,8
+7,0
+
+
+5,5
+
+5,9
+NawaRo          Gülle           Abfall
+n=17         n=9          n=11
+
+Abbildung 5: Durchschnittliche, höchste und niedrigste Biomethanpreise (langfristig) nach 
+Haupteinsatzstoff (Stand April 2020, dena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branchenbarometer Biomethan 2020  9
+
+5  Entwicklung Einsatzstoffe
+
+In der Entwicklung der Einsatzstoffe macht sich – mit etwas Verzögerung – die angespannte Situation 
+der Ernteergebnisse der vergangenen Jahre aufgrund eines länger anhaltenden Wassermangels 
+bemerkbar.
+Bereits die Getreideernte 2018 lag 15 % unter dem Vorjahresniveau. Der Getreideanbau konnte sich 
+jedoch 2019 wieder leicht erholen. Die Hitzewelle in Juni und Juli führte allerdings aufgrund 
+anhaltender Trockenheit zu Hitzestress und damit zu einer Minderung der Erträge vor allem bei 
+Maispflanzen1.
+Diese Entwicklung ist 2019 auch in den Einsatzstoffen zur Biomethanproduktion ablesebar. Während 
+der Einsatz von Mais um rund 17 % und der Einsatz von Grassilagen um rund 24 % zurück gegangen 
+sind, wurden diese durch eine Steigerung des Einsatzes von Getreidesilagen und Zuckerrüben 
+teilweise kompensiert. In absoluten Zahlen kam es jedoch zu einem Rückgang des Einsatzes der NaWaRo 
+um rund 10 %.
+Bei der Nutznug von Gülle kann im Vergleich zum Vorjahr eine deutliche Steigerung verzeichnet 
+werden. Dies liegt nicht zuletzt an den wenigen Neuinbetriebnahmen, bei denen verstärkt Gülle und 
+Reststoffe zum Einsatz kommen.
+Für Abfall und Reststoffe lässt sich absolut nur eine geringe Steigerung beobachten.
+
+Stoffeinsatz zur Biomethanerzeugung
+
+energiebezogener Stoffeinsatz             massebezogener Stoffeinsatz
+
+
+100,0%
+
+90,0%
+
+7,1%
+
+
+10,4%
+
+9,6%
+
+9,7%
+
+8,9%
+
+8,5%
+
+9,1%
+
+9,5%
+
+10,0% 11,8% 11,8% 12,1% 11,4%
+
+9,9%
+
+
+10,6% 11,4%
+
+
+80,0%
+
+70,0%
+20,1%                           16,8%
+29,9% 26,5% 27,0%       28,5%          24,0% 22,4% 22,3%       23,9%
+
+60,0%
+
+
+50,0%
+
+40,0%
+
+30,0%
+
+
+69,6% 64,8%
+
+
+
+
+56,8%
+
+
+59,4% 58,6% 59,3% 61,8% 56,2%
+
+59,6% 55,5% 51,1% 53,4% 52,6% 53,6% 56,1% 50,0%
+
+
+20,0%
+
+10,0%
+
+0,0%
+
+
+
+
+3,3%
+
+
+
+
+4,0%
+
+
+
+
+3,7%
+
+
+
+
+4,5%
+
+
+
+ 5,5% 
+
+
+
+
+ 5,2% 
+
+
+
+
+ 4,8%
+
+
+
+ 5,8% 
+
+
+13,6% 15,2% 13,0% 12,1% 13,7% 13,0% 11,6% 14,7%
+2012  2013  2014  2015  2016  2017  2018  2019     2012  2013  2014  2015  2016  2017  2018  2019
+
+Gülle  Mais  sonstige NawaRo  Abfälle und Reststoffe
+
+Abbildung 6: Entwicklung des energie- und massebezogenen Stoffeinsatzes zur Biomethanerzeugung 
+n=129 (Stand April 2020, dena)
+
+
+Ursache für den Rückgang des Einsatzes von NawaRo dürfte neben der schlechten Erntesituation, aber 
+auch der oben erwähnte Preisverfall . im Bereich des NawaRo-Biomethans sein.
+
+
+
+
+
+
+
+1 https://www.bmel-statistik.de/landwirtschaft/ernte-und-qualitaet/getreideernte/
+
+
+
+
+
+10
+
+6 Status quo Biomethanverwendung
+
+Abbildung 7 ist der Biomethanverbrauch für die einzelnen Absatzmärkte zu entnehmen. Die 
+Gesamtabsatz- mengen bleiben im Jahr 2019 gegenüber den Vorjahren in etwa konstant. Das letzte 
+größere Absatzwachs- tum ist damit im Jahr 2015 zu verzeichnen, und vornehmlich durch das EEG 2012 
+getrieben.
+
+
+GWhHS
+9.000
+Vermarktung von Biomethan
+
+7.000
+
+5.000
+
+3.000
+
+
+700
+600
+500
+400
+300
+200
+100
+0
+2012    2013    2014    2015    2016    2017    2018    2019
+EEG    Wärme    Kraftstoff    Export    Stoffliche Nutzung
+
+*vorläufige Schätzung
+
+Abbildung 7: Vermarktung von Biomethan für unterschiedliche Anwendungsbereiche 2012 bis 2020 (in 
+GWhHS) (Stand April 2020, dena)
+
+
+EEG
+Die installierte Leistung an KWK-Anlagen ist seit 2015 leicht rückläufig, was sich aber bisher kaum 
+im Biome- thanverbrauch niedergeschlagen hat. Dies liegt vor allem daran, dass bisher eher kleinere 
+Anlagen aus dem EEG ausgeschieden sind. Seit 2017 bewegte sich die installierte Leistung konstant 
+knapp über 610 MWel.
+Ebenso konstant blieb daher auch der Biomethanabsatz in diesem Segment. Die aktuell niedrigen 
+Bezugs- preise für NawaRo-Biomethan dürften den Weiterbetrieb von KWK-Anlagen aktuell 
+wirtschaftlich gestalten und damit einen Weiterbetrieb in den kommenden Jahren garantieren.
+Bieten die wirtschaftlichen und politischen Rahmenbedingungen keinen ausreichenden Anreiz für den 
+Wei- terbetrieb der BHKWs mit Biomethan nach Auslaufen der EEG-Vergütung, ist mit einem deutlichen 
+Rückgang dieser Strom- und Wärmeerzeugungskapazitäten ab 2020 zu rechnen. Die anstehende 
+EEG-Novelle und auch die Einführung von Emissionszertifikaten für fossile Brennstoffe außerhalb des 
+EU-ETS können Impulse für
+
+
+
+
+
+Branchenbarometer Biomethan 2020  11
+
+die Zukunft der Biomethan KWK setzen. Absehbar wird aber eine bloße Impulssetzung den Weiterbetrieb 
+vie- ler BHKW nicht sicherstellen können. Deutlich zunehmender Beliebtheit erfreuen sich 
+Biomethan-BHKW al- lerdings in der Objektversorgung in Bestandswärmenetzen. Hier bieten sie eine 
+einfach verfügbare und be- währte Option, den Primärenergiefaktor des Wärmenetzes zu mindern sowie 
+das notwendige Temperaturni- veau zu gewährleisten und dabei gleichzeitig den Anteil grüner Wärme 
+zu steigern.
+
+Kraftstoff
+Der Absatz im Bereich der Kraftstoffe entwickelte sich 2019 positiv. Dabei kommen 2020 verschiedene 
+Treiber zusammen, die den Einsatz von Biomethan im Kraftstoffbereich interessanter gemacht haben 
+und sowohl zu steigenden Absatzmengen, als auch erhöhten Quotenpreisen führten.
+Der Biomethanabsatz stieg in Erwartung an die im Jahr 2020 gestiegene Treibhausgasminderungsquote 
+von 4 auf 6% bereits signifikant an. Nach Meinung der Marktteilnehmer ist die Erfüllung für die 
+Quotenverpflich- teten durchaus ambitioniert anzusehen. Dies gilt insbesondere für die 
+Quotenerfüllung im laufenden Jahr, da diese aufgrund europäischer Vorgaben nur durch die im Jahr 
+2020 in den Verkehr gebrachten Biokraft- stoffe erfüllt werden darf, d.h. keine Quotenübertragung 
+zwischen den Jahren möglich ist. Bereits im vergan- genen Jahr wurden daher steigende Quotenpreise 
+beobachtet. Im Vergleich zu 2019 stiegen die Quoten- preise 2020 um rund 20 % und werden dieses 
+Niveau nach Erwartungen der Marktteilnehmer voraussichtlich auch 2021 beibehalten. Zugleich muss 
+2020 erstmals die Unterquote für fortschrittliche Kraftstoffe erfüllt werden, die in den kommenden 
+Jahren kontinuierlich auf niedrigem Niveau steigen wird.
+Mittelfristig kann Biomethan hier einen wichtigen Absatzmarkt entwickeln, wenn Preisniveau und 
+Absatz- mengen dem derzeitigen Trend folgen und der Absatz in der Erdgasmobilität zumindest auf 
+derzeitigem Ni- veau verbleibt. Entscheidend hierfür wäre aber ein konstant hohes Preisniveau. Ein 
+weiterer wichtiger Faktor ist die Entwicklung des gesamten Marktes für Erdgasmobilität in 
+Deutschland. Dieser hat momentan einen Energieverbrauch von mittlerweile unter 2 TWh. Sollte sich 
+der Markt nicht weiterentwickeln, würde dies u.
+U. eine Grenze der Absatzpotenziale für Biomethan als Kraftstoff darstellen. Jedoch ist diese 
+Grenze bei wei- tem noch nicht erreicht. Erwartungen werden seitens Marktakteuren in die 
+Entwicklung der LNG-Mobilität gesteckt. Erste Verflüssigungsanlagen befinden sich in der Planung 
+und sollen auch bald gebaut werden. Es bleibt abzuwarten, wie nachhaltig diese Entwicklung sein 
+wird. Biomethan hat das Potenzial, den Energiebe- darf der LNG-Mobilität in den kommenden Jahren 
+vollständig zu decken.
+
+Wärmemarkt
+Im Wärmemarkt gab es auch 2019 nur eine geringe Absatzsteigerung, die dem Trend der Vorjahre folgt. 
+Diese Bewegung wird gemäß Akteursbefragung vorrangig durch die generell steigende Wärmeerzeugung 
+aus Gas und dem wachsenden ökologischen Bewusstsein der Endkunden getrieben.
+Wachsender Beliebtheit erfreuen sich Quartierskonzepte mit Biomethan-BHKW als zentrale Wärmeerzeu- 
+gung. Allgemein sind BHKW mit anteiligem oder vollständigem Einsatz von Biomethan eine günstige Me- 
+thode der Versorgung mit grüner Wärme, vor allem in Netzen mit hohem Temperaturniveau. Mit 
+Einführung des Brennstoffemissionshandelsgesetzes (BEHG) und der daraus resultierenden zusätzlichen 
+Abgabe für fos- sile Brennstoffe, erhalten diese Konzepte einen wirtschaftlichen Impuls und könnten 
+in den nächsten Jahren häufiger zu sehen sein. Es bleibt aber abzuwarten, wie sich die Abgabe gemäß 
+BEHG auf die KWK im Gesam- ten auswirken wird.
+
+
+
+
+
+12
+
+Internationaler Handel
+Weiterhin wachsender Beliebtheit erfreut sich ausländisches Biomethan im freiwilligen Markt als 
+Beimisch- produkt. Größter Treiber für den internationalen Handel ist nach wie vor der Schweizer 
+Markt, dessen Bedarf an Biomethan mittlerweile mit Zertifikaten aus Dänemark, Großbritannien und 
+Deutschland bedient wird. Insgesamt beläuft sich der Import der Schweiz von Biomethan-Zertifikaten 
+auf über 500 GWh. Der starke Zu- wachs in den letzten Jahren beruht vor allem auf dem Bezug von 
+Zertifikaten aus Großbritannien und Däne- mark. Dies ist der großen Preisdifferenz der 
+Biomethan-Zertifikate aus den verschiedenen Ländern geschul- det. So können Biomethan-Zertifikate 
+aus Großbritannien, den Niederlanden und Dänemark weitaus günsti- ger angeboten werden, da das 
+Biomethan in diesen Ländern bereits eine Förderung für die Einspeisung in das Erdgasnetz erhalten 
+hat. Rund drei Viertel der dänischen Zertifikate findet daher Verwendung außerhalb Dänemarks. Der 
+Export von Biomethan-Zertifikaten aus Deutschland in die Schweiz verbleibt aber auf dem Niveau der 
+Vorjahre. Der Import ausländischer Biomethan-Zertifikate nach Deutschland hat sich ebenfalls 
+positiv entwickelt. Ein signifikanter Teil dieser Biomethanmengen wurde dabei massenbilanziell 
+geliefert.
+Hintergrund ist der damit mögliche Einsatz des Biomethans für den ETS zur Freimachung von 
+CO2-Zertifika- ten. Wie sich dieser Absatzmarkt zukünftig entwickeln wird, ist stark abhängig von 
+möglichen neuen Vorga- ben für eine Biomethanlieferung. Die Befragten erwarten, dass sich diese für 
+die im nächsten Jahr startende
+4. Handelsperiode ändern werden, insbesondere die Nutzung bereits geförderter Biomethanmengen 
+betref- fend.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25 GWh
+
+
+
+
+
+
+
+
+
+
+Abbildung 8:   Internationale Biomethan-Transfers 2019 in GWhHs (Stand April 2020, dena)
+
+
+
+
+
+
+
+
+
+
+Branchenbarometer Biomethan 2020  13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de

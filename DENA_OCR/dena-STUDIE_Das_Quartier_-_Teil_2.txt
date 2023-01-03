@@ -1,0 +1,2170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dena-STUDIE
+Das Quartier – Teil 2
+Analyse des Zusammenspiels und Aufzeigen von Schwachstellen
+
+Impressum
+Herausgeber:
+Deutsche Energie-Agentur GmbH (dena) Chausseestraße 128 a
+10115 Berlin
+Tel: +49 (0)30 66 777-0
+Fax: +49 (0)30 66 777-699
+E-Mail: info@dena.de Internet: www.dena.de
+
+Redaktion:
+Susanne Schmelcher, Teamleiterin Integrierte Quartiere und urbane Wärmesysteme, dena Tim Sternkopf, 
+Experte Integrierte Quartiere, dena
+
+Autorinnen und Autoren:
+Dr. Malaika Ahlers, Rechtsanwältin, BBH Rechtsanwälte Martin Speulda, Rechtsanwalt, BBH 
+Rechtsanwälte
+
+Bildnachweis:
+Titelbild: dena
+Grafiken: © Becker Büttner Held
+
+Stand:
+01/2022
+Bitte zitieren als:
+Deutsche Energie-Agentur (Hrsg.) (dena, 2022) „dena-STUDIE: Das Quartier – Teil 2, Analyse des 
+Zusammenspiels und Aufzeigen von Schwachstellen“
+
+Alle Rechte sind vorbehalten. Die Nutzung steht unter dem Zustimmungsvorbehalt der dena.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+Inhalt
+1  Einführung                                        5
+2  Hintergrund                                       6
+2.1  Rolle des Gebäudesektors bei der Erreichung der Klimaschutzziele      7
+2.2   Rolle der Quartiere bei der Erreichung der Klimaschutzziele          8
+3  Schwachstellen                                    13
+3.1   Fehlende Harmonisierung der Regelungsbereiche              13
+3.1.1  Wettbewerblicher Zweck                             13
+3.1.2  Umweltbezogener Zweck                             15
+3.1.3  Zweck der CO2-Bepreisung                            18
+3.1.4  Fehlende Harmonisierung und Gegenläufigkeit der Zielsetzungen      19
+3.2  Unzureichende Vorgaben zur Errichtung und Nutzung bestimmter Infrastruktur 22
+3.2.1  Zu wenig kommunale Wärmeplanung                      23
+3.2.2  Mangelhafte Vorgaben im GEG                          24
+3.2.3  Komplexer und mangelhafter Ansatz des GEIG                 27
+3.2.4  Fehlende Verknüpfung mit geeigneten Betreibermodellen          28
+3.3   Unzureichender Förderansatz                         29
+3.3.1  Viel Bürokratie, geringer Anreiz                          29
+3.3.2  Unzureichende und komplexe Fördermodelle                 30
+3.3.3  Technologiebezogener Förderansatz                      32
+3.4   Unzureichende Pönalisierung von CO2-Emissionen              33
+3.4.1  Zu geringer CO2-Preis                               33
+3.4.2  Mieter-Vermieter-Dilemma                            34
+Abkürzungen                                      36
+
+
+
+
+
+
+
+dena-Studie „Das Quartier“  3
+
+
+
+
+
+
+
+
+
+
+
+
+Klimaneutrale Quartiere und Areale
+
+
+
+
+Quartiere werden zum Gelingen der Energiewende immer wichtiger und übernehmen zunehmend eine 
+Schlüsselrolle. Hier laufen viele Fäden zusammen: Stellschrauben liegen bei Verkehr, Gebäuden und 
+der Energieversorgung. Daraus ergeben sich insbe- sondere auch vielfältige Synergien. In Städten 
+und Gemeinden ist es zielführend, nicht nur einzelne Gebäude, sondern das Gebäude im räumlichen 
+Zusammenhang zu betrachten. So erschließen sich ganz neue Effizienzpotenziale und Handlungsoptio- 
+nen auf lokaler und regionaler Ebene.
+
+Quartiere sind Schnittstellen. Hier kommt vieles zusammen, was historisch anders und vor allem als 
+separate Systeme gewachsen ist. Gleichzeitig bieten Quartiere vielseitige Optionen für die 
+politisch und gesellschaftlich angestrebte Klimaneutralität – und viele Vorteile: Beispielsweise 
+können lokale
+
+erneuerbare-Energien- oder Effizienzpotenziale genutzt, Anlagen und Speicher optimal ausgelegt, 
+positioniert und betrieben sowie unterschiedliche Bedarfsprofile ausgeglichen werden und die 
+Flächeneffizienz im Gesamtquartier kann erhöht werden.
+
+Mit ihrer Arbeit im Handlungsfeld Quartier will die dena einen Beitrag dazu leisten, 
+Quartierskonzepte in die breite Umsetzung zu bringen. Diesbezüglich hat die dena folgende 
+Aktionsfelder identifiziert:
+
+• Verbesserung des regulatorischen Rahmens
+• Analyse von Technologien und Konzepten
+• Stärkung von Prozessen und Geschäftsmodellen
+• Darstellung von Best Practices national und international
+• Vernetzung von Akteuren
+• Durchführung von Modellvorhaben
+
+
+Die Studie „Das Quartier (Teil 2) – Analyse des Zusammenspiels und Aufzeigen von Schwachstellen“, 
+ist Teil einer Reihe von Publikationen zum Thema Quartier, die von der dena veröffentlicht werden. 
+Mit dieser Studie wird das Zusammenspiel auf Gesetzesebene im Kontext der Quartiersversorgung 
+analysiert und es werden Schwachstellen identifiziert, die nachfolgend aufgezeigt werden.
+
+Weitere Veröffentlichungen zu diesem Schwerpunkt sind:
+
+• Studie: „Das Quartier (Teil 1) – Überblick über die gesetzlichen Rahmenbedingungen und 
+Förderrichtlinien für die Energieversorgung von Gebäuden im räumlichen Zusammenhang“
+• Projektbericht „Klimaneutrale Quartiere und Areale“
+• Studie „Thermische Energiespeicher für Quartiere“
+• Factsheets „Fokusthemen“
+• Factsheets „Quartierskategorien“
+• Factsheets „Praxisbeispiele“
+
+
+
+
+
+
+
+4
+
+1 Einführung
+
+
+
+
+
+1  Einführung
+
+Dieser zweite Teil der Studie „Das Quartier“ basiert auf der bereits veröffentlichten dena-Studie 
+„Das Quartier – Überblick über die gesetzlichen Rahmenbedingungen und Förderrichtlinien für die 
+Energie- versorgung von Gebäuden im räumlichen Zusammenhang“ (im Folgenden Teil 1 genannt).
+Teil 1 bietet Informationen über die rechtlichen Rahmen- und Förderbedingungen auf dem Weg zu 
+klima- neutralen Quartieren. Leserinnen und Leser erhalten einen ganzheitlichen Überblick über die 
+genannten Aspekte. Die Darstellung des Rechtsrahmens orientiert sich an der Praxis und der 
+Zielgruppe der Studie: Stadtwerke, Kommunen, Planerinnen und Planer, Projektentwicklerinnen und 
+-entwickler, Investorinnen und Investoren sowie Umweltpolitikerinnen und -politiker. Es wird der 
+gesamte Gebäudekreislauf von der Planung und Errichtung über den Betrieb bis zum anschließenden 
+Rückbau beleuchtet. Dabei werden die Rahmenbedingungen dargestellt, die für die Quartiersversorgung 
+auf nationaler wie auch auf europäischer Ebene gelten. In den folgenden Ausführungen wird an vielen 
+Stellen in Form von Verweisen auf die jeweiligen Kapitel in Teil 1 Bezug genommen.
+In diesem zweiten Teil der Studie „Das Quartier“ wird nun das Zusammenspiel auf Gesetzesebene 
+analysiert und es werden Schwachstellen identifiziert und nachfolgend aufgezeigt.
+Im Ergebnis lässt sich feststellen, dass das Quartier bisher eine Randerscheinung darstellt, 
+welcher enge Grenzen durch Zusatzanforderungen und Genehmigungsverfahren gesetzt sind. Der 
+räumliche Zusammenhang, auf dem der Quartiersbegriff in den meisten Regelwerken fußt, ist 
+unterschiedlich und teilweise überhaupt nicht definiert. Aus Anwendersicht bestehen im Hinblick auf 
+diese Definition aber große Unterschiede zwischen dem EnWG (Legaldefinition der Kundenanlage), 
+StromStG (räumlicher Zusammenhang mit Radius von 4,5 km), dem GEG und dem GEIG (Gebäude im 
+räumlichen Zusammenhang mit Verweis auf Nachbarschaft) sowie dem EEG (Quartier gemeint als 
+einheitliches Ensemble im Zusammenhang mit Mieterstrom) bzw. KWKG (bei Mieterstrom Verweis auf die 
+Kundenanlage). Daran geknüpft sind je nach Gesetz unterschiedliche Rechtsfolgen.
+Verschiedene Gesetze fördern verschiedene Technologien (z. B. PV-Strom im EEG und BHKW-Strom im 
+KWKG) und weisen daher unterschiedliche Ansätze für das Quartier auf. Dies ist aber nicht durch die 
+Verschiedenheit der Technologien erklärbar. Technisch ist es beispielsweise nicht erforderlich, 
+dass für KWK-Mieterstrom die Kundenanlage relevant ist, während beim EEG-Mieterstrom das Quartier 
+als räumliche Begrenzung gilt. Das liegt auch daran, dass die für das Quartier relevanten Gesetze 
+unterschiedlichen Regulierungszielen unterliegen. Während das GEG vor allem die Senkung des 
+Energiebedarfs mit Fokus auf Energieeffizienz verfolgt, stehen im EnWG der wettbewerbliche Zweck 
+und im EEG und KWKG vor allem umweltbezogene Zwecke durch die Förderung klimafreundlicher 
+Technologien im Vordergrund. Im Quartier sind erfolgreiche Energiekonzepte mit Sektorenkopplung von 
+allen Gesetzen gleichermaßen abhängig. Somit müssen Quartiere allen unterschiedlichen Zielen 
+gerecht werden.
+Dabei wird der Vorteil einer klimaneutralen Energieversorgung gerade durch lokale Potenziale 
+gespeist. Derzeit zielt aber keines der Gesetze auf eine maximierte Nutzung lokaler klimaneutraler 
+Potentiale im Quartier ab. Somit bleiben die Stärken der Quartiersebene größtenteils ungenutzt. Die 
+Folge ist ein komplexes, intransparentes und aus Anwendersicht unattraktives Regelwerk, welches nur 
+wenig Anreize für eine Umsetzung von Quartierskonzepten setzt.
+
+
+
+
+
+
+
+5
+
+2 Hintergrund
+
+
+
+
+
+2  Hintergrund
+
+Die Bundesregierung hat sich durch den European Green Deal und das Klimaschutzgesetz 2021 einem 
+ambitionierten Klimaschutzprogramm verpflichtet. Dabei spielt die Umsetzung der Energiewende im 
+Gebäudesektor eine wesentliche Rolle.
+
+Ziel des neuen Klimaschutzgesetzes ist es, in Übereinstimmung mit dem Pariser Klimaabkommen1 eine 
+Reduktion der Treibhausgase um 65 % bis 2030 und Klimaneutralität bis 2045 zu erreichen. Bei der 
+Umsetzung dieses Ziels spielt der Gebäudesektor eine essentielle Rolle, denn Gebäude verursachen 
+ca.
+15 % der CO2-Gesamtemissionen Deutschlands und waren im Jahr 2019 damit der viertgrößte Emittent. 
+Nur die Energiewirtschaft (ca. 36 %), die Industrie (ca. 23 %) sowie der Verkehrssektor (ca. 19 %) 
+verursachten noch höhere Emissionen.2
+
+Übergeordnetes Ziel der Maßnahmen im Gebäudebereich sind die Erreichung der Klimaschutzziele 2030 
+bzw. 2045 gemäß Klimaschutzgesetz und somit die Einsparung von CO2. Die in Teil 1 in den Kapiteln 2 
+bis 4 beschriebenen Regelungen sollten daher Anreize zur deutlichen Verringerung von CO2 setzen. 
+Eine Studie des Bundesumweltamts im Auftrag des BMU3 vom Oktober 2020 zeigt jedoch, dass dieses 
+Ziel verfehlt wird. Die gesetzlichen Bestimmungen führen nur zu einer unzureichenden Verringerung 
+der CO2-Emissionen.
+
+Diese Einschätzung wurde durch das Bundesverfassungsgericht bestätigt. Mit Beschluss4 vom 24. März 
+2021 hat der Erste Senat des Bundesverfassungsgerichts entschieden, dass die Regelungen des 
+Klimaschutz- gesetzes vom 12. Dezember 2019 über die nationalen Klimaschutzziele und die bis zum 
+Jahr 2030 zulässigen Jahresemissionsmengen mit den Grundrechten unvereinbar sind. Es fehlten 
+insofern hinreichende Maßga- ben für die Emissionsreduktion ab dem Jahr 2031.
+
+Die bislang geltenden Reduktionsziele des Klimaschutzgesetzes von 2019 verschieben nach Aussage des 
+Gerichts hohe Emissionsminderungslasten unumkehrbar auf Zeiträume nach 2030. Um eine Verminderung 
+zu erreichen, müssten die nach 2030 noch erforderlichen Minderungen immer dringender und 
+kurzfristiger erbracht werden. Von diesen künftigen drastischen Emissionsminderungspflichten ist 
+nach dem Urteil praktisch jegliche Freiheit potenziell betroffen, weil nahezu alle Bereiche 
+menschlichen Lebens mit der Emission von Treibhausgasen verbunden und damit nach 2030 von 
+drastischen Einschränkungen bedroht sind.
+
+Die Bundesregierung hat daraufhin am 12. Mai 2021 ein geändertes „Klimaschutzgesetz 2021“ 
+vorgelegt. Der Bundestag hat die Klimaschutznovelle am 24. Juni 2021 beschlossen. Diese Novelle hat 
+am 25. Juni 2021 auch den Bundesrat passiert. Mit dem geänderten Klimaschutzgesetz werden die 
+Zielvorgaben für CO2-
+
+
+1 Übereinkommen von Paris vom 12.12.2015, FCCC/CP/2015/10/Add.1.
+2 BMU, Klimaschutzbericht 2019, S. 20.
+3 Umweltbundesamt (Hrsg.): Abschätzung der Treibhausgasminderungswirkung des Klimaschutzprogramms 
+2030 der Bundesregierung, Climate Change 33/2020, Oktober 2020, S. 30.
+4 Das Bundesverfassungsgericht (BVerfG) hat am 24.03.2021 einen Beschluss veröffentlicht, mit dem 
+es mehreren Verfassungsbeschwerden (1 BvR 2656/18, 1 BvR 78/20, 1 BvR 96/20, 1 BvR 288/2) teilweise 
+stattgibt
+
+
+
+
+
+6
+
+2 Hintergrund
+
+
+
+
+
+Emissionen verschärft. Das Minderungsziel für 2030 steigt um 10 Prozentpunkte auf mindestens 65 
+Prozent. Das heißt, Deutschland soll bis zum Ende des Jahrzehnts seinen Treibhausgasausstoß um 65 
+Prozent gegen- über dem Jahr 1990 verringern. Für das Jahr 2040 gilt ein Minderungsziel von 
+mindestens 88 Prozent. Auf dem Weg dorthin sieht das Gesetz in den 2030er Jahren konkrete jährliche 
+Minderungsziele vor. Bis zum Jahr 2045 soll Deutschland Treibhausgasneutralität erreichen. Diese 
+höheren Ambitionen im Vergleich zum frühe- ren Klimaschutzgesetz aus dem Jahr 2019 wirken sich auch 
+auf die CO2-Minderungsziele im Gebäudebereich aus.
+
+Obwohl bekannt ist, dass der Gebäudesektor einen großen Anteil an den CO2-Emissionen hat und hier 
+ein hohes Einsparpotenzial besteht, greifen die bisherigen Maßnahmen zu kurz, setzen keine oder zu 
+geringe Anreize und sind zu wenig aufeinander abgestimmt. Dabei wird vom Gesetzgeber nicht nur das 
+Einspar- potenzial, sondern auch das Potenzial der Akteure in der Immobilienwirtschaft verkannt. 
+Beispielsweise gelten Quartierslösungen unter Nutzung klimafreundlicher lokaler Potenziale in 
+Fachkreisen schon lange als ein Eckpfeiler der Energiewende im Gebäudesektor.
+
+2.1  Rolle des Gebäudesektors bei der Erreichung der Klimaschutzziele
+Je nachdem, welche Emissionen in den Gebäudesektor mit einbezogen werden, ergeben sich schnell 
+erheb- liche Unterschiede bei den Gesamtemissionen. Gerade im Gebäudebereich ist nämlich eine 
+umfassendere Betrachtung erforderlich.Denn die erwähnten 15 % der Emissionen durch den 
+Gebäudesektor beziehen nur direkte Emissionen mit ein. Solche entstehen z. B. durch das Verbrennen 
+von Gas und Öl. Indirekte Emissionen, wie sie beispielsweise durch Fernwärme und Strom entstehen, 
+werden nicht mit einbezogen. Sie werden überwiegend der Energiewirtschaft zugerechnet, obwohl sie 
+einen Großteil der CO2-Emissionen in Gebäuden ausmachen.5 Berücksichtigt man diese Zahlen im 
+Gebäudesektor, steigt dessen Anteil schnell auf ca. 30 Prozent der Emissionen.6 Darin zeigt sich 
+die hohe Relevanz von Gebäuden bei der Energiewende.
+Ebenfalls nicht in dem Anteil berücksichtigt ist die sogenannte „graue Energie“. Dabei handelt es 
+sich um diejenige Energie, die für Abbau, Herstellung, Transport, Lagerung, Instandhaltung, Rückbau 
+und Entsorgung der eingesetzten Materialien benötigt wird. Sie wird dem Industriesektor 
+zugeordnet.7 Demnach verschwin- den diese Werte zwar nicht aus der Gesamtbilanz, werden aber 
+ebenfalls nicht dem Gebäudesektor zugerechnet, obwohl dort die Entscheidung über die Materialien 
+getroffen wird.
+Nur bei einer umfassenden Betrachtung der im Gebäudebereich anfallenden Emissionen kann die Rele- 
+vanz dieses Sektors bewertet und es können etwaige Einsparpotenziale optimal genutzt werden. Ziel 
+der Bundesregierung im Klimaschutzgesetz ist ein Rückgang der CO2-Emissionen um 65 Prozent bis 2030 
+im Vergleich zum Referenzjahr 1990. Dabei sind für die energetische Betrachtung von Gebäuden neben 
+dem Gebäudesektor auch der Energie- und der Industriesektor von Bedeutung. Konkrete Einsparziele 
+für Gebäude werden aber nur im Gebäudesektor benannt. Um das Einsparziel in Deutschland insgesamt 
+zu erreichen, darf der Gebäudesektor im Jahr 2030 maximal 67 Millionen Tonnen CO2 ausstoßen. 
+Überträgt man die verschärf- ten europäischen Anforderungen an den Klimaschutz eins zu eins auf das 
+Bundesklimaschutzgesetz und den Gebäudesektor in Deutschland, so dürften 2030 sogar nur noch 53 
+Millionen Tonnen CO2 ausgestoßen wer- den. Demnach sind starke Einsparungen im Gebäudesektor 
+erforderlich. Bis 2030 müssten demzufolge zur
+
+5 Ebd., S. 24.
+6 BMU: Klimaschutz in Zahlen, Mai 2020, S. 40.
+7 Ebd.
+
+
+
+
+
+dena-Studie „Das Quartier“  7
+
+2 Hintergrund
+
+
+
+
+Einhaltung der Vorgaben des Klimaschutzgesetzes mindestens 50 Millionen Tonnen der jährlichen CO2- 
+Emissionen eingespart werden, um die derzeitigen Ziele der Bundesregierung zu erreichen. Eine 
+Studie des Bundesumweltamts kommt allerdings zu dem Ergebnis, dass das Ziel im Gebäudesektor 2030 
+um ca.
+17 Millionen Tonnen verfehlt wird.8
+Innerhalb des Gebäudesektors (Wohn- und Nichtwohngebäude) entfallen derzeit 658 TWh (ca. 76 
+Prozent) des endenergiebezogenen Gebäudeenergieverbrauchs auf Raumwärme, 130 TWh (ca. 15 Prozent) 
+auf Warm- wasser, 66 TWh (ca. 8 Prozent) auf Beleuchtung und 10 TWh (ca. 1 Prozent) auf 
+Klimakälte.9 Die Aufteilung der Verbräuche zeigt, dass im Gebäudebereich stets mehrere Medien (z. 
+B. Strom, Wärme oder Kälte) berücksich- tigt werden müssen.
+Vor diesem Hintergrund ist eine Erreichung der CO2-Einsparziele bei Gebäuden nur durch einen 
+sektorüber- greifenden Ansatz, also mit übergreifenden Regelungen zur Erzeugung und Nutzung von 
+Wärme bzw. Kälte, Strom und Mobilität möglich. Das gilt insbesondere deshalb, weil im Gebäude der 
+Zukunft vermehrt Wärme- pumpen (die elektrisch betrieben werden) zum Einsatz kommen, deren Betrieb 
+Strom benötigt, und Mobili- tät in erster Linie durch Ladesäulen für die Elektromobilität 
+ermöglicht wird.
+
+2.2  Rolle der Quartiere bei der Erreichung der Klimaschutzziele
+Bei der Energieversorgung von Gebäuden sind die Klimaziele mehrerer Sektoren zu berücksichtigen. 
+Als Teil der Lösung der vorgenannten Problematik bietet sich eine intelligente Sektorkopplung im 
+Quartier beson- ders an. Durch eine Quartiersversorgung entstehen neuartige 
+Energieversorgungskonzepte und Betreiber- modelle, die die Energiewende dezentral umsetzen und die 
+Nutzerschaft in den Mittelpunkt der Gebäude- entwicklung stellen.10 Die optimale 
+Quartiersversorgung muss auf die breite Integration aller verfügbaren Ressourcen setzen und dabei 
+die lokalen und situationsabhängigen Gegebenheiten berücksichtigen.
+Dabei sind Sanierungen und klimaneutrale Energieversorgungslösungen im Quartier ein Schlüssel auf 
+dem Weg zum klimaneutralen Gebäudebestand. Durch die räumliche Nähe zu den Verbrauchssektoren ist 
+das Quartier ein idealer Standort für Erneuerbare-Energien-Erzeugungskapazitäten. Mit regelbaren 
+multimoda- len Versorgungskonzepten sind so auch Impulse in andere Energiesektoren bzw. 
+vorgelagerte Infrastrukturen möglich.
+Quartier als Plattform für Aggregatoren und neue Geschäftsmodelle
+Durch den sektorübergreifenden und dezentralen Ansatz im Quartier entstehen neue Geschäftsmodelle 
+in der energetischen Bewirtschaftung von Gebäuden. Langfristig kann das Quartier als eine Plattform 
+für neue Produkte und Dienstleistungen etabliert werden.
+So kann die Marktrolle des Aggregators11 Synergien der unterschiedlichen Sektoren durch neue 
+Geschäfts- modelle zusammenführen und einen wirtschaftlichen Mehrwert für alle Beteiligten 
+schaffen. Dabei geht es nicht um lokale Autarkie, sondern um die maximierte Nutzung von 
+klimaneutralen Energiepotenzialen sowie Netzdienlichkeit.
+
+
+8 Umweltbundesamt (Hrsg.): Abschätzung der Treibhausgasminderungswirkung des Klimaschutzprogramms 
+2030 der Bundesregierung, Climate Change 33/2020, Oktober 2020, S. 30.
+9 Deutsche Energie-Agentur (dena): Gebäudereport 2021 – Fokusthemen zum Klimaschutz im 
+Gebäudebereich, S. 10.
+10 Beispiele hierfür sind Quartiersversorgungssysteme mit einer Wärmeversorgung über Wärmenetze mit 
+unterschiedlichen Temperaturen und Wärme- quellen (Biomasse-KWK, Geothermie, Solarthermie, Abwärme, 
+Wärmepumpen) und eine quartiersoptimierte Stromversorgung mit lokalem Austausch von Solarstrom, 
+Batterien und E-Mobilität nach jeweiligen Nutzerbedürfnissen.
+11 Der Begriff des Aggregators wird in diesem Zusammenhang nicht als terminus technicus im Sinne 
+von § 3 Nr. 1a EnWG verwendet.
+
+
+
+
+
+8
+
+2 Hintergrund
+
+
+
+
+
+Als Beispiel sei hier die Nutzung von dezentral und erneuerbar erzeugtem Strom in Wärmepumpen 
+genannt. Die Nutzung des im Quartier produzierten Stroms vor Ort entlastet die Netze und verringert 
+die zu zahlenden Netzentgelte. Die Ersetzung von konventionellen Heizungen durch Wärmepumpen muss 
+aber nicht zwingend durch den Quartierseigentümer vorgenommen werden. Hier sind ebenso 
+Contracting-Modelle denkbar. Die Abwicklung der Verteilung der Energie über verschiedene Medien 
+hinweg und ihre Abrechnung kann durch einen weiteren Marktteilnehmer (hier den Aggregator) 
+erfolgen.
+Synergien und Skaleneffekte im Quartier
+Zudem ermöglicht das Quartier Synergieeffekte, die durch die Verknüpfung zwischen beispielsweise 
+Bau- typologien, Nutzungssektoren oder Akteuren entstehen. Die gemeinschaftliche Nutzung von 
+Energieinfra- strukturen von Wohnen, GHD12 und Industrie kann so die unterschiedlichen Lastprofile 
+zusammenbringen, wodurch sich Versorgungssysteme effizienter auslegen lassen. So besteht im 
+Wohnbereich der Strombedarf beispielsweise vor allem morgens und abends. Im gewerblichen und 
+industriellen Bereich hingegen findet der Leistungsabruf vor allem tagsüber statt.
+Skaleneffekte ergeben sich durch geringere Planungskosten bei ähnlichen baulichen Voraussetzungen 
+sowie gemeinschaftlichem Einkauf von Planungs- und Baudienstleistungen. Auch multimodale 
+Energiesysteme mit Speichern, Sektorenkopplung und Demand-Side-Management13 sind erst bei 
+ausreichender Größe wirt- schaftlich bzw. realisierbar, was weitere Emissionsminderungen 
+ermöglicht.
+Ein Beispiel hierfür wäre das intelligente Flottenmanagement im Rahmen der Elektromobilität. Dabei 
+werden Elektrofahrzeuge entsprechend dem Nutzungsverhalten der Fahrerinnen und Fahrer optimiert 
+geladen. Es ist möglich, die Fahrzeuge entsprechend den geplanten Abfahrtszeiten oder zu einem 
+Zeitpunkt, zu dem viel Photovoltaik-Strom zur Verfügung steht, zu laden. Aufgrund des 
+unterschiedlichen Nutzungsverhaltens im Quartier entstehen so Synergien beim Betrieb. Die relativ 
+teure Soft- und Hardware wird erst durch Skalen- effekte im Quartier wirtschaftlich.
+Netzdienlichkeit für das optimierte Gesamtsystem
+Sektorenkopplung und leitungsgebundene Wärme sind zentral für eine klimaneutrale Wärmeversorgung. 
+Durch das Zusammentreffen unterschiedlicher Bedarfe aus Heiz-, Kühl-, Strom- und 
+Mobilitätsanwendungen sowie aus verschiedenen Wirtschaftszweigen mit entsprechenden 
+Energieanwendungen lassen sich im Quartier Sektoren kosteneffizient und effektiv koppeln. Dadurch 
+können Systemdienstleistungen angeboten werden, wobei die verbrauchsnahe Energiewandlung, 
+-speicherung und -verteilung ebenso den Ausbau- bedarf in vorgelagerten Netzen reduzieren und 
+volkswirtschaftlich optimieren kann.
+In diesem Zusammenhang ist vor allem die Versorgung von elektrischen Wärmepumpen und Ladesäulen für 
+die Elektromobilität mit dezentral erzeugtem Strom anzuführen. Durch eine intelligente Steuerung 
+kann der erzeugte Strom je nach Bedarf für die Mobilität oder die Wärmeerzeugung genutzt werden. 
+Sofern der erzeugte Strom auch noch zwischengespeichert werden kann, ist seine Nutzung zeitlich 
+flexibel möglich. Hier sind neuartige Konzepte denkbar, bei denen die Batterien der 
+Elektrofahrzeuge als dezentrale Stromspeicher dienen. Gerade in einem Quartier ist oftmals eine 
+ausreichende Zahl von Fahrzeugen vorhanden, um eine Nutzung der Speicherkapazität in ausreichendem 
+Umfang zu ermöglichen. Wenn der erneuerbar erzeugte Strom auf diese Weise direkt vor Ort genutzt 
+wird, muss das vorgelagerte Netz weder in der Lage sein, den erzeugten Strom aufzunehmen, noch muss 
+das Netz den Strom für die Wärmepumpen bereitstellen können.
+
+
+12 Gewerbe, Handel, Dienstleistungen.
+13 Mit Demand-Side-Management ist die Anpassung des Bezugs von leitungsgebundener Energie beim 
+Verbraucher gemeint.
+
+
+
+
+
+dena-Studie „Das Quartier“  9
+
+2 Hintergrund
+
+
+
+
+Konkretes Anwendungsbeispiel: BHKW
+Neben der Fernwärme und der integrierten Erzeugung stellt ein Blockheizkraftwerk (BHKW) eine 
+wichtige Option bei der Energieversorgung dar. Das BHKW eines Gebäudes kann ein ganzes Quartier 
+effizient und ökologisch mit Wärme und die Mieterinnen und Mieter mit Mieterstrom versorgen.
+Der höhere Gesamtnutzungsgrad eines BHKW gegenüber der herkömmlichen Kombination von lokaler 
+Heizung und zentralem Kraftwerk resultiert daraus, dass die Abwärme zur Stromerzeugung genutzt 
+wird. Der Wirkungsgrad der Stromerzeugung mit Verbrennungsmotoren liegt dabei, abhängig von der 
+Anlagengröße, zwischen 25 und 44 Prozent (bezogen auf den Heizwert). BHKWs auf 
+Brennstoffzellen-Basis hingegen können einen elektrischen Wirkungsgrad von 55 bis zu 60 Prozent 
+erreichen. Falls die Abwärme vollständig und orts- nah, also im Quartier, genutzt wird, kann ein 
+Gesamtwirkungsgrad bezüglich der eingesetzten Primärenergie von 80 bis 90 Prozent (bezogen auf den 
+Heizwert) erreicht werden. Brennwertkessel erreichen hingegen Wirkungsgrade von bis zu 100 Prozent 
+(bezogen auf den Heizwert), können aber keinen elektrischen Strom erzeugen.
+Der wirtschaftliche und ökologische Grundgedanke des wärmegeführten Betriebs eines BHKW liegt also 
+darin, die erzeugte Wärme vollständig und möglichst auch den Strom vor Ort zu nutzen. Da auf diese 
+Weise weniger an herkömmlicher Kraftwerkskapazität für die Stromerzeugung benötigt wird, 
+substituiert die verstärkte Nutzung von BHKWs den Strom aus fossilen Kondensationskraftwerken der 
+Mittellast (hauptsäch- lich Kohle) und ermöglicht durch die höhere Effizienz sowie den Einsatz von 
+weniger klimaschädlichem Erdgas (statt Kohle) einen geringeren Kohlendioxidausstoß. Das soll in 
+Deutschland gerade – wie in Teil 1 in den Kapiteln 2 bis 4 gezeigt – durch gesetzliche Regelungen 
+wie das Kraft-Wärme-Kopplungsgesetz (KWKG) unterstützt werden.
+Ein BHKW erreicht folglich einen insgesamt deutlich höheren Nutzungsgrad gegenüber dem 
+herkömmlichen Mischbetrieb aus lokaler Heizung und zentraler Stromversorgung. Durch die kurzen Wege 
+wird zudem die Energieeffizienz gesteigert und die Netze der allgemeinen Versorgung werden 
+entlastet. Dabei kann die Dimensionierung der Erzeugungsanlage an den lokalen Bedarf angepasst 
+werden. Im Idealfall findet dabei nicht nur eine intelligente Steuerung der Erzeugungsleistung, 
+sondern auch des Verbrauchs statt.
+Bei einem ökologisch sinnvollen Modell geht es aber keineswegs nur um den reinen Austausch einer 
+fossilen gebäudeintegrierten Erzeugung gegen eine fossile Quartiersnutzung, sondern vor allem um 
+die lokale Nut- zung von erneuerbaren Energien. Wird zum Beispiel als Kraftstoff in einem BHKW 
+Biogas statt Erdgas ein- gesetzt, besteht ein klimaneutraler Ansatz im Quartier. Idealerweise wird 
+die Erzeugung von Wärme und Strom aber noch zusätzlich mit Photovoltaik-Anlagen und Wärmepumpen 
+kombiniert. Die optimale Quar- tiersversorgung muss auf breite Integration aller verfügbaren 
+Ressourcen setzen und dabei die lokalen und situationsabhängigen Gegebenheiten berücksichtigen.
+Mit § 107 GEG hat der deutsche Gesetzgeber im November 2020 eine erste gesetzliche Regelung für 
+Quartiere geschaffen, jedoch kommt der Impuls für den Quartiersansatz hier, wie dargestellt, allein 
+aus der Wärme- bzw. Kälteversorgung. Im Quartier spielt aber, wie in Teil 1 unter Kapitel 2 bis 4 
+gezeigt, nicht nur die Wärme- bzw. Kälteversorgung eine Rolle, sondern zum Beispiel auch die 
+Stromversorgung und die Mobilität. Es ist daher zu begrüßen, dass der Gesetzgeber den Begriff des 
+Quartiers Anfang des Jahres 2021 auch im Bereich der Elektromobilität (vgl. Teil 1: 2.1.2 Lade- und 
+Leitungsinfrastruktur im Quartier (§ 12 GEIG)) und in der Mieterstromförderung nach dem EEG (vgl. 
+Teil 1: 2.1.3 Mieterstromversorgung im Quartier (§ 21 EEG 2021)) eingeführt hat. Der Begriff des 
+Quartiers bedingt geradezu eine Sektorkopplung und damit auch einen Gleichlauf der gesetzlichen 
+Regelungen zum Quartier. Bei allen energierechtlichen und sektorbezogenen
+
+
+
+
+
+10
+
+2 Hintergrund
+
+
+
+
+
+Regelungen sollte daher stets ein flexibler „Sektor Quartier“ mitgedacht werden. Hier gibt es 
+weiteres Harmonisierungspotenzial hinsichtlich der energierechtlichen Regelungen.
+Auch an anderer Stelle zeigt die Analyse des europäischen und des nationalen Rechtsrahmens für 
+Gebäude im Quartier in Teil 1, Kapitel 2 bis 4, dass keine hinreichende sektorübergreifende 
+Betrachtung seitens des Gesetzgebers stattfindet.
+Das führt dazu, dass umfassende Quartierskonzepte nicht umgesetzt werden bzw. gar nicht umsetzbar 
+sind. Der Akteur, sei es Bauherrin bzw. Bauherr, Eigentümerin bzw. Eigentümer oder 
+Quartiersversorger, wird gezwungen, sich für ein Förderregime und damit für eine Technologie zu 
+entscheiden.
+Wird zum Beispiel ein BHKW wärmegeführt eingesetzt, spielt die Strombetrachtung oftmals eine 
+untergeord- nete Rolle. Von einem wärmegeführten BHKW spricht man, wenn sich die Leistungsabgabe 
+des BHKW nach dem lokalen Wärmebedarf richtet. Durch Regelung der Heizleistung werden in modular 
+aufgebauten Anlagen einzelne Aggregate je nach Bedarf ab- oder zugeschaltet. Bei einer 
+Konfiguration mit nur einem Aggregat wird entweder dessen Leistungsabgabe entsprechend geregelt 
+oder ein Wärmespeicher im Intervallbetrieb geladen.
+Bei einem stromgeführten BHKW richtet sich hingegen die Leistungsabgabe nach dem Strombedarf oder 
+der Fähigkeit des Aggregats. Die in diesem Zeitraum nicht nutzbare Wärme wird über einen Notkühler 
+als Ab- wärme an die Umgebung abgegeben. Dies reduziert den Wirkungsgrad.
+Meistens wird das wärmegeführte BHKW gewählt. Ein Grund für diese Wahl ist, dass keine 
+sektorübergrei- fende Betrachtung des Strombedarfs erfolgt, da hierfür kein ausreichender 
+gesetzlicher Anreiz gesetzt wird. Die Förderung der dezentralen Stromversorgung im KWKG und im EEG 
+ist zu gering. Im Regelfall wird der Strom deshalb einfach in das Netz der allgemeinen Versorgung 
+eingespeist, denn die Mieterstromzuschläge sind zu niedrig oder die Abwicklungsprozesse hinter 
+diesen Geschäftsmodellen sind viel zu aufwendig (vgl. dazu Teil 1, Kapitel 2 bis 4).
+Das Quartier als Schnittstelle zwischen Wärme- und Strommarkt
+Das ist bedauerlich, denn die KWK steht durch die gekoppelte Erzeugung an der Schnittstelle 
+zwischen Strom- und Wärmemarkt. Die Rolle der KWK bei der Energiewende besteht vor allem darin, 
+dass Wärmenetze als zukunftsfähige Infrastruktur eine strategische Bedeutung haben. Eine 
+Transformation von Wärmenetzen mit Wärme aus Erdgas-BHKWs hin zu Wärmenetzen mit Wärme aus 
+erneuerbaren Energien ist bei der Errich- tung von Wärmenetzen stets mitzudenken (Dekarbonisierung 
+der Wärmeversorgung). Wärmenetze können im Quartier die Wärmeversorgung übernehmen und auch Wärme 
+aus verschiedenen Quellen zusammenbrin- gen. Das geht gerade in Quartieren gut, da die Versorgung 
+mit Raumwärme und Warmwasser anders als in Industriearealen auch mit niedertemperaturiger Wärme 
+möglich ist. Bei einer weitgehenden Treibhausgas- neutralität haben gerade brennstoffbezogene 
+KWK-Anlagen eine Zukunft, wenn sie erneuerbare Brennstoffe einsetzen. Dabei ist zu berücksichtigen, 
+dass die Nutzung erneuerbarer Brennstoffe in Zukunft auch von anderen Sektoren (z. B. Industrie und 
+Mobilität) beansprucht werden wird. Es muss sich also noch heraus- stellen, welcher Anteil der 
+synthetischen Gase tatsächlich für die Wärmeversorgung in Gebäuden verfügbar sein wird. 
+Flexibilisierung und Netzstabilität sowie die Vermeidung von Fehlanreizen und Lock-in-Effekten 
+werden in Zukunft bei der Betrachtung der KWK-Technologie als Brückentechnologie noch bedeutsamer 
+werden.
+Eigenversorgung nach dem EEG
+
+
+
+
+
+
+
+dena-Studie „Das Quartier“  11
+
+2 Hintergrund
+
+
+
+
+Ein anderes Beispiel ist die EEG-Eigenversorgung. Möchte man ein solches Modell umsetzen14, um 
+möglichst viel des selbst erzeugten Stroms auch selbst zu verbrauchen und nur eine reduzierte 
+EEG-Umlage zu zahlen, fehlt gleichzeitig die Möglichkeit, für den überschüssigen Strom, der an die 
+Mieterschaft geliefert wird, die EEG-Umlage einzusparen. Dies wird besonders offensichtlich, wenn 
+die Stromlieferung an Ladesäulen für die Elektromobilität erfolgt. Auch hier fällt im Quartier 
+regelmäßig die volle EEG-Umlage an, obwohl der Ausbau der Elektromobilität erklärtes Ziel der 
+Bundesregierung ist.
+Insoweit setzt der Gesetzgeber derzeit im Quartier einen zu geringen Anreiz, um die Sektorkopplung 
+im Quar- tier zur Erreichung der Klimaschutzziele voranzutreiben. Mit dem bestehenden nationalen 
+Rechtsrahmen können die Ziele im Gebäudebereich bis 2030 nicht erreicht werden. Dabei fehlt es in 
+den maßgebenden Vorschriften auch an ausreichenden Vorgaben bzw. Anreizen für die Akteure zur 
+Einsparung von CO2 beim Bau bzw. bei der Modernisierung im Quartier. Dezentrale und bestenfalls 
+vernetzte Konzepte wären zudem sinnvoll, um die Netze der allgemeinen Versorgung zu entlasten.
+
+
+Zwischenfazit
+Der einzelne Akteur im Quartier kann auf der Grundlage des bestehenden Rechtsrahmens bisher nur 
+wenig zur Klimawende beitragen. Allerdings können durch einen Quartiersansatz lokale Potenziale für 
+die dezentrale Energieversorgung genutzt werden. Quartiere sind zum Erreichen eines klimaneutralen 
+Gebäudebestands und damit zur Erreichung der Klimaschutzziele wichtig. Aber auch insoweit reicht 
+der bestehende Rechtsrahmen nicht aus.
+
+
+In diesem Teil der Studie wird das Zusammenspiel der in Teil 1 in den Kapiteln 2 bis 4 
+dargestellten gesetz- lichen Regelungen analysiert. Aus dieser Analyse ergeben sich Schwachstellen, 
+die nachfolgend aufgezeigt werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 Siehe die Ausführungen in Teil 1: 4.2.1.4.1. Eigenstromversorgung.
+
+
+
+
+
+12
+
+3 Schwachstellen
+
+
+
+
+
+3  Schwachstellen
+
+Die Schwachstellen des gesetzlichen Rahmens für die Quartiersversorgung lassen sich in vier 
+Bereiche untergliedern. Offensichtlich ist die fehlende Harmonisierung der relevanten 
+Regelungsbereiche (siehe 3.1). Zahlreiche Gesetze mit verschiedenen Zielrichtungen und 
+unterschiedlichem Begriffsverständnis sind im Rahmen der Quartiersversorgung zu beachten. Die 
+relevanten Gesetze enthalten zudem nur unzureichende Vorgaben zur Errichtung und Nutzung von 
+Infrastruktur (siehe 3.2) und fördern einseitig bestimmte Techno- logien (siehe 3.3). Darüber 
+hinaus werden CO2-Emissionen nicht hinreichend pönalisiert (siehe 3.4).
+
+3.1  Fehlende Harmonisierung der Regelungsbereiche
+Die in Teil 1: 4 Nationaler Rechtsrahmen beschriebenen Regelungen lassen sich verschiedenen 
+Regelungs- zielen zuordnen und machen unterschiedliche Vorgaben für das Quartier bzw. die 
+jeweiligen Akteure. Hin- sichtlich der Regelungsziele ist zwischen dem wettbewerblichen Zweck 
+(siehe 3.1.1), dem umweltbezogenen Zweck (siehe 3.1.2) und dem relativ neuen Ansatz der 
+CO2-Bepreisung (siehe 3.1.3) zu unterscheiden. Legt man diese Vorschriften übereinander, so ist 
+festzustellen, dass die Regelungsbereiche nicht harmonisiert sind und gegenläufige Zielsetzungen 
+aufweisen (siehe3.1.4).
+
+3.1.1 Wettbewerblicher Zweck
+Bei der Systematisierung des nationalen Rechtsrahmens sind zunächst die allgemeinen 
+energiewirtschaft- lichen Regelungen anzuführen, die im gesamten Teil 1 eine wesentliche Rolle 
+spielen. Hierunter fallen bei- spielsweise Regelungen zum Netzanschluss und zum Betrieb eines 
+Quartiers als Kundenanlage/Netz oder auch Vorgaben zur Messtechnik.15 Die energiewirtschaftlichen 
+Regelungen haben dabei den Energie- markt bzw. ein funktionierendes Energiewirtschaftssystem im 
+Blick.
+
+Gesetzliche Grundlage vieler Bestimmungen in diesem Bereich ist das Energiewirtschaftsgesetz 
+(EnWG). Der Zweck des Gesetzes ist nach § 1 EnWG eine möglichst sichere, preisgünstige, 
+verbraucherfreundliche, effiziente und umweltverträgliche leitungsgebundene Versorgung der 
+Allgemeinheit mit Elektrizität, Gas und Wasserstoff, die zunehmend auf erneuerbaren Energien 
+beruht. Die Regulierung der Elektrizitäts- und Gas- versorgungsnetze dient den Zielen der 
+Sicherstellung eines wirksamen und unverfälschten Wettbewerbs bei der Versorgung mit Elektrizität 
+und Gas und der Sicherung eines langfristig angelegten leistungsfähigen und zuverlässigen Betriebs 
+von Energieversorgungsnetzen.
+
+Kern des Energiewirtschaftsgesetzes ist also ein funktionierendes und marktorientiertes 
+Energieversor- gungssystem für die Bereiche Strom, Gas und Wasserstoff in Deutschland. Wesentlich 
+für einen wirksamen und unverfälschten Energiesektor ist hierbei ein strenges Entflechtungsregime. 
+Es geht dabei um die Unabhängigkeit der Netzbetreiber von anderen Tätigkeitsbereichen der 
+Energieversorgung. Durch einen
+
+
+
+15 Siehe Teil 1: 4.1.2 Netzanschluss an das vorgelagerte Netz, 4.2.1 Stromversorgung sowie 4.1.5 
+Messung und Messaufbau (Auflistung entsprechend der Reihenfolge oben).
+
+
+
+
+
+dena-Studie „Das Quartier“  13
+
+3 Schwachstellen
+
+
+
+
+
+neutralen bzw. regulierten Netzbetrieb soll ein Wettbewerb in den Bereichen Energieerzeugung und 
+-vertrieb (sogenanntes Unbundling) ermöglicht werden (vgl. §§ 1, 6 ff. EnWG).
+
+Im Hinblick auf die Quartiersversorgung möchte der Gesetzgeber dies vor allem durch die Abgrenzung 
+der Kundenanlage vom Netz der allgemeinen Versorgung ermöglichen (siehe Teil 1: 4.2.1.1 Betrieb der 
+Infra- struktur als Netz oder Kundenanlage).
+
+Im Netz der allgemeinen Versorgung gelten die strengen regulatorischen Vorgaben des EnWG für den 
+Netzbetrieb (siehe Teil 1: 4.2.1.1.1 Definition der Kundenanlage). In der Kundenanlage ist der 
+Betrieb der Energieanlagen bzw. der Infrastruktureinrichtungen für Energie nicht reguliert. Eine 
+Regulierung ist hier aber auch nicht erforderlich, da ein Entgelt für die Nutzung der Strom- und 
+Gasinfrastruktur grundsätzlich unzulässig ist.16
+
+Die Voraussetzungen für das Vorliegen einer Kundenanlage im Sinne von § 3 Nr. 24a EnWG17 sind im 
+Kontext des Wettbewerbs zu sehen.18 Das Quartier betreffend muss die Frage bei der Abgrenzung von 
+Netz und Kundenanlage daher lauten: Sind die Energieanlagen bzw. Infrastruktureinrichtungen zum 
+Transport der Energie im Quartier noch so belanglos, nebensächlich oder minimal, dass sie für den 
+Wettbewerb beim Netzbetrieb unbedeutend sind, oder liegt bereits ein regulierungsbedürftiges Netz 
+vor? Quartiere sind also vor dem Lichte eines funktionierenden energiewirtschaftlichen Wettbewerbs 
+einzuordnen.
+
+Auch weitere energiewirtschaftliche Regelungen folgen diesem Leitbild. Ein Zähler im Sinne des 
+Mess- stellenbetriebsgesetzes (MsbG) ist beispielsweise nur dann erforderlich, wenn Strom „aus dem 
+Netz bezogen wird“.19 Nur dann muss der Betreiber dieses sogenannten bilanzierungsrelevanten 
+Zählers am Markt frei wählbar sein. Wird Strom hingegen nur innerhalb der Kundenanlage geliefert, 
+ist das MsbG nicht anzuwenden. Ein Wettbewerb für den Betrieb des Zählers ist nach der Vorstellung 
+des Gesetzgebers wegen der untergeordneten Bedeutung von Kundenanlagen im Wettbewerb auch nicht 
+erforderlich.20 Insoweit sind die Vorgaben des MsbG nicht zu beachten, was für den 
+Quartiersversorger einfacher sein kann, wenn das Quartier noch als reine Kundenanlage gesehen wird.
+
+Die Kosten des Netzanschlusses (Errichtung oder Ausbau) sind dem Netzbetrieb zuzuschreiben und 
+unter- liegen daher der Regulierung, weil die Kosten (siehe Teil 1: 4.1.2.2 Netzanschlusskosten) 
+und der Baukosten- zuschuss (siehe Teil 1: 4.1.2.3 Baukostenzuschuss) das regulierte Netz 
+betreffen. Steigt die Last des Strom- bezugs aus dem Netz (z. B. durch Ladesäulen für die 
+Elektromobilität), fallen die entsprechenden Kosten an. Findet der Anstieg der Leistung hingegen 
+nur in der Kundenanlage statt und wird beispielsweise durch intelligentes Lastmanagement erreicht, 
+dass der Strombezug aus dem Netz gleich bleibt, steigen die Kosten
+
+
+
+
+
+16 Siehe Teil 1: 4.2.1.1.1.4 Unentgeltliche Zurverfügungstellung der Kundenanlage.
+17 „Energieanlagen zur Abgabe von Energie, a) die sich auf einem räumlich zusammengehörenden Gebiet 
+befinden, b) mit einem Energieversorgungsnetz oder mit einer Erzeugungsanlage verbunden sind, c) 
+für die Sicherstellung eines wirksamen und unverfälschten Wettbewerbs bei der Versorgung mit 
+Elektrizität und Gas unbedeutend sind und d) jedermann zum Zwecke der Belieferung der 
+angeschlossenen Letztverbraucher im Wege der Durchleitung unabhängig von der Wahl des 
+Energielieferanten diskriminierungsfrei und unentgeltlich zur Verfügung gestellt werden.“
+18 Siehe Teil 1: 4.2.1.1.1.2 Für wirksamen und unverfälschten Wettbewerb unbedeutend.
+19 Siehe Teil 1: 4.1.5 Messung und Messaufbau.
+20 Siehe Teil 1: 4.2.1.1.1. Definition der Kundenanlage.
+
+
+
+
+
+14
+
+3 Schwachstellen
+
+
+
+
+
+nicht. Die Nutzung der Energieanlagen innerhalb der Kundenanlage ist grundsätzlich kostenfrei und 
+unab- hängig von der Leistung. Insofern stellt der Netzanschluss genau die Grenze zwischen 
+reguliertem Netz und nicht regulierter Kundenanlage dar (siehe Teil 1: 4.1.2.1. Netzanschluss- und 
+Anschlussnutzungsvertrag).
+
+Auch die freie Wahl des Stromlieferanten bildet dieses Verständnis des EnWG ab. Alle 
+Letztverbrauche- rinnen und -verbraucher im Quartier haben einen gesetzlichen Anspruch auf die 
+freie Wahl des Stromliefe- ranten. Das bedeutet, die Letztverbraucherinnen und -verbraucher (z. B. 
+die Mieterinnen und Mieter, aber auch der Quartierseigentümer oder der Quartiersversorger) dürfen 
+sich ihren Gas- oder Stromlieferanten am freien Markt suchen.21 Sie können sich beispielsweise für 
+einen besonders günstigen, einen regionalen oder einen umweltfreundlichen Stromlieferanten etc. 
+entscheiden. Eine Beschränkung dieses Wahlrechts wäre mit den Regeln eines freien 
+energiewirtschaftlichen Wettbewerbs unvereinbar.
+
+
+Fazit
+Im Ergebnis lässt sich also festhalten, dass die energiewirtschaftlichen Regelungen vorrangig auf 
+einen funktionierenden Wettbewerb abzielen. Gebäude im räumlichen Zusammenhang bzw. Quartiere 
+unter- liegen in den meisten Fällen nicht den regulatorischen Vorgaben für einen Netzbetrieb und 
+stellen eine Kundenanlage dar. Vorgaben für das Netz spielen daher regelmäßig nur beim 
+Netzanschluss eine Rolle.
+Dennoch sind auch innerhalb eines Quartiers wettbewerbliche Vorgaben des Energiewirtschaftsrechts 
+(z. B. Messstellenbetrieb oder freie Wahl des Stromlieferanten) zu beachten. In diesem Bereich 
+bestehen mithin in der Praxis auch oft Unsicherheiten in der vertraglichen oder technischen 
+Umsetzung.
+
+
+3.1.2 Umweltbezogener Zweck
+Neben den allgemeinen energiewirtschaftlichen Vorgaben macht der Gesetzgeber Vorgaben zur Nutzung 
+umweltfreundlicher Technologien und fördert diese. Relevante Gesetze sind hier – wie aufgezeigt – 
+in erster Linie das Gebäudeenergiegesetz (GEG), das Gebäude-Elektromobilitätsinfrastruktur-Gesetz 
+(GEIG), die Klimaschutzgesetze der Länder sowie das Erneuerbare-Energien-Gesetz (EEG), das 
+Kraft-Wärme-Kopplungs- gesetz (KWKG) und das Stromsteuergesetz (StromStG).22 Teil 1 hat gezeigt, 
+dass diese Gesetze alle einen unterschiedlichen Quartiersansatz aufweisen, was aber nicht mit der 
+Förderung der entsprechenden Technologie zu erklären ist.
+
+Das GEG, das GEIG und auch die länderspezifischen Klimagesetze schreiben dem Quartierseigentümer 
+die Errichtung und Nutzung bestimmter Technologien vor (siehe Teil 1: 4.1.1.4 Klimaschutzgesetze 
+der Länder und 4.1.3.1 Vorgaben des GEG). So ist beispielsweise die Stromerzeugung mit 
+Photovoltaik-Anlagen auf Neubauten in bestimmten Bundesländern in Zukunft verpflichtend. Das GEG 
+stellt technische Anforderun-
+
+
+
+
+
+
+21 Siehe Teil 1: 4.1 Errichtung oder Erneuerung von Infrastruktur bzw. 4.2 Betrieb und Belieferung.
+22 Siehe zum Beispiel Teil 1: 2.1.1 Wärmeversorgung im Quartier (§ 107 GEG), 4.1.3.1 Vorgaben des 
+GEG, 4.1.1.4 Klimaschutzgesetze der Länder,
+4.2.1.4.2 Mieterstromversorgung, 4.2.2.3 Kraft-Wärme-Kopplungsgesetz (KWKG) und 4.2.1.3.3 Abführung 
+der Stromsteuer (Auflistung entsprechend der Reihenfolge oben).
+
+
+
+
+
+dena-Studie „Das Quartier“  15
+
+3 Schwachstellen
+
+
+
+
+
+gen an Neubauten, an Bestandsgebäude und an den Einsatz erneuerbarer Energien zur Wärme- und Kälte- 
+versorgung von Gebäuden. Das GEIG zielt auf den Ausbau der Leitungs- und Ladeinfrastruktur für die 
+Elektromobilität im Gebäudebereich ab.
+
+Neben dieser verpflichtenden Errichtung und Nutzung bestimmter Erzeugungsanlagen bzw. 
+Infrastruktur- einrichtungen existiert zudem ein komplexer Förderrahmen. Es ist hier vor allem die 
+geförderte Erzeugung von Strom aus erneuerbaren Energien und in hocheffizienten KWK-Anlagen im EEG 
+und im KWKG zu nennen. Der Gesetzgeber fördert also bestimmte Technologien, die nachhaltig oder 
+zumindest hocheffizient sind (siehe Teil 1: 4.2.1.4 Wirtschaftliche Betreibermodelle dezentraler 
+Energieversorgung).
+
+Ziel der Förderung erneuerbarer Energien (beginnend mit dem Erlass des EEG im Jahr 2000) und der 
+Kraft- Wärme-Kopplung (beginnend mit dem KWKG im Jahr 2002) ist es, umwelt- und klimaschonende 
+Techno- logien so lange zu fördern, bis sie auf dem freien Markt in Konkurrenz zu konventioneller 
+Erzeugung bestehen können. Die Idee ist also, eine bestimmte Technologie bei der Strom- bzw. 
+teilweise auch bei der Wärmeerzeugung so lange zu fördern, bis sie durch Skaleneffekte günstiger 
+wird und damit ohne Förderung am Markt bestehen kann.
+
+Zur Finanzierung der Förderung dieser Technologien wurden das EEG- und das KWK-Umlagesystem ge- 
+schaffen, die auch als Wälzungsmechanismus bzw. Ausgleichsmechanismus bezeichnet werden. Der Mecha- 
+nismus sieht vor, dass beim Strombezug fast aller Letztverbraucherinnen und -verbraucher 
+grundsätzlich die EEG- bzw. die KWK-Umlage fällig ist. Diese Umlagen finanzieren den 
+wirtschaftlichen Betrieb von Anlagen zur Stromerzeugung mit erneuerbaren Energien oder 
+hocheffizienten KWK-Anlagen durch spezielle Förder- mechanismen. Der Ausgleichsmechanismus zur 
+Förderung einer nachhaltigen bzw. hocheffizienten Strom- erzeugung ist volkswirtschaftlich aber nur 
+dann darstellbar, wenn auch ausreichend viele Letztverbrauche- rinnen und -verbraucher die Umlagen 
+zahlen. Eine sozial gerechte Aufteilung des Umlageaufkommens ist daher erklärtes Ziel der 
+Bundesregierung.
+
+Im Rahmen der Quartiersversorgung bzw. der dezentralen Versorgung von Gebäuden im räumlichen 
+Zusammenhang findet die Privilegierung vor allem dadurch statt, dass bestimmte 
+Stromkostenbestandteile (z. B. EEG-Umlage, KWK-Umlage, Stromsteuer) nicht oder nur teilweise 
+anfallen.
+
+Wie in Teil 1: 4.2.1.4.1 Eigenstromversorgung aufgezeigt, soll aber nur der Eigenversorger 
+beispielsweise von einer reduzierten EEG-Umlage profitieren. Während sogenannte Bestandsanlagen und 
+ältere Bestandsanla- gen – das sind Anlagen, die vor dem 1. August 2014 in der Eigenversorgung 
+waren – keine EEG-Umlage zahlen müssen, ist für neuere Eigenversorgungsmodelle eine EEG-Umlage in 
+Höhe von 40 Prozent vorgesehen. Der Gesetzgeber hat die Vorteile im Rahmen einer Eigenversorgung 
+für neue Eigenversorgungsmodelle also deutlich zurückgefahren. Auch die Anforderungen an die 
+Umsetzung einer Eigenversorgung wurden mit der Zeit immer strenger.
+
+Der Gesetzgeber will also einerseits die nachhaltige bzw. hocheffiziente und dezentrale 
+Stromerzeugung im Rahmen der Eigenversorgung fördern, andererseits ist er aber bestrebt, die Kosten 
+für die Förderung auf möglichst viele EEG- bzw. KWKG-Umlageschuldner zu verteilen. Deshalb werden 
+die Voraussetzungen im Rahmen der Eigenversorgung stetig anspruchsvoller und die Privilegierungen 
+bei der EEG-Umlage geringer.
+
+
+
+
+
+16
+
+3 Schwachstellen
+
+
+
+
+
+Die Eigenversorgung erfordert daher nicht nur, dass das Netz der allgemeinen Versorgung nicht 
+genutzt wird, sondern es besteht zusätzlich das Kriterium des unmittelbaren räumlichen 
+Zusammenhangs. Auch das Kriterium der Personenidentität und eine entsprechende 
+Strommengenabgrenzung sollen dafür Sorge tragen, dass genügend Verpflichtete für die EEG-Umlage 
+aufkommen. Dabei wird das eigentliche Ziel der Förderung von dezentraler Energieversorgung mit 
+umweltschonender Technologie im räumlichen Zusammenhang aus den Augen verloren.
+
+Das 2017 neu eingeführte Modell der Mieterstromversorgung mit Mieterstromzuschlag nach dem EEG 
+greift diesen Gedanken auf.23 Es sollen nun auch Mieterinnen und Mieter von den Vorteilen der 
+dezentralen Strom- erzeugung profitieren können. In der Mieterstromversorgung nach dem EEG kann der 
+dezentral erzeugte Strom der Mieterschaft aufgrund des Mieterstromzuschlags kostengünstig angeboten 
+werden. Der Erzeuger und die Verbraucherin oder der Verbraucher müssen aber zwingend 
+personenverschieden sein. Dabei ist für den Mieterstrom die EEG-Umlage abzuführen. Es soll 
+verhindert werden, dass die EEG-Umlage von immer weniger Umlageschuldnern geschultert werden muss. 
+Im Gegensatz zur Eigenversorgung reicht bei der Mieterstromversorgung nach dem EEG für die 
+Förderung mit einem Mieterstromzuschlag aber, dass der dezentral erzeugte Strom innerhalb dieses 
+Gebäudes oder in Wohngebäuden oder Nebenanlagen in dem- selben Quartier, in dem auch dieses Gebäude 
+liegt, geliefert und verbraucht wird. Durch die (rein) dogma- tische Aufteilung zwischen 
+Eigenversorgung und Mieterstrom wird der Rechtsrahmen zusätzlich verkom- pliziert und 
+Quartiersversorgungskonzepte werden äußerst komplex in der vertraglichen und technischen Umsetzung.
+
+Die Vorgaben im KWKG unterscheiden sich hiervon deutlich. Eine KWK-Mieterstromversorgung kennt nur 
+das Kriterium der Kundenanlage als Begrenzung für den räumlichen Zusammenhang. Bei der Lieferung 
+von KWK-Strom innerhalb der Kundenanlage ist kein zusätzliches Räumlichkeitskriterium zu beachten 
+(es sei denn, es wird eine Eigenversorgung im Sinne des EEG umgesetzt). Insofern ist ein Gleichlauf 
+zum EnWG und zum Ansatz der Unterscheidung nur zwischen Netz und Kundenanlage hervorzuheben.
+
+Noch großzügiger sieht den räumlichen Zusammenhang das Stromsteuerrecht. Der räumliche Zusammen- 
+hang umfasst dabei Entnahmestellen in einem Radius von bis zu 4,5 Kilometern um die jeweilige 
+Strom- erzeugungseinheit. Das Stromsteuerrecht sieht also noch nicht einmal das Erfordernis des 
+Verbrauchs des dezentral erzeugten Stroms innerhalb der Kundenanlage oder Personenidentität vor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 Siehe Teil 1: 4.2.1.4.2 Mieterstromversorgung.
+
+
+
+
+
+dena-Studie „Das Quartier“  17
+
+3 Schwachstellen
+
+
+
+
+Fazit
+Die dezentrale Stromerzeugung im Quartier wird in vielen Gesetzen durch Privilegierungen bei den 
+abzu- führenden Umlagen und Steuern gefördert. Alle Regelungen haben dabei bestimmte 
+umweltfreundliche Technologien (erneuerbare Energien und hocheffiziente KWK-Anlagen) im Blick.
+
+Die bestehenden Gesetze stellen aber unterschiedliche Anforderungen an den räumlichen Zusammen- 
+hang und auch an die Akteure für die Anwendung der Privilegierung. Besonders streng ist hier das 
+EEG, weil ein Ansteigen der EEG-Umlage für die Gesamtheit der Letztverbraucherinnen und 
+-verbraucher verhindert werden soll, indem Privilegierungen bei der Umlage nur sparsam angewendet 
+werden. Das KWKG bzw. das Stromsteuerrecht zeigen hier für die Privilegierung deutlich niedrigere 
+Anforderungen an den räumlichen Zusammenhang und die beteiligten Personen.
+
+Durch einen kleinteiligen, komplexen und auch intransparenten rechtlichen Rahmen wird das Ziel der 
+dezentralen und nachhaltigen Energieversorgung von Quartieren nicht erreicht. Gerade durch die 
+strengen Anforderungen an die Personenidentität oder Personenverschiedenheit (EEG) werden mögliche 
+Akteure in diesem Bereich ausgeschlossen. Das zeigt sich auch darin, dass die Ausbauziele für 
+Solaranla- gen seit mehreren Jahren nicht erreicht werden. Auch die Ziele für den Mieterstrom nach 
+dem EEG wer- den bei Weitem nicht erreicht (vgl. Mieterstrombericht gemäß § 99 EEG vom September 
+2019).
+
+Es besteht insofern aber die Hoffnung, dass durch die stärkere Förderung des Mieterstroms mit dem 
+EEG 2021 Quartierskonzepte attraktiver werden. Zudem wird durch die Verankerung des Begriffs 
+„Quartier“ in verschiedenen novellierten bzw. neuen Gesetzen (vgl. GEG, GEIG und EEG) die 
+Konzeptionierung von Quartiersversorgungsmodellen bei den Marktakteuren stärker angeregt.
+
+
+
+
+3.1.3 Zweck der CO2-Bepreisung
+Einen gänzlich anderen Ansatz als die vorgenannten Regelungen hingegen verfolgt das 
+Brennstoffemissions- handelsgesetz (BEHG). Mit dem Gesetz werden CO2-Emissionen aus fossilen 
+Brennstoffen in Deutschland seit dem Jahr 2021 bepreist.
+
+Zweck des Gesetzes ist nach § 1 BEHG, die Grundlagen für den Handel mit Zertifikaten für Emissionen 
+aus Brennstoffen zu schaffen und für eine Bepreisung dieser Emissionen zu sorgen, soweit diese 
+Emissionen nicht vom EU-Emissionshandel erfasst sind, um damit zur Erreichung der nationalen 
+Klimaschutzziele, einschließlich des langfristigen Ziels der Treibhausgasneutralität bis 2050 bzw. 
+2045 (novelliertes Klima- schutzgesetz), und der Minderungsziele nach der EU-Klimaschutzverordnung 
+sowie zur Steigerung der Energieeffizienz beizutragen.
+
+Das Gesetz zielt also direkt auf die Bepreisung von CO2 ab und hat keinen technologiebezogenen 
+Ansatz. Vielmehr werden Brennstoffe, die bei der Verbrennung CO2 erzeugen, pönalisiert. Unter das 
+BEHG fallen alle Brennstoffe, bei deren Verbrennung CO2-Emissionen entstehen können, wie Benzin, 
+Diesel, Heizöl, Erdgas,
+
+
+
+
+
+
+
+18
+
+3 Schwachstellen
+
+
+
+
+
+Flüssiggas und Kohle (vgl. Anlage 1 des BEHG). Die Pflichten treffen diejenigen Unternehmen, die 
+Brennstoffe in den Verkehr bringen.
+
+Diesem Ansatz folgend hat es keine Relevanz, ob Gebäude im räumlichen Zusammenhang stehen, da der 
+Brennstoff unabhängig von seiner Nutzung bepreist wird. Es ist also grundsätzlich unbeachtlich, ob 
+Erdgas beispielsweise zum Heizen oder in einem Fahrzeug zum Antrieb genutzt wird. Zugleich stellt 
+diese Vorgabe die einfachste Umsetzung einer nachhaltigen und dezentralen Energieversorgung für 
+Quartiere dar. Da nur die Brennstoffe bepreist werden, kann der Quartierseigentümer selbst 
+entscheiden, welche Maßnahmen am effizientesten sind, um diese Brennstoffe und damit auch CO2 
+einzusparen.
+
+
+Fazit
+Der Ansatz, CO2-Emissionen einen Preis zu geben, ist sinnvoll und im Quartier gut umsetzbar. 
+Allerdings steht zu befürchten, dass bei dem geplanten „Nebeneinander“ von bestehenden 
+Förderregimen (z. B. EEG bzw. KWKG) und CO2-Bepreisung zusätzliche Komplexität entsteht. Dies 
+stünde einfachen und umsetzbaren Quartiersversorgungskonzepten wiederum im Weg. Zukunftsweisender 
+wäre im Hinblick auf das klimaneutrale Quartier, einheitlich einen CO2-Ansatz zu verfolgen.
+
+
+
+
+3.1.4 Fehlende Harmonisierung und Gegenläufigkeit der Zielsetzungen
+Ein Vergleich der vorstehenden Regelungsbereiche zeigt, dass die Regelungen verschiedene Ziele 
+verfolgen und nicht harmonisiert sind. Betrachtet man die jeweiligen Anforderungen an Gebäude im 
+räumlichen Zusammenhang (siehe a)) und an die Adressaten (siehe b)) der Vorschriften, so fallen 
+diese auseinander. Diese Komplexität findet sich auch in den Anforderungen an die entsprechenden 
+Meldungen (siehe c)) wieder. Damit entsteht eine extrem hohe Komplexität bei der Umsetzung von 
+Quartiersversorgungskonzepten.
+
+a) Räumlicher Zusammenhang
+Das EnWG unterscheidet bei dem räumlichen Zusammenhang in erster Linie zwischen Kundenanlage und 
+Netz der allgemeinen Versorgung. Die Regelungen im EEG nehmen diese Unterscheidung auf, ergänzen 
+aber das Kriterium des „unmittelbaren räumlichen Zusammenhangs“ bzw. des „Quartiers“. Das KWKG 
+wiederum unterscheidet nur zwischen Kundenanlage und Netz der allgemeinen Versorgung. Das 
+Stromsteuerrecht weicht den Maßstab weiter auf und begnügt sich mit dem räumlichen Zusammenhang 
+innerhalb von
+4,5 Kilometern. Beim Konzept der CO2-Bepreisung gibt es keinen räumlichen Bezug.
+
+Es ist nicht ersichtlich, warum in den Bereichen EnWG, EEG, KWKG und StromStG unterschiedliche 
+Anforde- rungen an den räumlichen Zusammenhang gestellt werden. Lediglich eine Unterscheidung 
+zwischen Netz und Kundenanlage macht Sinn, da die dezentrale Energieversorgung in Quartieren auch 
+den Zweck ver- folgen muss, die Netze der allgemeinen Versorgung zu entlasten. Es ist für das 
+gemeinsame Ziel der Klima- neutralität im Quartier nicht erfolgversprechend, wenn manche Gesetze 
+die Anforderungen verschärfen (z. B.
+
+
+
+
+
+dena-Studie „Das Quartier“  19
+
+3 Schwachstellen
+
+
+
+
+
+das EEG im Rahmen der Eigenversorgung) und manche Gesetze diesen Ansatz aufweichen (z. B. das 
+StromStG). Auch fordert weder das Ziel des funktionierenden Wettbewerbs noch das Ziel der Förderung 
+bestimmter Technologien diese Unterscheidung.
+
+Hierdurch entsteht eine außerordentlich hohe Komplexität bei der rechtlichen Einordnung und 
+Bewertung von Quartiersversorgungskonzepten. So stört beispielsweise eine öffentliche Straße den 
+räumlichen Zusammenhang als Voraussetzung für eine Kundenanlage in der Regel nicht. Im Rahmen der 
+Eigenver- sorgung nach dem EEG kann der unmittelbare räumliche Zusammenhang durch eine Straße 
+hingegen gestört sein. Eine Kundenanlage wäre damit zu bejahen, der unmittelbare räumliche 
+Zusammenhang aber zu verneinen.
+
+b) Anforderungen an die beteiligten Akteure
+Ein ähnliches Bild ergibt sich, wenn man die Adressaten der Normen und die Erforderlichkeit von 
+Personen- identität bzw. -verschiedenheit betrachtet. Für die Eigenversorgung nach dem EEG ist 
+strikte Personen- identität erforderlich. Das Mieterstrommodell mit EEG-Mieterstromzuschlag 
+verlangt konträr hierzu die strikte Personenverschiedenheit von Stromerzeuger und 
+Stromverbraucherinnen und -verbrauchern durch eine Stromlieferung. Auch das KWKG fördert nur den 
+Strom als Mieterstrom, der in einer Kundenanlage geliefert wird (und voll EEG-umlagepflichtig ist). 
+Voraussetzung ist die Lieferung an die Letztverbrauche- rinnen und -verbraucher. Das 
+Stromsteuerrecht unterscheidet bei der Stromsteuerbefreiung den Strom, der von dem Betreiber zum 
+Selbstverbrauch entnommen wird, von demjenigen Strom, der vom Betreiber an die 
+Letztverbraucherinnen und -verbraucher geleistet wird, die diesen Strom entnehmen. Adressat des 
+BEHG ist hingegen derjenige, der Brennstoffe in den Verkehr bringt (vgl. auch das 
+Energiesteuerrecht). Betroffen ist auch derjenige, der Brennstoffe bezieht.
+
+Aus einem energietechnischen Blickwinkel ergibt es keinen Sinn, dass Eigenversorgung und die 
+Lieferung an andere Personen innerhalb einer Kundenanlage verschieden bewertet werden. 
+Gerechtfertigt ist eine Privilegierung von Strommengen aus dem Blickwinkel der Energiewende, wenn 
+dadurch die umweltscho- nende Stromerzeugung gefördert und ein Beitrag zur Netzstabilität geleistet 
+wird und wenn die Netze der allgemeinen Versorgung dadurch entlastet werden. Diese Anforderungen 
+erfüllt die Stromerzeugung aus erneuerbaren Energien und mit hocheffizienten KWK-Anlagen in 
+Kundenanlagen, wenn sich die Erzeugung an dem Bedarf in der Kundenanlage orientiert. Eine 
+Unterscheidung hinsichtlich der Person des Strom- verbrauchers ergibt mit Blick auf die Förderung 
+dezentraler Versorgungskonzepte hingegen nur wenig Sinn. Auch wenn klar ist, dass die EEG-Umlage 
+von möglichst vielen Umlageschuldnern getragen werden soll, so ist das Kriterium der 
+Personenidentität oder Personenverschiedenheit wenig geeignet, um das EEG-Umlage- konto nicht über 
+Gebühr zu belasten. Die Unterscheidung verursacht vor allem die Notwendigkeit aufwen- diger 
+Messkonzepte und einen hohen administrativen Aufwand für die Akteure. Deshalb nehmen viele 
+Quartiersversorger Abstand von Eigenversorgungsmodellen, wodurch sinnvolle dezentrale 
+Energieversor- gungskonzepte mit erneuerbaren Energien gar nicht erst umgesetzt werden.
+
+Offensichtlich wird das zum Beispiel im Bereich der Elektromobilität. Die Personenidentität 
+verhindert regelmäßig, dass vor Ort erzeugter Strom im Rahmen eines Eigenversorgungskonzepts zur 
+Beladung von Elektromobilen genutzt werden kann. Gerade im Quartier sind der Betreiber einer 
+PV-Anlage und die
+
+
+
+
+
+
+20
+
+3 Schwachstellen
+
+
+
+
+
+Betreiberin oder der Betreiber bzw. die Halterin oder der Halter eines Elektromobils in der Regel 
+nicht personenidentisch (z. B. bietet die Vermieterin bzw. der Vermieter die Ladeinfrastruktur und 
+schaltet einen Energieversorger als Stromlieferanten ein, der wiederum die Ladestation stellt und 
+abrechnet, während die Mieterin bzw. der Mieter lädt und bezahlt). Damit kann ein entscheidendes 
+dezentrales Betreibermodell im Rahmen der Elektromobilität oftmals nicht wirtschaftlich sinnvoll 
+umgesetzt werden. Dies ist konträr zum erklärten Ziel des Hochlaufs der Elektromobilität und der 
+Förderung dezentraler Versorgungskonzepte mit PV-Strom.
+
+Darüber hinaus gilt es zu beachten, dass neben den energierechtlichen Vorgaben auch noch die 
+Regelungen anderer gesetzlicher Bereiche zu berücksichtigen sind. Hervorzuheben ist hier das 
+Gewerbesteuerprivileg bzw. die Gewerbesteuerbefreiungen von Wohnungsunternehmen.24 Das 
+Gewerbesteuerprivileg verhinderte in der Vergangenheit größtenteils die energiewirtschaftliche 
+Betätigung von Unternehmen der Immobilien- wirtschaft, da diese eine Infizierung der 
+Gesamteinnahmen mit der Gewerbesteuer durch eine energiewirt- schaftliche Betätigung verhindern 
+wollten. Die Personenidentität verlangt aber eine solche Betätigung dieser Unternehmen. Damit waren 
+gerade Akteure von der Umsetzung von Quartiersversorgungskonzepten ausgeschlossen, die eine 
+besondere Nähe zu den Letztverbraucherinnen und -verbrauchern der erzeugten Energie aufweisen und 
+die Verpflichtungen des GEG auch umsetzen müssen.
+
+Hier ist zu begrüßen, dass der Gesetzgeber mit der Novellierung des Gewerbesteuerrechts25 dieses 
+Dilemma teilweise aufgelöst hat. Nach § 9 Nr. 1 Satz 3 lit. b GewStG sind die Versorgung von 
+Mieterinnen und Mietern mit Strom aus erneuerbaren Energien und der Betrieb von Ladestationen für 
+die Elektromobilität gewerbe- steuerlich privilegiert, wenn die Einnahmen daraus nicht mehr als 10 
+Prozent der Gesamteinnahmen betra- gen.
+
+c) Komplexe Meldevorgaben
+Eine weitere Schwachstelle ist das Erfordernis der umfangreichen Meldungen nach den verschiedenen 
+energierechtlichen Gesetzen (siehe Teil 1: 4.2.1.2 Lieferverhältnisse im Quartier).
+
+Im Rahmen einer dezentralen Energieversorgung im Quartier zum Beispiel mit KWK-Anlagen sind 
+zahlreiche unterschiedliche Meldungen und Meldefristen zu beachten. So kann beispielsweise für die 
+Umsetzung eines dezentralen Stromversorgungskonzepts für den Quartiersversorger eine Anmeldung bei 
+der Bundesnetz- agentur als Energieversorgungsunternehmen nach dem EnWG, eine Anmeldung bei der 
+Bundesnetzagentur als Energieversorgungsunternehmen gemäß den REMIT-Vorgaben26, die Beantragung 
+einer Versorgererlaub- nis beim Hauptzollamt nach dem StromStG und eine Anmeldung beim Hauptzollamt 
+zur Energiesteuer- abführung nach dem EnergieStG (Energiesteuergesetz) etc. erforderlich sein. 
+Daneben sind die jährlich wiederkehrenden Meldepflichten aus dem Bereich des EEG, des StromStG und 
+des EnergieStG zu beachten.
+
+In Zukunft werden zudem auch zusätzliche Meldepflichten des BEHG zu beachten sein. Es steht 
+insofern zu befürchten, dass mit Einführung des BEHG zusätzliche Meldefristen eingeführt werden, 
+die bei einem
+
+
+24 Siehe Teil 1: 4.2.4.1. Hemmnis Gewerbesteuer.
+25 Gemeint ist die Änderung durch das Fondsstandortgesetz vom 3. Juni 2021, BGBI 2021, 1498, siehe 
+auch Teil 1: 4.2.4.1.1. Erweiterung des Gewerbesteuerprivilegs für Grundstücksunternehmen.
+26 Verordnung über die Integrität und Transparenz des Energiegroßhandels.
+
+
+
+
+
+dena-Studie „Das Quartier“  21
+
+3 Schwachstellen
+
+
+
+
+
+Nebeneinander von BEHG und dem bestehenden Regelungsrahmen die Quartiersversorgung zusätzlich 
+verkomplizieren.
+
+Eine derartige Menge an zu beachtenden Meldepflichten erfordert einen immensen administrativen 
+Aufwand für die Akteure. Es ist nicht ersichtlich, warum diese Meldungen nicht zusammengefasst 
+werden können, da oftmals vergleichbare Daten gemeldet werden oder Ausnahmeregelungen (de minimis, 
+siehe Teil 1: 3.4 Bei- hilferecht) gelten.
+
+
+
+Fazit
+Zusammenfassend kann man festhalten, dass die Regelungsbereiche im Quartier nicht harmonisiert 
+sind.
+
+Das liegt vor allem darin begründet, dass die zugrunde liegenden Gesetze verschiedene Ziele 
+verfolgen. Gleicht man die Regelungsbereiche im Einzelnen ab, so kann man erkennen, dass die 
+fehlende Harmoni- sierung nicht immer aus der Sache heraus erforderlich ist. So ist beispielsweise 
+die verschieden gelagerte Abgrenzung des räumlichen Zusammenhangs, der Personenidentität sowie der 
+damit einhergehenden Meldefristen in den einzelnen Gesetzen nicht zwingend erforderlich.
+
+Eine Harmonisierung wäre hier durchaus möglich und auch zu empfehlen.
+
+
+
+
+
+3.2  Unzureichende Vorgaben zur Errichtung und Nutzung bestimmter Infrastruktur
+Die Kapitel 2 bis 4 in Teil 1 haben gezeigt, dass in verschiedenen Gesetzen die Errichtung 
+bestimmter Infra- struktur für Gebäude konkret vorgegeben wird. Vorgaben hierzu finden sich in der 
+kommunalen Bauleit- planung, vereinzelt in den Klimaschutzgesetzen der Länder, im GEIG sowie im 
+GEG.27 Die benannten Gesetze machen konkrete Vorgaben, welche Infrastruktureinrichtungen (z. B. 
+PV-Anlage, Anschluss an ein Wärme- netz, Anteil der erneuerbaren Wärmeerzeugung, Errichtung von 
+Ladestationen für die Elektromobilität) in Neubauten und teilweise auch in Bestandsbauten 
+vorzusehen sind.
+
+Daneben sind im GEG auch Vorgaben zur Energieeffizienz und zum Gesamtenergiebedarf zu finden. Diese 
+Vorgaben setzen Anreize, damit energiesparende Technologien bei dem Bau und der Sanierung von 
+Gebäuden eingesetzt werden. Allerdings wird hierbei die kommunale Wärmeplanung (siehe 3.2.1) zu 
+wenig berücksichtigt, die Vorgaben des GEG und des GEIG (siehe 3.2.2, 3.2.3) sind nicht streng 
+genug und es
+
+
+
+
+27 Siehe unter anderem Teil 1: 4.1.1.4 Klimaschutzgesetze der Länder, 4.1.4.5 GEIG und 4.1.3.1 
+Vorgaben des GEG (Aufzählung entspricht der oben genannten Reihenfolge).
+
+
+
+
+
+22
+
+3 Schwachstellen
+
+
+
+
+
+existieren oftmals keine geeigneten Betreibermodelle (siehe 3.2.4) für die entsprechenden 
+Infrastruktureinrichtungen.
+
+3.2.1 Zu wenig kommunale Wärmeplanung
+Soll der Anteil fossiler Energieträger bei der Energieversorgung von Quartieren gesenkt werden, 
+müssen sie durch CO2-neutrale Energien ersetzt werden. Bis 2050 ersetzen Nachfrageeffizienz und 
+erneuerbare Energien weitgehend fossile Brennstoffe im Gebäudesektor.
+
+Hierzu existieren teilweise – wie gesehen28 – Regelungen in der kommunalen Bauleitplanung und in 
+den Klimaschutzgesetzen der Länder, die Eigentümerinnen und Eigentümer bzw. Bauherrinnen und 
+Bauherren zur Installation von PV-Anlagen oder zur Wärmeversorgung mit erneuerbaren Energien 
+verpflichten. Hierin besteht ein wichtiger Beitrag zur Dekarbonisierung der Energieversorgung. Die 
+Regelungen bleiben jedoch hinter dem Erforderlichen zurück und führen zu einem Flickenteppich an 
+Vorgaben für nachhaltige Versor- gungskonzepte. Gerade kleine Kommunen sind mit einer 
+zielgerichteten und effektiven Klimaschutzpolitik überfordert. Es fehlt oft das Wissen über 
+geeignete und in der Praxis erprobte Geschäftsmodelle.
+
+Dabei können Kommunen viel beeinflussen und erreichen. Sie haben diverse Möglichkeiten (z. B. 
+Wärme- kataster, Wärmeplanung, eigene Liegenschaften, Wärmenetze, Moderation), die je nach 
+örtlichen Gege- benheiten (z. B. Potenzial, Wirtschaft, Politik, bürgerschaftliches Engagement, 
+Investitionsbudget) sehr unterschiedlich genutzt und umgesetzt werden können.
+
+Auf der kommunalen Ebene können im Zuge der Wärmewende also Entwicklungen richtungsweisend 
+vorbereitet und umgesetzt werden. Unter enger Einbeziehung von kommunaler Verwaltung, Energiever- 
+sorgern und Landesbehörden können bestehende Wärmeplanungsinstrumente analysiert und Handlungs- 
+empfehlungen für eine optimierte Wärmeplanung entwickelt werden. Es sollten standardisiert 
+fachliche und rechtliche Möglichkeiten der kommunalplanerischen Steuerung und Verankerung genutzt 
+werden. Es bestehen zahlreiche Lenkungsmöglichkeiten der Kommunen durch eigene Fördermechanismen, 
+die sich an Eignungsbereichen wie innovativen erneuerbaren Energiekonzepten orientieren.
+
+Dabei sind für die Wärmewende Privathaushalte von besonderer Bedeutung, schließlich entfällt auf 
+sie nahezu die Hälfte des Wärmeenergiebedarfs. In diesem Zusammenhang kommt Kommunen eine ent- 
+scheidende Rolle zu: Der großvolumige Einsatz erneuerbarer Energien für die Wärmeversorgung 
+erfordert in vielen Kommunen eine Umstellung auf netzgebundene Wärmeversorgung. Dabei ist eine 
+strategische Wärmeplanung notwendig, die die gegebenen Optionen beleuchtet und Maßnahmen für 
+Quartiere ableitet. Denn je größer das zu versorgende Gebiet ist, umso langfristiger muss die 
+Planung ausgerichtet sein. Während die Wärmeversorgung von Einzelgebäuden Investitionszyklen von 15 
+bis
+20 Jahren umfasst, belaufen sie sich bei Wärmenetzen auf 30 Jahre und mehr. Die Kommune wird beim 
+Aufstellen von Wärmeplänen zur koordinierenden, fördernden und fordernden Instanz, die Prozesse 
+initiiert und moderiert. Es ist insofern ein Förderrahmen notwendig, der die Kommunen bei dieser 
+Tätigkeit ausreichend unterstützt.
+
+
+
+28 Teil 1: 4.1.1. Baurechtliche und genehmigungsrechtliche Anforderungen.
+
+
+
+
+
+dena-Studie „Das Quartier“  23
+
+3 Schwachstellen
+
+
+
+
+
+
+Fazit
+Die verpflichtenden Vorgaben für den Einsatz erneuerbarer Energien und für eine nachhaltige Wärme- 
+versorgung auf Ebene der Länder und der Kommunen sind ein wichtiges Steuerungsinstrument für eine 
+nachhaltige Quartiersversorgung. Aufgrund der hohen Komplexität der Materie und der großen Investi- 
+tionssummen scheuen aber vor allem kleine Kommunen die Umstellung beispielsweise auf netzgebun- 
+dene Wärmeversorgung.
+
+Nicht außer Acht gelassen werde sollte, dass durch die kommunalen und länderbezogenen Vorgaben ein 
+Flickenteppich an Regelungen entsteht. Das könnte aber vor dem Hintergrund der unterschiedlichen 
+Gegebenheiten vor Ort (z. B. Geothermie-Vorkommen) möglicherweise gerechtfertigt sein. Lokale Ver- 
+sorgungskonzepte weisen stets auch einen hohen Individualisierungsgrad auf.
+
+
+3.2.2 Mangelhafte Vorgaben im GEG
+Das GEG macht Bauherrinnen und Bauherren bzw. Eigentümerinnen und Eigentümern zwingende Vorgaben 
+bei der Errichtung eines Gebäudes. Allerdings stehen dabei nicht einzelne Technologien oder die 
+CO2-Werte zur Errichtung und Nutzung bestimmter Infrastrukturen im Vordergrund, sondern der 
+Primärenergiebedarf eines Gebäudes, der an dem eines Referenzgebäudes gemessen wird. Wenngleich die 
+Technologieoffenheit des GEG zu begrüßen ist, sind mehrere Schwachstellen festzustellen. Zunächst 
+fällt die wenig ambitionierte Zielstellung auf (siehe a)). Zudem ist der CO2-Ansatz zu gering 
+(siehe b)) und die derzeit verwendete Alloka- tionsmethode ist irreführend bzw. es werden zu 
+geringe Anreize gesetzt (siehe c)). Das Potenzial von erneu- erbaren Energien wird nicht 
+ausgeschöpft, da sie nicht ausreichend anrechenbar sind (siehe d)), und der Quartiersansatz ist 
+unzureichend (siehe e)).
+
+a) Wenig ambitionierte Zielstellung
+Das Referenzgebäude aus der EnEV 2013 (GEG, Anlage 1 und Anlage 2) wird im GEG beibehalten. Das 
+Ziel der Errichtung von „Niedrigstenergiegebäuden“ scheint aber zur Erreichung der Klimaschutzziele 
+im Quartier nicht ambitioniert genug.
+
+Im Neubaubereich des GEG wird die Effizienzhaus-Stufe 75 festgeschrieben, anstatt die 
+ambitioniertere Effizienzhaus-Stufe 55 als neue Grundlage zu verankern. Selbst dieser Standard wird 
+schon heute verbreitet beim energiesparenden Bauen angewendet. Um eine Verringerung der 
+CO2-Emissionen zu erreichen, ist es zu wenig, am Status quo festzuhalten. Vielmehr sind gesetzliche 
+Vorgaben und Anreize erforderlich, die zu weitergehenden Einsparmaßnahmen führen. Dabei werden erst 
+2023 die energetischen Standards wieder überprüft.
+b) Zu geringer CO2-Ansatz
+Das GEG macht Vorgaben zum Primärenergiebedarf eines Gebäudes und somit zur Einsparung von CO2. Zur 
+Erreichung der Klimaschutzziele sind Energieeinsparmaßnahmen notwendig und richtig. Grundsätzlich 
+ist die Beschränkung des Energiebedarfs im Gebäudesektor erforderlich.
+
+
+
+
+
+24
+
+3 Schwachstellen
+
+
+
+
+
+Allerdings muss die CO2-Neutralität des verbleibenden Energiebedarfs stärker berücksichtigt werden. 
+Hierfür genügt es nicht, nur den Energiebedarf eines Gebäudes zu betrachten, denn dieser sagt noch 
+nichts über die Emissionen aus. Vielmehr sollten die mit der Deckung des Energiebedarfs 
+einhergehenden CO2-Emissionen betrachtet werden. Insofern fand im BMWi vor Verabschiedung des GEG 
+ein Expertenaustausch zum Sach- stand des GEG und zur Begleitforschung statt. Es wurde eine 
+Untersuchung zu Primärenergiefaktoren und Treibhausgasemissionen von dena, ECOFYS, prognos und ifeu 
+vom 23. April 2018 besprochen.29 Das Gut- achten kommt zu dem Ergebnis, dass in der zukünftigen 
+Gebäudebewertung die Klimawirksamkeit zu berücksichtigen ist. Die Gutachterinnen und Gutachter 
+hatten eine Umstellung von der Anforderungsgröße Primärenergiefaktoren (PEF) auf THG-Emissionen in 
+zwei Schritten empfohlen. Eine Orientierung an Treibhausgasen könne umfassend der Klimawirksamkeit 
+der Energieträger Rechnung tragen. Sie schlugen für die Novelle des GEG eine Orientierung der PEF 
+an den THG-korrigierten PEF beispielsweise mit einer 50:50-Gewichtung und eine komplette Umstellung 
+auf THG in beispielsweise drei bis vier Jahren vor. Der Vorschlag wurde bei der Novelle des GEG 
+aber nicht aufgegriffen. Der Gesetzgeber entschied sich für die Anforderungsgröße PEF.
+
+Zudem sind die Einsparpotenziale bei der Kälte- und Wärmeversorgung anders zu bewerten als beim 
+Stromverbrauch, sodass hier eine Differenzierung der Maßnahmen angezeigt ist. Während bei Kälte und 
+Wärme zunächst noch Energieeffizienzmaßnahmen im Vordergrund stehen („Efficiency first“), könnte 
+beim Strom die zunehmend verpflichtende Nutzung erneuerbarer Energien vordergründig sein („Green 
+Energy first“). Außerdem zeigt schon der statistische Anteil der Wärmeenergie an den CO2-Emissionen 
+von ca.
+77 Prozent30, dass hier große Einsparpotenziale vorhanden sind.
+
+c) Irreführende Allokationsmethode
+Um Einsparpotenziale zunächst zutreffend zu berechnen und nutzen zu können, müssen einerseits die 
+Anteile des Gebäudesektors an den Gesamtemissionen, andererseits der Energiebedarf des Gebäudes 
+selbst korrekt erfasst werden. Schon in der Gesetzgebungsphase zum GEG entbrannte eine Diskussion 
+darüber, ob zur Berechnung des Primärenergiebedarfs von Gebäuden als Allokationsmethode die 
+sogenannte Strom- gutschriftmethode oder die Carnot-Methode angewendet werden sollte. Letztendlich 
+hat sich die be- stehende Stromgutschriftmethode durchgesetzt.
+
+Bei der Stromgutschriftmethode wird der KWK-Strom nach dem Effekt der Verdrängung und nicht nach 
+dem tatsächlichen Primärenergieeinsatz berechnet. Bei der Carnot-Methode wird die eingesetzte 
+Primär- energie auf Wärme und Strom verteilt.
+
+Ein Paradigmenwechsel hin zur Carnot-Methode würde die Energiewende begünstigen. Der Primärener- 
+giefaktor einer KWK-Anlage würde sich dadurch zwar insgesamt nicht ändern. Allerdings käme es zu 
+einer Differenzierung der Faktoren von Strom und Wärme zulasten der Wärme. Der Wechsel beträfe 
+somit vor allem Bestandsgebäude mit einem Anschluss an das Fernwärmenetz, deren primärenergetische 
+Qualität
+
+
+
+29 Vgl. „Untersuchung zu Primärenergiefaktoren – Endbericht“ vom 23. April 2018, abrufbar unter 
+https://www.gih.de/wp- content/uploads/2019/05/Untersuchung-zu-Prim%C3%A4renergiefaktoren.pdf.
+30 Siehe Teil 2: 1.1 Rolle des Gebäudesektors bei der Erreichung der Klimaschutzziele.
+
+
+
+
+
+dena-Studie „Das Quartier“  25
+
+3 Schwachstellen
+
+
+
+
+
+sich durch die neue Berechnungsmethode verschlechtern würde. So würden Anreize für Temperatursen- 
+kungen in Wärmenetzen gesetzt und Technologien für erneuerbare Wärme wie Wärmepumpen oder Solar- 
+thermie gegenüber den zum großen Teil erdgasbetriebenen KWK-Anlagen gefördert. Das wird nun auch im 
+GEG vorgesehen, allerdings wohl erst 2030 nach dem energetischen Bericht im Jahr 2025.
+
+Außerdem bedarf es weiterer Anreize wie zum Beispiel Sanierungskonzepten, um die Sanierungsquote 
+von derzeit nur 1 Prozent deutlich zu steigern.31 Hierbei könnten etwa serielle Sanierungen 
+innerhalb des Quar- tiers staatlich gefördert und die zu sanierenden Gebäude nach Typ und Alter 
+priorisiert werden.
+
+Schließlich sind flankierend echte Verbesserungen im Ordnungsrecht erforderlich, wenn tatsächlich 
+klimaschützende Standards erreicht werden sollen. Das gilt erst recht im Hinblick auf die 
+zahlreichen Aus- nahmen, die beim klimapolitisch notwendigen Verbot von Ölheizungen mit aufgenommen 
+worden sind.
+
+d) Zu geringe Anrechenbarkeit von erneuerbaren Energien
+Die Pflicht zum teilweisen Einsatz erneuerbarer Energien bei der Deckung des Wärme- und 
+Kältebedarfs aus dem GEG ist ein guter Ansatz, allerdings nicht ausreichend.
+
+Das Erreichen des Ziels der Verringerung von CO2-Emissionen durch den zunehmenden Einsatz von 
+erneuer- baren Energien insbesondere beim Strom wird dadurch nicht gefördert. Denn die Regelung 
+setzt keinen ausreichenden Anreiz, den bestehenden Energiebedarf des Gebäudes durch erneuerbare 
+Energien zu decken. § 23 GEG regelt lediglich, dass gebäudenah erzeugter und überwiegend selbst 
+verbrauchter Strom aus erneuerbaren Energien bei der Berechnung des Primärenergiefaktors 
+anrechenbar ist, wenn der Strom im unmittelbaren räumlichen Zusammenhang zu dem Gebäude erzeugt und 
+vorrangig in dem Gebäude unmittelbar nach Erzeugung oder nach vorübergehender Speicherung selbst 
+genutzt und nur die über- schüssige Strommenge in das öffentliche Netz eingespeist wird.
+
+Unter nur sehr engen Voraussetzungen wird daher der Einsatz erneuerbarer Energien bei der 
+Ermittlung des Gesamtenergiebedarfs angerechnet. Sonstiger Strom aus erneuerbaren Energien ist 
+insoweit nicht an- rechenbar. Versteht man den „Efficiency first“-Ansatz des GEG dahingehend, dass 
+der Gesamtenergiebedarf des Gebäudes, egal aus welchem Energieträger, gedeckelt und so ein 
+sparsamer Umgang mit Energie an- geregt werden soll, steht die Regelung, die erneuerbare Energien 
+aus der Bedarfsrechnung herausrechnet, diesem Ziel entgegen. Zudem ändert sich durch die 
+Neuregelung, dass erneuerbare Energie bei der Emittlung des Gesamtenergiebedarfs angerechnet werden 
+kann, nicht zwangsläufig der Anteil fossiler Energieträger.
+e) Unzureichender Quartiersansatz
+Auch der Quartiersansatz in § 107 GEG geht nicht weit genug.32 Hierdurch wird Quartierseigentümern 
+zwar ermöglicht, die gesetzlichen Vorgaben im Verbund zu erfüllen. Allerdings fehlen eindeutige 
+Vorgaben, was ein Quartier ist bzw. wann die Gebäude im Sinne des § 107 Abs. 1 S. 1 GEG in einem 
+räumlichen Zusammenhang stehen.33 Dies geht für Quartierseigentümer mit Unsicherheiten einher, die 
+vorzugsweise durch den Gesetzgeber oder jedenfalls durch eine einheitliche Verwaltungspraxis und 
+Rechtsprechung
+
+
+31 Deutsche Energie-Agentur (dena): Gebäudereport Kompakt 2019, S. 7.
+32 Siehe Teil 1: 4.1.3.1 Vorgaben des GEG.
+33 Siehe Teil 1: 2.1.1. Wärmeversorgung im Quartier (§ 107 GEG).
+
+
+
+
+
+26
+
+3 Schwachstellen
+
+
+
+
+
+beseitigt werden sollten. Nur so können wirtschaftliche Verbundlösungen durch Nutzung vorhandener 
+Infrastrukturen, Wärmequellen und Wärmesenken ausreichend Berücksichtigung finden.
+
+Fazit
+Der Ansatz des GEG ist nicht ausreichend, um zu einer nachhaltigen Quartiersversorgung anzuregen. 
+Die Zielstellung eines „Niedrigstenergiegebäudes“ ist zu wenig ambitioniert.
+
+Es fehlt ein passender Ansatz, CO2-Emissionen zu erfassen. Sinnvoll ist zunächst eine statistische 
+Erfas- sung aller mit der Errichtung, dem Betrieb, der Instandsetzung und der Instandhaltung 
+verbundenen CO2-Emissionen. Die angewandten Berechnungsmethoden müssen sich aber auch bei der 
+Erfüllung der gesetzlichen Vorgaben wiederfinden, was beispielsweise durch einen Wechsel zur 
+Carnot-Methode erreicht werden könnte.
+
+Der Ansatz des GEG muss nach der jeweiligen Energieform anders gewichtet werden. Während beim Strom 
+kaum noch Effizienzgewinne möglich sind und erneuerbare Energien somit stärker gefördert werden 
+müssen, sollten die gesetzlichen Vorgaben bei der Wärme auf Effizienzmaßnahmen abzielen. 
+Gleichzeitig müssen erneuerbare Energien aber auch bei der Wärme stärker gefördert werden.
+Der Quartiersansatz in § 107 GEG geht nicht weit genug. Es fehlen hier insbesondere Anreize zur 
+Sektor- kopplung. Zudem ist der Begriff „Quartier“ im GEG unzureichend definiert und bringt damit 
+Rechts- unsicherheit für Anwenderinnen und Anwender mit sich.
+
+
+
+
+3.2.3 Komplexer und mangelhafter Ansatz des GEIG
+Der gesetzliche Rahmen zur Elektromobilität sieht eine Einbaupflicht für einen Ladepunkt (nicht nur 
+der Leitungsinfrastruktur) lediglich in § 7 Nr. 2 GEIG für neu errichtete Nichtwohngebäude mit mehr 
+als sechs Stellplätzen vor. Es ist, unabhängig von der Größe des Gebäudes, immer nur ein Ladepunkt 
+verpflichtend. Damit beschränkt sich eine Einbaupflicht von Ladepunkten auf einen sehr kleinen 
+Adressatenkreis der Immobilienbranche. Zudem ist die Installation eines einzigen Ladepunktes in 
+einem großen gewerblichen Gebäude oftmals nicht ausreichend, um Elektromobilität attraktiver zu 
+machen. Außerdem besteht außer- halb der Regelungen im GEIG auch keine Verpflichtung, „fertige“ 
+Ladepunkte zu installieren. Wohnungs- eigentümerinnen und -eigentümer sowie Mieterinnen und Mieter 
+haben nach dem Wohnungseigentums- gesetz (WEG) bzw. Baugesetzbuch (BGB) zwar einen Anspruch darauf, 
+baulich notwendige Veränderungen zur Errichtung von Ladepunkten vorzunehmen, ein Anspruch auf die 
+Installation eines Ladepunktes besteht insofern aber nicht.
+
+Weiterhin muss in neu errichteten Wohngebäuden mit mehr als fünf Stellplätzen jeder Stellplatz mit 
+ent- sprechender Leitungsinfrastruktur ausgestattet werden (vgl. § 6 GEIG). In Nichtwohngebäuden 
+hingegen gilt diese Pflicht erst ab sechs Stellplätzen und es muss nur mindestens jeder dritte 
+Stellplatz mit der Leitungsinfrastruktur ausgestattet werden (§ 7 Nr. 1 GEIG). Auch wenn die 
+meisten Ladevorgänge im privaten Umfeld stattfinden, also in Wohngebäuden, ist diese Unterscheidung 
+nicht zukunftsorientiert. Zum
+
+
+
+
+
+dena-Studie „Das Quartier“  27
+
+3 Schwachstellen
+
+
+
+
+
+einen wird für viele Kfz-Halterinnen und -Halter Elektromobilität erst dann attraktiv, wenn das 
+Elektromobil auch „am Arbeitsplatz“, also zumeist in Nichtwohngebäuden, geladen werden kann. Zum 
+anderen ist mit dem Hochlaufen der Elektromobilität auch mit großen Stromverbräuchen durch die 
+Ladevorgänge zu rech- nen. Der Strom für diese Verbräuche wird in Zukunft auch durch eine 
+dezentrale Stromversorgung mit PV- Strom vor Ort erzeugt werden. Das Laden mit PV-Strom ist aber 
+vor allem tagsüber möglich, wenn viele Kfz- Nutzerinnen und -Nutzer arbeiten und sich damit 
+regelmäßig in Nichtwohngebäuden aufhalten. Insofern stellt die dezentrale Stromversorgung von 
+Elektromobilen mit PV-Strom besonders hohe Anforderungen gerade an die Ladeinfrastruktur von 
+Nichtwohngebäuden.
+
+Weiterhin ist der Rechtsrahmen zur Leitungsinfrastruktur für die Elektromobilität komplex und 
+intranspa- rent. Während sich die meisten Anforderungen hinsichtlich der Leitungsinfrastruktur aus 
+dem GEIG ergeben, sind die Ansprüche der Mieterinnen und Mieter oder der Wohnungseigentümerinnen 
+und -eigentümer in Spezialregelungen des WEG oder BGB zu finden. Durch diese Aufteilung ist der 
+Rechtsrahmen für viele Anwenderinnen und Anwender nicht einfach überblickbar.
+
+
+
+Fazit
+Die Vorgaben im GEIG sind unzureichend und nicht zukunftsorientiert. Zudem ist durch die Aufteilung 
+der Regelungen zur Errichtung von Ladeinfrastruktur in das GEIG, das WEG und das BGB ein komplexer 
+und wenig anwenderfreundlicher Rechtsrahmen entstanden.
+
+
+
+
+
+3.2.4 Fehlende Verknüpfung mit geeigneten Betreibermodellen
+Die Vorgaben zur Errichtung und Nutzung von Infrastruktur stehen zudem losgelöst von etwaigen 
+Betreiber- modellen. Es werden also beispielsweise Vorgaben zur Installation von PV-Anlagen und 
+Ladestationen ge- macht (siehe z. B. Teil 1: 4.1.1.4 Klimaschutzgesetze der Länder), andererseits 
+bestehen aber keine wirt- schaftlichen Betreibermodelle für die Nutzung des PV-Stroms (siehe Teil 
+1: 4.2.1.4 Wirtschaftliche Betreiber- modelle dezentraler Energieversorgung). Gerade im Quartier 
+ist die Umsetzung der wirtschaftlich attraktiven Eigenversorgung beispielsweise nur selten möglich. 
+Damit wird das Ziel der gesellschaftlichen Akzeptanz von erneuerbarer Energie bzw. hocheffizienter 
+Strom- bzw. Wärmeerzeugung gefährdet.
+
+Der verpflichtende Bau von Ladesäulen, PV-Anlagen oder auch Wärmepumpen muss ein funktionierendes, 
+einfach handhabbares und wirtschaftliches Betreibermodell nach sich ziehen. Die Anwenderperspektive 
+darf der Gesetzgeber nicht aus den Augen lassen. Andernfalls ist mit einer weiter sinkenden 
+Akzeptanz der Ener- giewende zu rechnen und das große klimaschonende Potenzial von 
+Quartierslösungen wird nicht ausge- schöpft.
+
+
+
+
+
+
+
+
+
+28
+
+3 Schwachstellen
+
+
+
+
+
+Fazit
+Dem Rechtsrahmen für die Errichtung und Nutzung von Infrastruktureinrichtungen fehlt es an 
+geeigneten Betreibermodellen. Die verpflichtende Errichtung derartiger Anlagen wird nur dann auf 
+Akzeptanz bei den Betroffenen stoßen, wenn geeignete (wirtschaftliche) Geschäftsmodelle umsetzbar 
+sind.
+
+
+3.3  Unzureichender Förderansatz
+Unter 4.2 in Teil 1 der Studie wird der gesetzliche Rahmen für den Betrieb und die Belieferung 
+dargestellt. Die Ausführungen zeigen, dass es eine Vielzahl gesetzlicher Vorgaben beim Betrieb der 
+Energieinfrastruktur und bei der Energiebelieferung gibt. Ziel dieser Regelungen sollte es sein, 
+den Einsatz erneuerbarer Energien so attraktiv und den fossiler Energieträger so unattraktiv wie 
+möglich zu machen, um die CO2-Emissionen im Quartier zu verringern. Der Gesetzgeber hatte bis zur 
+Einführung des BEHG vor allem die Förderung erneuer- barer bzw. hocheffizienter Stromerzeugung im 
+Blick. Die Analyse des Rechtsrahmens zeigt, dass ein zu hoher bürokratischer Aufwand und zu geringe 
+Anreize bestehen (siehe 3.3.1). Außerdem sind die Fördermodelle zum Erreichen der Klimaschutzziele 
+nicht ausreichend bzw. zu komplex (siehe 3.3.2). Hinzu kommt, dass generell nur bestimmte 
+Technologien gefördert werden (siehe 3.3.3).
+
+3.3.1 Viel Bürokratie, geringer Anreiz
+Grundsätzlich stellt zum Beispiel der vorrangige Anschluss von KWK- und PV-Anlagen an das Netz der 
+allgemeinen Versorgung einen guten Ansatz dar. Auch die Förderung umweltschonender Technologien ist 
+im Grunde nicht falsch. Allerdings stellen sich, wie gezeigt, beim Betrieb zu hohe bürokratische 
+Hürden, unter anderem im Messwesen oder beim Betrieb als Netz oder Kundenanlage.
+
+Auch das System der Netzentgelte ist zu kompliziert und oft intransparent. Die Anreize für eine 
+CO2-neutrale dezentrale Versorgung sind entweder zu gering oder nicht richtig gesetzt.
+
+Um echte Quartierslösungen attraktiver zu machen, müssten die Hemmnisse für Quartierseigentümer 
+abgebaut werden. Zum einen betrifft dies das in der Rechtsprechung immer noch zu restriktive 
+Verständnis des Kundenanlagenbegriffs. Hier bedarf es einer klaren Linie des Gesetzgebers oder 
+zumindest der Recht- sprechung, damit Quartiersversorger Planungssicherheit bei der 
+Energieversorgung innerhalb einer Kundenanlage haben.
+
+Zum anderen sollten die weiterhin bestehenden Fallstricke im Zusammenhang mit der Gewerbesteuer- 
+privilegierung beseitigt werden, damit die Akteure im Immobilienbereich nicht vor dezentralen 
+Energie- konzepten zurückschrecken.
+
+Es ist zu begrüßen, dass der Gesetzgeber mit der Novellierung des Gewerbesteuerrechts die 
+energiewirt- schaftliche Betätigung von Immobilienunternehmen teilweise ermöglicht, ohne die 
+Gewerbesteuerprivi- legien zu gefährden. Nach dem neuen § 9 Nr. 1 Satz 3 lit. b GewStG sind die 
+Versorgung von Mieterinnen und Mietern mit Strom aus erneuerbaren Energien und der Betrieb von 
+Ladestationen für die Elektromobilität
+
+
+
+
+
+
+dena-Studie „Das Quartier“  29
+
+3 Schwachstellen
+
+
+
+
+
+gewerbesteuerlich privilegiert, wenn die daraus entstehenden Einnahmen nicht mehr als 10 Prozent 
+der Gesamteinnahmen betragen. Damit sind Mieterstrommodelle nach dem EEG und auch Eigenversorgungs- 
+konzepte umsetzbar, ohne eine Infizierung mit der Pflicht zur Zahlung von Gewerbesteuer zu 
+riskieren, und zwar auch dann, wenn zusätzlicher Strom aus dem Netz bezogen oder in dieses 
+eingespeist wird. Gewerb- liche Einnahmen aus dem Betrieb eines Blockheizkraftwerks sind aber wegen 
+des ausdrücklichen Bezugs auf
+§ 3 Nr. 21 EEG nicht begünstigt. Es ist allerdings zu kritisieren, dass gerade KWK-Anlagen nicht 
+von dieser Privilegierung erfasst sind, denn ihre energetische Effizienz ist wie beschrieben 
+unbestritten und KWK als Brückentechnologie gerade mit dem Einsatz von biogenen Brennstoffen auch – 
+derzeit noch – sinnvoll.
+
+Der Gesetzgeber möchte zudem Anreize für den Ausbau der Stromerzeugung aus erneuerbaren Energie- 
+quellen im Sinne von § 3 Nr. 21 EEG und den Betrieb von Ladestationen für Elektrofahrzeuge 
+schaffen, also gilt die Ausnahme nur für die Lieferung von Strom. Wird beispielsweise Wärme 
+klimaschonend mit einer Grundwasserwärmepumpe erzeugt, so ist unklar, ob eine Lieferung unter 
+Umständen Einnahmen verur- sacht, die mit der Gewerbesteuer infiziert sind. Zwar ist der Betrieb 
+von Heizungsanlagen grundsätzlich privilegiert, weil er als zwingend notwendiger Teil einer 
+wirtschaftlich sinnvoll gestalteten eigenen Grund- stücksverwaltung und -nutzung gilt. Unklar ist 
+aber, ob die Privilegierung beispielsweise entfällt, wenn fremde Gebäude im Quartier mit Wärme 
+versorgt werden. Diesbezüglich könnte zwar eine Privilegierung in Höhe von 5 Prozent der 
+Gesamteinnahmen nach § 9 Nr. 1 Satz 3 lit. c GewStG gelten. Die Regelung ist allerdings derart 
+unbestimmt, dass nicht eindeutig daraus hervorgeht, welche energiewirtschaftliche Betätigung 
+erfasst ist.
+
+Fazit
+Der Rechtsrahmen für die dezentrale Energieversorgung von Gebäuden im räumlichen Zusammenhang weist 
+einen zu hohen Grad an Komplexität auf und ist wenig anwenderfreundlich.
+
+Die Neuregelung des Gewerbesteuerprivilegs in Bezug auf die energiewirtschaftliche Betätigung von 
+Immobilienkonzernen ist positiv hervorzuheben. Die Ausnahme ist allerdings teilweise zu eng gefasst 
+(Ausschluss bestimmter Technologien) und teilweise zu unbestimmt formuliert (Unklarheit beispiels- 
+weise für den Bereich Wärmepumpe/„Fremdversorgung“ innerhalb des Quartiers).
+
+
+3.3.2 Unzureichende und komplexe Fördermodelle
+Zentral für die Förderung von dezentralen Energieversorgungskonzepten im Quartier ist vor allem die 
+Förde- rung der erneuerbaren Energien nach dem EEG und der Kraft-Wärme-Kopplung nach dem KWKG.34 
+Die be- stehenden Fördermodelle für die Quartiersversorgung sind aber unzureichend.
+
+Der Förderrahmen stellt die Stromerzeugung mit PV-Anlagen oder die Erzeugung von Strom und Wärme in 
+KWK-Anlagen in den Vordergrund. Wie beschrieben, sind hier verschiedene Betreibermodelle denkbar. 
+Die
+
+
+
+
+34 Siehe Teil 1: 4.1.3.3.2.1. Förderung nach dem KWKG.
+
+
+
+
+
+30
+
+3 Schwachstellen
+
+
+
+
+
+Erzeugung von Wärme wird indirekt durch die Förderung der Stromerzeugung im Rahmen des KWKG ge- 
+fördert. Eine Sektorkopplung (siehe Teil 2: 1.2 Rolle der Quartiere bei der Erreichung der 
+Klimaschutzziele) hat der Gesetzgeber aber zu wenig im Blick, ebenso wie auch echte 
+Quartiersansätze. Ein Gesamtkonzept für die klimaneutrale Energieversorgung im Quartier fehlt noch. 
+Vielmehr kann die komplexe Förderung der Stromerzeugung im Quartier durch das EEG und das KWKG 
+manchmal fast als abschreckend für die Markt- teilnehmer angesehen werden.
+
+Auch Betreibermodelle für nachhaltige Wärmeversorgungskonzepte mit Wärmepumpen sind aus Sicht des 
+Quartiersversorgers zumindest derzeit noch unattraktiv. Es existieren zwar Förderprogramme zum 
+Beispiel durch die Bundesförderung für effiziente Gebäude (BEG), diese müssen sich aber erst noch 
+bewähren. Im Zeitpunkt der Erstellung der Studie war nur die Bundesförderung für Einzelmaßnahmen 
+(BEG EM) in Kraft. Hier werden auch die Errichtung und die Nachrüstung von effizienten Wärmepumpen, 
+innovative Heiz- technik auf Basis von erneuerbaren Energien sowie 
+Erneuerbare-Energien-Hybridheizungen gefördert. Das sind sicherlich richtige Ansätze. Allerdings 
+sind die Schnittstellen bei den Gebäudenetzen sowie bei den Anschlüssen an ein Wärmenetz und in 
+diesem Zusammenhang auch die Schnittstelle zur Bundesförderung für erneuerbare Wärmenetze (BEW) 
+nicht klar, zumal die BEW noch unter dem Vorbehalt des EU-Beihilfe- rechts steht und eine 
+Verabschiedung zeitnah nicht erfolgt. Auch die Bundesförderung für Nichtwohn- gebäude (BEG NWG) und 
+die für Wohngebäude (BEG WG) liegen noch nicht vor und insoweit wird es sich zeigen, ob diese 
+Förderansätze ausreichend sein werden. Bereits erkennbar wird eine Konkurrenz der 
+Antragstellerinnen und Antragsteller entstehen. Die Kumulierungsverbote werden neue Hemmschwellen 
+bilden und das Fördersystem bleibt weiter sehr komplex. Dabei sind die Zusammenführung der 
+bestehenden Förderprogramme und der damit verbundene Ansatz der Reduzierung der Komplexität 
+natürlich zu begrüßen.
+
+Derzeit ist der Rechtsrahmen für die dezentrale Stromversorgung im laufenden Betrieb jedenfalls zu 
+kom- plex geregelt. Für den Betrieb einer Wärmepumpe mit erneuerbarer Energie wäre nach dem 
+derzeitigen Rechtsrahmen die Eigenversorgung am wirtschaftlichsten. Dies erfordert aber den 
+unmittelbaren räumlichen Zusammenhang und die Personenidentität zwischen den Betreibern der 
+Stromerzeugungs- anlage (z. B. PV-Anlage) und den Betreibern der Stromverbrauchseinrichtung 
+(Wärmepumpe). Damit sind bestimmte Akteure vom Betrieb ausgeschlossen und die Einbeziehung eines 
+Dritten wird unmöglich. Zwar wird durch die Ausweitung des Gewerbesteuerprivilegs der Betrieb durch 
+ein Immobilienunternehmen möglich, ohne dass sich dieses mit der Gewerbesteuer infiziert. 
+Ausgeschlossen bleibt aber nach wie vor die Einbindung eines externen Energieunternehmens, das die 
+energiewirtschaftliche Betätigung für das Woh- nungsunternehmen übernimmt. Zur Erreichung der 
+Klimaschutzziele muss die dezentrale Energieversor- gung attraktiver gestaltet werden. Dies 
+betrifft zum einen die Förderlandschaft, zum anderen gesetzliche Vorgaben im Messwesen. 
+Messkonzepte in einem Quartier sind vor dem Hintergrund des MsbG und des EEG zu komplex geworden.
+
+Dabei gibt es innerhalb Europas positive Beispiele. Entscheidet sich beispielsweise eine 
+Hauseigentümerin oder ein Hauseigentümer in den Niederlanden für eine PV-Anlage auf dem Dach, 
+installiert der Netzbetreiber die notwendige Infrastruktur und betreibt und wartet sie auch. Die 
+Förderung erfolgt anders als in Deutsch- land nicht über antragspflichtige Zuschläge, sondern über 
+das sogenannte Net-Metering. Dabei wird der Eigentümerin oder dem Eigentümer nur die Differenz aus 
+dem eingespeisten und dem aus dem Netz
+
+
+
+
+
+dena-Studie „Das Quartier“  31
+
+3 Schwachstellen
+
+
+
+
+bezogenen Strom in Rechnung gestellt. Die Energieflüsse innerhalb der „Kundenanlage“ sind damit 
+unbeachtlich.35
+Fazit
+Die Quartiersversorgung wird derzeit vor allem durch das EEG und das KWKG gefördert. Die beiden 
+Gesetze weisen aber zu komplexe Fördermodelle auf und stellen die Refinanzierung der Investitionen 
+nur unzureichend sicher.
+
+
+
+
+3.3.3 Technologiebezogener Förderansatz
+Ein weiterer Schwachpunkt des Fördersystems besteht darin, dass überhaupt nur bestimmte 
+Technologien gefördert werden.
+
+Die beschriebenen Erzeugungstechnologien (z. B. PV und KWK) haben bereits einen Markthochlauf 
+erfahren und sind weitestgehend wettbewerbsfähig im Vergleich zu konventioneller Erzeugung, wenn 
+man die ent- sprechenden volkswirtschaftlichen Schäden durch CO2-Emissionen mit berücksichtigt. Vor 
+allem das EEG hat sich vor dem Hintergrund eines Zuwachses an erneuerbaren Energien, der 
+günstigeren Kosten für die Erzeu- gung von Strom mit erneuerbaren Energien und des Ziels, die 
+EEG-Umlage auf möglichst viele Schultern zu verteilen, zu einer extrem komplexen Materie 
+entwickelt.
+
+Dabei sind Regelungen in das Gesetz aufgenommen worden, die vor allem eine zu hohe Last durch die 
+EEG- Umlage vermeiden sollen, wie zum Beispiel die messtechnisch anspruchsvolle 
+Strommengenabgrenzung zum Nachweis der Personenidentität im Rahmen der Eigenversorgung. Dieses 
+Kriterium ist aber vor dem Hintergrund eines Ausbaus von erneuerbaren Energien, um auch im Quartier 
+klimaneutral und umweltscho- nend Strom zu erzeugen, nicht geeignet. Damit werden Projekte aufgrund 
+von Komplexität vielmehr ver- hindert und nicht vorangetrieben. Auch bewirkt das Kriterium, dass 
+PV- und KWK-Anlagen kleiner dimen- sioniert werden, als der Bedarf im gesamten Quartier wäre, da 
+nur der personenidentisch verbrauchte Strom in der Eigenversorgung bei der EEG-Umlage privilegiert 
+ist.36
+
+Ein Bereich, in dem der technologiebezogene Förderansatz hingegen Sinn ergibt, sind Speicher.37 
+Speicher- technologie ist noch teuer, aber es ist damit zu rechnen, dass durch die gezielte 
+Förderung ein Markthoch- lauf zu erreichen ist. Durch Skaleneffekte könnten damit Speicher in 
+Zukunft zu wettbewerbsfähigen Preisen angeboten werden. Es gibt derzeit aber nur eine Förderung von 
+Wärme- und Kältespeichern sowie von Wärme- und Kältenetzen nach dem KWKG; Stromspeicher hingegen 
+erfahren keine Förderung. Der Betrieb von Stromspeichern erfährt lediglich eine Privilegierung bei 
+der EEG-Umlage. Diese ist aber unzureichend,
+
+
+
+
+
+35 Vgl. Londo, Marc et al.: Energy Alternatives for current net metering policy for solar PV in the 
+Netherlands, in: Renewable Energy 147 (2020) S. 903-915.
+36 Siehe Teil 1: 4.2.1.4.1 Eigenstromversorgung.
+37 Siehe Teil 1: 4.1.3.4 Speicher (Strom/Wärme/Kälte).
+
+
+
+
+
+32
+
+3 Schwachstellen
+
+
+
+
+
+um einen wirtschaftlichen Betrieb zu ermöglichen. Die fehlende Förderung steht dem Ziel der 
+Entlastung der Netze der allgemeinen Versorgung aus klimaschonender Sicht konträr gegenüber.
+
+Der Gesetzgeber ist zudem beim Aufkommen einer neuen Technologie gezwungen, sie in die bestehende 
+Förderlandschaft zu integrieren (z. B. innovative KWK, Wasserstoff) oder die Fördermodelle zu 
+reformieren. Diese Prozesse sind komplex und zu langwierig, was der Erreichung der Klimaschutzziele 
+entgegensteht. Ein technologieoffener und CO2-basierter Ansatz wäre hier erfolgversprechender.
+Fazit
+Der Markthochlauf der erneuerbaren Energien und der hocheffizienten Kraft-Wärme-Kopplung ist im 
+Grunde bereits erfolgt. Gerade im Quartier zeigt sich, dass eine technologiebezogene Förderung ein 
+hohes Maß an Komplexität erzeugt.
+
+
+
+
+3.4  Unzureichende Pönalisierung von CO2-Emissionen
+Auch die Pönalisierung des Ausstoßes von CO2 kann, wie aufgezeigt, zu einer Verringerung der 
+Emissionen führen. Diesen Weg hat der Gesetzgeber mit dem Brennstoffemissionshandelsgesetz (BEHG) 
+auf nationaler und mit dem Treibhausgas-Emissionshandelsgesetz (TEHG) auf europäischer Ebene 
+beschritten und einen Zertifikatehandel eingeführt.38
+
+Grundsätzlich ist die Bepreisung von CO2 ein richtiger Schritt, um Anreize zu schaffen, 
+regenerative Energie- träger und energiesparende Technologien einzusetzen. Durch den 
+Zertifikatehandel werden auch nicht einzelne Technologien gefördert. Vielmehr macht er fossile 
+Energieträger weniger attraktiv. Es ist dann Sache des Marktes, darauf zu reagieren. Dadurch werden 
+Innovationen zur Entwicklung neuer Technologien gefördert, die den Ausstoß von CO2 mindern oder 
+ganz verhindern. Hierin besteht grundsätzlich ein guter Ansatz, der im Zusammenspiel mit weiteren 
+Vorgaben einen Beitrag zur Verringerung der CO2-Emissionen leisten kann.
+
+3.4.1 Zu geringer CO2-Preis
+Die durch das BEHG vorgegebene CO2-Bepreisung ist noch zu niedrig. Die Mehrkosten belaufen sich im 
+Jahr 2021 bei einem Zertifikatspreis von 25 Euro/t CO2 auf lediglich 0,4551 Cent/kWh Erdgas netto. 
+Die bis 2025 geltenden Festpreise und der danach geltende Preiskorridor, innerhalb dessen die 
+Zertifikate gehandelt werden, werden somit nicht zu einem grundsätzlichen Umdenken bei denjenigen 
+führen, die Energie erzeugen und in Verkehr bringen.
+
+Ein echter Handel, der dem Markt die Preisbildung überlässt, würde vermutlich zu deutlich höheren 
+Preisen führen und so wirkliche Anreize zur Vermeidung von CO2 setzen. Außerdem macht der 
+Gesetzgeber
+
+
+
+
+38 Siehe Teil 1: 4.2.1.3.5 Kosten nach dem BEHG.
+
+
+
+
+
+dena-Studie „Das Quartier“  33
+
+3 Schwachstellen
+
+
+
+
+
+von den zahlreichen Verordnungsermächtigungen im BEHG nur langsam Gebrauch, sodass die Rechtsver- 
+ordnungen bisher auf sich warten lassen. Zum Zeitpunkt der Fertigstellung dieser Studie waren bei 
+14 Ver- ordnungsermächtigungen im BEHG lediglich die Emissionsberichterstattungsverordnung (EBeV 
+2022) und die Brennstoffemissionshandelsverordnung (BEHV) erlassen. Mit der Ausfertigung der BEHV 
+im Dezember 2020 waren die Berechnung der Mehrkosten pro Kilowattstunde und die Planung des 
+Zertifikatehandels erst vier Wochen vor dessen Beginn am 1. Januar 2021 möglich. Für das 
+Kalenderjahr 2021 war zudem auch nur eine weitere Verordnung vorgesehen. Die „Verordnung über 
+Maßnahmen zur Vermeidung von Carbon Leakage durch den nationalen Brennstoffemissionshandel“ 
+(BEHG-Carbon-Leakage-Verordnung – BECV) ist im Juli 2021 in Kraft getreten. Die BECV bedarf zudem 
+wegen ihres Beihilfecharakters noch der Genehmigung durch die europäische Kommission.
+
+Fazit
+Die CO2-Bepreisung durch das BEHG stellt einen guten Ansatz dar, jedoch sollte die Reglementierung 
+des Preises schnellstmöglich entfallen und es zu einem freien Handel mit begrenzten Zertifikaten 
+kommen. Dadurch würde der bisher zu niedrige CO2-Preis wahrscheinlich deutlich steigen und es 
+würden Anreize zu CO2-neutralen Innovationen und auch nachhaltigen Quartierskonzepten gesetzt. 
+Quartiersversorger brauchen hier schnellstmöglich Planungssicherheit, die nur durch die 
+entsprechenden Verordnungen zum BEHG erreicht werden kann.
+
+
+
+
+
+3.4.2 Mieter-Vermieter-Dilemma
+Ein weiterer Problempunkt des BEHG besteht darin, dass derjenige, der Energie in Verkehr bringt, 
+die zusätz- lichen Kosten des CO2 in der Regel an seine Kundinnen und Kunden weitergeben wird. 
+Dadurch besteht die Gefahr, dass diese Kosten vor allem von den Letztverbraucherinnen und 
+-verbrauchern innerhalb eines Quartiers, also von den Mieterinnen und Mietern, getragen werden. 
+Dadurch könnte der Anreiz zur Verringe- rung von CO2 für die Vermieter entfallen. Daher müssen 
+Regelungen zu einer sachgemäßen Lastenver- teilung zwischen Mieterschaft und Vermietern geschaffen 
+werden, die an den Verursachungsbeiträgen der Emissionen ausgerichtet sind. So sollte es dem 
+Vermieter einerseits nicht gestattet werden, die Kosten der CO2-Bepreisung komplett auf die 
+Mieterinnen und Mieter abzuwälzen, wenn der Vermieter über entschei- dende Faktoren der Emissionen 
+wie zum Beispiel die Bausubstanz und verwendete Technologien zur Energieversorgung entscheiden kann 
+und bisher nur „Worst Performer“ anbietet. Andererseits ist auch eine Lastentragung allein durch 
+den Vermieter nicht gerechtfertigt, da er keinen Einfluss auf den Energiever- brauch der 
+Mieterinnen und Mieter und beispielsweise auf ihr Heiz- und Lüftungsverhalten hat. In diesem 
+Bereich bedarf es dringend einer zum Zeitpunkt der Studie bereits angestoßenen Novellierung des 
+recht- lichen Rahmens (Heizkostenverordnung (HeizKV), Betriebskostenverordnung (BetrkV), GEG sowie 
+BGB).
+
+Dabei sollte berücksichtigt werden, dass der Verursachungsbeitrag des Vermieters in der 
+„verwendeten“ Bausubstanz besteht. Demnach steigt sein Beitrag mit zunehmendem Alter bzw. 
+zunehmendem Sanie- rungsbedarf des Gebäudes. Dafür bedarf es einer Klassifizierung des 
+Gebäudebestands in verschiedene
+
+
+
+
+
+34
+
+3 Schwachstellen
+
+
+
+
+
+Kategorien. Der Verursachungsbeitrag der Mieterschaft liegt in ihrem Verbrauchsverhalten und 
+verringert sich um den Beitrag des Vermieters. Beide Beiträge sollten dabei jeweils nicht unter 10 
+Prozent der Kosten- tragung sinken, um Anreize für einen sparsamen Verbrauch und für fortlaufende 
+Modernisierungsmaßnah- men aufrechtzuerhalten.
+
+Außerdem wird derzeit die KWK-Technologie gegenüber klassischen Brennwertkesseln unattraktiver, da 
+nur die Weitergabe der CO2-Mehrkosten für die Wärme, nicht aber für den Strom möglich ist. Das ist 
+aber klima- politisch der falsche Ansatz.
+
+Fazit
+Die Einführung eines CO2-Preises bedarf einer Regelung zur Lösung des Mieter-Vermieter-Dilemmas. 
+Die Kostentragungspflicht der Mieterinnen und Mieter sowie der Vermieter sollte hier an dem 
+jeweiligen Beitrag an der Verursachung der Emissionen ausgerichtet sein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dena-Studie „Das Quartier“  35
+
+Abkürzungen
+
+
+Abkürzungen
+
+
+
+BECV BEG BEHG BEHV
+BetrKV BEW BGB BHKW BMUV
+
+BMWK CO2
+dena EBeV
+
+Ebd. EEG
+EnergieStG EnEV EnWG
+EU GEG GEIG
+GewStG GHD
+HeizKV ifeu Kfz kWh
+BEHG-Carbon-Leakage-Verordnung Bundesförderung für effiziente Gebäude 
+Brennstoffemissionshandelsgesetz Brennstoffemissionshandelsverordnung Betriebskostenverordnung
+Bundesförderung für erneuerbare Wärmenetze Baugesetzbuch
+Blockheizkraftwerk
+Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+Bundesministerium für Wirtschaft und Klimaschutz Kohlenstoffdioxid
+Deutsche Energie-Agentur
+Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz
+ebenda
+Erneuerbare-Energien-Gesetz Energiesteuergesetz Energieeinsparverordnung Energiewirtschaftsgesetz 
+Europäische Union Gebäudeenergiegesetz
+Gebäude-Elektromobilitätsinfrastruktur-Gesetz Gewerbesteuergesetz
+Gewerbe, Handel, Dienstleistungen Heizkostenverordnung
+Institut für Energie- und Umweltforschung Kraftfahrzeug
+Kilowattstunde
+
+
+
+
+
+
+36
+
+Abkürzungen
+
+
+
+
+
+
+KWK KWKG
+lit. MsbG Nr.
+PEF PV REMIT
+
+StromStG t
+TEHG THG
+TWh vgl. WEG
+z. B.
+Kraft-Wärme-Kopplung
+Kraft-Wärme-Kopplungsgesetz Littera (= Buchstabe) Messstellenbetriebsgesetz Nummer 
+Primärenergiefaktoren Photovoltaik
+Verordnung über die Integrität und Transparenz des Energiegroßhandels
+Stromsteuergesetz Tonne
+Treibhausgas-Emissionshandelsgesetz Treibhausgas
+Terawattstunde vergleiche
+Wohnungseigentumsgesetz zum Beispiel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dena-Studie „Das Quartier“  37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de

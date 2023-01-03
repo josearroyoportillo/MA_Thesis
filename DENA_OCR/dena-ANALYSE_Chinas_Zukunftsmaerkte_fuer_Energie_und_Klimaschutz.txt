@@ -1,0 +1,2901 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dena-ANALYSE
+Chinas Zukunftsmärkte
+für Energie und Klimaschutz
+Aktuelle Trends und Entwicklungen
+
+
+
+
+
+
+
+
+
+
+
+
+
+Herausgeber:
+Deutsche Energie-Agentur GmbH (dena) Chausseestraße 128 a
+10115 Berlin
+Tel.: +49 (0)30 66 777 - 0
+Fax: +49 (0)30 66 777 - 699
+E-Mail: info@dena.de Internet: www.dena.de
+
+Autoren:
+Sandra Ghosh, dena Tobias Kampet, dena Nicole Pillen, dena Moritz Robers, dena Carolin Schenuit, 
+dena Ang Ye, dena
+Robert Westermann, dena Eva Yanjun Steiger, dena Pia Dorfinger, dena
+Stefan Siegemund, dena Moritz Limbacher, dena
+
+Konzeption & Gestaltung:
+Heimrich & Hannot GmbH
+
+Bildnachweis:
+Titelbild – shutterstock.com/crystal51,
+S. 3 – shutterstock.com/LIUSHENGFILM
+
+Stand:
+02/2021
+
+Alle Rechte sind vorbehalten. Die Nutzung steht unter dem Zustimmungsvorbehalt der dena.
+Inhalt
+
+
+
+
+1 Einleitung
+China ist aktuell einer der größten Energiever- braucher und -produzenten der Welt. Aktuelle Trends 
+zeigen, dass sich bis 2040 Chinas Primärenergieverbrauch verdoppeln und damit etwa 25 Prozent des 
+weltweiten Bedarfs ausmachen wird.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Zielmarkt
+allgemein
+Grundwissen China: das Land, sein politisches System und die Wirtschaft. Wie steht es um die 
+bilateralen Beziehungen zu Deutschland?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Themen und Gebiete
+Städte, Gebäude, Industrie, Netze, erneuerbare Energien, Mobilität, Start-ups und die 
+Seidenstraßen-Initiative: Welche Entwicklungen, Potenziale und zukünftigen Trends lassen sich 
+erkennen?
+
+
+
+
+
+
+1. Einleitung
+
+
+
+
+In der Volksrepublik (VR) China lebt ein Fünftel der Weltbe- völkerung. Das Land hatte einen 
+CO₂-Ausstoß von 10,3 Giga- tonnen im Jahr 2019 (Jackson et al 2019) und erlebt seit der Reform- und 
+Öffnungspolitik Mitte der 1970er Jahre einen gewaltigen Wirtschaftsaufschwung. Seit 2009 ist China 
+Ex- portweltmeister und seit 2010 nach den USA die zweitgrößte Volkswirtschaft der Welt. 
+Deutschland ist seit 2016 erstmalig Chinas wichtigster Handelspartner. Umgekehrt ist China für 
+Deutschland mit etwa 6 Prozent des deutschen Exports einer der wichtigsten Absatzmärkte in 
+unterschiedlichsten Bran- chen wie der Kfz- und Elektroindustrie, dem Maschinenbau und im Bereich 
+Energie.
+
+China ist einer der größten Energieverbraucher und -produzen- ten der Welt. Aktuelle Trends zeigen, 
+dass sich bis 2040 Chinas Primärenergieverbrauch verdoppeln und damit etwa 25 Pro- zent des 
+weltweiten Bedarfes ausmachen wird. Dadurch hat das Land einen entscheidenden Einfluss auf die 
+globale Ener- gieversorgung und erschließt weltweit neue Energiemärkte, etwa im Rahmen der 
+Belt-and-Road-Initiative (BRI). Inwieweit sich der Einfluss der COVID-19 Pandemie auf die 
+wirtschaftli- che Erholung auswirkt, ist noch nicht klar, denn die chinesische Industrie- und 
+Exportwirtschaft ist durchaus energieintensiv. Eine eindeutige „Green Recovery“ ist nicht zu 
+erkennen.
+
+Luftverschmutzung ist demzufolge eines der größten Probleme der Volksrepublik. Auch aufgrund dessen 
+lässt sich ein Struktur- wandel erkennen: 2016 verabschiedete der Nationalkongress den 13. 
+Fünfjahresplan (2016–2020), in dem die Themen Um- weltschutz, Gesundheit, Innovationen und Zugänge 
+zu städti- scher Infrastruktur weiter in den Vordergrund gerückt wurden. Diese Themen werden 
+voraussichtlich auch im kommenden 14. Fünfjahresplan (2021–2025) weiter vertieft. Auf der 
+UN-General- versammlung im September 2020 hat China angekündigt, den
+„carbon peak“ bis 2030 zu erreichen und gleichzeitig bis 2060
+„carbon neutral“ zu werden.
+Das Interesse Chinas an einer Zusammenarbeit mit Deutsch- land als Land der Energiewende und 
+Digitalisierung und als Vorreiter in den Bereichen Energieeffizienz und erneuerbare Energien ist 
+nicht nur deshalb weiterhin groß. Die politischen Beziehungen zwischen beiden Ländern werden immer 
+inten- siver: Die deutsch-chinesischen Regierungskonsultationen finden seit 2011 regelmäßig in 
+Berlin und Peking statt. Neben diesen Absprachen sollen nach dem digitalen EU-China Gipfel im 
+September 2020 auch stetige, sogenannte „High Dialogues“ stattfinden.
+
+Darüber hinaus wurde im Jahr 2006 auf Regierungsebene zwi- schen Deutschland und China im Rahmen 
+des Deutsch-Chine- sischen Forums für wirtschaftliche und technologische Zusam- menarbeit die 
+Deutsch-Chinesische Energiepartnerschaft ge- gründet. In regelmäßig stattfindenden Dialogen, 
+beispielsweise in Form von Arbeitsgruppen und Workshops, werden die Heraus- forderungen und 
+möglichen Lösungsansätze für eine erfolgrei- che Energiewende diskutiert. Diese Partnerschaft ist 
+offen ange- legt, was bedeutet, dass sich neben Regierungsvertretern auch weitere Teilnehmer 
+beispielsweise aus Unternehmen, Verbän- den, Hochschulen und der Zivilgesellschaft beider Länder 
+ein- bringen können, damit ein umfassender Austausch gegeben ist. Damit leistet die 
+Energiepartnerschaft einen wichtigen Beitrag zur Entwicklung nachhaltiger, landesspezifischer 
+Lösungsan- sätze in Bezug auf die Herausforderungen der Energiewende.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4  Einleitung
+
+
+
+
+
+
+2. Zielmarkt allgemein
+
+
+
+
+2.1 Politik
+
+Die 1921 gegründete Kommunistische Partei Chinas (KPC) steht seit der Staatsgründung im Jahr 1949 
+an der Spitze der Volksrepu- blik China. Sie ist mit rund 90 Millionen Mitgliedern die mitglieder- 
+stärkste Partei der Welt. Aktueller Staatspräsident und General- sekretär ist Xi Jinping, 
+Ministerpräsident ist Li Keqiang. Sie lösten 2013 ihre Vorgänger Hu Jintao und Wen Jiabao ab.
+
+Chinas zentrales Verwaltungsorgan ist der Staatsrat. Der Minis- terpräsident und auch die anderen 
+Mitglieder des Staatsrats übten in der Vergangenheit das Amt nicht länger als zwei 5-Jah- 
+res-Amtszeiten aus. Im Herbst 2017 hat das Zentralkomitee der Partei vorgeschlagen, die 
+entsprechende Richtlinie aus der Ver- fassung zu streichen. Der Volkskongress machte den Weg 
+hierfür frei, sodass Xi Jinping Anfang März 2018 als Chinas Staatspräsi- dent und Militärchef im 
+Amt bestätigt wurde. Er kann nun zeit- lich unbegrenzt wiedergewählt werden (Tagesspiegel 2018).
+
+Oberstes Gesetzgebungsorgan ist laut Verfassung der Nationa- le Volkskongress (NVK). Er besteht aus 
+2.970 Delegierten aus den Provinzen, Kommunen und autonomen Regionen sowie aus den Streitkräften. 
+Der NVK ist zuständig für Verfassungsänderungen (hierfür bedarf es einer Zweidrittelmehrheit), für 
+die Ausarbei- tung und Änderung grundlegender Gesetze, für die Wahl und Abberufung der wichtigsten 
+Mitglieder der Staatsorgane sowie für die Prüfung und Bestätigung des Staatshaushalts. Mehr als 
+zwei Drittel der NVK-Abgeordneten gehören der Kommunisti- schen Partei an. Der NVK tritt nur einmal 
+im Jahr zu einer ein-
+bis zweiwöchigen Plenartagung zusammen.
+
+Alle politischen Entscheidungen werden vom Politbüro der KPC getroffen. Es kontrolliert auch 
+sämtliche verwaltungs- technischen und exekutiven Einrichtungen.
+
+
+
+
+
+
+
+
+
+nominiert
+
+
+
+
+
+
+
+ZK-Sekretariat
+
+Partei
+
+
+KP-Generalsekretär
+Xi Jinping
+
+Zentralkomitee
+
+Ständiger Ausschuss
+7 Mitglieder
+
+Politbüro
+
+
+
+
+Vorsitzender
+Xi Jinping
+
+Zentrale Militärkommission Führung der Streitkräfte
+
+Machtmonopol der KPC
+
+
+
+
+
+Wahlen
+
+Staat
+Staatspräsident
+Xi Jinping
+Ministerpräsident
+Li Keqiang
+
+Staatsrat
+Ministerien, Kommissionen, Zentralbank
+
+
+ Ständiger Ausschuss 
+
+
+
+
+
+
+
+
+
+
+Zentralregierung, Spitze der staatl. Verwaltung
+
+Auslegung der Verfassung;
+
+
+
+beruft
+
+Zentrale Disziplinar- kommission
+25 Mitglieder
+
+
+
+Weisungen
+
+
+Parteitag der
+
+
+
+Wahlen
+Steuerung von Staat und Gesellschaft durch
+
+▪ Leitlinien
+▪ Weisungen
+▪ Kontrolle
+
+
+Wahlen
+
+Nationaler Volkskongress
+„Höchstes Organ der
+Staatsmacht“
+Gesetzgebung; Kontrolle des Staatsrats
+
+
+Verfassungsänderun- gen; Genehmigungen der nationalen Pläne und des
+
+
+wählt
+Kommunistischen Partei Chinas
+Tagt alle 5 Jahre
+▪ Kaderpolitik
+Tagt 1x jährlich
+
+
+Delegierter der Volkskongresse der Provinzen, Städte und Kreise und Streitkräfte
+Staatshaushaltes
+
+Abbildung 1: Das politische System Chinas. Quelle: eigene Darstellung in Anlehnung an: Heilmann, 
+Sebastian (2005): Das politische System Chinas. Bundeszentrale für politische Bildung. 
+https://www.bpb.de/internationales/asien/china/44270/das-politische-system-chinas (12.09.2019)
+
+
+
+
+
+
+
+Zielmarkt allgemein  5
+
+
+
+
+
+
+
+2.2 Wirtschaft
+
+Die wirtschaftliche Entwicklung und Öffnung Chinas begannen im Jahr 1978. In diesem Jahr stieß die 
+KPC unter dem damali-
+gen Staatspräsidenten Deng Xiaoping eine Reform- und Öffnungs- politik an. Hierbei wurde mittels 
+Reformen die Funktionsweise der Planwirtschaft verbessert, um ein größeres Wachstum und mehr 
+Beschäftigung zu erzielen. Das Ziel der Reformpolitik wurde als eine „marktwirtschaftliche Ordnung 
+mit sozialistischer Prä- gung“ oder auch als „gelenkte Marktwirtschaft“ definiert (Heil- mann und 
+Shi 2013).
+
+Um das Wirtschaftswachstum in die gewünschte Richtung zu len- ken, greift die KPC seit der Zeit der 
+Reformpolitik in die wirtschaft- lichen Prozesse ein. Das ist besonders an den Fünfjahresplänen der 
+Regierung sichtbar: Hierbei handelt es sich um Entwicklungs- pläne, die die politischen, 
+wirtschaftlichen und sozialen Leitlinien für die jeweils kommenden Jahre festlegen. Momentan gilt 
+noch der 13. Fünfjahresplan (2016–2020).
+
+Er legt die Bereiche fest, die besonders gefördert werden sollen. Der aktuelle Fünfjahresplan baut 
+auf dem vorherigen, 12. Fünfjah- resplan (2011–2015) auf, dessen Fokus auf der Umstrukturierung der 
+chinesischen Volkswirtschaft von einer investitions- und ex- portorientierten zu einer 
+innovationsgetriebenen, stärker auf den Binnenmarkt ausgerichteten Wirtschaft lag (Goller et al. 
+2017: 3).
+
+Durch das rasante wirtschaftliche Wachstum seit der Öffnung ge- lang es China, durch 
+Massenproduktion und den Einsatz fossiler Brennstoffe zu einer weltweiten Wirtschaftsmacht 
+aufzusteigen.
+
+Dies führte gleichzeitig zu erheblichen ökologischen Problemen. Aus diesem Grund finden sich im 
+aktuellen Fünfjahresplan we- sentliche Ziele, die auf eine Verbesserung der Umweltbedingun- gen und 
+damit auch des Lebensstandards der Menschen in China ausgerichtet sind: Steigerung der 
+Energieeffizienz, Reduzierung von CO₂-Emissionen, Senkung der Kohleproduktion sowie Ausbau von 
+erneuerbaren Energien und Elektromobilität.
+
+
+
+
+
+
+
+
+Eine weitere politische Initiative ist die „Made in China 2025“- Strategie und damit der neue Fokus 
+auf Innovation, Qualität und Effizienz. Es handelt sich hierbei um eine „Initiative zur umfassen- 
+den Aufwertung der chinesischen Industrie“, für welche die deut- sche „Industrie 4.0“-Strategie 
+teilweise als Vorbild diente (Ken- nedy 2015). Eine weitere Initiative ist die 2013 ins Leben 
+gerufene
+„Belt and Road Initiative“ (BRI), deren Ziel es ist, die wirtschaftli- che Zusammenarbeit zwischen 
+eurasischen Ländern, Europa und China auf dem Landweg zu vernetzen und zu fördern sowie über eine 
+maritime Seidenstraße Afrika und Südamerika anzubinden (siehe Kapitel 3.8 „Belt and Road 
+Initiative“).
+
+China ist heute in der internationalen Staatengemeinschaft etabliert: 2001 ist das Land in die 
+Welthandelsorganisation (WHO) eingetreten, seit 2009 ist es Exportweltmeister und seit 2010 nach 
+den USA die zweitgrößte Volkswirtschaft der Welt. Deutschland und die Europäische Union (EU) 
+gehören zu den wichtigsten und engsten Wirtschaftspartnern Chinas und die EU ist noch vor den USA 
+die wichtigste Exportregion. 2019 gingen rund 19 Prozent aller Exporte in die EU. Innerhalb Europas 
+ist Deutschland der engste Handelspartner Chinas. Gleichzeitig ist China in Asien der größte 
+Wirtschaftspartner für Deutschland. 2019 war die VR China bereits zum vierten Mal in Folge 
+Deutschlands wichtigster Ge- samthandelspartner. Bei den deutschen Exporten lag das Land auf Platz 
+3 hinter den USA und Frankreich. In den letzten zehn Jah- ren ist für viele deutsche Unternehmen 
+unterschiedlichster Sekto- ren der chinesische Markt einer der wichtigsten Absatzmärkte ge- worden. 
+Noch immer bietet die chinesische Wirtschaft deutschen Firmen große Absatzchancen, auch wenn der 
+Wettbewerbsdruck durch chinesische Unternehmen zunimmt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6  Zielmarkt allgemein
+
+
+
+
+
+
+
+
+
+2.3 Bilaterale Beziehungen
+
+Seit 2011 finden regelmäßige Regierungskonsultationen zwi- schen Deutschland und China statt. 
+Dadurch haben sich ver- schiedene Partnerschaften in unterschiedlichen Bereichen gebildet. Es 
+existieren derzeit mehr als 80 Dialogmechanismen innerhalb der Bereiche Wirtschaft, Finanzen, 
+Rechtsstaatsfra- gen, Entwicklungszusammenarbeit, Wissenschaft und Techno- logie sowie Umwelt, 
+Klima und Energie. Durch die Vorreiterrolle, die Deutschland in vielen Bereichen der 
+Energieeffizienz und der erneuerbaren Energien einnimmt, ergibt sich eine Vielzahl von 
+Anknüpfungspunkten für eine Partnerschaft mit China. Zum Beispiel besteht seit 2006 eine 
+Energiepartnerschaft, die 2013 durch zwei Abkommen vertieft wurde. Ziel ist es, den politischen 
+Dialog zu fördern und eine Plattform für fachlichen Informa- tions- und Erfahrungsaustausch zu 
+bieten sowie die Zusammen- arbeit auf den Gebieten Energieeinsparung, Effizienzsteigerung und 
+erneuerbare Energien zu vertiefen (Auswärtiges Amt 2019).
+
+Im Rahmen der bilateralen Vereinbarungen wurden zwei the- matische Arbeitsgruppen eingerichtet: Zum 
+einen gibt es die
+„AG Energie“ mit inhaltlichem Fokus auf erneuerbaren Energien, Smart Grids und 
+Speichertechnologien. Die fachliche Leitung der Arbeitsgruppe liegt auf deutscher Seite beim 
+Bundesministeri- um für Wirtschaft und Energie (BMWi) und auf chinesischer Seite bei der Nationalen 
+Energieagentur (NEA). Zum anderen gibt es die „AG Energieeffizienz“. Die fachliche Leitung der 
+Arbeitsgrup- pe liegt auf deutscher Seite beim BMWi und auf chinesischer Seite bei der Staatlichen 
+Kommission für Entwicklung und Re- form (National Development and Reform Commission, NDRC).
+In beiden Arbeitsgruppen ist die dena regelmäßig beteiligt (BMWi 2019).
+
+Mit der Internationalen Klimainitiative (IKI) des Bundes- ministeriums für Umwelt, Naturschutz und 
+nukleare Sicherheit (BMU) unterstützt die deutsche Regierung Klimaschutzprojek- te in Entwicklungs- 
+und Schwellenländern sowie in den Trans- formationsstaaten. In China sind das vor allem 
+Beratungspro- jekte zur Einführung eines Emissionshandelssystems und zum Aufbau klimafreundliche 
+Transportsysteme Transportsysteme und kohlenstoffarmer Landnutzung sowie Fortbildungsmaß- nahmen 
+für Entscheidungsträger. In der jährlich stattfinden- den Arbeitsgruppe zum Klimaschutz tauschen 
+sich beide Län- der über den Entwicklungsstand und geplante und durchge- führte Maßnahmen aus. 
+Darüber hinaus besteht seit 2013 eine bilaterale Urbanisierungspartnerschaft. Die dena ist seit 
+2015 Mitglied in der Arbeitsgruppe der Urbanisierungspartnerschaft.
+
+Des Weiteren gibt es zwischen beiden Ländern seit 2011 eine Deutsch-Chinesische Plattform für 
+Elektromobilität sowie den Aktionsplan „Grüne Logistik“, der 2011 von beiden Ländern un- 
+terzeichnet wurde (Auswärtiges Amt 2019). Die bilateralen Be-
+ziehungen ermöglichen viele Anknüpfungspunkte und Chan- cen für die deutsche Wirtschaft. Allerdings 
+haben seit etwa 2016 auch die Konflikte in der deutsch-chinesischen Beziehung zugenommen. In 
+Politik und Wirtschaft wird China nicht nur als Partner wahrgenommen, sondern auch als 
+Wettbewerber. Hauptgründe im Bereich der Wirtschaft sind vor allem die ra- sante Zunahme 
+chinesischer Direktinvestitionen in Deutsch- land, Differenzen beim Schutz des geistigen Eigentums 
+und
+die von China staatlich gelenkte Industriepolitik, die in die von vorwiegend deutschen Unternehmen 
+dominierten Sektoren der Spitzentechnologie wie Mobilität und Industrieproduk-
+te drängt. Hinter den Investitionen in Deutschland steht die
+„Made in China 2025“-Strategie der chinesischen Regierung. Ziel ist es, den Fortschritt Chinas bis 
+2025 in maßgeblichen Schlüsseltechnologien voranzutreiben. Schwerpunkte des chi- nesischen 
+Engagements in Deutschland sind die Bereiche Ma- schinenbau, Elektronik, Konsumgüter und 
+Informations- und Kommunikationstechnologie. Die meisten Unternehmenskäufe von chinesischen 
+Akteuren in der EU wurden in Deutschland getätigt (Auswärtiges Amt 2019).
+
+Allgemein erwarten deutsche, aber auch andere europäische Investoren von China die gleichen 
+Marktzugangsbedingungen wie diejenigen, die chinesische Unternehmen in Deutschland und der EU 
+haben. Das gilt auch für die Bereiche im Dienstleis- tungssektor wie im Banken-, Versicherungs-, 
+Logistik- und Han- delssektor. Bis vor Kurzem war ausländischen Unternehmen der Zugang zu vielen 
+Tätigkeitsfeldern rechtlich verschlossen. Die Reformpläne der chinesischen Regierung sehen aber 
+bei- spielsweise Lockerungen für Kapitalbeteiligungen vor. Im Be- reich des Bankensektors sind die 
+Beschränkungen für ausländi- sche Investitionen abgeschafft.
+
+Im Bereich Automotive galt bisher eine Eigenkapitalbegren- zung von 50 Prozent für ausländische 
+Investoren und kein In- vestor durfte mehr als zwei Joint Ventures eingehen. Diese Re- gelung ist 
+bei sogenannten „New Energy Vehicles“ abgeschafft, für kommerzielle Fahrzeuge gilt sie bis 2020 und 
+für Pkws bis Ende 2022 (ChinaContact 2019).
+
+In der Politik nehmen die Konflikte vor allem bei Menschen- rechtsfragen wegen der 
+Inselstreitigkeiten im Südchinesischen Meer und der Beschränkungen für Nichtregierungsorganisatio- 
+nen zu, wovon zum Teil auch deutsche Stiftungen betroffen sind (Schmidt 2018).
+
+
+
+
+
+Zielmarkt allgemein  7
+
+
+3.
+3.1 Städte
+
+
+Themen und Gebiete
+
+
+Chinas Urbanisierung hat seit der Reform und Öffnung im Jahr 1978 eine rasante Entwicklung 
+durchlaufen. Der Urbani- sirungsgrad stieg von 17,9 Prozent im Jahr 1978 auf 60,6 Pro- zent im Jahr 
+2019. 2011 überschritt der urbane Bevölkerungs- anteil in China zum ersten Mal die Grenze von 50 
+Prozent.
+Nach offiziellen Statistiken lebten 2019 rund 848,43 Millionen Menschen in städtischen Gebieten. 
+Die Urbanisierung inner- halb des Landes ist aber unausgewogen. Der Urbanisierungs- grad im Osten 
+Chinas ist deutlich höher als im Westen: Allein in den drei Metropolregionen im Osten Chinas, 
+Jing-Jin-Ji, Jangtse-Delta und Perlflussdelta, leben mehr als 23 Prozent der Gesamtbevölkerung (NBS 
+2018).
+
+Um das Wachstum der Städte im Landesinneren umwelt- und menschenfreundlich zu gestalten, 
+veröffentlichte die chinesi- sche Regierung im März 2014 den ersten offiziellen nationalen Ur- 
+banisierungsplan für den Zeitraum 2014 bis 2020. Danach wurde für den Zeitraum 2014 bin 2020 ein 
+Bevölkerungszuwachs von rund 100 Millionen Menschen erwartet; dies hat sich bewahr- heitet. Daraus 
+ergeben sich eine erhöhte Nachfrage nach bes- seren Infrastruktureinrichtungen sowie zunehmende 
+Heraus- forderungen in den Bereichen Klima- und Umweltschutz.
+
+Die rasante Urbanisierung und Industrialisierung haben zum starken Wirtschaftswachstum beigetragen 
+und sind mit einem großen Energieverbrauch verbunden. Heute weist China welt- weit den größten 
+Kohleverbrauch, den zweitgrößten Ölver- brauch und den viertgrößten Erdgasverbrauch auf.
+
+Neben dem großen Energiebedarf ist die Luftverschmutzung ein zentrales Thema. Betroffen sind davon 
+vor allem die Groß- städte. China hat heute den höchsten Ausstoß an Kohlendi- oxid weltweit. Die 
+von der WHO empfohlene Höchstgrenze
+für den alveolengängigen (lungengängigen) Feinstaub mit einem aerodynamischen Durchmesser kleiner 
+als 2,5 Mikro- meter (PM 2,5 – National Air Quality Standard for Particulate Matter), wird in China 
+tagtäglich um ein Vielfaches überschrit- ten. Dafür hat die Regierung im September 2013 den 
+nationa- len Aktionsplan zur Vermeidung und Kontrolle von Luftver- schmutzung für die Jahre 2013 
+bis 2017 beschlossen, der die
+Luftqualität in den wichtigsten Metropolregionen Jing-Jin-Ji und Jangtse-Delta kontrolliert. 2018 
+wurde ein neuer Dreijah- resplan („Blauer Himmel“) als Nachfolger verabschiedet, der mehrere Städte 
+umfasst.
+
+Umweltschutz und Energieeffizienz
+Für das Erreichen der zentralen Ziele des 13. Fünfjahresplans, wie der Aufbau einer „ökologischen 
+Zivilisation“, spielt die so- genannte „grüne“ Entwicklung eine wichtige Rolle. Die Ver- schmutzung 
+von Luft, Wasser und Böden soll reduziert und nachhaltige Formen von Lebens- und Arbeitsweisen 
+sollen besonders gefördert werden. Wichtige Eckpunkte sind dabei eine energieeffizientere urbane 
+Infrastruktur für Energie, Ver- kehr und Wasserver- und -entsorgung sowie die Etablierung einer 
+funktionierenden Kreislaufwirtschaft.
+
+Der aktuelle Fünfjahresplan ist Zeichen eines Wandlungspro- zesses, bei dem China sich von einem 
+reinen Wachstumsmo- dell mit energieintensiver Herstellung von Zwischenprodukten für nationale und 
+globale Märkte verabschiedet und ein neues Wirtschaftsmodell verfolgt, das stärker auf 
+Dienstleistungen ausgerichtet ist und durch eine innovationsgetriebene Herstel- lung 
+fortschrittlicher Technologien unterstützt wird.
+
+Die Energiewende – oder wörtlich nach Staats- und Parteichef Xi Jinping die „Energierevolution“ 
+(das Schlagwort für Energie- wende in der chinesischen Politik) – soll einen wesentlichen Beitrag 
+zum anvisierten Urbanisierungsprozess in China bei- steuern. Laut eines Berichts der 
+Internationalen Energieagen- tur verlangsamt sich seit 2000 das Wachstum des Energiebe- darfs in 
+China jährlich um 1 Prozent (IEA 2018a). Gleichzeitig investiert die Volksrepublik wie kein anderes 
+Land in erneuer- bare Energien: So wurden Anfang 2017 seitens der chinesischen Regierung bis 2020 
+Investitionen für den regenerativen Ener- giesektor in einer Höhe von rund 310 Milliarden Euro 
+angekün- digt. Damit soll der Anteil von nicht fossilen Energieträgern an der Primärenergie auf 15 
+Prozent erhöht werden. Es wird pro- gnostiziert, dass die Bevölkerung zwischen 2015 und 2030 auf 
+1,445 Milliarden Menschen steigen wird. Entsprechend variiert der Finanzierungsbedarf der einzelnen 
+Provinzen sehr stark. So benötigt die Provinz Guangdong etwa 148-mal so viele Finanz- mittel wie 
+die Provinz Tibet, deren Bedarf derzeit am gerings- ten ausfällt (Sun et al. 2017).
+
+
+
+
+
+
+8  Themen und Gebiete
+
+
+
+
+
+
+
+
+
+Neue Trends
+Über eine neue Stadtentwicklungspolitik und die Umsetzung von Pilotprojekten fördert China seit 
+2006 offiziell die Entwick- lung von sogenannten Eco-Cities. Im Jahr 2010 wurden von der NDRC 42 
+Regionen ausgewählt, die für die Umsetzung dieser Pilotprojekte geeignet scheinen. In diesen 
+Regionen wird emis- sionsarme und nachhaltige Stadtentwicklung forciert. Die Pi- lotstädte sollen 
+die CO₂-Intensität bis 2020 um ca. 40 Prozent gegenüber dem Niveau von 2005 reduziert haben – ein 
+deutlich höheres Ziel als die national verbindlichen Vorgaben.
+
+Im März 2018 wurden das Konzept des „schönen Chinas“ und der „ökologischen Zivilisation“ in der 
+Verfassung der Volksre- publik China verankert. Gleichzeitig wurde das chinesische Mi- nisterium 
+für Ökologie und Umwelt gegründet, das direkt für die Umsetzung der umwelt- und klimapolitischen 
+Ziele zustän- dig ist. Neben der emissionsarmen und grünen Stadtentwick- lung gibt es derzeit in 
+China weitere Trends zur Planung nach- haltiger Städte.
+
+Seit 2013 arbeitet China verstärkt an der Umsetzung von Smart- City-Konzepten. Neben der Förderung 
+von Hightech-Unterneh- men und respektiven Märkten werden anhand dieser Konzepte chinesische Städte 
+durch intelligente Technologien energieef- fizienter und lebenswerter gestaltet. Die erste Auswahl 
+an chi- nesischen Städten, die für die erstmalige Umsetzung ausge- wählt wurden, veröffentlichte 
+das Ministerium für Bauwesen der Volksrepublik China (Ministry of Housing and Urban-Rural 
+Development; MOHURD) im Jahr 2013 in einer Liste. Bis 2018 waren in China rund 290 
+Smart-City-Pilotstädte im Bau. Zu- künftig wird China seine Investitionen in Smart Cities weiter 
+ausbauen: Von 375,2 Milliarden CNY (rund 47,8 Milliarden Euro) im Jahr 2017 auf bis zu 1,2 
+Billionen CNY (rund 151,2 Milliarden Euro) im Jahr 2021.
+
+Ein weiteres Programm der Regierung für Großstädte sind die sogenannten Sponge Cities ( 
+„Schwamm-Städte“): Viele chine- sische Städte haben regelmäßig mit Überschwemmungen zu kämpfen. 
+Laut einer Studie des MOHURD sind davon mindes- tens 214 Städte in China betroffen. Davon waren 137 
+Städte zwischen 2008 und 2010 mehr als dreimal im Jahr und von die- sen 57 Städte mehr als zwölf 
+Stunden überflutet. Diese Über- flutungen sind größtenteils auf heftige Stürme zurückzuführen. 
+Insbesondere in den Großstädten Chinas stellen Überschwem- mungen eine der größten 
+Herausforderungen dar. Seit 2014 werden im Rahmen des Sponge-City-Programms Lösungen entwickelt und 
+seit März 2015 in 16 Pilotstädten erprobt. Die Umsetzung erfolgt vorwiegend über staatliche 
+Subventionen sowie über „öffentlich-private Partnerschaften“ (Public Private Partnership, PPP).
+3.2 Gebäude
+
+China ist nicht nur eine der am schnellsten wachsenden Volks- wirtschaften, es hat auch den größten 
+Markt für das Bauge- werbe der Welt mit einem Volumen von etwa 1 bis 1,5 Milliar- den m² pro Jahr. 
+Damit befindet sich fast die Hälfte der jährlich weltweit errichteten Neubauten in China. Der 
+Wohngebäude- sektor, der 60 Prozent aller Gebäude ausmacht, umfasste allein im Jahr 2017 eine 
+Neubaufläche von 1,28 Billionen m² (Econet China 2018). Mit einer jährlichen Wachstumsrate von 15,5 
+Pro- zent ist der Bausektor einer der dynamischsten Bereiche der chinesischen Wirtschaft und wird 
+voraussichtlich seine Positi- on als größter Markt weit über 2020 hinaus beibehalten (Kang und Wei 
+2005). Der Gebäudesektor ist somit die treibende Kraft der chinesischen Konjunktur und trägt 
+maßgeblich zum Errei- chen von energie- und klimapolitischen Zielen in China bei. Im Jahr 2013 war 
+der Gebäudesektor für rund 33 Prozent des Ener- gieverbrauchs verantwortlich, bis 2020 wurde ein 
+Anstieg auf rund 40 Prozent prognostiziert.
+
+Allerdings vollzieht sich derzeit aufgrund des rasanten Urba- nisierungsprozesses ein Wandel: Im 
+Wohnungssektor verlang- samt sich das Wachstum und Standardprodukte befinden sich in der 
+Sättigungsphase. Der Nicht-Wohnungssektor ist, insbe- sondere bei öffentlichen Gebäuden wie 
+Schulen, Krankenhäu- sern, Flughäfen sowie Schnellzug- und U-Bahn-Stationen, al- lerdings nach wie 
+vor gefragt. Doch gerade in Quartieren wird immer häufiger nach effizienten, umweltfreundlichen 
+sowie le- bensqualitätsteigernden Lösungen verlangt. Durch den wach- senden Wohlstand privater 
+Haushalte werden zunehmendneue Maßstäbe für angemessene Lebensbedingungen und Komfort gesetzt (ERI, 
+LBNL, RMI 2016). Diese Tendenz überträgt sich auch auf Bürogebäude: Seit 2010 ist die 
+Kühlenergieintensität um 71 Prozent gestiegen. Der Klimawandel hat dazu beigetra- gen, dass allein 
+der Bedarf an Raumkühlung im Jahr 2017 um 10 Prozent gestiegen ist (IEA 2018b).
+
+Der Bauboom in China hat jedoch aufgrund der niedrigen Ener- gieeffizienz der Gebäude zu einem 
+enormen „Lock-in-Effekt“ geführt: Die energetische Sanierung der erst kürzlich zuvor er- richteten 
+Gebäude findet nicht mehr zeitnah genug statt, um zur Erreichung der Klimaschutzziele nennenswert 
+beizutragen. Gleichzeitig kommen allmählich die Gebäude, die in den letz- ten 30 Jahren errichtet 
+wurden, an das Ende der Lebensdau- er: Viele Technologien und Bauteile sind inzwischen stark sa- 
+nierungsbedürftig. Bis dato spielte Sanierung jedoch in China eine eher unbedeutende Rolle, dabei 
+erachten 89 Prozent aller Akteure die Notwendigkeit einer Reduzierung des Energiever- brauchs durch 
+Sanierung als besonders wichtig (Dodge & Data Analytics 2018).
+
+
+
+
+
+
+
+Themen und Gebiete  9
+
+
+
+
+
+
+
+
+▪ Keine Green Building Aktivitäten
+
+
+
+
+▪ 1 % - 15 %
+grüner
+Projekte
+
+
+
+
+▪ 16 % - 30 %
+grüner
+Projekte
+
+
+
+
+▪ 31 % - 60 %
+grüner
+Projekte
+
+
+
+
+
+
+
+▪ Über 60 % grüner Projekte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 2: Green-Building-Maßnahmen in China 2018 und 2021. Eigene Darstellung. Datenquelle: 
+Dodge Data & Analytics (2018): World Green Building Trends 2018. 
+https://www.worldgbc.org/sites/default/files/World%20Green%20Building%20Trends%202018%20SMR%20FINAL%
+2010-11.pdf (20.08.2019): 48
+
+
+
+
+Schon im Jahr 2005 wurde der sogenannte „Designstandard für die Energieeffizienz von Wohngebäude / 
+öffentlichen Gebäuden“ (Energieeinsparstandard, vergleichbar mit der Energieeinsparverordnung; 
+EnEV) in China eingeführt. Refe- renzpunkt „100“ ist das Niveau des Gebäudeenergieverbrauchs im 
+Jahr 1980, was der Heizwärme mit 25 kg Kohle/m² pro
+Jahr entspricht. In den darauffolgenden Dekaden wurde die- ser Standard um vier Schritte 
+verschärft: 1986 um –30 Prozent (30-Standard), 1995 um –50 Prozent (50-Standard), 2005 um
+-75 Prozent (65-Standard) und 2011 um –75 Prozent (75-Stan- dard). Dabei ist zu beachten, dass es 
+keine einheitlichen Vorga- ben für die Verschärfung der Gebäudestandards in der Volksre- publik 
+gibt, da jede Provinz eigenständig die Vorgaben bestim- men kann. Die Mehrheit der 34 Provinzen, 
+Autonomiegebiete und Staatstädte verwendet zurzeit den 50-Standard, ein klei- ner Teil den 
+65-Standard und nur drei Vorreiter, Beijing, Tianjin und Hebei, haben bereits den 75-Standard 
+eingeführt. Parallel dazu ist der nachhaltige Gebäudestandard (Three-Star-Stan- dard) seit rund 
+zehn Jahren landesweit gültig. Des Weiteren gilt seit 2015 in vier Provinzen der 
+Niedrigenergiehaus-Standard mit Passivhaustechnologien als Empfehlungsstandard; eben- falls wurde 
+eine Passivhaus-Guideline auf nationaler Ebene etabliert.
+
+Ziele und Zielerreichung
+Besonders entscheidend für den Gebäudesektor ist der
+13. Fünfjahresplan hinsichtlich der Erhöhung von Energieein- sparstandards, der Förderung von 
+nachhaltigen Materialien
+
+
+
+
+
+
+
+10  Themen und Gebiete
+
+und Gebäuden sowie der stärkeren Verknüpfung der Gebäude mit Energiesystemen durch die Einführung 
+von intelligenten Stromnetzen, Energiespeichern und dezentraler Energiever- sorgung.
+
+Kernziele bis 2020 waren unter anderem:
+■  Die Erhöhung des Anteils nachhaltiger Gebäude im Neubau auf über 50 Prozent; zusätzlich werden 
+2,1 Milliarden m² für nachhaltige öffentliche Gebäude und 6,7 Millionen m² für nachhaltige 
+Wohngebäude eingeplant
+■  Die energetische Sanierung von über 500 Millionen m² Gebäude, zu denen über 100 Millionen m² 
+öffentliche Gebäude und über 350 Millionen m² Wohngebäude in der kühlgemäßigten/nemoralen Klimazone 
+zählen
+■  Die Dekarbonisierung des Gesamtenergiebedarfs im Gebäudesektor mit einem Anteil erneuerbarer 
+Energien von über 15 Prozent bis 2020 (2016/13,3 Prozent, 2018/ 14,3 Prozent; Beijing, Tianjin, 
+Jiangsu 17 Prozent, Sichuan 16 Prozent)
+
+Im 13. Fünfjahresplan hat die chinesische Regierung zahl- reiche Maßnahmen formuliert, die Anreize 
+zur Einhaltung von Umweltvorschriften und zur Verwendung umweltfreundlicher Technologien schaffen. 
+Diese Maßnahmen schließen die direk- te Finanzierung von Energieeffizienzprojekten, subventionierte 
+Kredite und Darlehens- und Kreditgarantien ein sowie den Aufbau von Verwaltungskapazitäten und die 
+Stärkung der Exekutive im Umweltbereich.
+
+
+
+
+
+
+
+
+
+
+Das MOHURD verabschiedete im Februar 2017 den „13. Fünfjah- resplan für Energieeffizienz und 
+Gebäudeentwicklung (2016– 2020)“, in dem unter anderem das Ziel formuliert wurde, die 
+Energieeffizienz neuer städtischer Gebäude im Vergleich zum Jahr 2015 um 20 Prozent zu steigern. Um 
+dies zu erreichen, sol- len bis 2020 Gebäude mit enorm niedrigem Energieverbrauch auf einer 
+Gesamtfläche von mehr als 10 Millionen m² gebaut und als Demonstrationsprojekte vorgeführt werden 
+(Econet China 2018). Für Beheizung, Kühlung, Warmwasserbereitung und Stromerzeugung wird eine 
+verpflichtende Quote für erneu- erbare Energien eingeführt. Weitere Maßnahmen zur Zielerrei- chung 
+schließen modulares Bauen oder die Verwendung von vorgefertigten Bauelementen ein.
+
+In den vergangenen Jahren zeichneten sich klare Erfolge bei der Umsetzung der Ziele zur 
+Gebäudeenergieeffizienz ab, was sich insbesondere durch die energetische Sanierung beste- hender 
+Gebäude, die Errichtung energieeffizienter neuer Ge- bäude und die Integration von 
+Energiemanagementsystemen in öffentlichen Gebäude zeigte. Insgesamt wuchs der Sektor des 
+nachhaltigen Bauens (Three-Star-Standard und Leader- ship in Energy and Environmental Design; LEED) 
+zwischen 2006 und 2016 von 2 Millionen m² auf 320 Millionen m² an. Ähnli- che Wachstumsraten werden 
+für den Energieeffizienzmarkt er- wartet. Trotzdem sieht sich die chinesische Regierung immer 
+wieder vor Herausforderungen gestellt. Die Diversifizierung der Wärmeenergiequellen kann nur 
+schrittweise aufgrund von unerwarteten Kälteeinbrüchen erfolgen. Außerdem wird bei der Umsetzung 
+der Vorgaben bisher nicht nach Abschluss der Bauarbeiten, sondern nur auf Planungsebene 
+kontrolliert.
+Schwachstellen durch teilweise fehlerhafte Ausführungen beim Bau, die auf die mangelnde Ausbildung 
+der Bauarbeiter zurückzuführen sind, werden nicht einkalkuliert (OECD 2017 und IEA 2018b).
+
+Perspektiven für deutsche Unternehmen
+Neue Chancen und Perspektiven erschließen sich hier für deutsche Unternehmen besonders im 
+Baubereich. In China hat in den letzten Jahren ein Umdenken stattgefunden: Bau-
+
+qualität und Energieeffizienz werden in Zukunft immer wichti- ger. Somit steigt die Nachfrage nach 
+qualifizierter Planung und Beratung. Eine Branchenstudie aus dem Jahr 2016 zeigt, dass 28 Prozent 
+der gesamten Stakeholder die Umweltverträglich- keit bei neuen Projekten für wichtig erachten. Bei 
+gewerblichen Gebäuden waren sogar 55 Prozent dieser Überzeugung (Dodge Data & Analytics 2016; Dodge 
+Data & Analytics 2018). Die In- ternational Finance Corporation (IFC) schätzte im Hinblick auf das 
+chinesische Engagement im Bereich Umwelt- und Klima- schutz, dass ein Investitionspotenzial von 
+über 11,7 Billionen Euro (2016) in neue grüne und kohlenstoffarme Gebäude exis- tiert (Kerr et al. 
+2016). Auch für bestehende Gebäude sieht die AHK Greater China die energieeffiziente Sanierung als 
+eine der größten Marktpotenziale an (Goller et al. 2017: 3).
+
+Unter ausländischen Baufirmen, Ingenieuren und Architekten in China haben deutsche Unternehmen 
+insbesondere in den Bereichen Energieeffizienz und Nachhaltigkeit einen hohen Stellenwert. Der 
+deutsche Passivhaus-Standard entspricht
+in der Volksrepublik dem höchsten Qualitätsniveau. Beson- ders Vorzeigeprojekte zu 
+energieeffizienten Gebäuden werden daher nach diesem Standard durchgeführt. Plus-Energiehäu- ser 
+sind nur vereinzelt zu finden. Zudem stammen im Bereich des Fenster- und Türenbaus mit 30 Prozent 
+die meisten Impor- te aus Deutschland. Dies gilt mit 21 Prozent der Importe auch für den Bereich 
+der Temperaturregelung und Lüftung. Auch die Nachfrage nach deutschen geothermischen Heizpumpen 
+steigt bei einer jährlichen Wachstumsrate von 20 Prozent rapide an (Germany Trade and Invest 2018).
+
+Die Entwicklung der deutsch-chinesischen Beziehung bewegt sich allerdings immer mehr in die 
+Richtung eines kongenialen Wissensaustauschs und einer ebenbürtigen bilateralen Zusam- menarbeit. 
+Auch die globale Wertschöpfungskette, insbeson- dere in Bezug auf nachhaltige und energieeffiziente 
+Hightech- Bauprodukte, verändert sich mit abnehmendem Importbedarf seitens China. Zunehmend 
+etablieren sich chinesische Hersteller auf dem Markt für Produkte wie Dreifachverglasung und 
+hocheffiziente Dämmstoffe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Themen und Gebiete  11
+
+
+
+
+
+
+
+3.3 Industrie
+
+Im Zuge des Pariser Klimaschutzabkommens hat sich China zum Ziel gesetzt, die CO₂-Emissionen je 
+BIP-Einheit (Bruttoin- landsprodukt) bis 2030 um 60 bis 65 Prozent gegenüber 2005 zu reduzieren 
+sowie den Anteil alternativer, nicht fossiler Ener- gieträger bis 2030 auf 20 Prozent zu steigern.
+
+Der 13. Fünfjahresplan sieht vor, bis 2020 die Energieintensität (Energieverbrauch/BIP) um 15 
+Prozent gegenüber 2015 zu sen- ken und den Gesamtenergieverbrauch unter 5 Milliarden Ton- nen 
+Steinkohleeinheiten (t SKE) pro Jahr zu halten. Mit dem Anstieg auf 15 Prozent des Anteils nicht 
+fossiler Energieträ-
+ger am Primärenergieverbrauch soll der Anteil des Kohlever- brauchs von 64 Prozent auf 58 Prozent 
+im selben Zeitraum sinken. Die CO₂-Intensität (CO₂-Emissionen/BIP) soll bis 2020 gegenüber 2015 um 
+18 Prozent verringert werden. Spezifisch im Industriesektor soll die Energieintensität bis 2020 um 
+mehr als 18 Prozent im Vergleich zu 2015 sinken.1 Das Energieeffizi- enzniveau der 
+energieintensiven Branchen wie Strom, Stahl, NE-Metall (Nichteisen) und Chemie soll so weit wie 
+möglich auf internationale Effizienz-Referenzwerte erhöht werden.
+
+
+
+
+
+
+
+
+Struktur des Industriesektors
+Der Industriesektor hat in der Vergangenheit den größten Bei- trag zum Wirtschaftswachstum in China 
+geleistet und hat, ähn- lich wie in Deutschland, mit 34 Prozent den größten Anteil an der 
+Gesamtbruttowertschöpfung der nationalen Wirtschaft (2017). In Tabelle A1 (im Anhang) sind die 
+einzelnen Branchen des chinesischen Industriesektors einschließlich Unterneh- menszahl, 
+Beschäftigtenzahl, Umsatz und Gewinnen aufgelis- tet. Trotz gestiegener Energieproduktivität 
+wirtschaftet China noch erheblich energieintensiver als andere Industrieländer.
+
+Energieverbrauchsstruktur der Industrie
+Mit einem Anteil von 65 Prozent am Endenergieverbrauch und 70 Prozent am Stromverbrauch ist der 
+Industriesektor mit Abstand der größte Energieverbraucher Chinas. Im Jahr 2016 betrug der 
+Gesamtendenergieverbrauch des chinesi- schen Industriesektors 2,8 Milliarden t SKE und der Strom- 
+verbrauch 4,310 TWh. Von 1990 bis 2016 stieg der Energiever- brauch im Zuge des rapiden 
+Wirtschaftswachstums des Lan- des kontinuierlich an (siehe Abbildung 3).
+
+In China sind lediglich vier Industriebranchen für mehr als drei Viertel des Energieverbrauchs des 
+verarbeitenden Gewerbes verantwortlich (siehe Abbildung 4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 3: Entwicklung des Energieverbrauchs, der Bruttowertschöpfung und der Energieintensität 
+der Industrie in China. Quelle: eigene Darstellung. Berechnungen basierend auf National Bureau of 
+Statistics of China (NBS) 国家统计局 (2018)
+
+
+
+
+1  Anders als in der Energiebilanz Deutschlands umfasst der Industriesektor in China neben dem 
+Bergbau, der Gewinnung von Steinen und Erden und dem Verarbeitenden Gewerbe auch die Energie- und 
+Wasserversorgung.
+
+12  Themen und Gebiete
+
+
+
+
+
+
+
+
+Mio. t SKE                     0    500   1.000   1.500   2.000   2.500   3.000
+
+Gesamtindustrie Eisenmetallerzeugung und -bearbeitung
+H. v. chemischen Erzeugnissen
+
+H. v. Glas und Glaswaren, Zement, Keramik etc.
+
+Strom-und Wärmeerzeugung Kokerei und Mineralöl- und Kernbrennstoffverarbeitung 
+Nichteisenmetallerzeugung und -bearbeitung
+Abbildung 4: Die Industriebranchen mit dem höchsten Energieverbrauch in China 2017. Eigene 
+Darstellung. Datenquelle: National Bureau of Statistics of China (NBS) 国家统计局 (2018)
+
+
+
+
+Politische Maßnahmen in Bezug auf die Energieeffizienz in der Industrie
+Der politische Rahmen zur Steigerung der industriellen Energieeffizienz in China besteht aus sechs 
+Kernbereichen mit jeweils spezifischen Programmen:
+■ Strukturanpassung und -optimierung
+■ Energieeinsparaufsicht und Energieeinsparung in Schlüsselbereichen
+■ Förderung und Anwendung energiesparender Technologien
+■ Standardisierungspolitik zur Energieeinsparung
+■ Marktinstrumente
+■ Finanzierungs- und Steuerpolitik zur Energieeinsparung
+
+China hat bereits eine Reihe von Standards zur Regulierung der Energieeffizienz entwickelt, die 
+sich grob folgendermaßen strukturieren lassen:
+■ Energieeffizientes Design
+■ Mindest-Energieeffizienzstandards und Energieeffizienzklassen
+■ Energieverbrauchsgrenzwert pro Produkteinheit
+
+Es gibt Standards für Anlagen mit Querschnittstechnologien und für unterschiedliche Produkte wie 
+Kalziumkarbid, Papier, Sanitärkeramik, Glasfaser und Zement.
+Zur Förderung energieeffizienter Produkte hat China Instrumente wie die Kennzeichnung des 
+Energieverbrauchs am Produkt („China Energy Label“, Einführung im Jahr 2003), eine Zertifizierung 
+und eine Top-Runner-Initiative eingeführt. Hierdurch sollen sowohl die Hersteller als auch die 
+Verbrau- cher dazu motiviert werden, energieeffiziente Produkte zu produzieren bzw. einzusetzen, um 
+dadurch die bestehenden Energieeinsparpotenziale zu heben. Davon betroffen sind sowohl 
+Haushaltsgeräte wie Kühlschränke oder Fernseh- geräte als auch industrielle Anlagen wie 
+Elektromotoren oder Druckluft-, Kälte- und Lüftungsanlagen. Die Produkte werden abhängig von ihrer 
+Energieeffizienz in drei Klassen eingeord- net. Während Klasse 1 der höchsten Effizienzklasse 
+entspricht und international vergleichbar ist, stellt die Klasse 3 den jewei- ligen Mindeststandard 
+dar. Produkte, die die Effizienzklasse 3 nicht erreichen, dürfen nicht in Verkehr gebracht werden.
+
+Darüber hinaus wurde im Mai 2016 die Durchführung von Energieaudits in chinesischen Unternehmen mit 
+hohem Energieverbrauch eingeführt. Die gesetzlichen Grundlagen für Energieaudits sind unter anderem 
+im Energieeinsparungs- gesetz sowie durch die „Managementmaßnahmen zur Ener- gieeinsparung in 
+Schwerpunktindustrien“ festgelegt. Als An- reiz zur Umsetzung dieser Instrumente werden Zuschüsse 
+an Industrieunternehmen gewährt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Themen und Gebiete  13
+
+
+
+
+
+
+
+3.4 Netze
+
+Die Verteilung der Energieerzeugungsressourcen und des Stromverbrauchs in China weist klare Muster 
+auf: Kohlekraft wird hauptsächlich im Nordosten, im Norden und im Nord- westen Chinas genutzt, die 
+Windressourcen konzentrieren sich ebenfalls hauptsächlich auf diese drei nördlichen Regionen sowie 
+die östlichen Küstengebiete. Die Photovoltaikressourcen befinden sich im Nordwesten und im Norden 
+Chinas. Lastzen- tren konzentrieren sich jedoch hauptsächlich auf die östlichen und südöstlichen 
+Küsten- und Zentralregionen. Die ungleiche geografische Verteilung von natürlichen Ressourcen und 
+der Nachfrage hat zu einem System geführt, das auf der Übertra- gung von Elektrizität über lange 
+Strecken von Westen nach Osten basiert und eine vermehrte nationale Vernetzung der 
+Energieversorgungssysteme erfordert (siehe Abbildung A2).
+
+Bis Ende 2017 hat China im Wesentlichen den Bau von sechs großen regionalen Netzstrukturen 
+abgeschlossen. Die
+Gesamtlänge der Übertragungsleitungen (220 kV oder mehr) im Land hat 688.000 km erreicht, das 
+30-Fache im Vergleich zu 1978, und die Kapazität der Umspannwerke betrug 4 Milliarden kVA, 157-mal 
+so viel wie zu Beginn der Reform- und Öffnungs- phase. Insgesamt wurden 20 
+Hochspannungs-Gleichstrom- Übertragungsleitungen (HGÜ) von West nach Ost fertiggestellt, um Strom 
+in die vergleichsweise stärker entwickelten östlichen und zentralen Regionen zu übertragen, wodurch 
+die über- regionale Stromübertragungskapazität die Größenordnung von 175 GW erreicht.
+
+
+
+
+
+
+
+
+Der Umfang der Netzzusammenschaltung und der Strom- transaktion mit den Nachbarländern hat sich 
+stetig erweitert. Insgesamt wurden 22 transnationale Übertragungsleitungen gebaut, um das Land mit 
+Russland, der Mongolei, Kirgisistan, Myanmar, Laos, Vietnam und anderen Ländern zu verbinden. Die 
+internationalen Stromtransporte belaufen sich auf über 30 TWh pro Jahr. Im Rahmen der Belt and Road 
+Initiative for- ciert China weiterhin Projekte zur Vernetzung der Netzinfra- struktur mit Ländern 
+wie Pakistan, Nepal und Thailand.
+
+Von 2006 bis 2017 hat sich der Umfang des überregionalen inländischen Stromaustauschs verfünffacht, 
+wobei die Regi- onen Südwesten und Nordwesten sowie die Zentralprovinzen die größten 
+Stromerzeugungsanteile und zusammen über drei Viertel der Gesamtmenge ausmachen. Yunnan und 
+Sichuan, im Südwesten Chinas mit reichlich vorhandenen Wasserkraft-
+ressourcen gelegen, sind die beiden Provinzen mit den größten Stromexportanteilen und exportierten 
+im Jahr 2017 40 Prozent ihres Stroms. Im Gegensatz dazu erhielten Peking und Shang- hai, die am 
+dichtesten besiedelten Städte in China mit Aus- nahme von Hongkong und Macau, mehr als 40 Prozent 
+ihres Stroms aus anderen Provinzen.
+
+Die ungleichmäßige Verteilung von Erzeugung und Nachfra- ge macht die überregionale Übertragung von 
+Strom und die Fertigstellung eines landesweiten Netzes für das Land unum- gänglich. Seit 2004 
+konzentriert sich Chinas Stromnetz jedoch auf Ultrahochvakuum-Übertragungsprojekte (UHV) mit großer 
+Kapazität und Langstrecken. Infolgedessen haben viele beste-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interregional Power Transmission (TWh)
+
+Abbildung 5: Entwicklung der Stromtransporte zwischen Provinzen (Summe der Transporte). Quelle: 
+中电联发布“中国电力行业年度发展报告 2018”, China Electricity Council, Juli 2018: 109
+
+
+
+
+14  Themen und Gebiete
+
+
+
+
+
+
+
+
+
+
+hende 500-kV- und 750-kV-Fernleitungen zwischen Provinzen und Regionen nur eine geringe Auslastung. 
+Die Ressourcen des chinesischen Übertragungsnetzes werden entsprechend inef- fizient genutzt. Im 
+Jahr 2016 betrug das Verhältnis der instal- lierten Leistung zur Leitungslänge der 
+Übertragungsleitung in China etwa 2,6 GW pro Kilometer. Dies entspricht 74,2 Prozent des 
+europäischen Stromnetzes (2015) und 69,3 Prozent des
+US-Stromnetzes (2012). Wenn es das derzeitige Auslastungs- niveau des US-Stromnetzes erreichte, 
+könnte Chinas aktuelles Stromnetz zusätzliche 730 GW installierte Leistung integrieren. Das 
+Verhältnis zwischen Chinas Gesamtstromverbrauch und der Leitungslänge von Übertragungsleitungen 
+betrug im sel- ben Jahr 9,55 GWh pro Kilometer, knapp 80 Prozent der euro- päischen und 
+US-amerikanischen Nutzung. Erreicht China das Leistungsübertragungsniveau der USA, könnte das 
+derzei-
+tige Übertragungsnetz des Landes einen Stromverbrauch von 7,8 PWh unterstützen. Daher liegt es 
+nahe, dass China vorerst keinen Ausbaubedarf auf Übertragungsnetzebene hat. Es wur- den eine große 
+Anzahl transregionaler UHGÜ-Übertragungs- projekte innerhalb eines frühen Stadiums der Technologie 
+ge- startet, was dazu führte, dass einige große Stromübertragungs- projekte die Erwartungen an die 
+Übertragungsleistung wäh- rend des Betriebs nicht erfüllten.
+
+Chinas Stromnetz wird in einem langfristig vorausgeplanten Zeitplansystem betrieben, bei dem der 
+Stromaustausch zwi- schen den Provinzen und Regionen nicht ausreichend flexibel ist. Dadurch ist es 
+nicht möglich, Echtzeitanpassungen vor- zunehmen, die auf den sich beständig ändernden Prognosen 
+von Erzeugung und Verbrauch basieren. Vielmehr werden Leis- tungsflüsse gemäß festgelegten 
+Erzeugungs- und Verbrauchs- profilen geplant, bei denen die technische Optimierung der Erzeugung 
+konventioneller Kraftwerke einen hohen Stellen- wert einnimmt. Die ausgeprägte Inflexibilität im 
+Betrieb von Übertragungsleitungen führt zu niedrigen Auslastungsraten für das Stromnetz. Im Jahr 
+2014 betrug beispielsweise die maximale Übertragungsleistung von Northwest Channel
+I und II knapp die Hälfte des geplanten Ziels. Die maximale Nutzungszeit summiert sich auf 
+lediglich 970 Stunden. Diese geringe Auslastung spiegelt auch die Ineffektivität der Lei- 
+tungsnutzung bei der Übertragung von fluktuierender Wind- und Sonnenenergie zwischen den Provinzen 
+wider.
+
+Erforderlich ist die Schaffung eines einheitlichen regionalen Strommarktes, der auch die 
+Verbesserung des Stromhandels zwischen den Provinzen sowie die Förderung der Optimierung und 
+Allokation von Stromerzeugungsressourcen nach sich zie- hen würde. Politisch ist dies bereits in 
+diversen Dokumenten festgehalten, in denen die Bildung offener und wettbewerbsfä- higer regionaler 
+und überregionaler Strommärkte als Ziel des Marktaufbaus klar festgelegt wird. Dennoch sind die 
+Strom- netzbetreiber auf Provinzebene nach wie vor die wichtigsten
+
+Abwicklungs- und Bewertungsstellen für die Koordinierung und Planung in China und agieren weiterhin 
+auf Basis einer starren Langfristplanung. Es bestehen also nicht nur Hemm- nisse für den Handel 
+zwischen Provinzen, es lassen sich sogar Anzeichen einer Verschlechterung erkennen.
+
+Obwohl flexible Stromnetzbetriebe dazu beitragen, billigen Strom aus Wasser-, Wind- und Sonnenkraft 
+und anderen er- neuerbaren Energien bereitzustellen und den Strombedarf von Lastzentren zu decken 
+und so die sozialen Vorteile zu ma-
+ximieren, neigen die exportierenden Provinzen dazu, hochprei- sigen Strom in andere Regionen zu 
+verkaufen und preisgünsti- gen Strom selbst zu nutzen. Darüber hinaus nehmen die impor- tierenden 
+Provinzen an, dass der durch günstige Stromimporte entstehende Wettbewerb die Finanzlage der 
+lokalen Energie- versorgungsunternehmen verschlechtern wird. Diese Wahrneh- mung, kombiniert mit 
+hohen Netznutzungstarifen, mindert die Bereitschaft der Provinzregierungen und Unternehmen, einen 
+flexiblen Netzbetrieb und Stromhandel zu unterstützen. Inter- provinzielle Interessenbarrieren sind 
+zu einer der größten Ein- schränkungen für die Flexibilität von Stromnetzen geworden.
+
+Chinas Stromnetze werden hauptsächlich von der Regierung geplant und vor allem von staatlichen 
+Netzbetreibern gebaut. Als Eigentümer der Stromnetze sind sie bestrebt, die Investitio- nen in den 
+Netzausbau zu amortisieren und gleichzeitig sicher- zustellen, dass die Versorgung für die 
+energieerzeugenden und energieverbrauchenden Regionen gewährleistet ist. Angesichts der festen 
+Netztarife haben die Netzbetreiber keinen Anreiz, einen flexibleren Betrieb zu ermöglichen. Daher 
+bleiben Chinas Stromnetz und seine Auslastung in Bezug auf die Bewertung von Angebot und Nachfrage 
+sowie die Marktintegration zurück (siehe Abbildung 5).
+
+Verteilnetze
+Derzeit ist das chinesische Verteilnetz nach Spannungsniveaus in Hochspannungs-, Mittelspannungs- 
+und Niederspannungs- verteilnetze unterteilt und deckt räumlich sehr große Bereiche Chinas ab. Das 
+Hochspannungsverteilnetz umfasst die Span- nungsebenen von 35 bis 110 kV und das 
+Mittelspannungsver- teilnetz die Spannungsebenen von 6 bis 10 kV und das Nieder- 
+spannungsverteilnetz wird bei 220/380 V betrieben.
+
+Das chinesische Verteilnetz kann je nach lokaler oder regiona- ler Situation in städtische 
+Verteilnetze, ländliche Verteilnetze und Fabrikverteilnetze unterteilt werden. Um ein hohes Versor- 
+gungssicherheitsniveau zu erreichen, werden im chinesischen Verteilnetz normalerweise Strukturen 
+wie Doppelschleifennet- ze und Einschleifennetze verwendet. Für First-Tier-Städte be- mühen sich 
+die chinesischen Netzplaner, eine Netzwerkarchi- tektur mit hoher Zuverlässigkeit und Flexibilität 
+aufzubauen, das Verbindungsverhältnis von Mittelspannungsleitungen zu verbessern und die Kapazität 
+der Lastübertragung zu steigern.
+
+
+
+
+Themen und Gebiete  15
+
+
+
+
+
+
+
+
+
+In anderen Städten und Gemeinden werden in Verbindung mit der lokalen Wirtschafts- und 
+Lastentwicklung die Probleme wie unzureichende n-1-Kapazität des Hochspannungsverteil- netzes oder 
+Ausbauprobleme durch mangelhaft vorhandene Teilabschnitte und Leitungen gelöst. Die Anschlussrate 
+von Mittelspannungsverteilnetzen an die zentrale Netzstruktur wird schrittweise verbessert.
+
+Der Automatisierungsgrad des Verteilnetzes nimmt allmäh- lich zu, das Verbesserungspotenzial ist 
+jedoch noch sehr groß. China hat seine Investitionen in Verteilnetze kontinu- ierlich erhöht. In 
+den letzten Jahren haben sich die Stromum- wandlungskapazität und die Leitungslänge der 
+Verteilnetze
+vervielfacht. Zudem wurde die Stromversorgungskapazität er- heblich verbessert, was für die rasche 
+Entwicklung der städti- schen und ländlichen Wirtschaft und Gesellschaft eine große Rolle gespielt 
+hat. Erweiterte Relaisschutzgeräte, integrierte Automatisierungssysteme für Umspannwerke und für 
+Netzver- teiler sowie Systeme zur Kontrolle der Netzsicherheit und -sta- bilität sind weit 
+verbreitet. Bis Ende 2015 machte die Anzahl der durch Verteilnetzautomatisierung von State Grid 
+abgedeck- ten Leitungen nur 15 Prozent der Gesamtzahl der Verteilleitun- gen aus und lag bis Ende 
+2016 noch unter 25 Prozent. Einige Großstädte in China haben bereits eine gute Überwachbarkeit und 
+Steuerbarkeit ihrer Verteilnetze erreicht, während diese in anderen Regionen nach wie vor 
+unzureichend ist und noch gro- ßes Verbesserungspotenzial aufweist.
+
+Das intelligente Zusammenwirken der verschiedenen Span- nungsebenen des Verteilnetzes entwickelt 
+sich nur langsam und der Stand der Technologie in Forschung und Entwick- lung ist recht niedrig. Um 
+sich an die rasche Entwicklung beim Zubau dezentraler, erneuerbarer Energien anzupassen, treibt 
+China den Aufbau intelligenter Microgrids voran.
+
+
+3.5 Erneuerbare Energien
+
+China ist ein Land der Extreme auch hinsichtlich erneuerbarer Energien. Trotz der offensichtlichen 
+Dominanz der Kohleindus- trie ist das Land weltweit der größte Investor in erneuerbare 
+Erzeugungskapazitäten und ein Spitzenreiter in Sachen Ener- gieeffizienz. Der bisherige Fokus auf 
+den Ausbau von Strom- erzeugungskapazitäten wird sich hin zur Substitution bereits bestehender 
+Energieträger verschieben. So sollen bis 2030 über 50 Prozent der Stromproduktion aus nicht 
+fossilen Quel- len stammen (Dong und Ye 2018). 2017 wurden bereits ca.
+25 Prozent der Primärenergie aus erneuerbaren Energien ge- wonnen, in Deutschland belief sich 
+dieser Anteil auf ca. 36 Pro- zent (CREO 2018). Probleme stellen sich jedoch mit der Verar- beitung 
+der volatilen Erneuerbaren in Bezug auf die unflexib- len Stromnetze ein. So konnten 2016 17 
+Prozent der Windkraft nicht ins Netz einfließen. Für Solarenergie wurde für 2016 eine Quote von 10 
+Prozent an Überschussenergie vermeldet, die nicht ins Netz aufgenommen wurde (Baker 2018).
+
+
+
+
+
+
+
+
+China ist der weltweit größte Markt für erneuerbare Energien und fügte allein im Jahr 2018 75 GW an 
+erneuerbarer Stromer- zeugungskapazität hinzu. Deutschland hatte im Vergleich dazu 2018 eine 
+installierte Netto-Leistung zur regenerativen Strom- erzeugung von 117,1 GW (Fraunhofer ISE 2018). 
+Der Großteil des Wachstums wird durch technologiespezifische Einspeiseta- rife oder nationale 
+Zielsalden angetrieben (IEA 2017).
+
+Von den weltweiten Gesamtinvestitionen in den Energiesektor flossen im Jahr 2019 30 Prozent nach 
+China. Dies ist mit einem steigenden Anteil für kohlenstoffarme Elektrizitätsversorgung und 
+Stromnetze verbunden. So investierte China 2019 90,1 Mil- liarden Euro in erneuerbare Energien. Im 
+Vergleich dazu inves- tierte Europa rund 51,3 Milliarden Euro und bei den Vereinig- ten Staaten 
+waren es rund 52,2 Milliarden Euro. Aufgrund des Subventionsstopps für Solarenergie im Jahr 2018 
+überholte die Windbranche in China die Solarbranche mit rund 48,7 Milli- arden Euro im Jahr 2019. 
+Für Solarenergie gab China entspre- chend rund 22,7 Milliarden Euro und für Biokraftstoffe rund
+1,3 Milliarden Euro aus (REN21 2020: 167).
+
+Treiber für die Entwicklung des Energiesektors sind eine star- ke politische Unterstützung bei der 
+Planung und Ausführung sowie ambitionierte langfristige Zielsalden für erneuerbare Energien 
+unterstützt durch ein Einspeisevergütungssystem und die Verfügbarkeit von günstigen Krediten (IEA 
+2016). Hin- gegen stellen die steigenden Kosten der Subventionen, die ad- ministrativen und 
+finanziellen Hürden für den Einsatz von Pho- tovoltaik, die Netzintegration sowie die Erneuerung 
+der Über- tragungs- und Verteilnetzebene eine Herausforderung dar. Der Fünfjahresplan bietet 
+entsprechend eine Orientierung für die Ausbauziele für erneuerbare Energien. Die Zielsalden bis 
+2020 im 13. Fünfjahresplan besagen für Wasserkraft ein Ausbauziel von 340 GW installierter 
+Kapazität, für Windenergie 210 GW, für Solar 110 GW, für Biomasse 15 GW und für andere Erneuerba- 
+re 0,55 GW (CNREC et al. 2018). Jedoch sagen Prognosen eine Übererfüllung der gesteckten Ziele 
+voraus, sodass selbst aktu- elle Jahresdaten schnell überholt sind.
+
+China führte 2009 Einspeisetarife zur Förderung von Wind- und Solarenergie ein, die durch 
+Quotenregelungen und freiwillige
+„grüne Zertifikate“ ergänzt werden (CNREC, NDRC, CIFF 2018). Im März 2018 startete die chinesische 
+Regierung eine Um- frage zur Einführung eines verpflichtenden Quotensystems
+für erneuerbare Energien. Zwischen 2011 bis 2016 wurden sieben Pilotprojekte in Beijing, Tianjin, 
+Shenzhen, Shanghai, Hubei und Guandong gestartet, die die Etablierung von Koh- lenstoffmärkten 
+beinhalten. Darauf folgend wurde im Dezem- ber 2017 die Einführung eines nationalen 
+Kohlenstoffmarktes, der die Bereiche Elektrizität und Wärme umfasst, angekündigt.
+
+Wasserkraft stellt mit 20 Prozent den größten Anteil an instal- lierter erneuerbarer 
+Stromerzeugungskapazität dar und wird auch in Zukunft die wichtigste Rolle in dieser Hinsicht 
+spielen. China verfügte 2018 über ein Viertel der weltweiten Wasser- kraftwerkskapazitäten (352 
+GW). 2019 lagen diese Kapazitäten
+
+16  Themen und Gebiete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bioenergie  Hydropower  Solarenergie  Wind Power
+
+
+Abbildung 6: Anteil erneuerbarer Energien bei installierter Kapazität. Eigene Darstellung. 
+Datenquelle: REN21 2020: 48
+
+
+
+bei 326 GW. Das entspricht ungefähr der doppelten Menge an Strom, die jährlich in Deutschland 
+gewonnen wird. Der Drei- Schluchten-Staudamm (22,5 GW) am Jangtse-Fluss ist das weltweit größte 
+Wasserkraftwerk seiner Art und ist für rund
+7 Prozent der Wasserkraftproduktion Chinas verantwortlich. Im Juni 2020 wurde das 
+Wudongde-Wasserkraftwerk (10,2 GW) am Jinsha-Fluss, einem der oberen Abschnitte des Jangtse, 
+fertiggestellt und gilt nun als weltweit siebtgrößtes Wasser- kraftwerk. Planungen zur 
+Wasserkraftentwicklung sehen tech- nisches Potenzial von bis zu 660 GW oder 3.000 TWh pro Jahr.
+
+Auch die Solarenergie ist einer der wichtigsten Pfeiler für Chi- nas zukünftigen Energiemix. Laut 
+Zahlen der Nationalen Ener- giekommission erreichte China 2019 205,4 GW an Erzeugungs- kapazität. 
+Das jährliche Wachstum betrug 2017 53 GW, 2018
+44 GW und 2019 rund 30 GW. Damit erreichte China schon 2017 die selbst gesteckten Ziele aus dem 13. 
+Fünfjahresplan. Der Schwerpunkt liegt hierbei auf großen Solarparks und kommer- ziellen Projekten 
+im Kraftwerksmaßstab, wohingegen kleinere Anlagen auf Wohnhäusern eher eine untergeordnete Bedeu- 
+tung haben (IEA 2017 und Beetz 2018). Weiterhin spielt China als Hersteller von Solarmodulen und 
+beim Einsatz von solaren Warmwasser-/Heizungstechnologien eine wichtige Rolle. Zwei Drittel der 
+weltweiten Solarmodule stammen aus chinesischer Produktion und sorgen mit Konkurrenz aus 
+Südostasien für weiteren Preisverfall (IEA 2018a).
+
+Neben Solarenergie ist die Windkraft ein weiterer Schwer- punkt beim Ausbau der erneuerbaren 
+Energien. Ein Groß-
+teil der bisherigen installierten Kapazitäten lagen 2018 in den windreichen westlichen Provinzen 
+Innere Mongolei, Xinjiang,
+Gansu und Ningxia sowie in der östlichen Provinz Hebei, die
+für 52 Prozent der gesamten Windkraftkapazität von insgesamt 184 GW verantwortlich war. 
+Problematisch ist die geografische Lage abseits der Industriezentren, wo ein Großteil der Strom- 
+nachfrage herrscht. Hinzu kommt der Verlust durch Stromnetz- beschränkungen und Probleme mit der 
+Regelleistung. Die Leerlaufquote von 17 Prozent in 2016 senkte sich im darauf- folgenden Jahr 2017 
+immerhin auf 12 Prozent ab (Bloomberg 2018). Als Konsequenz stand die Einführung einer Zielquote 
+von 5 Prozent Leerlauf bis 2020 zur Debatte. Nichtsdestotrotz verfügt das Land über große 
+Potenziale beim Thema Wind- kraft. Das Onshore-Potenzial beträgt mit entsprechenden Voraussetzungen 
+2.000 GW auf 50 m Höhe, 2.600 GW auf 70 m Höhe und 3.400 GW auf 100 m Höhe. Zusätzlich wird das 
+Off- shore-Potenzial auf 500 GW ab einer Wassertiefe von 5 bis 25 m bzw. 100 m Höhe geschätzt. Im 
+Jahr 2019 betrug die Kapazität für Windenergie rund 236 GW.
+
+Die Bioenergie in China wird aus Landwirtschafts-, Haushalts- und Industrieabfällen sowie 
+Energiepflanzen gewonnen, was Schätzungen zufolge eine jährliche Produktion von 300 Millio- nen t 
+aus Ernterückständen und 300 Millionen t aus forstwirt- schaftlichen Abfällen nach sich zieht. Die 
+traditionelle Nut- zung der Bioenergie im Haushalt unterliegt einem Wandel hin zu einem modernen 
+Einsatz zur Stromerzeugung. Bisher soll rund ein Viertel der Bevölkerung auf die Nutzung von 
+Bioener- gie zum Kochen angewiesen sein, was sich schrittweise ändern wird. Des Weiteren wird 
+Bioenergie als Verkehrskraftstoff ge- nutzt. Die bisher eingeführten Regelungen zur Entwicklung von 
+Biokraftstoffen machten China zum drittgrößten Ethanolher- steller hinter den Vereinigten Staaten 
+und Brasilien.
+
+
+
+Themen und Gebiete  17
+
+
+
+
+
+
+
+3.6 Mobilität
+
+Der Transportsektor in China ist, abgesehen von der hohen Anzahl an Verkehrsteilnehmern, durch eine 
+besondere Dyna- mik und Entwicklung gekennzeichnet. Neueste technologische Errungenschaften werden 
+hier direkt in die politische Agenda integriert, Infrastrukturen zügig ausgebaut und neue Märkte 
+durch innovative Geschäftsmodelle erschlossen. Chinas stei- gender Wohlstand bildet sich unter 
+anderem auch in der wach- senden Mobilität der Bevölkerung ab. Die Volksrepublik stellt inzwischen 
+den weltweit größten Neuwagenmarkt und besitzt das weltweit längste 
+Hochgeschwindigkeitsschienennetz. Die Zahl der Fluggäste bei Inlandsflügen hat sich seit 2000 
+veracht- facht, das Personenaufkommen beim Frachtverkehr verdrei- facht und die Zahl der Zweiräder 
+verfünffacht.
+
+Der wachsende Bedarf zeigt sich unter anderem im chinesischen Schienenverkehr. Hier befindet sich 
+das weltweit längste Hoch- geschwindigkeitsschienennetz mit 29.000 km. Schnellzüge mit einer 
+Geschwindigkeit von 350 km/h im Regelverkehr befahren diese Strecke täglich. Zwischen 2014 und 2018 
+haben sich die Fahrgastzahlen auf über 2 Milliarden Personen fast verdreifacht. Im März 2019 
+kündigte Li Keqiang an, weitere Ausgaben in Höhe von ca. 800 Milliarden CNY (entspricht ca. 101 
+Milliarden Euro) in das Schienennetz zu investieren, um die Regelgeschwindigkeit auf 400 km/h zu 
+erhöhen und 80 Prozent aller Städte miteinan- der zu verbinden (Germany Trade and Invest 2019). In 
+4 ½ Stun- den kommt man also von Shanghai nach Peking bei einer Entfer- nung von 1.300 km. Dies 
+entspricht ungefähr der doppelten Stre- cke von Berlin bis München.
+
+Zusätzlich wird die Entwicklung des „Transrapid“-Zuges stark forciert. Die ursprünglich in 
+Deutschland zwischen 1969 und 1991 entwickelte Magnet-Eisenbahntechnologie wird in China 
+weitergeführt. Seit 2002 legt eine Pilotverbindung zwischen Shanghai Pudong International Airport 
+und Longyang Road Sta- tion täglich 30 km in 8 Minuten zurück. 2020 beginnt der Bau der
+1.000 km langen Teilverbindung zwischen Wuhan in Zentralchi- na und Guangzhou in Südchina, die 
+anfangs mit 600 km/h befah- ren werden und langfristig die 1.000-km/h-Marke erreichen soll. Der 
+Streckenabschnitt der Magnetbahn soll mit Ökostrom be- speist und die Fahrtdauer der bisherigen 
+Strecke von 4 ½ Stun- den auf 2 Stunden verkürzt werden (Internationales Verkehrswe- sen 2019; 
+Mayer-Kuckuk 2019).
+
+Den Luftverkehr versucht China zwar einerseits umweltfreund- licher zu gestalten, andererseits aber 
+auch weiter auszubauen. Das Flugverkehrsmanagement wird befähigt, 13 Millionen Flug- zeugbewegungen 
+jährlich zu koordinieren und gleichzeitig den
+
+
+
+
+
+
+
+
+Energieverbrauch und die CO₂-Emissionen bei Frachtflügen um 4 Prozent pro Jahr zu senken. Weiterhin 
+werden 50 neue Flughä- fen gebaut und bis 2040 soll die Gesamtzahl der Flughäfen von 235 auf 450 
+wachsen. Der Luftverkehr in China hat einen Anteil von 13 Prozent am weltweiten CO₂-Ausstoß der 
+Luftfahrt. Pro- gnostiziert wird vor allem ein weiterer Anstieg der Verkehrsflü- ge mit, je nach 
+Szenario, bis zu viermal höheren CO₂-Emissionen (Gabbatiss 2020). Auch der Automobilsektor wächst 
+stetig. Mit 24,4 Millionen Pkws wurden 2016 in China weltweit die meisten Neuwagen zugelassen. Zwar 
+variiert die Besitzrate von Pkws in China je nach Region und ist in ländlichen Regionen noch ver- 
+gleichsweise niedrig, in Ballungsgebieten jedoch hat sich die hohe Verkehrsdichte zunehmend zu 
+einem ernsthaften Problem entwickelt. Um das in den Griff zu bekommen, haben verschie- dene Städte 
+Quoten- oder Lotteriesysteme eingeführt, durch die Autofahrerinnen und Autofahrern ein „Fahrrecht“ 
+für einen bestimmten Zeitraum durch eine Plakette eingeräumt wird.
+
+Elektromobilität
+Mit der „Made in China 2025“-Strategie ist ein Plan für die in- dustrielle Entwicklung von 
+Elektroautos und Batterien entwor- fen worden. Inzwischen ist China der weltweit größte Markt für 
+Elektromobilität. Rund 1,77 Millionen Elektrofahrzeuge (aus- schließlich Battery Electric Vehicles, 
+ohne Hybrid) und damit rund über die Hälfte der globalen Gesamtflotte sind auf Chinas Straßen 
+unterwegs (IEA 2019). Subventionen (Subventions- stopp aufgrund von COVID-19 von 2020/21 auf 2022 
+verscho- ben) drücken die Preise der Autos und weitere Anreize wie freie Parkplätze, Nutzungsrechte 
+von Sonderfahrstreifen und Num- mernschilder ohne Zulassungsverfahren motivieren die Bevöl- kerung, 
+auf E-Autos umzusteigen.
+
+Mit der zunehmenden Nachfrage an Elektrofahrzeugen steigt auch die Anzahl an Ladestationen. China 
+weist das weltweit größte Ladeinfrastrukturnetz auf: Mittlerweile existiert ein Netz aus 
+Ladestationen mit insgesamt über 1 Million Ladepunk- ten, von denen sich mehr als 410.000 in 
+öffentlicher und rund
+590.000 in privater Hand befinden (Stand 2019) (Erneuerbare Energien 2018; Xinhuanews 2019; 
+German.China.org.cn 2019).
+
+Urbane Mobilität
+In China spielt die Entwicklung der urbanen Mobilität eine be- sondere Rolle. Prognosen zufolge 
+werden im Jahr 2030 rund 70 Prozent der Gesamtbevölkerung in Städten leben. Entspre- chend ist 
+vorgesehen, ein synchronisiertes Infrastrukturnetz- werk des öffentlichen und privaten Transports 
+zu etablieren. Neue Geschäftsmodelle, die Technologien durch Apps einbin- den und 
+Mobilitätsfaktoren wie Stau, Blitzer, allgemeine Ver- kehrslage und Betriebssicherheit miteinander 
+vernetzen, wer-
+
+
+
+
+
+
+
+
+
+18  Themen und Gebiete
+
+
+
+
+
+
+
+
+
+
+den auch für das autonome Fahren eine wichtige Rolle spielen. Analytische Auswertungen aller 
+Faktoren sollen den Verkehrs- fluss optimieren und Nachfrage und Angebot aufeinander ab- stimmen.
+
+An öffentlichen Verkehrsmitteln wie Bussen und Taxis lässt sich eine allgemeine Umstellung auf 
+Elektromobilität erken- nen. Die erste Pilotzone wurde 2008 in Shenzhen ins Leben ge- rufen. Hier 
+fahren inzwischen alle über 16.000 Busse sowie alle Taxis mit Elektroantrieb (Hua 2019; Hecking und 
+Zand 2020).
+
+Im städtischen Raum wird die Vernetzung der Mobilität beson- ders deutlich. Die Grenze zwischen 
+öffentlichen und privaten Verkehrsmitteln verschwimmt hier aufgrund neuer Geschäfts- modelle der 
+„Sharing Economy“, was zur Effizienzsteigerung der Verkehrssysteme beitragen kann. Dienstleistungen 
+wie
+(E-)Car Sharing und Bike Sharing können zum Beispiel über WeChat abgerufen werden. E-Scooter und 
+Elektromotorroller werden auch über Sharingdienste angeboten, befinden sich aber in China eher im 
+privaten Besitz. Ein weiterer Trend in China ist das sogenannte „E-Hailing“ – das Bestellen von 
+Taxi- und Fahrdiensten über Smartphones.
+
+Das chinesische Pendant zu Uber mit einer Marktabdeckung von 80 Prozent in der Volksrepublik heißt 
+„Didi Chu-xing“ (Karlberg 2017). Anbieter wie Didi erweitern ihren Fokus und kümmern sich auch um 
+die Instandhaltung und Installation von Ladesäu- len und verkaufen Dienstleistungen wie 
+Verkehrsmanagement und sogar Beratung von Stadtverwaltungen im Bereich Verkehr. Umfragen zeigen die 
+Offenheit der chinesischen Gesellschaft gegenüber neuen Transportmöglichkeiten (siehe Abbildung 7) 
+(Tsang, Boutot, Cai 2018).
+
+Durch das rasante Bevölkerungswachstum und die Land-Stadt- Migration war China in den letzten 
+Jahrzehnten stets auf aktu- elle Mobilitätslösungen angewiesen. Entsprechend ist das Land zum 
+Vorreiter bei innovativen Mobilitätskonzepten und -struk- turen geworden und gilt heute, auch für 
+Länder wie Deutsch- land, in vielen Bereichen als Beispiel für integrierte Verkehrs- wendeansätze.
+
+
+
+
+
+Nutzung der verschiedenen Transportmöglichkeiten China, Deutschland und USA im Vergleich (Umfrage)
+
+
+
+100%
+
+80
+73
+70
+
+60
+
+
+
+
+
+
+
+62
+                                     56                                 
+50                           46 49
+40
+
+
+30
+
+20
+10    9  8
+0
+29              30
+23
+
+
+
+
+0 0
+
+25
+
+16 15
+
+
+
+
+13       13
+8            7
+3
+0  0      0  0
+
+Bike Sharing   E-Hailing   E-hailed Taxi   Car Rental  B2C Car Sharing C2C Car Sharing  Electric 
+Bike
+Sharing
+Bus Sharing
+China  Deutschland  USA
+
+China n=1,950; Deutschland n=1,708; USA n=2,607
+
+Abbildung 7: Chinesische Nutzer von neuen Mobilitätslösungen im Vergleich zu Deutschland und den 
+USA 2017 auf die Frage, ob sie diese Transportmöglichkeiten schon einmal genutzt haben. Quelle: 
+eigene Darstellung in Anlehnung an: Tsang, Raymond. Boutot, Pierre-Henri. Cai, Dorothy (2018): 
+China’s Mobility Industry Picks Up Speed. In: Bain & Company. 
+https://www.bain.com/insights/chinas-mobility-industry-picks-up-speed (20.08.2019)
+
+
+
+
+
+
+
+Themen und Gebiete  19
+
+
+
+
+
+
+
+
+
+3.7 Start-ups
+
+Dass sich in China in den letzten Jahren eine sehr lebhafte und agile Start-up-Szene entwickelt 
+hat, verdeutlicht ein Blick auf die CBInsight Unicorn-Rankingliste: Mit 23 „Unicorns“ (Start- ups 
+im Wert von über 1 Milliarde USD ~ 883 Millionen Euro), von denen sich vier chinesische Start-ups 
+in den Top 10 befinden, steht China nach den USA auf dem zweiten Platz.
+
+Die Anzahl aller registrierten Unternehmen in China belief sich im Jahr 2016 auf 25,96 Millionen, 
+2017 auf 30,34 Millionen und 2018 auf 34,74 Millionen (Han 2019). Der starke Anstieg von Un- 
+ternehmensgründungen ist vor allem auf die gezielte Förde- rung durch die chinesische Regierung 
+zurückzuführen. Gleich- zeitig ergeben sich aus der politischen Wende hin zu einer kli- 
+mafreundlicheren Wirtschaftspolitik neue Marktchancen auch für Start-ups.
+
+Rahmenbedingungen
+Hinsichtlich neuer progressiver Technologien und Märkte erweist sich die chinesische Regierung als 
+ambitioniert und schafft so ein angenehmes, dynamisches Umfeld für Unterneh- mer. Viele Gründungen 
+vollziehen sich entsprechend unter Auf- sicht und/oder auf Wunsch der Regierung und werden demge- 
+mäß betreut. Eine Vielzahl der Start-ups ist jedoch unabhängig und sieht sich auch in China vor die 
+Herausforderungen einer freien Marktwirtschaft gestellt. Zusätzlich profitiert die chi- nesischen 
+Tech-Szene von den jährlich rund 7 Millionen Hoch- schulabsolventen und dem Massenzustrom von „Sea 
+Turtles“, chinesischen Rückkehrern, die im Ausland studiert haben.
+Chinas über 720 Millionen Internetnutzer stellen einen großen virtuellen Markt dar, in dem viele 
+neue Geschäftsmodelle Platz finden. Vor allem Anwendungssoftware für Mobilgeräte besitzt großes 
+Potenzial für maßgeschneiderte Produkte bzw. Dienst- leistungen. Studien zufolge sind chinesische 
+Verbraucher be- sonders konsumfreudig: Dies betrifft vor allem die „Post 90s Generation“, die ca. 
+20 Prozent des Konsumwachstums in China bis 2030 ausmachen wird; eine grundsätzliche Offenheit für 
+neue Technologien lässt sich aber auch in anderen Alters- gruppen erkennen. Zusätzlich nimmt mit 
+steigendem Wohl- stand die Nachfrage an qualitativ hochwertigen Produkten zu. Dazu zählen auch 
+„grüne“ bzw. nachhaltig produzierte Waren, die in der chinesischen Mittelschicht immer beliebter 
+werden (Gilsenan 2019).
+
+Förderprogramme
+Im Zuge der zu Beginn der 1980er Jahre gesetzten Innovati- onsziele für eine nachhaltige Wirtschaft 
+war die chinesische Regierung bemüht, geeignete Förderbedingungen für inno- vative Unternehmen zu 
+schaffen. Damit einher ging ein Infra- strukturaufbau für Grundlagenwissenschaft, Technologieent- 
+wicklung und Finanzierung. Zudem wurden spezielle Program- me aufgelegt wie das „Key Technology 
+Research and Develop- ment Program“ (1982), das „863 Program“ (1986), das „Spark
+Program“ (1986) sowie das „973 Program“ (1998) oder der
+„Thousand Talents Plan“, mit dem ausländische Talente ange- lockt werden.
+
+Ein Meilenstein für die Entwicklung des chinesischen Unter- nehmertums ist das im Jahr 1988 
+etablierte „Torch Program“.
+
+
+
+
+Unternehmen Toutiao (Bytedance) Didi Chuxing
+JUUL Labs Space X
+Stripe Airbnb
+
+Kuaishou
+
+One97 Communications
+Epic Games
+DJI Innovations
+
+Wert (Mrd. USD)
+$75
+
+$56
+
+$50
+
+$33,3
+
+$35,25
+$35
+
+$18
+
+$16
+
+$15
+$15
+
+Unicorn seit
+2017
+
+2014
+
+2017
+
+2012
+
+2014
+2011
+
+2015
+
+2015
+
+2018
+2015
+
+Land China China USA USA
+USA
+USA
+China Indien USA
+China
+
+Sektor
+
+Künstliche Intelligenz
+
+Auto &Transport
+
+Endverbraucher und Handel
+Anderes
+
+Fintech Reisen
+
+Mobil- und Telekommunikation
+Fintech
+
+Anderes Hardware
+
+Ausgewählte Investoren
+
+Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group
+Matrix Partners, Tiger Global Management, Softbank Corp.
+Tiger Global Management
+
+Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures
+Khosia Ventures, Lowercase Capital, capital G
+General Catalyst Partners, Andreessen Horowitz, ENIAC Ventures
+Morningside Venture, Sequoia Capital, Baidu
+Intel Capital, Sapphire Ventures, Alibaba Group
+Tencent Holdings, KKR, Smash Ventures Accel Partners, Sequoia Capital
+
+Tabelle 1: Top 10 Unicorn Start-ups. Quelle: eigene Darstellung in Anlehnung an: CBInsights (2020)
+
+
+
+
+
+
+20  Themen und Gebiete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 8: Die beliebtesten Kapitalquellen für Start-ups in China 2016–2018. Eigene Darstellung 
+in Anlehnung an: Silicon Valley Bank 2018: 7
+
+
+
+
+Durch die Bündelung von Ressourcen, Kompetenzen und Finanzierung konnte eine Vielzahl von 
+Innovationsclustern geschaffen werden. Das „Torch Program“ ist vom chinesi- schen Ministry of 
+Science and Technology (MOST) entwickelt worden und eines der erfolgreichsten Programme für die 
+För- derung von Unternehmensgründungen weltweit. Aufgrund seiner Spezialisierung auf die Gründung 
+von Science and Technology Industrial Parks ist das Programm ein zentraler Faktor für die rapide 
+Entwicklung der chinesischen Hightech-, Innovations- und Start-up-Szene. Anders als bei den meisten 
+anderen Programmen werden für die Finanzierung der Pro- jekte nicht ausschließlich 
+Regierungsgelder, sondern auch private Gelder verwendet.2
+
+Die bekannteste Innovationsstrategie ist „Made in China 2025“ (seit 2015). „Made in China 2025“ 
+setzt sich die umfassende Aufwertung der chinesischen Industrie zum Ziel, unter ande- rem auch 
+durch die Entwicklung von hochwertigen chinesi- schen Eigenmarken. Hierfür veranlasste das MOST im 
+Laufe der Jahre gemeinsam mit dem Ministry of Education die Errichtung von 115 universitären 
+Innovationsparks und Inkubatoren sowie von über 1.600 technologischen Gründerzentren, die Mento- 
+ringprogramme anbieten sowie Rechtsberatung und Büro- räumlichkeiten für zukünftige Unternehmer zur 
+Verfügung
+stellen. Laut eines Berichts des MOST stieg die Anzahl von In- kubatoren seitdem rasant an. Ende 
+2018 betreuten insgesamt 11.808 Zentren rund 620.000 Start-ups (CGTN 2019). Bei 4.849 von diesen 
+Zentren handelt es sich um Tech-Enterprise-Inkuba- toren, 6.959 davon sind sogenannte 
+„Hackerspaces“. Dem Be- richt zufolge ist die Jangtse-Delta-Region am dichtesten mit In- kubatoren 
+besiedelt. Die Greater Bay Area hingegen, die Hong- kong, Macau und die Provinz Guangdong 
+einschließt, hat sich als eine Region der High-Level-Inkubatoren etabliert.
+
+Finanzierung
+Für Start-ups in China gibt es mittlerweile viele private Finan- zierungsmöglichkeiten, darunter 
+zahlreiche Fonds, die gezielt gegründet wurden, um neue Schlüsselsektoren anzukurbeln. Der 
+„Innovation Fund for Small Technology-based Firms“ („Innofund“) fördert seit 1999 kleinere 
+Tech-Unternehmen in den Bereichen Biotechnologie und erneuerbare Energien. Bis zum Jahr 2016 wurden 
+rund 885 Millionen Euro an über 35.000 Bewerber und 900 Projekte vergeben. Im Jahr 2007 wurde vom 
+chinesischen Finanzministerium, dem NDRC und der State Development & Investment Corporation der 
+„Venture Guiding Fund“ als Teil des Torch-Programms gegründet. 80 Prozent der rund 17,8 Milliarden 
+CNY (ca. 2,2 Milliarden Euro) fließen hier in Start-ups, die restlichen 20 Prozent in etablierte 
+Unternehmen.
+
+
+
+
+
+
+2 Auch im Spark-Programm wird die Finanzierung teilweise durch Banken und private Unternehmen 
+abgewickelt. In diesem Programm liegt ein besonderer Fokus auf ländliche Regionen.
+
+Themen und Gebiete  21
+
+
+
+
+
+
+
+
+
+Hier stellen unter anderem der Energiesektor mit Fokus auf Energiespeicherung und Materialforschung 
+sowie der Umwelt- sektor strategische Sektoren dar.
+
+Im Kontext der „Made in China 2025“-Strategie entstanden der
+„Advanced Manufacturing Fund“ und der „National Integrated Circuit Fund“ sowie der „Emerging 
+Industries Fund“. Parallel dazu haben viele lokale Stadtgemeinden Fonds eingerichtet, die die 
+Entwicklung junger lokaler Unternehmen unterstützen, um so deren Wettbewerbsfähigkeit zu stärken 
+und mehr Ein- nahmen für die Städte zu generieren.
+
+Chinas politische und wirtschaftliche Ambitionen forderten eine Lockerung der sozialistischen 
+Gesetzgebung. Das im Jahr 1993 formulierte Gesellschaftsrecht wurde in den Jahren 1999, 2004, 2005 
+und 2013 revidiert. Bestand hat aktuell die Version aus dem Jahr 2018. Im Laufe der Jahre gestanden 
+die Gesetze zu Eigentumsrecht und Privatrecht den Unternehmen inkre- mentell Privatbesitz sowie 
+Eigentum zu (Standing Committee of the National People‘s Congress 2018).
+
+
+
+
+
+
+3.8 Belt and Road Initiative
+
+Bei der Seidenstraße handelt es sich um einen mehr als 2.000 Jahre alten Handelsweg zwischen China 
+und Europa. Im Sep- tember 2013 rief Xi Jinping bei seinem Staatsbesuch in Kasach- stan die 
+Wiederbelebung der „neuen“ Seidenstraßen-Initiative ins Leben. Dieses gigantische 
+Investitionsprogramm, bei dem bis 2020 900 Millionen Euro investiert werden sollen, ist in der 
+chinesischen Verfassung und im aktuellen Fünfjahresplan ver- ankert. Hierzu hat China einen eigenen 
+Seidenstraßen-Fonds ins Leben gerufen. Mit diesem Fonds sollen schwerpunktmäßig Straßen- und 
+Schienenbauprojekte in Zentralasien umgesetzt werden (Gindele 2018: 6).
+
+Die neue Seidenstraße besteht nicht mehr nur aus einem Land- weg („Belt“), sondern auch aus einer 
+maritimen Route („Road“). Die „Belt-Route“ führt über den Landweg von China über Zent- ralasien 
+oder aber über den Nahen Osten bis nach Europa. Hier- zu zählen Länder wie Kasachstan, Russland, 
+Usbekistan, Ukrai- ne, Iran, Türkei, Polen und Deutschland. Die „Road-Route“ führt ebenfalls nach 
+Europa, aber auf dem Seeweg von Südchina über Vietnam, Malaysia, Indonesien, Sri Lanka, Pakistan, 
+Kenia, Grie- chenland und Italien.
+
+
+
+
+
+
+Akureyri
+
+Arkhangelsk
+
+
+
+
+
+
+
+Rotterdam Antwerp
+London
+Dunkirk Le Havre
+
+
+Klaipéda Hamburg
+Berlin
+
+
+
+
+
+
+Warsaw
+
+
+Moscow
+
+Minsk
+
+
+Kazan
+
+Yekaterinburg
+
+
+
+
+
+Astana
+
+
+
+Novosibirsk
+
+
+Krasnoyarsk
+
+
+
+
+
+Irkutsk
+
+Paris
+Montoir-de-Bretagne
+Nuremberg
+Strasbourg  Budapest
+Venice
+
+
+Yuzhne
+
+
+Almaty
+
+Alashankou
+Ulan Bator    Daqing   Jiamusi Harbin
+
+Planned /
+
+Bilbao
+Vado Marseille
+Sofia
+
+Ambarli
+Aktau Port
+
+Baku
+Uzen
+Ürümqi
+Hunchun
+
+Vladivostok
+Existing under construction
+
+Madrid
+Valencia
+
+Piraeus
+Istanbul
+Ankara
+Kars
+Tashkent
+
+
+Lanzhou
+Beijing
+
+Dandong
+Rason
+Chongjin
+Railroads
+
+Tanger Casablanca
+Cherchell
+
+Malta
+
+Ashdod
+
+Suez
+Tehran Baghdad
+Dammam
+
+
+Isfahan
+
+Mashhad
+
+
+
+Gwadar
+
+
+
+Chengdu Chongqing
+
+
+Xi'an Wuhan
+
+Fuzhou
+Qingdao Lianyungang
+Shanghai Ningbo
+Busan
+Oil pipeline Gas pipeline
+
+Medina
+
+Riyadh Abu Dhabi
+
+Karachi
+
+Dhaka Calcutta
+
+
+Payra
+Kunming
+
+Beihai
+
+Quanzhou Guangzhou
+Port
+
+
+Nouakchott Ndiago
+
+
+Massawa
+Mecca
+Sittwe
+
+Kyaukphyu
+Zhanjian
+Haikou
+Vientiane
+Silk Road Economic Belt
+
+Dakar
+Bamako
+Kaduna
+Djibouti
+Addis Ababa
+Aden
+Laem Chabang
+Maritime Silk Road
+
+Conakry
+
+
+Abijan
+
+Lagos
+Abuja
+
+
+Juba
+
+Colombo
+
+Hambantota
+Sihanoukville
+
+Economic Corridor
+
+Lomé
+Tema Kribi
+São Tomé
+
+
+
+Libreville
+
+
+
+Bujumbura
+
+
+Luau
+
+
+
+Lamu Mombasa
+Bagamoyo Dar es Salam
+Mtwara
+Malé
+Kuala Lumpur Malacca
+Kuantan Singapore
+
+
+Jakarta
+
+
+
+
+
+
+
+Darwin
+
+AIIB member states
+Lobito Kapiri Mposhi
+
+
+
+Walvis Bay
+
+Beira
+
+
+Maputo
+
+
+Newcastle
+
+
+Melbourne
+
+
+
+Abbildung 9: Geplante und vollendete „Belt and Road“-Infrastrukturprojekte. Quelle: Mercator 
+Institute for China Studies (2018).
+
+
+
+
+
+
+22  Themen und Gebiete
+
+
+
+
+
+
+
+
+
+
+Über 100 Länder und Organisationen sind seit der Gründung der BRI am Bau der Neuen Seidenstraße 
+beteiligt. China hat mit rund 70 Ländern Abkommen zur wirtschaftlichen Zusam- menarbeit und 
+gegenseitigen Vernetzung geschlossen. Mehr als 70 Länder weltweit haben bis jetzt Projektideen 
+präsen- tiert, die sie mit Geld aus dem Seidenstraßen-Fonds umsetzen möchten (Huang 2018: 4).
+
+Die Asiatische Entwicklungsbank (ADB) schätzt, dass bis 2030 rund 22 Billionen Euro benötigt 
+werden, um diese gewaltigen Vorhaben zu realisieren. Da die Finanzmittel der bestehenden 
+Entwicklungsbanken (wie beispielsweise die World Bank ADB) wahrscheinlich nicht ausreichen werden, 
+verfügt China neben den chinesischen Entwicklungsbanken China Export-Import Bank und China 
+Development Bank über weitere Finanzquel- len. Unter anderem handelt es sich hierbei um die 2016 
+ge- gründete Asian Infrastructure Investment Bank (AIIB). Die AIIB zählt mittlerweile mehr als 70 
+Mitglieder. Deutschland ist viert- größter Anteilsgeber und Gründungsmitglied. Zuständiger An- 
+sprechpartner für die AIIB in Deutschland ist das Bundesminis- terium für Finanzen (BMF).
+
+Es wird deutlich, dass China mit der BRI größere Ziele verfolgt als nur die Wiederbelebung und den 
+Ausbau der Handelsrou- ten. Präsident Xi hat bis 2049 das Oberziel „China fully deve- loped, rich 
+and powerful“ ausgerufen. Zudem geht es ihm um die Erschließung von neuen Absatz- und 
+Beschaffungsmärkten und hierbei vor allem um Energiesicherheit, rentable Investiti- onen von 
+Exportüberschüssen und politische Stabilität an den West-grenzen. Die Seidenstraße ist wesentlicher 
+Bestandteil von Chinas neuer Außenpolitik, mit der es den Einfluss in den Nachbarregionen und 
+darüber hinaus ausbauen will.
+
+Die Initiative hat weltweit die Aufmerksamkeit auf die Infra- struktur und das Wirtschaftswachstum 
+in Asien, Europa und Afrika gelenkt. Das chancenreiche Projekt wird Auswirkungen auf Nachhaltigkeit 
+und Umwelt haben. Hinzu kommt, dass mehr als 50 Prozent der BRI-Länder zu Entwicklungs- und 
+Schwellenländern gehören (siehe Aufzählung weiter oben im Text), deren Wirtschaftswachstum von 
+hoher Urbanisierung begleitet wird. Weitere Sorgen des Westens sind die Überschul- dung und 
+Abhängigkeit der Empfängerländer, die Überschul- dung chinesischer Unternehmen, mangelnde 
+Transparenz bei der Finanzierung, Ausschreibung und Durchführung der Projek- te sowie eine 
+politische Einflussnahme Chinas in den Empfän- gerländern.
+
+Auf der anderen Seite birgt die BRI für deutsche Unternehmen große Potenziale. Durch die neu 
+entstehenden Transportwege können Waren von China nach Europa und umgekehrt schnel- ler 
+transportiert werden. Zudem können durch den Ausbau der Infrastruktur in den Ländern entlang der 
+Route neue Absatz- märkte entstehen. Die vorhandenen und zukünftig benötig- ten Infrastrukturen in 
+allen Sektoren des Energiesystems rü- cken verstärkt in den Fokus. Zu einer nachhaltigen, 
+klimascho- nenden Urbanisierung entlang der Seidenstraße können die deutschen und chinesischen 
+Erfahrungen beitragen (Germany Trade and Invest 2018b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Themen und Gebiete  23
+
+
+
+Anhang
+
+Abbildungen
+
+
+
+
+Northwest Grid North Grid
+Northeast Grid
+
+
+
+
+
+
+Xinjiang
+
+
+North Channel
+
+
+
+
+Innere Mongolei
+
+
+
+
+
+
+
+Hebei
+Heilongjiang
+
+
+Jilin Liaoning
+Beijing
+
+
+East Grid
+
+Ningxia
+Shanxi
+Tianjin
+Shandong
+
+Qinghai
+Gansu
+Henan  Jiangsu
+
+Central Grid
+
+Tibet
+Sha‘anxi
+
+Hubei
+
+Anhui
+Shanghai
+
+
+South Grid
+Sichuan Chongqing
+
+Jiangxi
+Zhejiang
+
+
+Tibet Grid
+
+Central
+Guizhou Hunan
+Yunnan
+Fujian
+
+Taiwan
+
+Channel
+
+
+
+South Channel
+Guangxi Guangdong
+
+
+Hainan
+
+
+Abbildung A1: Schematische Darstellung des regionalen Stromtransportbedarfs in China. Quelle: 
+eigene Darstellung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Import ≥ 30 % Import ≥ 20 % Import ≥ 10 % Export ≥ 40 % Export ≥ 30 % Export ≥ 20 %
+
+Abbildung A2: Entwicklung der Stromtransporte zwischen Provinzen (Netto-Import/Netto-Export auf 
+Provinzebene). Quelle: eigene Darstellung
+
+24  Anhang
+
+
+
+
+
+
+
+
+Tabellen
+
+
+Wirtschaftszweig (H. v. = Herstellung von)          Unternehmen  Beschäftigte    Umsatz
+(Milliarden
+CNY)
+Gewinn (Milliarden
+CNY)
+H. v. Nahrungs- und Futtermitteln                 9.043    2.116.100     23.955     2.083
+Getränkeherstellung                       6.962    1.626.100     18.538     1.909
+Tabakverarbeitung                         128    214.400      8.686      1.038
+H. v. Textilien                          19.752    4.362.200     40.844     2.286
+H. v. Bekleidung                         15.445    4.304.900     23.741     1.428
+H. v. Leder, Lederwaren und Schuhen               8.727    2.746.400     15.163      988
+H. v. Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)        9.123   1.393.300     14.791      905
+H. v. Papier, Pappe und Waren daraus               6.586   1.271.100     14.623      867
+
+H. v. Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern
+5.578    987.100     8.058      575
+Kokerei sowie Mineralöl- und Kernbrennstoffverarbeitung      1.876    876.300     34.532     1.885
+H. v. chemischen Erzeugnissen                  24.583    4.805.900     87.294     5.180
+H. v. pharmazeutischen Erzeugnissen               7.541   2.359.200     28.206     3.115
+H. v. Gummi- und Kunststoffwaren                18.298    3.336.600     32.457     2.081
+
+H. v. Glas und Glaswaren, Zement, Keramik, Verarbeitung von Steinen und Erden
+35.026   5.772.300    62.002     4.244
+Eisenmetallerzeugung und -bearbeitung              8.498   3.256.800     61.987     1.774
+NE-Metallerzeugung und -bearbeitung               7.021   1.954.400     53.393     1.992
+H. v. von Metallerzeugnissen                   20.731    3.646.000     39.917     2.393
+
+H. v. Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen
+15.222   8.902.600    99.629     5.070
+H. v. elektrischen Ausrüstungen                 23.605    6.219.400     73.642     5.150
+Maschinenbau                         45.620    8.962.300     95.151     6.279
+H. v. Kraftwagen und Kraftwagenteilen              14.493    4.834.500     81.347     6.854
+Sonstiger Fahrzeugbau                      4.947    1.818.200     19.325     1.196
+H. v. Möbeln                           5.777    1.221.000      8.780      574
+H. v. sonstigen Waren                       1.889    416.900     2.793      176
+Reparatur und Installation von Maschinen und Ausrüstungen      371    170.400     1.184      14
+Strom- und Wärmeerzeugung                   7.280    2.880.900     55.007     4.126
+Tabelle A1: Beschäftigte, Umsatz und Gewinne der Industriebranchen in China im Jahr 2015. Eigene 
+Darstellung, basierend auf Stats (2017)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anhang  25
+
+
+
+
+
+
+
+Literaturverzeichnis
+
+Auswärtiges Amt (2019): Deutschland und China: bilaterale Beziehungen. Rechtsstaatdialog und 
+Menschenrechtsdialog. 
+https://www.auswaertiges-amt.de/de/aussenpolitik/laender/china-node/-/200472#content_1 (19.08.2019)
+
+Baker, Jill. (2018): “Solar Leader China Is Slashing Its Subsidies On Solar Power -- What You Need 
+To Know”. In: Forbes. https:// 
+www.forbes.com/sites/jillbaker/2018/06/18/solar-leader-china-is-slashing-its-subsidies-on-solar-powe
+r-what-you-need-to- know/#1012702f2f9a (20.08.2019)
+
+Beetz, Becky (2018): China’s cumulative PV capacity hits 130 GW, to reach 250 GW by 2020. In: PV 
+Magazine. https://www.pv-magazi- 
+ne.com/2018/01/22/chinas-cumulative-pv-capacity-hits-130-gw-to-reach-250-gw-by-2020/ (20.08.2019)
+
+Bloomberg (2018): Top China Wind Power Producer Shines as Fewer Turbines Idled. In: Bloomberg News. 
+https://www.bloomberg. 
+com/news/articles/2018-05-22/top-china-wind-power-producer-shines-as-fewer-turbines-sit-idle 
+(20.08.2019)
+
+Bundesministerium für Wirtschaft und Energie (BMWi) (2019): Deutsch-Chinesische 
+Energiepartnerschaft. https://www.bmwi.de/Re- 
+daktion/DE/Publikationen/Energie/deutsch-chinesische-energiepartnerschaft.html (19.08.2018)
+
+CBInsights (2020): Complete List of Unicorn Startups. 
+https://www.cbinsights.com/research-unicorncompanies (30.01.2020)
+
+CGTN (2019): China‘s incubators foster 620,000 startups by 2018: report. 
+https://news.cgtn.com/news/2019-06-14/China-s-incuba- 
+tors-foster-620-000-startups-by-2018-report-Hw2snU5I0o/index.html (03.03.2020)
+
+ChinaContact (2019): China lockert Grenzen für Kapitalbeteiligung. In: ChinaContact, 01/02 2019, 20
+
+China National Renewable Energy Centre (CNREC), Energy Reform Institute NDRC, CIFF (2018): Energy 
+Transition Trends 2018: China, Europe, USA. 
+http://boostre.cnrec.org.cn/wp-content/uploads/2018/05/CNREC_Energy-Transition-Trends-2018-China-Eur
+ope-USA. pdf (20.08.2019)
+
+CREO (2018): China National Renewable Energy Centre (CNREC), Energy Reform Institute NDRC, CIFF 
+(2018): China Renewable Energy Outlook 2018
+
+Dodge Data & Analytics (2018): World Green Building Trends 2018. 
+https://www.worldgbc.org/sites/default/files/World%20Green%20 
+Building%20Trends%202018%20SMR%20FINAL%2010-11.pdf (20.08.2019)
+
+Dodge Data & Analytics (2016): World Green Building Trends 2016, Developing Markets Accelerate 
+Global Green Growth. https://www. 
+worldgbc.org/sites/default/files/World%20Green%20Building%20Trends%202016%20SmartMarket%20Report%20F
+INAL-2.pdf (20.08.2019)
+
+Dong, Wenjuan. Ye, Qi (2018): Utility of renewable energy in China’s low-carbon transition. 
+Brooking Institute. https://www.broo- 
+kings.edu/2018/05/18/utility-of-renewable-energy-in-chinas-low-carbon-transition/ (20.08.2019)
+
+Econet China (2018): Econet Monitor Special: Green Building
+
+Energy Research Institute (ERI), Lawrence Berkley National laboratory (LBNL), Rocky Mountain 
+Institute (RMI) (2016): Reinventing Fire: China. A Roadmap for China’s revolution in energy 
+consumption and production to 2050
+
+Erneuerbare Energien (2018): Wie das chinesische Shenzhen Deutschland die E-Mobilität zeigt. 
+30.04.2018. https://www.erneuerba- reenergien.de/archiv/elektrifizierte-massen-150-406-107816.html 
+(21.01.2020)
+
+Fraunhofer ISE (2018): Installierte Netto-Leistung zur Stromerzeugung in Deutschland. 
+https://www.energy-charts.de/power_inst_ de.htm (20.08.2019)
+
+
+26  Literaturverzeichnis
+
+
+
+
+
+
+
+
+
+Gabbatiss, Josh (2020): Emissions from Chinese aviation ‘could quadruple by 2050’. 21.01.2020. In: 
+Carbon-Brief.https://www.carbon- brief.org/emissions-from-chinese-aviation-could-quadruple-by-2050 
+(02.07.2020)
+
+German.China.org.cn (2019): Chinas Netz aus Ladestationen ist das größte weltweit. 13.08.2019. 
+http://german.china.org.cn/ txt/2019-08/13/content_75095606.htm (21.01.2020)
+
+Germany Trade and Invest (2019): China treibt Eisenbahnbau voran. 08.04.2019. 
+https://www.gtai.de/gtai-de/trade/branchen/bran- 
+chenbericht/china/china-treibt-eisenbahnbau-voran-22996 (02.03.2020)
+
+Germany Trade and Invest (2018): Neue Seidenstraße – Chinas massives Investitionsprogramm. Seite 4. 
+https://www.gtai.de/GTAI/ 
+Navigation/DE/Trade/Maerkte/im-fokus,t=china-im-fokus--neue-seidenstrasse,did=1860390.html
+
+Gindele, Thomas (2018): Österreich. 400 km Breitspur. In: Außenwirtschaft im Fokus, Spezial 
+Seidenstraße. Ausgabe Juli 2018. Mün- chen: Bayern International. 6
+
+Gilsenan, Katie (2019): Chart of the Week: Lifting the Lid on Sustainable Packaging. In: 
+globalwebindex. https://blog.globalwebindex. 
+com/chart-of-the-week/lifting-the-lid-on-sustainable-packaging/ (12.01.2020)
+
+Goller, Andreas. May, Sebastian. Wang, Yuan. Kleinaschof, Patrick (2017): CHINA – GUANGZHOU 
+Energieeffiziente Gebäude (Fokus: Industriegebäude). Zielmarktanalyse 2017 mit Profilen der 
+Marktakteure. Guangzhou: German Industry & Commerce Greater China
+
+Han, Shu (2019): Number of registered companies in China from 2016 to 2018 (in millions). In: 
+Statista. https://www.statista.com/sta- tistics/1008055/china-number-of-registered-companies/ 
+(13.09.2019)
+
+Hecking, Claus. Zand, Bernhard (2020): Der lange Marsch zurück. 04.01.2020. In: Der Spiegel. 
+https://www.spiegel.de/wirtschaft/un- 
+ternehmen/elektroautos-in-china-subventionen-gehenzurueck-a-1302662.html (02.05.2020)
+
+Heilmann, Sebastian. Shih, Lea (2013): The rise of industrial policy in China, 1978–2012. 
+Harvard-Yenching Institute Working Paper Series
+
+Hua, Sha (2019): Revolution auf Chinesisch: Wie Peking die Elektromobilität groß macht. 08.10.2020. 
+In: Handelsblatt. https://www. 
+handelsblatt.com/politik/international/klimapioniere-teil-11-revolution-aufchinesisch-wie-peking-die
+-elektromobilitaet-gross- macht/25090592.html?ticket=ST-11227525-O0r1xDV9VlJH6RI9qaXE-ap4 
+(02.05.2020)
+
+Huang, Ming (2018): China. Jahrhundertprojekt. In: Außenwirtschaft im Fokus, Spezial Seidenstraße. 
+Ausgabe Juli 2018. München: Bayern International
+
+IEA (2019): Electric car deployment in selected countries, 2013-2018. 
+https://www.iea.org/data-andstatistics/charts/electric-car-de- 
+ployment-in-selected-countries-2013-2018 (16.05.2020)
+
+IEA (2018a): https://www.iea.org/tcep/power/renewables/solar/ (20.08.2019)
+
+IEA (2018b): Energy Efficiency 2018: Analysis and outlooks to 2040. 
+https://doi.org/10.1787/9789264024304-en (20.08.2019) IEA (2017): World Energy Outlook 2017. 
+https://www.iea.org/weo2017/ (20.08.2019)
+IEA (2016): Renewable Energy Medium-Term Market Report 2016. 
+https://www.iea.org/newsroom/news/2016/october/medium-term- 
+renewable-energy-market-report-2016.html (20.08.2019)
+
+Internationales Verkehrswesen (2019): VR China baut 1.000 km lange Transrapid-Strecke schon 2020. 
+07.10.2019. In: Internationa- les Verkehrswesen – Das technisch-wissenschaftliche Fachmagazin. 
+https://www.internationales-verkehrswesen.de/vr-china-baut- 1-000-km-lange-transrapid-strecke/ 
+(03.04.2020)
+
+Jackson, R.B. et al. (2019): Persistent Fossil Fuel Emissions Threaten the Paris Agreement and 
+Planetary Health, Environmental Re- search Letters. https://doi.org/10.1088/1748-9326/ab57b3 
+(14.06.2020)
+
+
+Literaturverzeichnis  27
+
+
+
+
+
+
+
+
+
+Kang, Yanbing. Wei, Qingpeng (2005): Analysis of the impacts of building energy efficiency policies 
+and technical improvements on China’s future energy demand. In: International Journal of Global 
+Energy Issues, Vol. 24, No. 3-4, 280-299
+
+Karlberg, Johan (2017): New Mobility Trends: China Leads the Way. In: Roland Berger. 
+https://www.rolandberger.com/de/Point-of- View/New-mobility-trends-China-leads-the-way.html 
+(20.08.2019)
+
+Kennedy, Scott (2015): Made in China 2025. Center for Strategic & international Studies CSIS. 
+https://www.csis.org/analysis/made- china-2025 (11.09.2019)
+
+Kerr, Tom. Maheshwari, Aditi. Sottong, John Dierk (2016): Climate investment opportunities in 
+emerging markets: an IFC analysis (English). Washington, D.C.: World Bank Group. 
+http://documents.worldbank.org/curated/en/602971510740408248/Climate-invest- 
+ment-opportunities-in-emerging-markets-an-IFC-analysis (20.08.2019)
+
+Mayer-Kuckuk, Finn (2019): Der Transrapid lebt – als Magnetschwebebahn in China. 22.10.2019. In: 
+Berliner Morgenpost. https:// 
+www.morgenpost.de/wirtschaft/article227434703/Der-Transrapid-lebt-als-Magnetschwebebahn-in-China.htm
+l (30.04.2020)
+
+National Bureau of Statistics of China (NBS) 国家统计局 (2018): 城镇化水平显著提高 城市面貌焕然一新 
+——改革开放40年经济社会发展成就系列报告之十一 (Bericht über die Erfolge der wirtschaftlichen und sozialen Entwicklung in 
+den 40 Jahren seit der Re- form und Öffnung). 
+http://www.stats.gov.cn/ztjc/ztfx/ggkf40n/201809/t20180910_1621837.html (12.09.2019)
+
+OECD (2017): OECD Economic Surveys: China 2017. Paris: OECD Publishing. 
+https://doi.org/10.1787/eco_surveys-chn-2017-en (20.08.2019)
+
+REN21 (2020): Renewables 2020 Global Status Report. (Paris: REN21 Secretariat)
+
+Schmidt, Dirk (2018): Inselstreitigkeiten im Südchinesischen Meer. In: Informationen zur 
+politischen Bildung, 02/2018, 337: 40-41
+
+Standing Committee of the National People‘s Congress (2018): Company Law of the People‘s Republic 
+of China (2018 Amendment). In: Lawinfochina.com. 全国人民代表大会常务委员会 (2018). 中华人民共和国公司法(2018 修正) [现行有效]. 
+In: 北大法律英文网。 http://lawinfochina.com/display.aspx?id=e797dd968c30e172bdfb&lib=law (13.03.2020)
+
+Sun, Dongqi. Zhou, Liang. Li, Yu. Liu, Haimeng. Shen, Xiaoyan. Wang, Zedong. Wang, Xixi (2017): 
+New-type urbanization in China: Pre- dicted trends and investment demand for 2015–2030. In: Journal 
+Of Geographical Sciences, 27(8): 943-966. https://doi.org/10.1007/ s11442-017-1414-4 (12.09.2019)
+
+Tagesspiegel (2018): Präsident und Militärchef von China Xi Jinping ohne Gegenstimmen 
+wiedergewählt. In: Der Tagesspiegel. https:// 
+www.tagesspiegel.de/politik/praesident-und-militaerchef-von-china-xi-jinping-ohne-gegenstimmen-wiede
+rgewaehlt/21083164. html (12.09.2019)
+
+Tsang, Raymond. Boutot, Pierre-Henri. Cai, Dorothy (2018): China’s Mobility Industry Picks Up 
+Speed. In: Bain & Company. https://www.bain.com/insights/chinas-mobility-industry-picks-up-speed 
+(20.08.2019)
+
+Xinhuanews (2019): China’s electric vehicle charging posts continue steady growth. 22.09.2019. 
+http://www.xinhuanet.com/ english/2019-09/22/c_138411945.html (21.01.2020)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28  Literaturverzeichnis
+
+
+
+
+
+
+
+Abkürzungen
+ADB          Asian Development Bank
+AHK          Auslandshandelskammer
+AIIB          Asian Infrastructure Investment Bank
+BIP           Bruttoinlandsprodukt
+BMF          Bundesministerium für Finanzen
+BMU          Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
+BMWi          Bundesministerium für Wirtschaft und Energie
+BRI           Belt and Road Initiative (Seidenstraßen-Initiative)
+CNY          Chinesischer Yuan
+CO₂           Kohlendioxid
+EnEV          Energieeinsparverordnung
+EU           Europäische Union
+EUR           Euro
+GW           Gigawatt
+GWh           Gigawattstunde
+HGÜ          Hochspannungs-Gleichstrom-Übertragungsleitungen
+IEA           International Energy Agency
+IFC           International Finance Corporation
+IKI            Internationale Klimainitiative
+Kfz           Kraftfahrzeug
+kg            Kilogramm
+km            Kilometer
+km2              Quadratkilometer
+km/h           Stundenkilometer
+KPC          Kommunistische Partei Chinas
+kV            Kilovolt
+kVA           Kilovoltampere
+LEED         Leadership in Energy and Environmental Design
+m            Meter
+m2              Quadratmeter
+Mio.           Millionen
+MOHURD       Ministry of Housing and Urban-Rural Development (Ministerium für Bauwesen der 
+Volksrepublik China)
+MOST         Ministry of Science and Technology
+Mrd.           Milliarden
+NDRC         National Development and Reform Commission
+NE            Nichteisen
+NEA          Nationale Energieagentur (China)
+NVK          Nationaler Volkskongress
+OECD         Organisation for Economic Co-operation and Development
+Pkw           Personenkraftwagen
+PM-Standard      National Air Quality, Standard for Particulate Matter
+PPP          Öffentlich-private Partnerschaft (Public Private Partnership)
+PWh           Petawattstunde
+SKE           Steinkohleeinheit
+t             Tonne
+TWh           Terawattstunde
+UHGÜ         Ultra-Hochspannungs-Gleichstrom-Übertragung
+UHV           Ultrahochvakuum
+USA          Vereinigte Staaten von Amerika
+USD           US-Dollar
+V             Volt
+VR            Volksrepublik
+WHO          Welthandelsorganisation
+ZK            Zentralkomitee
+Abkürzungen  29
+
+
+
+Abbildungsverzeichnis
+Abbildung 1: Das politische System Chinas. Quelle: eigene Darstellung in Anlehnung an: Heilmann, 
+Sebastian (2005): Das politische System Chinas. Bundeszentrale für politische Bildung. 
+https://www.bpb.de/internationales/asien/china/44270/das-politische- system-chinas (12.09.2019)     
+                                     5
+Abbildung 2: Green-Building-Maßnahmen in China 2018 und 2021. Eigene Darstellung. Datenquelle: 
+Dodge Data & Analytics (2018): WorldGreenBuildingTrends2018. 
+https://www.worldgbc.org/sites/default/files/World%20Green%20Building%20Trends%20 
+2018%20SMR%20FINAL%2010-11.pdf (20.08.2019): 48                          10
+Abbildung 3: Entwicklung des Energieverbrauchs, der Bruttowertschöpfung und der Energieintensität 
+der Industrie in China. Quelle: eigene Darstellung. Berechnungen basierend auf National Bureau of 
+Statistics of China (NBS) 国家统计局 (2018)       12
+Abbildung 4: Die zehn Industriebranchen mit dem höchsten Energieverbrauch in China 2017. Eigene 
+Darstellung. Datenquelle: National Bureau of Statistics of China (NBS) 国家统计局 (2018)                 
+         13
+Abbildung 5: Entwicklung der Stromtransporte zwischen Provinzen (Summe der Transporte). Quelle: 
+中电联发布“中国电力行业年度发展报告 2018”, China Elictricity Council, Juli 2018: 109                          14
+Abbildung 6: Anteil erneuerbarer Energien bei installierter Kapazität. Eigene Darstellung. 
+Datenquelle: REN21 2020: 48     17
+Abbildung 7: Chinesische Nutzer von neuen Mobilitätslösungen im Vergleich zu Deutschland und den 
+USA 2017 auf die Frage, ob sie diese Transportmöglichkeiten schon einmal genutzt haben. Quelle: 
+eigene Darstellung in Anlehnung an: Tsang, Raymond. Boutot, Pierre-Henri. Cai, Dorothy (2018): 
+China’s Mobility Industry Picks Up Speed. In: Bain & Company. https://www.bain.com/insights/ 
+chinas-mobility-industry-picks-up-speed (20.08.2019)                          19
+Abbildung 8: Die beliebtesten Kapitalquellen für Start-ups in China 2016 – 2018. Eigene Darstellung 
+in Anlehnung an: Silicon Valley Bank 2018: 7                                                  21
+Abbildung 9: Geplante und vollendete „Belt and Road“-Infrastrukturprojekte. Quelle: Mercator 
+Institute for China Studies    22
+Abbildung A1: Schematische Darstellung des regionalen Stromtransportbedarfs in China. Quelle: 
+eigene Darstellung     24
+Abbildung A2: Entwicklung der Stromtransporte zwischen Provinzen (Netto-Import/Netto-Export auf 
+Provinzebene).
+Quelle: eigene Darstellung                                               24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30  Abbildungsverzeichnis
+
+
+
+
+
+
+
+Tabellenverzeichnis
+Tabelle 1: Top 10 Unicorn Start-ups. Quelle: eigene Darstellung in Anlehnung an: CBInsights (2020)  
+          20
+Tabelle A1: Beschäftigte, Umsatz und Gewinne der Industriebranchen in China im Jahr 2015. Eigene 
+Darstellung. Basierend auf
+Stats (2017)                                                      25
+
+
+Währungskurse
+
+
+
+Stand 10.07.2020
+
+1 USD = 0,883 EUR
+
+1 CNY = 0,126 EUR
+
+1 EUR = 1,131 USD
+
+1 EUR = 7,919 CNY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabellenverzeichnis  31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de
+
+
+
+
+
+
+
+
+
+
+
+ dena
+Deutsche Energie-AgenŁur

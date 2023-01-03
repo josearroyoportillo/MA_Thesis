@@ -1,0 +1,2503 @@
+dena-ABSCHLUSSBERICHT
+Wirksamer Klimaschutz durch Preissignale? –
+Wege zur Zielerreichung 2030
+Ergebnisse des dena-Stakeholderprozesses
+„Ideenschmiede Effiziente CO₂-Bepreisung“
+
+
+
+
+Impressum
+Herausgeber:
+Deutsche Energie-Agentur GmbH (dena) Chausseestraße 128 a
+10115 Berlin
+Tel.: +49 (0)30 66 777-0
+Fax: +49 (0)30 66 777-699
+E-Mail: info@dena.de www.dena.de
+
+Autoren:
+Carolin Schenuit
+Dr. Karolina Jankowska Susanne Schmelcher Manuel Battaglia
+Robert Schachtschneider Kilian Crone
+Hannes Schumacher Patrizia Kraft
+Helene Bond
+
+Umschlagsgestaltung:
+Heimrich & Hannot GmbH
+
+Bildnachweis Umschlag:
+Titelbild – shutterstock.com/Gajus
+
+Bitte zitieren als:
+Deutsche Energie-Agentur (dena, 2019): Ideenschmiede Effiziente CO₂-Bepreisung
+
+Alle Rechte sind vorbehalten.
+Die Nutzung steht unter dem Zustimmungsvorbehalt der dena.
+
+Inhalt
+Executive Summary                                     4
+1  Wirksamer Klimaschutz durch Preissignale? - Wege zur Zielerreichung 2030    5
+1.1   Warum noch weiter über die CO2-Bepreisung diskutieren?           5
+1.2  Der Stakeholderprozess „Ideenschmiede Effiziente CO2-Bepreisung“      6
+2  Das Meinungsbild des Stakeholderprozesses– grundsätzliche Unterschiede, Gemeinsamkeiten, viele 
+Ideen und offene Fragen               7
+2.1   Erläuterung der Kernaspekte der Diskussionen                 7
+2.2   Meinungen zu den verschiedenen Kernaspekten               11
+2.2.1  Bepreisungslogik / Rolle des Instruments CO2-Preis              11
+2.2.2  Reduktionsziele/ Wirkungsziel                          11
+2.2.3  Bepreisungsansatz / Methodik                          12
+2.2.4  Bemessungsgrundlage                              17
+2.2.5  Gültigkeitsbereich / Sektoren                           19
+2.2.6  Preissignal und Preispfad                             20
+2.2.7  Umsetzungsgeschwindigkeit                           23
+2.2.8  Einnahmenverwendung                              24
+2.2.9  Umsetzungsaspekte und Wechselwirkungen mit bestehenden Regulierungsansätzen                  
+           27
+2.2.10 Verstärkende Maßnahmen für wirksamen Klimaschutz            33
+3  Fazit                                           37
+Anhang                                         41
+Abbildungs- und Tabellenverzeichnis                       42
+Literaturverzeichnis                                  43
+Abkürzungen                                      45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  3
+
+Executive Summary
+
+Die dena hat von Juli bis September 2019 den Stakeholderprozess „Ideenschmiede Effiziente 
+CO2-Beprei- sung“ mit über 20 Vertretern aus Unternehmen, Verbänden und NGOs initiiert. Das Ziel 
+dabei war die kriti- sche Auseinandersetzung mit verschiedenen CO2-Bepreisungsmodellen, aber auch 
+eine Konkretisierung von Fragen und Verbesserungsvorschlägen dazu. Dabei wurden grundlegende Design 
+der CO2-Bepreisung, die erwartete Wirksamkeit hinsichtlich der Emissionsreduktion, die Auswirkungen 
+auf Verbraucher und Unter- nehmen, die Verwendung der Einnahmen, die erforderlichen Änderungen an 
+bestehenden Regelungen und die politisch machbaren Wege dorthin thematisiert.
+Die große Diversität der in den Diskussionen der Ideenschmiede Effiziente CO2-Bepreisung 
+vorgebrachten Meinungen und Einschätzungen zeigt, dass neben der wissenschaftlich-analytischen 
+Diskussionsebene auch vermehrt ein Einbezug der Betroffenen der CO2-Bepreisung aus 
+Zivilgesellschaft und Wirtschaft in die weitere politische Diskussion und Lösungsgestaltung 
+stattfinden sollte.
+Die wesentlichen Schlussfolgerungen aus dem Diskussionsprozess der Ideenschmiede Effiziente 
+CO2-Beprei- sung lauten:
+■ Klimaziele 2030 und 2050 können nicht allein durch CO2-Bepreisung erreicht werden
+■ Schnellstmögliche Umsetzung der CO2-Bepreisung und der verstärkenden Maßnahmen
+■ Verstärkende Maßnahmen zur CO2-Bepreisung in allen Sektoren für wirksamen Klimaschutz 
+nötig
+■ Maßgebliche bestehende Regulierungen sind nicht auf die Zielgröße „CO2-Reduktion“ ausgerichtet, 
+Wirkungsmechanismen müssen geprüft und angepasst werden
+■ Für eine sozialverträgliche CO2-Bepreisung ist ein gut funktionierendes Zusammenspiel von klima-, 
+sozial- und förderpolitischen Maßnahmen wichtig
+
+
+Die Empfehlungen der dena zum weiteren Vorgehen bei der Umsetzung des Klimaschutz-programms 2030 
+sind:
+■ Effizientes Zusammenspiel der CO2-Bepreisung mit weiteren Instrumenten sicherstellen, verstär- 
+kende Maßnahmen für mehr Klimaschutz gemeinsam mit Stakeholdern evaluieren
+■ Dialogformate ausbauen, miteinander verknüpfen und in ein übergeordnetes Konzept der Klima- 
+Governance einbetten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+1 Wirksamer Klimaschutz durch Preissignale? - Wege zur Zielerreichung 2030
+
+1.1  Warum noch weiter über die CO2-Bepreisung diskutieren?
+Die CO2-Bepreisung wird immer wieder als Instrument in die Diskussion eingebracht, wenn es darum 
+geht, wie wirksame Emissionsreduktionen erreicht werden können. Das kürzlich von der 
+Bundesregierung be- schlossene “Klimaschutzprogramm 2030“ enthält wichtige Grundsatzentscheidungen 
+zur CO2-Bepreisung in Deutschland und war von einem intensiven Debattenprozess zum Design der 
+CO2-Bepreisung und zur Höhe und zur Entwicklung des CO2-Preises begleitet. Ob das Preisniveau des 
+gewählten Einstiegs in die CO2-Beprei- sung ausreichen wird, um die deutschen Klimaschutzziele für 
+2030 zu erreichen, wird von vielen Experten angezweifelt. Gleichzeitig wird auf europäischer Ebene 
+bereits seit einiger Zeit darüber diskutiert, wie die Zielsetzungen weiterentwickelt werden müssen, 
+um die Verpflichtungen des Pariser Klimaschutzabkommens zu erfüllen. Der derzeitige Zielrahmen 
+entspricht den Anforderungen nicht, die sich aus diesen Verpflichtun- gen ergeben. Die deutsche 
+Bundesregierung hat sich bereits für die Zielsetzung „Klimaneutralität 2050“ als neue Richtschnur 
+der Klima- und Energiepolitik ausgesprochen. Falls eine einstimmige Beschlussfassung al- ler 
+EU-Mitgliedsstaaten zur Klimaneutralität 2050 zustande kommt, wären deutliche Verschärfungen der 
+Kli- mazielvorgaben die Folge, auch für Deutschland.
+Doch welche Hoffnungen sind mit der CO2-Bepreisung verbunden? Die CO2-Bepreisung wird vor allem 
+des- halb als wichtiges Instrument diskutiert, weil sie als ökonomisches Instrument sowohl für die 
+Angebots- als auch die Nachfrageseite für Energie Investitionssignale setzen kann. Außerdem wird es 
+als wichtig angese- hen, dass durch die Bepreisung der Emission von Klimagasen Erlöse generiert 
+werden, die zur Sicherung der Sozialverträglichkeit und für weitere Klimaschutzprojekte und 
+–programme genutzt werden können. So wer- den nicht nur Emissionen und damit der Verbrauch fossiler 
+Energieträger verteuert, sondern auch klima- freundliches Verhalten gefördert.
+Das Klimaschutzprogramm 2030 gibt zwar für die Einführungsphase der CO2-Bepreisung wichtige Rahmen- 
+bedingungen vor. Gleichzeitig wird jedoch auch deutlich, dass es sich dabei nicht um das finale 
+Systemde- sign zur CO2-Bepreisung handelt. Die notwendigen Transformationsprozesse für wirksamen 
+Klimaschutz sind so umfangreich und tiefgreifend, dass ein wichtiger Bestandteil wie die 
+CO2-Bepreisung ein lernendes System bleiben muss. Die Transformation soll auch durch einen engen 
+Kontakt der Politik zu den Stakeholdern mög- lich werden, die primär von der CO2-Bepreisung 
+betroffen sind. Nur durch einen direkten und offenen Aus- tausch verbunden mit einer klaren, aber 
+auch anpassungsfähigen Regulierung kann es gelingen, Schritt für Schritt eine CO2-Bepreisung zu 
+entwickeln, die effizient und nachhaltig ist.
+Der vorliegende Bericht bietet der Politik ein hochaktuelles und komprimiertes Meinungsbild 
+unterschied- lichster Akteure zum Thema der CO2-Bepreisung. Es werden dabei auch strittige Punkte 
+angesprochen, deren genaue Ausgestaltung in der Praxis über den Erfolg der CO2-Bepreisung 
+entscheiden wird. Die Lösung und der Umgang mit den strittigen Themen müssen im Rahmen der weiteren 
+Umsetzung intensiv mit den Stake- holdern besprochen werden, damit die gewählten Maßnahmen nicht 
+nur auf Akzeptanz, sondern auf gestal- tende Mitwirkung stoßen und so effiziente Klimapolitik 
+entstehen kann.
+
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  5
+
+1.2  Der Stakeholderprozess „Ideenschmiede Effiziente CO2-Bepreisung“
+Die dena hat einen Stakeholderprozess initiiert, in dem wesentliche Elemente verschiedener 
+CO2-Beprei- sungsmodelle diskutiert wurden. Das Ziel dabei war die kritische Auseinandersetzung mit 
+verschiedenen CO2-Bepreisungsmodellen, aber auch eine Konkretisierung von Fragen und 
+Verbesserungsvorschlägen dazu. Außerdem sollten nach Möglichkeit Schnittmengen zwischen den 
+verschiedenen Einschätzungen und Positi- onen identifiziert und richtungsweisende 
+Entscheidungsfragen aufgezeigt und diskutiert werden.
+Mit der folgenden Zusammenfassung der Argumente, der Unterschiede und Schnittmengen zwischen den 
+Konzepten und Akteursgruppen wird gleichzeitig auch der Bedarf nach einem ausgewogenen, 
+„offiziellen“ Stakeholderprozess in Richtung Politik kenntlich gemacht. Denn gerade im Rahmen der 
+detaillierteren Dis- kussion wurden substanzielle Unterschiede in den Einschätzungen dazu, was 
+sinnvoll und wirksam ist, sehr deutlich, die in der bisherigen, eher wissenschaftlich-politisch 
+geprägten Debatte noch nicht ausreichend zur Sprache kamen. Die Ideenschmiede Effiziente 
+CO2-Bepreisung ergänzt dies und enthält neben inhaltlichen Vorschlägen auch Anregungen, wie ein 
+verstärkter Stakeholdereinbezug für den weiteren Prozess aussehen kann.
+Das Meinungsbild wurde im Rahmen von vier ganztägigen Veranstaltungen zwischen Juli und September 
+2019 erhoben. Experten aus verschiedenen Fachrichtungen (Ökonomie, Recht, Politik) lieferten Inputs 
+zu grundlegenden Fragestellungen, die teilnehmenden Stakeholder aus Unternehmen, Verbänden, Gewerk- 
+schaften und NGOs debattierten in einem moderierten Rahmen und verschiedene Diskussions- und Doku- 
+mentationstechniken kamen zum Einsatz (leitfragengestützte Diskussion, Zustimmungsabfrage, 
+tabellari- sche Strukturierung der Optionen).
+Im Rahmen der gegebenen Möglichkeiten war zwar eine breite Beteiligung verschiedener Stakeholder 
+mög- lich, repräsentativ ist dieser allerdings nicht. Es ist zu erwarten, dass noch viele weitere, 
+wichtige Aspekte und anderslautende Einschätzungen im Rahmen eines umfassenderen 
+Beteiligungsprozesses zur Sprache kommen werden.
+Die Teilnehmer der dena-Ideenschmiede Effiziente CO2-Bepreisung waren:
+BASF SE, bmp greengas GmbH, BP Europa SE, CO2-Abgabe e.V., Erdgas Südwest GmbH, erdgas schwaben 
+gmbh, Forum Ökologisch-Soziale Marktwirtschaft (FÖS) e.V., GdW Bundesverband deutscher Wohnungs- 
+und Immobilienunternehmen e. V., Germanwatch e.V., Getec Wärme & Effizienz Gmbh, Greencycle 
+Umweltma- nagement, IWO Institut für Wärme und Oeltechnik e.V., Mineralölwirtschaftsverband e.V., 
+Open Grid Europe GmbH, Thüga AG, Uniti Bundesverband mittelständischer Mineralölunternehmen e.V., 
+Viessmann Werke GmbH & Co. KG, Verbraucherzentrale Bundesverband e.V., Wintershall Dea GmbH, 
+Zukunft ERDGAS e.V.
+
+
+Hinweis:
+Der folgende Bericht fasst die Diskussionen der dena-Ideenschmiede Effiziente CO2-Bepreisung als 
+Meinungs- bild zusammen und kann daher nicht alle Detailaspekte der einzelnen Positionen 
+vollständig abbilden. Die durch die Zusammenfassung entstehenden Schwerpunkte sind nicht als 
+Konsensmeinung der gesamten Gruppe zu verstehen.
+Die zitierten Aussagen illustrieren die Meinungsvielfalt und stellen keine Zusammenfassung des 
+diskutierten Themenblocks dar.
+
+
+
+
+
+
+
+
+6
+
+2  Das Meinungsbild des Stakeholderprozesses– grundsätzliche Unterschiede, Gemeinsamkeiten, viele 
+Ideen und offene Fragen
+
+2.1  Erläuterung der Kernaspekte der Diskussionen
+Bereits im Vorfeld der dena-Ideenschmiede wurde in der Diskussion um den CO2-Preis deutlich, dass 
+es ei- nige Kernaspekte in der Diskussion um das Instrument gibt, die wegen ihrer potenziellen 
+Tragweite von be- sonderem Interesse und aufgrund fehlender Erfahrungswerte schwer einschätzbar 
+sind. Deswegen wurden diese Kernaspekte auch in das Zentrum der Diskussionen der dena-Ideenschmiede 
+gestellt.
+
+
+Bepreisungslogik / Rolle des Instruments CO2-Preis
+
+Reduktionsziele / Wirkungsziel
+
+Bepreisungsansatz / Methodik
+
+
+
+
+Bemessungs-
+grundlage
+Gültigkeitsbereich der Bepreisung / Sektoren
+Preissignal und Preispfad
+
+
+
+
+Umsetzungs- geschwindigkeit
+
+Einnahmen- verwendung
+Umsetzungsaspekte/ Wechelwirkungen mit bestehender Regulierung
+
+
+Verstärkende/ flankierende Maßnahmen
+
+
+
+Abbildung 1: Kernaspekte der Diskussionen
+Ein wesentlicher Kernaspekt war die Bepreisungslogik bzw. die Rolle des Instrumentes CO2-Preis, 
+also die Frage, ob ein CO2-Preis, unabhängig vom gewählten Modell, als das Hauptinstrument zum 
+Klimaschutz ange- sehen und eingeführt werden solle und ob es dann die Erreichung der vorgegebenen 
+Reduktionsziele ge- währleisten können würde.
+Die Frage nach der Möglichkeit der Erreichung der Reduktionsziele warf gleichzeitig die Frage auf, 
+auf wel- ches konkrete Reduktionsziel das Instrument der CO2-Bepreisung ausgerichtet werden solle. 
+Dabei relevant war die Überlegung, wie ambitioniert Deutschland in der Klimaschutzpolitik sein kann 
+und soll.
+Ein sehr detailliert diskutierter Aspekt war der Bepreisungsansatz bzw. die Methodik des 
+Instruments, d.h. in welcher Form die CO2-Bepreisung eingeführt werden soll. Zu den diskutierten 
+Varianten gehörten eine CO2-
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  7
+
+Steuer und ein nationales Emissionshandelssystem. Weitere Meinungen und Vorschläge wurden themati- 
+siert.
+Mit Blick auf die Bemessungsgrundlage wurde diskutiert, welche Emissionen aus welchen Quellen 
+bepreist werden sollten.
+Ein weiteres Thema betraf den Geltungsbereich der Bepreisung, also die Wirtschaftssektoren, die 
+unter die neu einzuführende Regulierung fallen sollten. Diese Frage wurde unabhängig davon 
+diskutiert, welches Mo- dell einer Bepreisung gewählt wird. Insbesondere wurde dabei thematisiert, 
+ob ein zusätzlich einzuführen- des Bepreisungsinstrument auch für den EU ETS-Bereich gelten solle 
+oder ausschließlich für bisher nicht durch das EU ETS abgedeckte Bereiche.
+Von Belang war auch der Wirkungsbereich des Preissignals: Sind sektorspezifische Preissignale 
+zielführen- der oder ein sektorübergreifendes Preissignal? Sollte das nationale 
+CO2-Bepreisungsinstrument eventuell an die Preise des EU ETS gekoppelt werden? Ebenso ging es um 
+die Höhe des Preissignals sowie dessen zeitliche Entwicklung (Preispfad).
+Auch die politische und rechtliche Umsetzbarkeit der verschiedenen Bepreisungsmodelle wurde 
+diskutiert und Schlussfolgerungen hinsichtlich ihrer möglichen Umsetzungsgeschwindigkeit abgeleitet 
+Dabei stellte sich zusätzlich die Frage, wann die Umsetzung beginnen sollte.
+In der Diskussion der Einnahmenverwendung wurde debattiert, ob in Folge einer CO2-Bepreisung 
+Einnah- men für den Staat entstehen würden und wenn ja, wie das eingenommene Geld verwendet werden 
+solle. Auch die Fragen, ob es eine Rückverteilung der Einnahmen geben solle und wenn ja, wer die 
+Adressaten die- ser Rückverteilung sein sollten, waren Gegenstand der Diskussion.
+Zuletzt ging es zuerst darum, mit welchen Wechselwirkungen mit bestehenden Regulierungsansätzen in 
+den einzelnen Sektoren (Gebäude, Verkehr und Industrie) zu rechnen sei. Die Analyse wurde im 
+zweiten Schritt dafür genutzt, konkrete energiepolitische Maßnahmen für die einzelnen Sektoren 
+abzuleiten, die begleitend zu der CO2-Bepreisung umgesetzt werden sollten.
+Veranschaulichung der Zielpfade durch morphologischen Kasten
+Die Diskussionen im Rahmen der Ideenschmiede illustrierten sehr eindrücklich, dass viele Aspekte 
+und vor allem Wirkungsweisen der CO2-Preisgestaltung sehr unterschiedlich aufgefasst und 
+ausgestaltet werden kön- nen. Die Unterschiedlichkeit der Herangehensweisen wird deutlich bei der 
+Betrachtung der „Zielpfade“, die mithilfe eines morphologischen Kastens durch die 
+Diskussionsteilnehmer herausgearbeitet wurden (siehe unten). Die Grundstruktur des morphologischen 
+Kastens wurde mit den Diskussionsteilnehmern definiert und findet sich in Anhang 1. Alle 
+Teilnehmenden war eingeladen, für die eigene Institution den präferierten Zielpfad im 
+morphologischen Kasten abzubilden. In der untenstehenden Gesamtübersicht aller ausgefüllten Kästen 
+lässt sich gut erkennen, dass es zwar einige Bereiche gibt, die viele Teilnehmer bevorzugen, dass 
+aber auch letztlich jeder Zielpfad individuell unterschiedlich ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 2: Präferierte Zielpfade zur CO2-Bepreisung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+2.2  Meinungen zu den verschiedenen Kernaspekten
+
+2.2.1 Bepreisungslogik / Rolle des Instruments CO2-Preis
+Das Instrument der CO2-Bepreisung wurde durch die Teilnehmer unterschiedlich bewertet: als 
+politisches Leitinstrument in der langfristigen Perspektive oder als (wichtiger) Teil des 
+politischen Instrumentariums. Mit der CO2-Bepreisung als Leitinstrument müsste vor allem eine 
+Prüfung vieler bzw. aller bestehender In- strumente auf mögliche Wirkungswidersprüche mit der 
+CO2-Bepreisung einhergehen. Dies könnte absehbar dazu führen, dass viele dieser Instrumente 
+konsequenterweise auf das Leitinstrument ausgerichtet werden müssten, um dessen Wirkung optimal zur 
+Entfaltung zu bringen.
+Wird die CO2-Bepreisung Bestandteil des Instrumentariums, wird sie nicht als das einzige oder 
+wichtigste In- strument zur Reduzierung der CO2-Emissionen gesehen. Um wirksamen Klimaschutz zu 
+erreichen, bedarf es nach Einschätzung einiger Diskutanten weiterer, wirkungsverstärkender 
+Maßnahmen und Instrumente. Vor der Einführung einer CO2-Bepreisung sollte zudem eruiert werden, 
+welchen Beitrag ein CO2-Preis zur CO2-Re- duktion und welchen die verstärkenden anderen 
+energiepolitischen Maßnahmen leisten könnten.
+
+
+“Ein CO2-Preis ist kein Allheilmittel und ersetzt ein Klimaschutzgesetz nicht. Es braucht ge- 
+zielte verstärkende Maß- nahmen in allen Sekto- ren.”
+Die Klimaschutzziele sind nur mit einem einheitlichem CO2-Preis über alle Sekto- ren erreichbar, 
+als CO2-Mindestpreis im EU ETS und über Energiesteuersätze o- der nationalen Emissionshandel mit 
+Mindest- und Höchstpreis im non-ETS.“
+“Die CO2-Bepreisung ist eine geeignete Übergangslösung, um erste Emissionsredukti- onen zu 
+erreichen. Für die Erreichung der Klimaschutz- ziele sind aber noch weitere Maßnahmen 
+erforderlich.“
+
+
+2.2.2 Reduktionsziele/ Wirkungsziel
+Die CO2-Bepreisung sollte grundsätzlich den Effekt haben, Emissionen zu reduzieren. Als möglicher 
+Zielrah- men wurde genannt: die Erfüllung der Pariser Klimaziele mit Zieljahr 2050, die aktuellen 
+nationalen Klima- ziele mit Zieljahr 2030 oder die Pariser Klimaziele mit Etappenziel in Form 
+nationaler Klimaziele 2030. Das Stimmungsbild, welcher Zielrahmen zu wählen sei, spiegelt sich in 
+der untenstehenden Grafik wider, die im Rahmen der Diskussionen erhoben wurde:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 3: Stimmungsbild zum Zielrahmen der CO2-Bepreisung
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  11
+
+Mehrere Teilnehmer sprachen sich für ein ambitioniertes Ziel für die Reduktion der CO2-Emissionen 
+aus. Man- che haben aber gleichzeitig betont, dass dieses Ziel nicht allein über die CO2-Bepreisung 
+erreicht werden könne. Als Argument für diese These wurde für den Fall einer CO2-Steuer 
+eingebracht, dass es nicht möglich sei, eine harte Mengensteuerung über eine reine Preissteuerung 
+zu erreichen. Im Falle einer Handelslösung wäre eine bessere Mengensteuerung je nach Ausgestaltung 
+möglich, aber auch dann blieben flankierende Maßnahmen absehbar weiter erforderlich.
+Manche Teilnehmer haben betont, dass sie es für nötig halten, den Preispfad oder das Preisband von 
+vornhe- rein festzulegen. Dadurch würden Investitionen angeschoben, weil ein klarer Handlungsrahmen 
+entsteht.
+Anpassungen und Nachjustierungen des Preispfads oder des Preisbandes sollten möglichst vermieden 
+wer- den, da sie zu Attentismus, also zu abwartendem Verhalten der Betroffenen aufgrund von 
+Unsicherheit oder der Erwartung besserer Rahmenbedingungen, führen würden. Dabei wurde betont, dass 
+sich der Preis nur in eine Richtung entwickeln könne, nämlich nach oben. Nur dann würden 
+Konsumenten und Unternehmen ihr Verhalten ändern und entsprechend in Alternativen investieren.
+
+
+“Die CO2-Bepreisung sollte so ausge- staltet werden, dass sie eine ausrei- chende CO2-Reduktion 
+sicherstellt.”
+“Eine harte Mengensteuerung über Preissteue- rung ist nicht möglich. CO2-Bepreisung ist eine In- 
+dikation dafür, dass andere Lösungen gebraucht werden.”
+
+
+2.2.3 Bepreisungsansatz / Methodik
+
+Rolle des EU ETS
+Bei der Diskussion über die Grundmethodik der CO2-Bepreisung zeigten sich besonders deutliche 
+Unter- schiede zwischen den Teilnehmern. Mehrere Teilnehmer waren der Meinung, dass eine 
+CO2-Bepreisung be- reits mit dem EU ETS stattfindet und seit den strukturellen Reformen im Jahr 
+2018 auch eine (moderate) Len- kungswirkung zeigt. Daher sollte das EU ETS auf jeden Fall 
+Leitinstrument bleiben. Andere Teilnehmer waren der Meinung, dass im EU ETS zusätzliche Maßnahmen 
+notwendig wären, um die Entwicklung neuer Techno- logien in der Industrie voranzutreiben und deren 
+Wirtschaftlichkeit zu gewährleisten. Die Maßnahmen müss- ten der Preisvolatilität entgegenwirken 
+und Planungssicherheit für alle Akteure bereitstellen. Als Beispiel wurde die Einführung eines 
+sukzessiven ansteigenden Mindestpreises im EU ETS genannt. Es gab allerdings auch die Gegenmeinung, 
+dass ein Mindestpreis das Wirkprinzip des EU ETS konterkarieren würde.
+Folgende Prinzipien fanden die meisten Teilnehmer für die Einführung einer CO2-Bepreisung relevant:
+
+■ europäische und internationale Anschlussfähigkeit
+■ Investitionssicherheit: Planungssicherheit, Planbarkeit, Berechenbarkeit
+■ Kosteneffizienz und Kostentransparenz
+■ Nachhaltigkeit (Begünstigung von nachhaltigen, klimafreundlichen Technologien und 
+Energiearten)
+■ Technologieoffenheit
+■ internationale Wettbewerbsfähigkeit
+■ Vermeidung von Fehlanreizen zwischen den Sektoren
+■ Sozialverträglichkeit, soziale Akzeptanz
+■ schnelle, unbürokratische Erhebung und Umsetzbarkeit
+
+
+
+
+
+
+
+
+12
+
+
+
+
+“Es ist notwendig, einen Min- destpreis verknüpft mit ei- nem Anstiegspfad auch im EU ETS 
+einzuführen, damit dort klare und planbare Investiti- onssignale entstehen. Investi- tionen werden 
+hinausgezö- gert, wenn der Preispfad nicht absehbar ist.”
+„Das EU ETS hat sich als sehr effek- tives Instrument erwiesen, die ge- setzten CO2-Caps und ihre 
+Minde- rungen jedes Jahr zu erfüllen. Es ist ein zielsicheres Mengensystem, der Preis ergibt sich 
+durch einen Min- derungswettbewerb am Markt und kann mal hoch, mal niedrig sein – irrelevant 
+solange das System die Minderungsziele erfüllt.“
+
+“Das EU ETS unterstützt die in- dustrielle Transformation. Bei sehr ambitionierten Reduktions- 
+zielen genügt das aber nicht als Anreiz, um substanzielle Investiti- onen und Prozess- und Anlagen- 
+umrüstungen anzureizen.“
+CO2-Aufschlag auf bestehende Steuersätze
+Dieser Vorschlag bezieht sich auf die Sektoren Verkehr und Wärme (non-ETS). Dabei handelt es sich 
+um eine Modifizierung bestehender Umlagen und Steuern auf Energie und Energieerzeugnisse bzw. alle 
+fossilen Ener- gieträger durch die Erhebung eines CO2-Aufschlags. Dabei würden gemäß dem Gutachten 
+für den Sachver- ständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung im 
+Wärmesektor alle bereits beste- henden und sehr unterschiedlichen Energiesteuern auf einen 
+einheitlichen Satz in Form eines harmonisier- ten CO2-Preises angepasst werden. Im Industriesektor 
+würden aus Wettbewerbsgründen die bestehenden Ausnahmeregelungen zur Energiesteuer übernommen 
+werden. Im Verkehrssektor würde die CO2-Steuer zu- sätzlich auf die bestehenden Energiesteuersätze 
+auf Mineralöl aufgeschlagen. Im Zuge einer künftigen um- fassenden Reform der Instrumente im 
+Verkehrssektor ließe sich die Energiesteuer dann als reine CO2-Steuer auf das Niveau des 
+sektorübergreifenden CO2-Steuersatzes anpassen1. Laut Meinung eines Teilnehmers ist der Nachteil 
+einer solchen zusätzlichen Bepreisung im Sektor Verkehr, dass bei CO2-Preisen unterhalb 
+dreistelliger Höhen die Wirkung auf der Nachfrageseite, also bei den Verbrauchern sehr gering 
+ausfallen würde. Eine wirksame CO2-Bepreisung in dreistelliger Höhe sei aber politisch nicht 
+durchsetzbar. Auch auf der Angebotsseite, also bei der Herstellung von erneuerbaren Kraftstoffen, 
+lägen die Herstellkosten in einem ähnlich hohen (also dreistelligen) Bereich und damit weit über 
+dem aktuell diskutierten Preisniveau. Daher könnten weder Angebot noch Nachfrage durch einen reinen 
+Steueraufschlag adressiert werden. Bei der Dis- kussion dieses Modells wurde zudem die Kritik laut, 
+dass mit einem CO2-Aufschlag auch die Energieträger besteuert werden würden, die bereits im EU ETS 
+einen CO2-Preis zahlen. Mit dem CO2-Steueraufschlag würde somit de facto ein nationaler 
+Mindestpreis im EU ETS eingeführt. Das sei ohne ein abgestimmtes Vorgehen mit anderen 
+EU-Mitgliedsstaaten sehr kritisch, da es die Wettbewerbsfähigkeit deutscher Unternehmen be- 
+einträchtigen würde. Als Gegenargument hierzu wurde angeführt, dass man hiermit lediglich dem 
+Beispiel anderer europäischer Länder folgen würde. Das wäre deshalb so wichtig, weil das EU-ETS in 
+der aktuellen Ausgestaltung kaum zur Einsparung von Treibhausgasen beitrage und eine Änderung nicht 
+zeitnah zu erwar-
+
+
+
+
+
+
+
+
+¹ „Optionen für eine CO2-Preisreform“, MCC-PIK-Expertise für den Sachverständigenrat zur 
+Begutachtung der gesamtwirtschaftlichen Entwicklung, 2019
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  13
+
+ten sei. Andere Teilnehmer betonten, dass nur wenige Länder einen Mindestpreis im EU ETS eingeführt 
+hät- ten, zudem würden sie Ausnahmen gewähren. Auch zur generellen Frage, ob das EU ETS zu 
+Emissionsminde- rungen führt, gab es grundsätzlich andere Einschätzungen.
+
+“Wir plädieren für eine zusätzliche CO2- Abgabe im Verkehrsbereich und eine Neu- ausrichtung der 
+Energiesteuern anhand des CO2-Gehalts im Bereich Wärme und Energie/Industrie. Damit würden die kli- 
+maschädlichen Fehlanreize der bisheri- gen Preisbestandteile korrigiert und Ener- giepreise 
+verursachergerecht, technolo- gieoffen, sozialverträglich und unbürokra- tisch am Klimaschutz neu 
+ausgerichtet.”
+“Bei einem CO2-Auf- schlag auf die Energie- steuer wäre eine stän- dige politische Nachjus- tierung 
+der Steuerhöhe vorprogrammiert. Das würde der Planbarkeit und Berechenbarkeit der CO2-Bepreisung 
+entge- genstehen.“
+“Vor 2030 sind keine großen Emissionsreduktionen in der chemischen Industrie realisier- bar, da 
+neue Technologien ent- wickelt werden müssen. Deshalb sind Eingriffe in das EU ETS, sei es durch 
+Einbeziehung anderer Sektoren oder durch eine zusätz- liche CO2-Steuer, schädlich und nicht 
+förderlich.”
+
+
+Neuausrichtung der Energiesteuern anhand des CO2-Gehalts
+Ein weiterer Ansatz, der bisher in der Diskussion noch nicht aufkam, wurde in unterschiedlichen 
+Varianten vorgeschlagen, eine Neuausrichtung der Energiesteuern anhand des CO2-Gehalts.
+Ein Diskussionsteilnehmer schlug vor, als Steuergegenstand weiterhin die verbrauchte Energieeinheit 
+zu nut- zen und damit verfassungsrechtlich sicherzustellen, dass es sich um eine zulässige 
+Verbrauchsteuer handele. Die CO2-orientierte Energiesteuer würde, anders als der 
+CO2-Steueraufschlag, bestehende Steuern und Umla- gen auf Strom und Wärme ersetzen. Im 
+Verkehrsbereich würde sie wie zusätzlich erhoben. Der Preis für die Tonne CO2 würde für den 
+non-ETS-Bereich über die geänderten Energiesteuersätze, in den EU ETS-pflichtigen Unternehmen über 
+einen CO2-Mindestpreis erhoben. Mit den Einnahmen würden bestehende Steuern und Umlagen wie die 
+Heizöl- und Heizgassteuer, die Stromsteuer, die EEG-Umlage und die KWKG-Umlage gegenfi- nanziert. 
+Diese Umlagen und Steuern würden für die Verbraucher entfallen. Haushalte und überwiegend mit- 
+telständische Unternehmen würden durch vergünstigte Strompreise entlastet und Anreize gesetzt, in 
+klima- freundliche Technologien zu investieren bzw. sich klimagerecht zu verhalten. Dieser 
+Vorschlag wurde von mehreren Teilnehmern kritisiert. Sie bezeichneten ihn als „gesonderte 
+Quersubventionierung“.
+Eine Reihe von Industrie-Teilnehmern sprachen sich für die Variante aus, dass die bestehende 
+Energiesteuer- systematik grundlegend reformiert wird: im Verkehr und Wärmesektor weg von einer 
+Besteuerung pro Liter Diesel, Benzin, Heizöl oder Kubikmeter Erdgas hin zu einem Modell, in dem die 
+CO2-Emissionen des jeweili- gen Produktes die zentrale Bemessungsgröße werden. Die 
+Bemessungsgrundlage der Steuer würde also nicht das Volumen des Energieträgers sein, sondern seine 
+CO2-Emissionen. Im Verkehrssektor z.B. würde dann transparent, dass schon heute über die 
+Energiesteuer implizit 270€/t CO2 bei Benzin erhoben würden, was inklusive Mehrwertsteuer knapp 
+330€/t CO2 ausmache. Ein erneuerbarer, CO2 -neutraler Kraftstoff würde entsprechend komplett 
+steuerbefreit. Der Vorteil eines solchen Systems wäre, dass die große Preisspreizung zwischen 
+CO2-emittierenden Kraftstoffen (330€/t) und CO2-freien Kraftstoffen (0€/t) einen sehr starken 
+Sogef- fekt auf der Angebotsseite hervorrufen würde: CNG, Biogas, Wasserstoff, synthetische 
+Kraftstoffe etc. würden sehr schnell in den Markt kommen und CO2 reduzieren können. Zusätzlich 
+sollten die notwendigen Investitio- nen in die zur Herstellung dieser Kraftstoffe benötigten 
+Technologien angereizt werden (über Förderpro- gramme, rasche Umsetzung der künftigen 
+THG-Quotenregelung mit sinnvollen Anrechnungsmöglichkeiten für erneuerbare Kraftstoffe u.Ä.). So 
+könnten rasche Veränderungen im Verkehrssektor zu erzielt werden.
+
+
+
+
+
+
+14
+
+Andere Industrie-Teilnehmer bevorzugten die Variante, die bestehende Energiesteuersystematik so zu 
+verän- dern, dass die Stromsteuer gesenkt und die Steuern auf Öl und Gas erhöht werden. Öl und Gas 
+würden dann teurer und Strom billiger. Damit wäre erstens berücksichtigt, dass es bereits durch das 
+EU ETS einen CO2- Preis für die Stromerzeuger und energieintensiven Unternehmen gäbe. Eine 
+eventuelle Doppelbesteuerung wäre somit vermieden. Die absoluten Preise würden sich ändern, ebenso 
+wie die Preisrelationen. Das rela- tive Preisverhältnis von Strom zu Gas würde sich etwas zu 
+Gunsten von Strom und zu Ungunsten von Gas und Heizöl verschieben. Dies könnte deutliche Wirkung 
+auf Konsum- und Investitionsentscheidungen entfalten. Die gleichzeitige Verbilligung des Stroms und 
+Verteuerung des Öls und Gas würde zudem Preissignale für In- vestitionen in einen breiten Mix an 
+klimafreundlichen Technologien schaffen. Allen voran würden damit die relativen 
+Wettbewerbspositionen von CO2-ärmeren Energieträgern und Technologien gegenüber den mit an- deren 
+fossilen Brennstoffen betriebenen Technologien verbessert (beispielsweise Wärmepumpen, Elektro- 
+mobilität, Power-to-X, blauer Wasserstoff oder auch erneuerbare Kraftstoffe). Mit diesem Modell 
+könnte man zudem potenzielle Wettbewerbsnachteile für deutsche Unternehmen verhindern und sie 
+indirekt bei der Ent- wicklung von Technologiealternativen unterstützen. Ohne diese 
+Technologiealternativen sei die Transforma- tion zu einem CO2-ärmeren Wirtschaftssystem nicht 
+möglich. Bei der Diskussion dieses Modells wurde allerdings die Kritik laut, dass es eine zu 
+eindimensionale Betrachtung darstelle. Andere Energieträger würden ebenfalls und in erheblich 
+größerem Maße als Strom einer Belastung durch Steuern etc. unterliegen. Eine Emissionsminderung sei 
+auch anders als nur über „Elektrifizierung“ möglich.
+
+
+“Die Veränderung der Steuersystema- tik weg von einer Besteuerung des Vo- lumens hin zu einem 
+Modell, in dem die CO2-Emission des jeweiligen Pro- duktes die zentrale Bemessungsgröße ist, wäre 
+kurzfristig umsetzbar und auf- grund fehlender Mehrbelastung für den Verbraucher auch unter dem 
+Gesichts- punkt Akzeptanz tragbar.“
+“Wir lehnen Modelle, die die Direktstromanwen- dungen subventionieren, ab. Das kommt einer 
+Quersubventionierung gleich und ist ein klarer Ver- stoß gegen Technologieneutralität.“
+
+“Es müssen Alternativen geschaffen werden, die Angebotsseite muss entwickelt werden, damit der 
+Verbraucher die für ihn am besten passende Lö- sung im Wettbewerb wählen kann.“
+
+Unilaterale Erweiterung des EU ETS auf weitere Sektoren
+Diese und auch die nächste Variante wurde generell von den Teilnehmern bevorzugt, die das EU ETS 
+für ein erfolgreiches und effizientes Instrument zur CO2-Reduktion halten. Wie bereits erwähnt, 
+haben manche Teil- nehmer betont, dass das EU ETS seine gesetzten Ziele erfülle. Der Handel von 
+Emissionsrechten garantiere Effizienz und geringste Vermeidungskosten. Dieses Modell würde eine 
+hohe Planbarkeit und Investitionssi- cherheit bieten, denn im Gegensatz zu Steuern wäre keine 
+politische Nachjustierung notwendig. Mehrere an- dere Teilnehmer widersprachen dieser Auffassung 
+vehement und führten die langjährig sehr niedrigen Preise als Beweis für eine geringe 
+Lenkungswirkung des EU ETS und als Argument dafür an, dass auch ein marktli- ches Instrument 
+aufgrund politischer Fehlsteuerung unwirksam bleiben könne. Der EU ETS besitze in seiner jetzigen 
+Form eine hohe Preisvolatilität und würde den Akteuren keine ausreichende Planungssicherheit bie- 
+ten. Deswegen sei auch dieses Instrument an sich reformbedürftig.
+
+
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  15
+
+Einige Teilnehmer sprachen sich für die Variante eines unilateral für Deutschland erweiterten EU 
+ETS auf die Sektoren Verkehr und Wärme aus. Vor allem die langwierige Vorlaufzeit für die 
+Einführung2 und die Tatsache, dass es sich hierbei um einen deutschen Sonderweg mit unklaren 
+Anknüpfungspunkten zu anderen EU-Mit- gliedsstaaten und entsprechend hohem Abstimmungsbedarf 
+handeln würde, wurden als Gegenargumente wahrgenommen. Der Vorteil wäre, dass man die bestehenden 
+Regelungen und Infrastrukturen des EU ETS nutzen könnte und eine gute Übergangsperspektive für eine 
+zukünftige Zusammenführung der Bepreisungs- systeme habe.
+
+“Entgegen vieler Verlautbarungen steht eine ausreichend wirksame CO2-Bepreisung im EU- ETS noch 
+immer aus. Die handelspflichtige In- dustrie hat in den letzten 14 Jahren in der Bilanz nicht eine 
+Tonne CO2 eingespart, die Einsparun- gen im Energiesektor sind im Wesentlichen nicht auf den 
+CO2-Preis im EU ETS zurückzuführen.“
+“Das EU ETS ist ein wirksames und effizi- entes Instrument zur CO2 –Reduktion.“
+“Eine politische Nachjustierung kann auch im nationalen ETS notwendig sein, wie die Erfahrung mit 
+dem EU ETS gezeigt hat.“
+
+Einführung eines nationalen ETS (DE ETS)
+Eine weitere Variante, die in der politischen Diskussion eine wesentliche Rolle spielt, ist 
+separate Einführung eines ETS für die Sektoren Verkehr und Wärme in Deutschland (DE ETS). Damit 
+Variante könnte man zwar ei- nige der Umsetzungsrisiken der unilateralen Erweiterung des EU ETS auf 
+weitere Sektoren umgehen, aller- dings würden wesentliche Herausforderungen bestehen bleiben, wie 
+z.B. eine relative lange Vorlaufzeit für die Einführung, bürokratischer Strukturierungsaufwand und 
+eine entsprechend späte Wirksamkeit des In- struments. Deutschland würde damit in Europa einen 
+Sonderweg wählen. Ein Teilnehmer betonte, ein sol- ches System müsste mit einem Fixpreis bzw. mit 
+einem Preisband ausgestattet werden, weil sonst soziale Verwerfungen drohen würden. Dadurch ginge 
+jedoch der Vorteil einer Mengenbesteuerung verloren.
+Als großer Vorteil einer solchen Strukturierung wurde die Anschlussfähigkeit an das EU ETS 
+betrachtet.
+Diese sei nach Einschätzung einzelner Teilnehmer aber bei weitem nicht garantiert. Signifikanter 
+Zeit- und Abstimmungsaufwand auf europäischer Ebene sei zu erwarten.
+Viele Teilnehmer hielten eine Konvergenz aller Bepreisungsmechanismen in allen Sektoren in einem 
+einzi- gen, reformierten EU ETS mittelfristig für den besten Zielzustand.
+
+
+“Unterschiedliche, volatile CO2-Preise im EU ETS und im DE ETS ohne Durchlässigkeit zwischen den 
+Sektoren füh- ren zu Verwerfungen im Ener- giemarkt zulasten klima- freundlicher Technologien.“
+“Das EU ETS hat fast 15 Jahre und mehrere Reformen gebraucht, um Preissignale zu setzen, die zu 
+Ände- rungen führen. Ein reines Mengen- instrument ist keine tragfähige Lö- sung, denn es schaltet 
+notwendige gesellschaftliche Debatten über die Preishöhe aus.“
+“Zwangsläufig immer stei- gende Preise sind nicht nötig, wenn das Instrument wirkt, was der EU ETS 
+tut. Politische (Nach)Steuerung ist dennoch möglich und wurde auch schon umgesetzt, daraus kann man 
+lernen.“
+
+
+
+
+
+2 Öko-Institut Matthes (2019), S. 7
+
+
+
+
+
+16
+
+Entwicklung zu einem globalen CO2-Preis
+Mindestens mit mittelfristiger Perspektive waren viele Diskussionsteilnehmer der Meinung, dass eine 
+ge- samteuropäische und möglichst eine globale Lösung angestrebt werden solle. Da Klimaschutz eine 
+globale Aufgabe ist, wäre ein übergreifendes Preissignal für alle weltweiten Emissionen letztlich 
+die effizienteste Lö- sung. Allerdings wurde auch anerkannt, dass es wesentliche politische 
+Herausforderungen bei diesem Vorha- ben gibt.
+Ein Teilnehmer argumentierte dabei für einen Start auf Kooperationsebene, selbst wenn eine 
+gesamteuropä- ische Lösung im ersten Schritt nicht erreichbar sei. Durch eine internationale 
+“Koalition der Willigen”, die sich auf eine gemeinsame ETS-Basis einige, können Signale für 
+kosteneffizienten Klimaschutz gesetzt und Nach- ahmer bzw. weitere Teilnehmer geworben werden. 
+Unklar sei dabei jedoch aus der Sicht eines anderen Teil- nehmers, ob eine gemeinsame Basis 
+beispielsweise ein Mindestpreis für CO2 oder andere Ausgestaltungsele- mente des ETS sein sollten. 
+Hierbei sei auf jeden Fall die Gefahr von Investitionsverlagerungen und Carbon Leakage zu 
+berücksichtigen und Gegenmaßnahmen zu ergreifen.
+
+Unternehmensinterner CO2 -Schattenpreis
+Aus Sicht einzelner Teilnehmer wäre als ein innerbetriebliches Steuerungsinstrument ein 
+CO2-Schattenpreis denkbar, der CO2 -Emissionen als Opportunitätskosten mit einem intern gesetzten 
+Preis bepreist. Er könnte als Kalkulationsgrundlage für langfristige Investitionsentscheidungen 
+herangezogen werden und würde so zu einem weiteren Entscheidungskriterium, zusätzlich zu den vielen 
+anderen risikobehafteten Kriterien bei den Investitionsentscheidungen eines Unternehmens. Damit 
+würde das Unternehmen in die Lage versetzt, rechtzeitig vorteilhafte Investitionsentscheidung 
+treffen – allerdings unter der Annahme, dass in näherer Zu- kunft eine CO2-Bepreisung durch den 
+Staat eingeführt wird. Der CO2-Schattenpreis könnte sich an den sog. Scope-Emissionen des 
+GHG-Protocols3 orientieren. Er wäre intern im Unternehmen und zusätzlich zu den bereits 
+existierenden CO2-Preisen (z.B. Scope 1: EU-ETS) bzw. einzuführenden CO2-Preis zu berücksichtigen.
+
+2.2.4 Bemessungsgrundlage
+Die Teilnehmer waren sich weitgehend einig, dass die Bemessungsgrundlage für eine CO2-Bepreisung 
+grund- sätzlich der CO2-Gehalt (oder das Treibhausgaspotenzial bzw. das CO2-Äquivalent nach dem 
+IPCC) des Ener- gieträgers sein sollte. Das Stimmungsbild spiegelt sich in der untenstehenden 
+Grafik wider, die im Rahmen der Diskussionen erhoben wurde. Dabei sollten die Teilnehmer sich 
+positionieren für den Fall, dass die CO2- Bepreisung in Form einer Steuer eingeführt würde.
+
+
+
+
+
+
+
+
+
+
+
+
+³ GHG-Protocol: Standardreihe zur Bilanzierung von Emissionen für Unternehmen; die Emissionsquellen 
+sind nach Scope 1-3 differen- ziert. Die Scopes beinhalten alle Emissionen, die durch die 
+Unternehmenstätigkeit verursacht werden können – durch Energieerzeu- gung, Bezug von Energie und 
+Wertschöpfungskette.
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 4: Stimmungsbild zur Bemessungsgrundlage der CO2-Bepreisung
+
+Im Laufe der weiteren Diskussionen haben die Teilnehmer ihre Meinungen präzisiert. Dabei haben sich 
+zwei maßgebliche Positionen herauskristallisiert:
+■ Berücksichtigung ausschließlich verbrennungsbedingter CO2-Emissionen fossiler 
+Energieträger
+■ Berücksichtigung verbrennungsbedingter CO2-Emissionen und Vorkettenemissionen inkl. anderer 
+Treib- hausgase (CO2 Äquivalenten) und ggf. Negativemissionen.
+Verbrennungsbedingte CO2-Emissionen fossiler Energieträger entstehen bei der Energieerzeugung. Den 
+Ver- tretern dieser Position war es wichtig zu betonen, dass die Emissionen, die eventuell bei der 
+Erzeugung er- neuerbarer Energie (z.B. durch Verbrennung von Biomasse) oder durch Verbrennung 
+sogenannter grüner Energieträger (aus den Power- to-X-Verfahren) entstehen, nicht zur Bemessung 
+herangezogen werden.
+Die Befürworter des zweiten Vorschlags haben sich für die Berücksichtigung derjenigen 
+CO2-Emissionen aus- gesprochen, die in den Verbrennungsprozessen und in der Vorkette 
+(Vorkettenemissionen) entstehen. Sie haben dazu auch die anderen Treibhausgase (CO2 Äquivalente) 
+und ggf. Negativemissionen gezählt (siehe Infobox).
+
+
+“Auch bei der Biomasseverbrennung oder beim Bau eines Windparks entsteht CO2. Wir müssen klar 
+definieren, welche Emissionen bepreist wer- den sollen.“
+“Wir brauchen die Betrachtung der vorgelager- ten negativen Emissionen von Bioenergie oder aus dem 
+PtX-Pfad, um z.B. die CO2-Emissionen bei der Anwendung glattzustellen.“
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+Infobox: CO2-Emissionen
+Vorkettenemissionen: Emissionen, die bei der Gewinnung, Aufbereitung, Transport, Speicherung und 
+Verteilung von Energieträger entstehen, inkl. Brennstoffverluste.
+CO2- Äquivalente: Ein Maß für das Treibhauspotenzial einer bestimmten Substanzmenge im Vergleich zu 
+einer ähnlichen Menge CO2. Es gibt an, wie stark diese Substanz zu der Erderwärmung beiträgt. 
+Standar- disierte Regelungen zur Ermittlung von CO2-Äquivalenten sind in den 
+IPPC-Sachstandsberichten enthal- ten.
+Negativemissionen: Emissionen, die durch den Einsatz von bestimmten Technologien der Atmosphäre 
+entzogen werden. Die wichtigsten Techniken für den Entzug von CO2 aus der Atmosphäre sind: Auffors- 
+tungsprogramme, Carbon Capture and Storage (CCS) (bzw. Bio Energy with Carbon Capture and Storage 
+(BECCS)) und Direct Air Capture (DAC)1.
+
+1 MCC (2016), S.1
+
+
+2.2.5 Gültigkeitsbereich / Sektoren
+Unabhängig davon, welches Modell einer CO2-Bepreisung gewählt wird, muss entschieden werden, welche 
+Wirtschaftssektoren unter ein solches Bepreisungsregime fallen sollen. Das betrifft auch die 
+grundsätzliche Frage, ob ein zusätzlich einzuführendes Bepreisungsinstrument ebenso für den EU 
+ETS-Bereich gelten soll oder ausschließlich für die bisher nicht durch das EU ETS abgedeckten 
+Bereiche (non-ETS).
+Zur Einordnung sei erwähnt, dass das EU ETS heute ca. 50% der Treibhausgasemissionen in Deutschland 
+ab- deckt. So unterliegen die energiebedingten CO2-Emissionen⁴ stationärer Anlagen aus den 
+Bereichen Stromer- zeugung und der energieintensiven Industrie sowie des Luftverkehrssektors 
+bereits einer EU-weit etablierten Bepreisung. Für die non-EU ETS Sektoren, zu denen die Bereiche 
+Wärme/Gebäude, Verkehr (ohne Luftver- kehr), Landwirtschaft und die übrige Industrie sowie Handel 
+und Gewerbe gehören, existiert bisher keine ex- plizite CO2-Bepreisung.
+Im Zentrum der in den letzten Monaten intensiv geführten politischen Debatte um eine CO2-Bepreisung 
+stan- den vor allem die Sektoren Verkehr sowie Gebäude/Wärme. Dies ist vor allen darin begründet, 
+dass beide Sektoren einen erheblichen Anteil der deutschen Treibhausgasemissionen verantworten 
+(Gebäude ca. 14 %, Verkehr ca. 19 %)⁵, jedoch bisher keiner expliziten CO2-Bepreisung unterliegen. 
+Zudem befinden sich die Emissionen des Verkehrssektors – trotz stetiger Effizienzverbesserungen – 
+heute noch auf einem ähnlichen Niveau wie 1990.
+Auch viele Teilnehmer der Ideenschmiede Effiziente CO2-Bepreisung gaben an, dass ein neu 
+einzuführendes CO2-Bepreisungsinstrument diese beiden Sektoren umfassen sollte. Allerdings 
+herrschte Uneinigkeit darüber, ob und für welche weiteren Bereiche eine Regulierung gelten sollte. 
+Während einige Teilnehmer forderten, dass auch der Landwirtschaftssektor mit einbezogen werden 
+sollte, plädierten nicht wenige für ein gänzlich übergreifendes Instrument, dass alle Sektoren (ETS 
+und non-ETS) umfassen sollte. Diese Uneinigkeit spiegelt sich deutlich im untenstehenden 
+Stimmungsbild wider.
+
+
+
+
+4 Seit 2013 umfasst der EU ETS auch Emissionen von Lachgas und perfluorierten Kohlenwasserstoffen.
+5 Bundesregierung (2019), S. 50-61.
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 5: Stimmungsbild zur sektorenspezifischen CO2-Bepreisung
+
+Neben dem generellen Gültigkeitsbereich der CO2-Bepreisung stellt sich auch die Frage, ob bestimmte 
+Verbrauchergruppen eines regulierten Sektors von der CO2-Bepreisung ausgenommen werden sollten und 
+inwieweit bestehende Ausnahmeregelungen (z.B. bei der Energiesteuer) beibehalten werden sollten. 
+Diese Aspekte wurden jedoch nicht im Detail aufgegriffen.
+
+2.2.6 Preissignal und Preispfad
+Eng verknüpft mit dem Gültigkeitsbereich ist der Wirkungsbereich des Preissignals. Soll es ein 
+einheitliches Preissignal über sämtliche unter die CO2-Bepreisung fallende Sektoren geben oder 
+sollen sektorspezifische Preisanreize verfolgt werden? Auch die Kopplung des nationalen 
+CO2-Bepreisungsinstruments an die Preise des EU ETS ist eine Ausgestaltungsoption. Die 
+verschiedenen Varianten können auch im weiteren zeitlichen Verlauf miteinander kombiniert werden. 
+So wäre es beispielsweise denkbar, kurzfristig mit sektorspezi- fischen Preissignalen zu starten, 
+die dann mittel- bis langfristig vereinheitlicht werden. Grundsätzlich ist es möglich, sowohl 
+Bepreisungsmodelle mithilfe Energiesteuern sektor- bzw. energieträgerspezifisch auszugestalten, als 
+auch mengenbasierte (Handels)Ansätze zu wählen. Bei letzterem könnten voneinander getrennte 
+Handelssysteme für die Bereiche eingeführt werden, die unterschiedlichen Preissignalen unterworfen 
+werden sollen.6
+Die verschiedenen Ausgestaltungsformen waren Gegenstand intensiver Diskussionen zwischen den 
+Teilnehmern. Zum Diskussionseinstieg wurde folgendes Stimmungsbild eingefangen.
+
+
+
+
+
+
+
+
+
+
+
+6 Dieser Ansatz wurde beispielsweise vom wissenschaftlichen Beirat des BMWi empfohlen (vgl. BMWi 
+2019, „Energiepreise und effiziente Klimapolitik - Gutachten des Wissenschaftlichen Beirats beim 
+Bundesministerium für Wirtschaft und Energie “)
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 6: Stimmungsbild zur Entwicklung des Preispfades der CO2-Bepreisung
+
+Sektorübergreifendes oder sektorspezifisches Preissignal?
+Aus Sicht der volkswirtschaftlichen Theorie ist ein einheitliches Preissignal über sämtliche 
+Sektoren und Länder hinweg die effizienteste Lösung. Alle Wirtschaftssubjekte würden sich an diesem 
+Preissignal orientieren und ihre Aktivitäten entsprechend daran ausrichten und optimieren. 
+Verzerrungen zwischen einzelnen Sektoren würden so verhindert. Viele Diskussionsteilnehmer 
+schlossen sich dieser Argumentation an. In diesem Zusammenhang muss jedoch differenziert werden, ob 
+der Begriff „sektorübergreifend“ hier nur die von dem neu einzuführenden CO2-Bepreisungsinstrument 
+betroffenen Sektoren umfasst oder auch die heutigen EU ETS-Sektoren. So forderte ein Teil der 
+Vertreter einen einheitlichen CO2-Preis für alle Sektoren, um bestehenden Verzerrungen 
+entgegenzuwirken und neue Ineffizienzen zu verhindern. Wenngleich viele Teilnehmer einen 
+einheitlichen Preis für das theoretische Optimum erachteten, gab es dennoch eine große Gruppe von 
+Akteuren, die sich für sektorspezifische Preissignale aussprachen. Dies wurde insbesondere damit 
+begründet, dass sowohl die Preiselastizitäten als auch die (Grenz-) vermeidungskosten zwischen den 
+einzelnen Sektoren unterschiedlich hoch seien. Insbesondere der Verkehrssektor sei durch hohe 
+Vermei- dungskosten geprägt. Ein einheitlicher CO2-Preis über mehrere Sektoren wäre somit zwar 
+kosteneffizient, würde aber nicht zwangsläufig zu Emissionsminderungen in allen Sektoren führen.
+
+
+“Nur wenn alle Akteure dem glei- chen Preissignal ausgesetzt sind, ist Kosteneffizienz gegeben.“
+“Ein über mehrere Sektoren einheitlicher CO2-Preis wird nicht in al- len Sektoren zu gewünschten 
+Emissionsminderungen führen, da Preiselastizitäten und Vermeidungskosten unterschiedlich hoch sind.
+
+Höhe des Preissignals
+Ein weiterer Aspekt, der im Rahmen der Ideenschmiede in diesem Zusammenhang diskutiert wurde, ist 
+die Höhe des Preissignals (Einstiegspreis) sowie dessen zeitliche Entwicklung (Preispfad).7 Hier 
+geht es insbesondere um die Frage, ob und ab wann das Preissignal Lenkungswirkung entfalten kann, 
+also ab wann
+
+
+7 Es sei darauf hingewiesen, dass im Falle einer mengenbasierten Steuerung, die Preise nicht 
+festgelegt werden können. Allerdings kann mit der Einrichtung von Preiskorridoren (Mindest- und 
+Höchstpreise) Einfluss auf die Entwicklung genommen werden.
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  21
+
+es die betroffenen Verbraucher und Unternehmen zu Emissionsminderungen bzw. zu klimafreundlichen 
+Investitionen anregt.
+Die diskutieren Konzepte beinhalteten grundsätzlich unterschiedliche Einstiegspreise und umfassten 
+mehrheitlich eine Spanne zwischen 20 und 50 €/t CO2. Die genaue Höhe des Einstiegspreises war zwar 
+nicht direkter Diskussionsgegenstand, dennoch waren sich viele Teilnehmer weitgehend einig, dass es 
+bei Preisen in der o.g. Größenordnung zu keinen nennenswerten Emissionseinsparungen in den Sektoren 
+Verkehr und Gebäude/Wärme kommen wird. Dafür bräuchte es ein deutlich höheres Preisniveau.8 
+Uneinigkeit herrschte jedoch darüber, ob die Erwartungen an eine (ggfs. festgelegte) steigende 
+Preisentwicklung an sich schon zu Verhaltensänderungen bei anstehenden Investitionsentscheidungen 
+führen würde. Mehrere Teilnehmer argumentierten, dass Haushalte und Unternehmen in ihren heutigen 
+Investitionsentscheidungen steigende Preiserwartungen für die Zukunft berücksichtigen würden und 
+somit eine indirekte Lenkungswirkung selbst bei niedrigeren Einstiegspreisen gewährleistet sei. 
+Dies hinge aber letztlich von der Glaubwürdigkeit ab, mit der die Politik langfristige 
+Knappheitssignale kommunizieren kann und will.
+Dabei spielte auch der Aspekt der Akzeptanz eine wichtige Rolle in der Diskussion. Verschiedene 
+Akteure plädierten dafür, bei der Einführung eines CO2-Bepreisungsinstruments mit moderaten Preisen 
+zu starten, um gesellschaftliche Akzeptanz für die Maßnahme durch schrittweise und planbare 
+Erhöhungen zu erreichen. Außerdem wurde vereinzelt argumentiert, dass ein weniger ambitioniertes 
+Einstiegslevel die Entwertung bereits getätigter Investitionen begrenzen würde.
+Wie Planungssicherheit herstellen?
+Für zukünftige Investitionen sei jedoch vor allem Planungssicherheit elementar. Vor diesem 
+Hintergrund befürworteten eine Reihe von Akteuren eine Steuerlösung, gekoppelt mit einer 
+verbindlichen und mittel-bis langfristigen Festlegung eines Steueranstiegspfads, den Unternehmen 
+und Haushalte unmittelbar in ihren Investitions-, Produktions- und Konsumentscheidungen 
+berücksichtigen könnten. Durch eine frühzeitige Festlegung der zukünftigen Steuersätze könne 
+Planungssicherheit gewährleistet werden.
+Hierzu gab es einigen Widerspruch mit dem Verweis darauf, dass eine Steuerlösung eine 
+Zielerreichung we- gen der fehlenden Mengensteuerung nicht garantieren könne. Somit seien 
+Nachjustierungen seitens der Poli- tik wahrscheinlich, falls die festgelegten Steuersätze nicht zu 
+den gewünschten Emissionsminderungen füh- ren würden. Das wiederum würde letztlich die 
+Planungssicherheit wieder reduzieren. Ein Handelssystem sei robuster gegenüber staatlichen 
+Eingriffen und böte letztlich mehr Planungssicherheit.
+Bei den Befürwortern der Option eines Handelssystems kristallisierten sich im Laufe der Diskussion 
+unter- schiedliche Detailpositionen heraus. Während einige einen Preiskorridor für ein zu 
+erschaffendes Handelssys- tem befürworteten, sprachen sich andere für eine gänzlich marktliche 
+Preisbildung aus, wieder andere plä- dierten für anfänglich steigende Fixpreise zur Überbrückung 
+einer Einführungszeit, die nach wenigen Jahren wieder abzuschaffen seien.
+Insbesondere zur letzten Option wandten die Befürworter der Steuerlösung ein, dass dieselbe Wirkung 
+mit der Einführung einer CO2-Steuer deutlich schneller zu erreichen sei und diese bei Bedarf nach 
+Aufsetzen ei- nes funktionalen Handelssystems überführt werden könne.
+
+
+⁸ Beispielsweise sprachen sich einzelne Vertreter für eine Neugestaltung der Energiesteuer aus, die 
+einen impliziten CO2-Preis zwischen 200-300 EUR/t zur Folge hätte. Hierbei gilt es allerdings zu 
+beachten, dass dieser Preis nicht durch eine zusätzliche Belastung konventio- neller Energieträger 
+entstünde, sondern durch die Befreiung CO2-neutraler Energieträger von der reformierten, am 
+Kohlenstoffgehalt orientierten Energiesteuer.
+
+
+
+
+
+22
+
+2.2.7 Umsetzungsgeschwindigkeit
+Auch die politische und rechtliche Umsetzbarkeit der verschiedenen CO2-Bepreisungsmodelle wurde 
+disku- tiert. Rechtliche und administrative Aspekte beeinflussen maßgeblich die Geschwindigkeit, 
+mit der ein CO2- Bepreisungsinstrument eingeführt werden kann. Welche Änderungen von europäischen 
+und bundesdeut- schen Gesetzen sind notwendig? Welche administrativen Vorlaufprozesse müssen 
+abgeschlossen sein, damit ein Modell effektiv funktionieren kann? All dies sind Fragen, die für die 
+Entscheidung über einem CO2-Beprei- sungsmodell relevant sind.
+Für ein handelsbasiertes System stellten vor allem die hohen Anforderungen an strukturelle, 
+verwaltungs- technische und rechtliche Rahmenbedingungen und der dafür erforderliche zeitliche 
+Vorlauf ein großes Ge- genargument dar; für eine Prozessqualität, die anschlussfähig an das EU ETS 
+sei, wird von einem Fachexper- ten eine Vorlaufzeit von 3-4 Jahren angesetzt.9
+Eine Neuausrichtung der Energiesteuersätze anhand der CO2-Intensität der Energieträger sei dagegen 
+sowohl verfassungs- und europarechtlich möglich10 als auch administrativ weniger aufwendig, sodass 
+der benötigte zeitliche Vorlauf einer Steuerlösung deutlich geringer sei als bei handelsbasierten 
+Ansätzen und auf maximal 1 Jahr geschätzt wurde.11 Diese Einschätzungen wurden von den meisten 
+Diskussionsteilnehmern geteilt.
+Nichtsdestotrotz gab es durchaus unterschiedliche Meinungen, inwieweit eine schnelle Umsetzbarkeit 
+über- haupt als Auswahlkriterium für ein Bepreisungsinstrument herangezogen werden sollte. Viele 
+Teilnehmer sprachen sich mit dem Verweis auf die notwendigen Anstrengungen zur Erreichung der 
+Klimaziele für 2030 für einen schnellstmöglichen Start der Bepreisung noch in 2020 aus. Diese 
+Teilnehmer präferierten in der Re- gel auch eine Steuerlösung. Die Befürworter eines 
+mengenbasierten Regulierungsansatzes befürworteten zwar überwiegend ebenfalls einen 
+schnellstmöglichen Umsetzungsstart, hielten aber eine Umsetzung bis spätestens 2023 für akzeptabel. 
+Nur einzelne Teilnehmer erachteten die Umsetzungsgeschwindigkeit als un- wichtig für die Debatte.
+
+
+“Die Umsetzung eines nationalen Emissionshandels für die Sektoren Gebäude/Wärme und Verkehr be- 
+darf mehrerer Jahre Vorlaufzeit, wenn ein Mindestmaß an Prozess- qualität gewährleistet werden 
+soll, das haben wir aus der Einführung des EU ETS gelernt.“
+„Die Zeit drängt. Wenn wir un- sere Ziele bis 2030 erreichen wollen, müssen wir schnell handeln. 
+Eine Reform der Energiesteuer ist vergleichs- weise schnell umsetzbar und sollte schnellstmöglich 
+ange- gangen werden.“
+„Durch eine CO2-Bepreisung al- leine werden die Klimaziele nicht erreicht. Deshalb sollte sich die 
+Politik zur Einführung eines sol- chen Instruments die notwendige Zeit nehmen. Mit einem wenig 
+durchdachten Design ist nichts gewonnen.“
+
+
+
+
+
+
+
+
+
+
+9 Öko-Institut Matthes (2019), S. 7
+10 Aufgrund der Bindung des Gesetzgebers an die im Grundgesetz vorgegebenen Steuertypen müsste 
+allerdings die verbrauchte Energie- einheit weiterhin Steuergegenstand bleiben und eine 
+Rückrechnung vom Preis/t CO2 auf den Energieverbrauch erfolgen (vgl. Stiftung Umweltenergierecht, 
+Kahl (2019), S. 10-11).
+11 Diese Einschätzung wird auch von weiteren Wissenschaftlern geteilt (z.B. DIW, Kemfert (2019)).
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  23
+
+2.2.8 Einnahmenverwendung
+Die Diskussion um eine CO2-Bepreisung wird maßgeblich auch von der Frage nach der Einnahmenverwen- 
+dung bestimmt, denn die Bepreisung jeder ausgestoßenen Tonne CO2 wird Einnahmen generieren, für die 
+es ein politisches Konzept geben sollte. Wie genau das eingenommene Geld verwendet werden soll, ist 
+strittig.
+Ziele der Einnahmenverwendung sollten nach Einschätzung der Diskussionsteilnehmer sein:
+■ Abfedern sozialer Härten
+■ Kompensation von Wettbewerbsnachteilen von Unternehmen
+■ Anreizen von Investitionen in CO2-Vermeidung und Technologien
+
+Einige Teilnehmer meinten auch, dass eine allgemeine Mehrbelastung der Bevölkerung insgesamt 
+vermieden werden sollte. Einzelne Teilnehmer zweifelten an, dass es, je nach genauer Ausgestaltung 
+des CO2-Preises, überhaupt Mehreinnahmen geben wird, da an anderer Stelle Steuereinnahmen (z.B. 
+Energiesteuern auf Kraftstoffe) entfallen würden.
+Weitgehend unstrittig war, dass die Sicherstellung einer breiten Akzeptanz und Zustimmung der 
+Zivilgesell- schaft und der Wirtschaft für eine CO2-Bepreisung, die auch tatsächlich eine 
+Lenkungswirkung entfaltet, eng mit dem Thema Einnahmenverwendung verbunden ist.
+
+Aufkommensneutralität: zweckgebundene Verwendung der Einnahmen
+Weitgehende Einigkeit bestand zwischen den Teilnehmern darin, dass die CO2-Bepreisung 
+aufkommensneut- ral erfolgen soll und dass das bedeutet, dass durch den CO2-Preis der 
+Staatshaushalt in der Bilanz nicht er- höht werden soll, sondern alle generierten Einnahmen 
+zweckgebunden verwendet werden, z.B. für eine di- rekte Rückzahlung an die Bürger, Förder- und 
+Anreizprogramme für klimafreundliches Handeln oder für sozi- alen Ausgleich der entstandenen 
+Belastungen. Unterschiedliche Ansichten gab es jedoch zur Ausgestaltung und den Arten der 
+Rückzahlung, wie die folgenden Stimmungsbilder zeigen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 7: Stimmungsbilder zur Einnahmenverwendung / Rückverteilung der Einnahmen
+
+Fokussierte oder breit gestreute Verwendung der Einnahmen? Sozial-, wirtschafts- und klima- 
+politische Perspektiven
+Im Mittelpunkt der Diskussion standen folgende Optionen:
+■ die Entlastung der Verbraucherinnen und Verbrauchern durch eine direkt gezahlte 
+Pro-Kopf-Klimaprämie,
+■ die Absenkung des Strompreises (durch Gegenfinanzierung oder Wegfall der EEG-Umlage und/oder der 
+Stromsteuer) und/oder anderer Abgaben und Umlagen im Energiebereich
+■ ausschließliche Verwendung für Investitionen in CO2-mindernde Maßnahmen, so zum Beispiel für 
+Förder- programme im Gebäudebereich, Anreize für den Einsatz emissionsmindernder Technologien in 
+Gewerbe, Industrie, Verkehr, Investitionen in Forschung und Entwicklung im Bereich Klimaschutz u.a.
+
+Genauer diskutiert wurde, welche Verteilungseffekte bei Haushalten und besonders betroffenen 
+Personen- kreisen, wie z.B. Langstrecken-Pendlern, zu erwarten sind und wie diese durch 
+unterschiedliche Kompensati- onsmodelle abgefedert werden könnten. Der Anteil für Energieausgaben 
+am verfügbaren Haushaltseinkom- men ist sehr unterschiedlich, untere und mittlere 
+Einkommensschichten weisen anteilig am verfügbaren Haushaltseinkommen meist deutlich höhere 
+Energieausgaben auf als obere Einkommensschichten.
+Pro-Kopf-Rückverteilung
+Der CO2-Fußabdruck wächst in der Regel mit steigendem Haushaltseinkommen. So würden von einer pau- 
+schalen Pro-Kopf-Rückverteilung beispielsweise einkommensschwächere Haushalte stärker profitieren 
+als bei einer Reduzierung des Strompreises, da unabhängig vom Verbrauch pro Kopf gleich viel 
+zurückgezahlt
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  25
+
+wird. Andererseits wurde herausgestellt, dass eine Pro-Kopf-Rückverteilung mit zusätzlichem 
+bürokrati- schen Aufwand einhergehe und rechtliche Fragen zu klären seien. Einzelne Teilnehmer 
+wiesen darauf hin, dass Rebound-Effekte durch eine Verwendung der Prämie für klimaschädliches 
+Verhalten nicht ausgeschlos- sen wären.
+Strompreisentlastung
+Eine andere Möglichkeit der Einnahmenverwendung ist die Entlastung des Strompreises – diese 
+Möglichkeit wurde nur von einigen Anwesenden unterstützt. Diese argumentierten, dass eine 
+Strompreisentlastung so- wohl Haushalte als auch Unternehmen entlasten würde. Aus der Perspektive 
+der Vertreter der von der disku- tierten CO2-Bepreisung betroffenen Sektoren Verkehr und Gebäude 
+gab es stattdessen klar den Wunsch, dass die Einnahmen aus der CO2-Bepreisung zielgerichtet auch in 
+diesen Sektoren für die Verstärkung der weite- ren Entwicklung verwendet werden sollten. 
+Hervorgehoben wurde bei der Variante „Strompreisentlastung“ auch die Anreizwirkung zur 
+Sektorkopplung, d.h. hier die Nutzung von Strom in anderen Sektoren. Dies sei zum einen zwar 
+übergeordnetes Ziel der Energiewende, um möglichst viele Endenergiebedarfe erneuerbare erfüllen zu 
+können. Andererseits sei der aktuelle Strommix noch zu wenig geeignet für eine beschleunigte 
+Sektorkopplung, da das Emissionsprofil wegen eines weiterhin hohen Kohlestromanteils noch deutlich 
+zu hoch ist.
+Weitere Zielgruppen und Formen der Einnahmenverwendung
+Neben der Betrachtung der Wirkung auf die Haushalte sollte nach Einschätzung einiger 
+Diskussionsteilneh- mer ebenso die Wirkung der CO2-Bepreisung auf Unternehmen Berücksichtigung 
+finden und zur Vermeidung von Schwächung der Wettbewerbsfähigkeit einzelner Branchen insbesondere 
+Unternehmen und Gewerbe ebenso in die Rückverteilung der generierten Einnahmen einbezogen werden. 
+Fraglich war auch, welche Zu- satzmaßnahmen es für besonders betroffene Gruppen zur Abfederung 
+braucht. Im Falle von Haushalten könnte nach Meinung einiger Teilnehmer ein Härtefallfonds für 
+finanziell besonders betroffene Haushalte aufgesetzt werden, aus dem zum Beispiel die Anschaffung 
+klimafreundlicher Endgeräte, Energieberatungen oder auch Sanierungsmaßnahmen unterstützt werden. 
+Auf Unternehmensseite wurden Maßnahmen wie Ausnahmegenehmigungen für besonders betroffene 
+Wirtschaftszweige oder einen CO2-Grenzsteuerausgleich diskutiert. Allerdings wurde hier von einigen 
+Diskutanten auch angemerkt, dass die generierten Einnahmen nicht zur Entlastung einzelner Gruppen, 
+wie energieintensiver Unternehmen, genutzt werden sollten. Es wur- den auch einige Ansätze zur 
+spezifischen Entlastung der bepreisten Sektoren diskutiert. Eine sektorspezifi- sche Rückverteilung 
+wurde von einigen Teilnehmern der Diskussion befürwortet. Dabei sollen die aus einem Sektor 
+generierten Einnahmen auch diesem Sektor wieder durch Förderprogramme für Klimaschutzmaßnah- men 
+oder Technologieförderung zugeführt werden.
+Einigkeit herrschte über die Notwendigkeit einer Rückverteilung der Einnahmen Verbraucher und 
+Unterneh- men, Uneinigkeit über die Ausgestaltung. Die Sicherstellung einer breiten 
+gesellschaftlichen Akzeptanz und der Erhalt der Wettbewerbsfähigkeit der Wirtschaft bildeten dabei 
+die Leitplanken. Gespalten waren die Mei- nungen zur Pro-Kopf-Prämie, welche zum Teil als sozial 
+gerecht und akzeptanzfördernd befürwortet wurden, aber auch wegen ihres bürokratischen Aufwands und 
+ihrer geringen Lenkungswirkung kritisiert wurde. Einige Teilnehmer waren für eine Absenkung des 
+Strompreises, während die Mehrheit der Teilnehmer für eine Kom- bination mehrerer Optionen 
+bevorzugt, die neben einkommens- oder haushaltsbezogenen Rückverteilungs- maßnehmen auch Förderung 
+und Investitionen in CO2-mindernde Technologien beinhaltet.
+
+
+
+
+
+
+
+
+26
+
+Die Teilnehmer waren sich darüber einig, dass die CO2-Bepreisung sozialverträglich ausgestaltet 
+werden muss. Das vorrangige Ziel des Instruments ist allerdings die effektive Minderung von 
+CO2-Emissionen, wel- ches stringent, aber nicht ohne Rücksicht auf soziale Auswirkungen und die 
+wirtschaftliche Wettbewerbsfä- higkeit umgesetzt werden sollte.
+
+
+„Die Rückerstattung der CO2-Beprei- sung sollte zielgruppenspezifisch er- folgen. Die von den 
+privaten Ver- brauchern geleisteten Zahlungen werden auch an diese zurückerstat- tet, davon dürfen 
+keine Ausnah- meregelungen anderer Gruppen, wie z.B. die stromintensive Indust- rie, 
+gegenfinanziert werden.“
+
+“Die CO2-Bepreisung ist ein Instrument, dass mehr Klimaschutz bewirken soll. Deswegen sollten die 
+Einnahmen auch für Kli- maschutzmaßnahmen verwendet werden.
+„Eine Mischung der Rückerstat- tungsoptionen ist der richtige Weg. Den Strompreis entlasten, 
+Umrüstungen bei Wärmean- wendungen unterstützen und Investitionen in die Skalierung 
+klimafreundlicher Technologien ermöglichen.“
+
+
+2.2.9 Umsetzungsaspekte und Wechselwirkungen mit bestehenden Regulierungsan- sätzen
+Die Frage, welche Grundprinzipien (Umsetzungsaspekte) angewendet werden sollten und mit welchen 
+Wech- selwirkungen, vor allem auch Zielkonflikten mit bestehenden Regulierungsansätzen wurden zu 
+rechnen sei, wurde in sektorspezifischen Workshops (Gebäude, Verkehr und Industrie) bearbeitet. Die 
+folgenden Kapitel geben dementsprechend die maßgeblichen Meinungen der Diskussionsteilnehmer aus 
+den verschiedenen Sektoren wieder.
+
+Industrie und Energiewirtschaft
+Grundsätzlich ist aus Sicht der Teilnehmer aus der Industrie und der Energiewirtschaft12 
+(Energieerzeu- gung, -handel und Netzbetrieb) zunächst festzuhalten, dass einer einheitlichen 
+sektorübergreifenden CO2- Bepreisung entgegensteht, dass
+■ die Sektoren sehr unterschiedlichen Wettbewerbssituationen ausgesetzt sind, in denen 
+unterschiedliche Preiselastizitäten herrschen (Elastizität der Nachfrage, aber auch des Angebots)
+■ die Kostensituation und die Kostenentwicklungen bei den klimaschutzfreundlichen Technologieopti- 
+onen (Prozessen) unterschiedlich sind.
+Dies spricht nach der Auffassung einer Mehrzahl der Teilnehmer aus der Industrie für 
+sektorspezifische Preis- signale, zumal die Bundesregierung mit dem Klimaschutzplan 2050 einen 
+sektorspezifische Zielerreichungen anstrebt. Hinter diesen Gedanken stand die Überlegung der 
+Schaffung eines „level-playing fields“, also glei- cher Wettbewerbsbedingungen über die 
+Sektorengrenzen hinweg, bei den meisten Teilnehmern zurück. Die weit überwiegende Mehrheit der 
+Teilnehmer aus der Industrie ist der Auffassung, dass die CO2 Bepreisung sektorspezifische 
+Innovationen gezielt anreizen sollte. Nur einzelne Diskussionsteilnehmer waren der Auffas- sung, 
+dass ein Bepreisungsinstrument sektorübergreifend dort ansetzen soll, wo die niedrigsten 
+CO2-Vermei- dungskosten vorliegen und eine CO2-Minderung somit am günstigsten ist.
+
+
+D Die Interessenlagen von Industrie und Energieerzeugung sind nicht deckungsgleich, waren aber in 
+den Diskussionen in einer Gruppe zusammengefasst. Daher werden sie hier aus Effizienzgründen in 
+einen gemeinsamen Kapitel behandelt. Eine Differenzierung der ver- tretenen Positionen wird 
+vorgenommen wo erforderlich.
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  27
+
+In diesem Zusammenhang wurde auch hervorgehoben, wie wichtig die Berücksichtigung von Investitions- 
+zyklen sei. Weitgehender Konsens war, dass angesichts der langen Investitionszyklen in der 
+Industrie vor al- lem langfristig kalkulierbare, verlässliche Preissignale erwartet werden.
+Doppelregulierung vermeiden, Wechselwirkungen von EU ETS und CO2-Bepreisung beachten
+Das einzuführende CO2-Bepreisungsinstrument sollte hinsichtlich der Wechselwirkungen vor allem 
+daraufhin überprüft werden, ob es derzeit bereits funktionierende politische Instrumente (u.a. 
+Förderinstrumente, kon- kurrierendes Ordnungsrecht) beschädigen könnte. Eine Beschädigung wäre zum 
+Beispiel dann denkbar, wenn bestehende Förderinstrumente hinsichtlich ihrer Wirkung geschwächt oder 
+sogar wirkungslos würden. Auch sollte eine Doppelregulierung und Doppelbelastung einzelner 
+Erzeugungstechnologien vermieden wer- den.
+Infobox: Typische Wechselwirkungen am Beispiel der KWK – Doppelregulierung und Doppelbelastung 
+vermeiden
+Exemplarisch in den Augen der Diskutanten das Beispiel der KWK (insbesondere der industriellen 
+KWK), wo sich verschiedene Handlungsnotwendigkeiten ergeben. Dies beginnt mit der Verlängerung des 
+KWK- G, um längere Planungshorizonte für die Unternehmen zu schaffen. Zur langfristigen Planbarkeit 
+gehört ebenso, häufige Änderungen des Regulierungsrahmens (Änderungen des KWK-G) zu vermeiden. Im 
+Hin- blick auf die KWK betont insbesondere die Industrie (aber auch die Wohnungswirtschaft), dass 
+eine dro- hende Doppelregulierung und eine daraus resultierende Marktverzerrung vermieden werden 
+soll. Das- selbe gilt für die Doppelbelastung von Erzeugungskapazitäten, die oft bereits dem EU 
+ETS-Regime unter- liegen.
+
+Die Marktverzerrung könnte sich daraus ergeben, dass KWK-Anlagen im non-ETS Bereich künftig in 
+einem stärkeren Konkurrenzverhältnis zur den vom EU ETS erfassten KWK-Anlagen stehen. Im non-ETS 
+Sektor er- zeugter Strom kann dann auf dem Großhandelsmarkt im Wettbewerb mit dem durch den EU ETS 
+CO2-be- preisten Strom stehen. Auch hier kann es durch Preisgefälle der beiden Bepreisungssysteme 
+zu unerwünsch- ten Folgeerscheinungen kommen und klimafreundliche Geschäftsmodelle nicht mehr 
+wirtschaftlich umsetz- bar sind. Höhere Preise im non-ETS-Sektor könnten dazu führen, dass 
+bestehende KWK-Anlagen weniger be- trieben werden, was einen Mehreinsatz anderer, ggf. weniger 
+effizienter Gaskraftwerke oder von Kohlekraft- werken zur Folge hätte. Zusätzliche 
+Klimaschutzmaßnahmen in der Industrie werden von den bereits dem EU ETS unterliegenden Branchen 
+(chemische Industrie, Eisen und Stahlproduktion etc.) daher auch eher ab- gelehnt.
+Ordnungsrecht weiterentwickeln
+Zwischen dem Instrument einer CO2-Bepreisung und dem klassischen Ordnungsrecht besteht nach Auffas- 
+sung der weit überwiegenden Mehrheit der Teilnehmer kein grundsätzlicher Zielkonflikt. Demnach 
+schließt eine CO2-Bepreisung die Anwendung von Ordnungsrecht nicht zwangsläufig aus. Jedoch macht 
+die Einfüh- rung eines CO2-Bepreisungssystems nach der Auffassung der Mehrzahl der Teilnehmer eine 
+Weiterentwick- lung des klassischen Ordnungsrechts erforderlich. Zum Beispiel müsse die 
+primärenergetische Anforde- rungssystematik im verschiedenen Gesetzeswerken dann durch 
+CO2-Emissionen abgelöst werden. Dies diene der Kohärenz der gesetzlichen Anforderungen, 
+insbesondere hinsichtlich der unterschiedlichen Gesetzes- werke zueinander.
+
+
+
+
+
+
+
+28
+
+Abgaben und Umlagen neu strukturieren
+In den derzeit diskutierten Bepreisungsvorschlägen geht es immer auch um die zukünftige Struktur 
+von Ab- gaben und Umlagen. In vielen Vorschlägen sollen die industriellen und gewerblichen 
+Verbraucher durch ein Abschmelzen der EEG-Umlage (oder die Senkung der Stromkosten an anderer 
+Stelle) kostenmäßig entlastet werden. Eine Änderung der derzeitigen Abgabe- und Umlagestruktur bei 
+Strom impliziert Wechselwirkungen hinsichtlich der Marktposition der derzeitigen Marktteilnehmer. 
+Dies gilt auch für die Industrie, in der der do- minierende Energieträger Gas im Wege einer 
+CO2-Bepreisung relativ schnell durch den Energieträger Strom abgelöst werden könnte. Hinsichtlich 
+Energieerzeugung und Energiehandels waren in der Ideenschmiede sowohl Vertreter der Gaswirtschaft 
+als auch Vertreter der (erneuerbaren) Stromerzeugung präsent. Während die Vertreter der 
+Stromwirtschaft in der derzeitigen Umlagesystematik eine Verzerrung der Marktpreise se- hen, die 
+beispielsweise die gewünschte Kopplung der Sektoren (Einsatz von Strom im Wärme- und Verkehrs- 
+sektor) verhindert, weisen die Vertreter der Gaswirtschaft darauf hin, dass eine Entlastung von der 
+EEG-Um- lage ebenfalls kontraproduktiv wirken könnte. Ihr Argument: Wenn Strom billiger wird, wird 
+er mehr ver- braucht. Ein Mehrverbrauch wäre aber kontraproduktiv, da die Mehrerzeugung nicht in 
+der nötigen Ge- schwindigkeit durch erneuerbare Energien geleistet werden könne. Ordnungspolitisch 
+kann zudem einge- wandt werden, dass die Belastung anderer Sektoren mit den historischen EEG-Kosten 
+(im wesentlichen Technologieentwicklungskosten) ungerechtfertigt sei.
+
+
+“Es geht um die schnellst- mögliche Reduzierung der CO2-Emissionen. Daher soll- ten wir bei der 
+CO2-Beprei- sung die CO2-Vermeidungs- kosten jeder einzelnen Tech- nologie in den Mittelpunkt 
+stellen”.
+
+“Wir müssen alle Sektoren schnellstmöglich dekarboni- sieren. Daher wäre die Fokus- sierung auf 
+CO2-Vermeidungs- kosten ein Fehler. Der CO2-Be- preisungsmechanismus muss Änderungen in allen 
+Sektoren anstoßen können.”
+“Der Stromkunde sollte nicht die Entwicklung grüner Kraftstoffe mitfinanzieren.”
+
+“Der Gaskunde sollte nicht die Entwicklung der erneuer- baren Stromerzeugung mitfi- nazieren.”
+
+
+Gebäude
+Aus Sicht der Diskussionsteilnehmer des Gebäudesektors sind folgende Wechselwirkungen bei der 
+weiteren Ausgestaltung zu beachten bzw. müssen weiter analysiert und bewertet werden:
+■  Preiselastizität und Investitionszyklen im Gebäudesektor stehen der gewünschten Lenkungswirkung 
+entgegen: Im Gebäudesektor stehen geringen Preiselastizitäten langen Investitionszyklen gegenüber. 
+Dies hat zur Folge, dass Gebäudeeigentümer und Nutzer aus wirtschaftlichen Gesichtspunkten wenig 
+Anreize haben, CO2 jenseits dessen einzusparen, was im Rahmen der üblichen Sanierungen mit geringem 
+Zusatz- aufwand erfolgen kann. Abgesehen von Maßnahmen mit negativen Vermeidungskosten oder dem 
+Einsatz von alternativen Energieträgern gibt es wenig wirtschaftliche Optionen, CO2-Emissionen 
+einzusparen. Die Möglichkeiten und Wirkung eines veränderten individuellen Nutzungsverhalten wurden 
+als überschaubar betrachtet. Somit war die generelle Einschätzung, dass das Instrument 
+CO2-Bepreisung nur sehr geringe bis keine Anreize setzten kann, Investitionszyklen zu verkürzen, 
+weshalb größere ErstImpulse hier von zusätzli- chen, verstärkenden Instrumenten und Maßnahmen 
+kommen müssen. Eine langfristige Planbarkeit von CO2-Preisen, bspw. durch einen vorskizzierten 
+Preispfad würden helfen, Investitionsentscheidungen in Be- zug auf die energetische Sanierung zu 
+erleichtern. Erschwerend kommt allerdings hinzu, dass z.B. Woh-
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  29
+
+nungsunternehmen energetische Modernisierungsmaßnahmen systematisch innerhalb des Portfolioma- 
+nagements planen und eine Ausweitung aus unternehmensspezifischen Gesichtspunkten (Fremdkapital- 
+aufnahme, operativer Cashflow, Gewinn- und Verlustrechnung, Marktkapazitäten) nur begrenzt möglich 
+ist.
+■  Der CO2-Preisunterschied zwischen ETS und non-ETS Sektor hat Auswirkungen auf Geschäftsmodelle 
+in der Energieerzeugung: Die Besonderheit des Wärmemarkts ist, dass CO2-Emissionen sowohl im ETS 
+als auch im non-ETS-Sektor liegen. Emissionen aus der ‚großen Fernwärme‘ (>20 MW,) sowie aller 
+strombasier- ten Anwendungen zur Wärmeerzeugung unterliegen heute schon einer volatilen 
+CO2-Bepreisung im EU ETS. Emissionen, die aus der ‚kleinen Fernwärme‘ (<20 MW) und Gas- und 
+Ölheizungen resultieren und so- mit im non-ETS-Sektor liegen, werden Stand heute nicht bepreist. 
+Zusätzlich unterliegen die unterschiedli- chen Energieträger (Strom, Erdgas, Heizöl) verschiedenen 
+staatlichen Preisbestandteilen. Somit kommt es bereits heute im Wärmemarkt zu 
+Wettbewerbsverzerrungen zwischen den Sektoren und den Energieträ- gern. Je nach Ausgestaltung des 
+CO2-Bepreisungsmodells und der Abgaben- und Umlagensystematik könnte diesen entgegengewirkt werden. 
+Auch können abweichende Preisniveaus zwischen den Sektoren (ETS und non-ETS) zu Fehlanreizen 
+zulasten klimafreundlicher Technologien führen. Mit höheren Preisen im non-ETS-Sektor hätte z.B. 
+Fernwärme aus Kohlekraftwerken einen noch höheren Kostenvorteil gegen- über einer Erdgasheizung 
+oder einer Wärmepumpe, die mit regenerativ erzeugtem Strom betrieben wird. Der Lösungsansatz wäre 
+hier ein einheitlicher, sektorübergreifender Preis auf fossile Energieträger. Auch spielt das 
+Preisniveau für Geschäftsmodelle von KWK-Anlagen unter der 20 MW Grenze zur Wärme- und 
+Strombereitstellung eine Rolle. Dieser Strom wird im non-ETS Sektor erzeugt und steht auf dem 
+Großhan- delsmarkt im Wettbewerb mit dem Strom, der mit dem CO2-Preis des EU ETS belastet ist. Auch 
+hier kann es durch Preisgefälle der beiden CO2-Preissysteme zu unerwünschten Folgeerscheinungen 
+kommen, da sich klimafreundliche Geschäftsmodelle nicht mehr wirtschaftlich darstellen lassen. 
+Höhere Preise im non-ETS- Sektor könnten dazu führen, dass bestehende KWK-Anlagen weniger betrieben 
+werden, was einen Mehr- einsatz anderer, ggf. weniger effizienter Erdgas- oder Kohlekraftwerke zur 
+Folge hätte. Einem einheitlichen Preisniveau entgegen stehen die unterschiedlichen Niveaus der 
+Vermeidungskosten in den Sektoren Strom, Wärme und Verkehr. Der Wärmesektor hat hier deutlich 
+höhere Vermeidungskosten als der Stromsektor.
+■ Das System ist momentan nicht auf CO2 als Bewertungsgröße ausgerichtet: Um Information und Bera- 
+tung und ordnungsrechtliche Vorgaben transparent und verständlich vermitteln zu können, sollte 
+langfris- tig das gesamte System (Förderung, Anforderungen und das Monitoring) auf CO2 ausgerichtet 
+werden. Der GEG-Entwurf sieht CO2 als Informationsgröße bereits vor. Zukünftig sollte allerdings 
+ein CO2-Faktor den Pri- märenergiefaktor ablösen. Dafür sind substanzielle Überarbeitungen der 
+technischen Regelwerke nötig. Darüber hinaus sollte unbedingt eine für den Gebäudesektor passende 
+Methodik zur einheitlichen Ermitt- lung von CO2-Emissionen geschaffen werden, die sowohl in der 
+Quellen- als auch der Verursacherbilanz Transparenz schafft.
+■ Lenkungswirkung in vermieteten Gebäuden nicht vorhanden: Im Gebäudesektor wirkt ein Preissignal 
+in den verschiedenen Segmenten unterschiedlich, da der Akteur, der die Kosten trägt, nicht immer 
+deckungs- gleich mit dem Akteur ist, der die Entscheidung hin zu einer CO2-ärmeren Anwendung bzw. 
+Investition fällt. Dies hat in vermieteten Gebäuden zur Folge, dass die nötigen Anreize nur 
+insoweit entstehen können, als dem Zahlenden durch Verhaltensänderung Vermeidungsoptionen zur 
+Verfügung stehen. In Deutschland leben 55% der Haushalte in Mietverhältnissen. Auch 
+Nichtwohngebäude werden mehrheitlich nicht vom Eigentümer genutzt. Das sogenannte Nutzer-Investor 
+Dilemma (auch: Mieter-Vermieter-Dilemma) wurde
+
+
+
+
+
+
+
+30
+
+im Teilnehmerkreis als zentrales Hemmnis für die Lenkungswirkung einer CO2-Bepreisung im 
+Gebäudesek- tor identifiziert. Es gilt grundsätzlich als Hemmnis für jedes Klimaschutzinstrument.
+■  Vermeidungskosten im Gebäudesektor weit oberhalb der diskutierten Spanne für einen CO2-Preis: 
+Für Mieter wird eine energetische Modernisierung trotz hoher CO2-Preise teurer sein, als die 
+Bezahlung des CO2-Preises. Der CO2-Preis kann umfassende energetische Modernisierungen nicht 
+anreizen. Hier kann nur ein Ausgleich des Defizits, das weder Mieter noch Vermieter tragen können, 
+durch staatliche Mittel helfen.
+■ Systemische Ansätze (Quartierskonzepte) momentan schlecht umsetzbar: Um das Ziel der CO2-Beprei- 
+sung zu erreichen, sollten im Gebäudesektor lokale Potenziale (bspw. PV, Solar-und Geothermie, 
+Abwärme) am besten durch systemische Ansätze (bspw. Quartierskonzepte) nutzbar gemacht werden. So 
+können in- tegrierte, sektorübergreifende Strom-, Wärme- und Mobilitätskonzepte entwickelt werden. 
+Diesbezüglich gibt es momentan noch sehr viele Hemmnisse: fehlende Klarheit bezüglich der 
+Definition von Kundenanla- gen und Quartier, gewerbesteuerliche Hemmnisse bei Wohnungsunternehmen, 
+hohe Komplexität bei Steu- ern, Abgaben und Meldepflichten, für deren Behebung verbesserte, 
+zielgerichtete Rahmenbedingungen nötig sind, sowie ungünstige Rahmenbedingungen für Mieterstrom.
+■ CO2-Preis in Vergleichsrechnung nicht darstellbar: Kommt es im Rahmen einer Sanierung zum Aus- 
+tausch der Heizungsanlage und zum Umstieg von Eigenbetrieb auf eine Form von Contracting oder dem 
+Anschluss an ein Fernwärmenetz, muss zur Umlagefähigkeit der Wärmelieferung auf den Mieter die 
+Kosten- neutralität gewährt werden. Sie gilt zum Zeitpunkt der Umstellung und berechnet sich auf 
+Basis der durch- schnittlichen Endenergieverbräuche der letzten drei Abrechnungszeiträume (i.d.R. 3 
+Jahre) vor der Umstel- lung. Eine CO2-Bepreisung kann hier dazu führen, dass klimafreundliche 
+Versorgungsvarianten nicht einge- setzt werden können, da diese gegenüber der letzten drei Jahre 
+einen Preisnachteil haben und die Mehr- kosten für den Investor nicht verrechenbar sind.
+■  Gefahr der Doppelregulierung im Blick behalten: Energieträger, die bereits im EU ETS bepreist 
+werden, sollten nicht nochmal im Rahmen des non-ETS-Bepreisungsinstruments erfasst werden. Eine 
+CO2-Beprei- sung kann neben dem bestehenden Energieeinsparrecht aus Sicht der Wohnungswirtschaft zu 
+einer Dop- pelregulierung des Gebäudesektors führen. Im EU ETS-Sektor bestehen keine konkreten 
+Effizienzanforde- rungen, weil sich die günstigsten Maßnahmen zur CO2-Vermeidung 
+marktwirtschaftlich ergeben sollen.
+
+
+“Im Gebäudebereich ist das Nutzer-In- vestor-Dilemma ein großes Hindernis für eine direkte Wirkung 
+der CO2-Be- preisung.”
+“Das derzeitige System der Primärenergiefaktoren im Ord- nungsrecht berücksichtigt nicht die 
+unterschiedliche CO2- Intensität der Brennstoffe. Es muss weiterentwickelt wer- den.”
+
+
+Verkehr
+Aus der Perspektive der Diskussionsteilnehmer aus dem Verkehrssektor ist eine sektorübergreifende 
+CO2-Be- preisung nicht zielführend, da die Vermeidungskosten vieler Maßnahmen im Verkehrssektor 
+über denen in anderen Sektoren liegen. Die im Verkehrssektor notwendigen Vermeidungstechnologien 
+implizieren nach Einschätzung der Teilnehmer dreistellige Vermeidungskosten pro Tonne CO213, also 
+Kosten weit jenseits der aktuell diskutierten Vorschläge. Eine Lenkungswirkung der CO2-Bepreisung 
+im Verkehrssektor ist somit nur mit einem sektorspezifischen CO2-Preis zu erreichen. Andernfalls 
+wird entweder die Defossilierung des Ver- kehrsektors zeitlich nach der Defossilisierung anderer 
+Sektoren erfolgen, oder es entsteht die Notwendigkeit
+
+
+13 BDI (2019)
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  31
+
+von effektiven, verstärkenden Begleitmaßnahmen, die das CO2-Preissignal zu einem Teilaspekt eines 
+größe- ren regulatorischen Gefüges werden lassen.
+Infobox: Energiesteuern im Verkehr nach CO2-Gehalt ausrichten
+Die bestehenden Energiesteuern von 64,45ct/l liegen aktuell über dem EU-Mindeststeuersatz von 
+35,9ct/l. Eine Option zur Neugestaltung der Energiesteuersätze wäre also eine Umgestaltung der 
+Differenz von 29,55ct/l zu einer Steuer, die rein vom CO2-Gehalt des Energieträgers abhängig ist. 
+Daraus ergäbe sich ein CO2-Preis von 125€/t, der einen Anreiz für den Einsatz und die 
+Marktentwicklung alternativer Kraftstoffe leisten kann. Dadurch entsteht neben der THG-Quote ein 
+zweiter Markt für alle erneuerbaren Kraftstoffe, die für weniger als 125€/t CO2 herstellbar sind. 
+Proportional zur Lenkungswirkung entstehen Steuermin- dereinnahmen in der gegenwärtigen 
+Energiesteuer von 40,8 Mrd. Euro 1. Langfristig könnte die gesamte Energiesteuer auf eine 
+CO2-Besteuerung umgestellt werden, wenn eine Anpassung der EU-Energiesteuer- richtlinie erfolgt. 
+Die indirekte Finanzierung der öffentlichen Verkehrsinfrastruktur bedürfe ohnehin einer 
+Umgestaltung zu einem verursachergerechten Mautsystem2.
+
+1 BMF (2018)
+2 Agora (2018)
+
+Mit der bestehenden Regulierung ergeben sich vielfältige Wechselwirkungen eines CO2-Preises. Die 
+Stärke dieser Wechselwirkungen ergibt sich jedoch vor allem durch die Höhe eines CO2-Preises im 
+Verhältnis zu den impliziten Vermeidungskosten der bestehenden Regulierung.
+Die aus der Erneuerbare-Energien-Richtlinie (RED) resultierende Minderungsquote für Treibhausgase 
+(THG- Quote) ist gegenwärtig das zentrale Instrument zum Inverkehrbringen von alternativen 
+Kraftstoffen. Biokraft- stoffe der ersten und zweiten Generation erreichen aktuell Preise, die 
+Vermeidungskosten im mittleren dreistelligen Bereich entsprechen. Gleiches gilt für synthetisches 
+Gas und synthetische Kraftstoffe. Eine CO2- Bepreisung für Kraftstoffe im Verkehrssektor schafft 
+daher nur dann Anreize für alternative Kraftstoffe auf der Angebotsseite über die Quote hinaus, 
+wenn das Preissignal entsprechend hoch14.
+Ähnlich gestaltet sich die Interaktion zwischen einem CO2-Preis und der CO2-Regulierung bei 
+Fahrzeugen. Bis 2030 sollen die Emissionen für Neuwagen bei Pkw und leichte Nutzfahrzeuge um 37,5 
+Prozent gegenüber dem 2020-Grenzwert von 95gCO2/km sinken. Diese ambitionierte Regulierung ist mit 
+Pönalen verbunden, die Vermeidungskosten von ca. 380€/t CO2 implizieren¹⁵. Dementsprechend 
+entfaltet eine CO2-Bepreisung unter- halb dieses Wertes wenig Lenkungswirkung.
+Diese beiden zentralen Instrumente der Energiepolitik im Verkehrssektor ermöglichen eine Anrechnung 
+von Elektrofahrzeugen. Darüber hinaus gibt es noch ergänzende nationale Fördermaßnahmen für 
+Elektromobili- tät: eine Kaufprämie für Elektro-Neufahrzeuge in Höhe von 4000€, eine steuerliche 
+Begünstigung von elektri- schen Dienstwagen, eine Befreiung von der Kfz-Steuer und im Vergleich zur 
+Energiesteuer geringere Besteue- rung der genutzten elektrischen Energie. Eine CO2-Bepreisung 
+zusätzlich zu bestehenden Steuern und Abga- ben im Kraftstoffmarkt kann bei der 
+Investitionsentscheidung für ein Neufahrzeug einen zusätzlichen Anreiz für Elektrofahrzeuge 
+darstellen, der noch verstärkt würde, wenn eine Senkung der EEG-Umlage Teil der Aus- gestaltung 
+wäre.
+
+
+14 In Schweden, wo der aktuelle CO2-Preis 114€/t CO2 entspricht, geht der Anteil alternativer 
+Kraftstoffe nur geringfügig über die Quoten hinaus (Quelle: dena 2018).
+¹⁵ Bei 250.000 km Laufleistung. Pönale sind 95€ pro gCO2/km pro Fahrzeug.
+
+
+
+
+
+32
+
+Darüber hinaus gibt ein CO2-Preis, der zu einer Verteuerung von fossilen Kraftstoffen führt, 
+mittel- bis lang- fristig einen zusätzlichen Anreiz zur Anschaffung effizienter Fahrzeuge und kann 
+einen moderaten Anreiz zu energieeffizientem Fahrverhalten darstellen. Kurzfristig ist keine 
+Verhaltensänderung zu erwarten, da sich ein CO2-Preisniveau in der diskutierten Höhe im Rahmen 
+kurzzeitiger Schwankungen von Tankstellen- preisen befinden. Ähnlich geringe Effekte sind in der 
+Verlagerung von Verkehren auf öffentlichen Nah- und Fernverkehr und Güterverkehr auf der Schiene zu 
+erwarten, da in den Entscheidungen von Verbrauchern und Unternehmen hier eine Reihe von sekundären 
+Faktoren eine Rolle spielt (Verfügbarkeit und Qualität von ÖPNV-Angeboten, Verfügbarkeit von 
+Gleisanschluss bei Schienengüterverkehr etc.).
+Insgesamt sind also bei einer moderaten CO2-Bepreisung zusätzlich zu bestehenden 
+Kraftstoffpreisbestand- teilen zwar keine negativen oder behindernden Wechselwirkungen mit 
+bestehender Regulierung zu erwar- ten, es werden allerdings auch nur schwache Anreize zur 
+Emissionssenkung im Verkehrssektor geschaffen. Allenfalls dort, wo schon andere Maßnahmen 
+Lenkungswirkung entfalten, vor allem in der Elektromobilität, kann der CO2-Preis als zusätzliches 
+Instrument in einigen Fällen eine Investitionsentscheidung im Sinne der CO2-Reduktion auslösen. Für 
+den stärkeren Einsatz alternativer Kraftstoffe entstehen wenig Anreize über die bestehende 
+Regulierung hinaus.
+Anders gestaltet sich der Wirkmechanismus eines CO2-Preises in Form einer Neugestaltung der 
+bestehenden Energiesteuern durch konsequente Ausrichtung auf den CO2-Gehalt. Der diskutierte 
+Vorschlag, die Energie- steuern auf ein Minimum zu reduzieren und die verbleibende Differenz als 
+CO2-Komponente zu gestalten (siehe Infobox oben) würde CO2-Vermeidungskosten in Höhe von 125€/t 
+kompensieren und damit allen ver- fügbaren Kraftstoffmengen, deren Kosten darunterliegen, einen 
+Markt zusätzlich zur THG-Quote eröffnen.
+
+
+„Erdgas und vor allem Bi- omethan sind der güns- tigste Kraftstoff und er- möglichen große Emissi- 
+onssenkungen mit beste- hender Technologie, ver- fügbaren Fahrzeugmodel- len und ausgebauter Inf- 
+rastruktur.“
+„Das Zusammenspiel der regulatori- schen Instrumente und ihre Wirkung auf einkommensschwache 
+Haushalte muss berücksichtigt werden. Stei- gende Immobilienpreise führen schon jetzt zu steigendem 
+Pendelaufkom- men – für einige Haushalte können die Maßnahmen der Verkehrswende zu starken 
+Mehrbelastungen führen.“
+„Neben einem Nachfrage- signal – der CO2-Bepreisung – braucht es auch Instru- mente, um die Ange- 
+botsseite zu stärken. Gerade bei der Mobilität ist es wich- tig, den Menschen Alternati- ven 
+anzubieten.“
+
+
+2.2.10 Verstärkende Maßnahmen für wirksamen Klimaschutz
+Hervorzuheben ist, dass alle Teilnehmer der Auffassung sind, dass ein CO2-Preis nicht das alleinige 
+Mittel zur Erreichung der CO2 Einsparungsziele ist. Vielmehr muss ein CO2-Bepreisungsinstrument 
+durch ein breit gefä- chertes, verstärkendes Instrumentarium unterstützt werden. Aus der Analyse 
+der Wechselwirkungen mit be- stehenden Regulierungen wurden zum Teil sehr konkrete, 
+energiepolitische Maßnahmen abgeleitet, die bei der weiteren gesetzlichen Ausgestaltung beachtet 
+werden sollten. Analog zu Kapitel 3.2.3 wurden auch hier die Ergebnisse sektorspezifisch 
+erarbeitet.
+
+Industrie und Energiewirtschaft
+Die Diskutanten aus der (Heizungs)Industrie und Energiewirtschaft unterstützten als wirkungsvolle 
+zusätzli- che energiepolitische Maßnahmen folgende Ansätze:
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  33
+
+■ Einführung klimagerechter Primärenergiefaktoren im Ordnungsrecht: Bezogen auf die Unternehmen aus 
+dem Sektor Energieerzeugung werden beispielsweise die Einführung “klimagerechter Primärenergie- 
+faktoren” in den verschiedenen Rechtswerken genannt. Grundsätzlich muss bei dem zu erwartenden 
+höhe- ren Anteil von grünem Gas im Erdgasnetz die CO2-Bewertung von gasförmigen Brennstoffen 
+kontinuierlich neu justiert werden.
+■ CO2-intensive Unternehmen durch nationales Dekarbonisierungsprogramm unterstützen: Die Thema- tik 
+CO2-intensive Unternehmen wurde in der Ideenschmiede nicht explizit behandelt. Es war jedoch eine 
+Übereinstimmung hinsichtlich der Einschätzung festzustellen, dass die CO2-Vermeidungskosten in den 
+In- dustrien unterschiedlich hoch, und in einigen Industrien sehr hoch sind. Diese sehr 
+energieintensiven In- dustrien müssen ebenso wie Unternehmen, die sich beispielsweise um die 
+Entwicklung treibhausgasneut- raler Produktionsstandorte bemühen, bei der Dekarbonisierung 
+unterstützt werden, beispielsweise durch ein “nationales Dekarbonisierungsprogramm”.
+■ “Ermöglichendes Ordnungsrecht schaffen”, insbesondere Grüngasquote: Neben der Formulierung ei- 
+nes Ziels für grüne Gase (erneuerbare und dekarbonisierte Gase) steht auch die Forderung nach einer 
+ver- pflichtenden Quote für erneuerbare Gase für alle non-ETS-Sektoren im Raum. Über diese Quote 
+sollen Lie- feranten verpflichtet werden, Gaskunden mit einem Mindestanteil an synthetischen Gas, 
+Wasserstoff oder Biomethan zu beliefern. Während der Ruf nach einer verpflichtenden Quote noch kein 
+allgemeiner Kon- sens in der Gaswirtschaft ist, haben in der Ideenschmiede anwesenden Vertreter 
+mehrheitlich für eine sol- che Quote plädiert. Ein Marktanreizprogramm für Power to Gas-Anlagen 
+wäre zur Unterstützung einer sol- chen Verpflichtung sinnvoll.
+■ Verstärkter Ausbau der erneuerbaren Energien: Der Ausbau der erneuerbaren Energien ist 
+wesentliche Voraussetzung dafür, dass die Klimaziele 2030 und 2050 erreicht werden können. Die 
+direkte Nutzung von Strom im Wärme- und Verkehrssektor wird stark steigen, ebenso wird die 
+Konversion von erneuerbarem Strom in andere Energieträger (Power to X) zunehmend wichtig. Dies kann 
+im EEG durch höhere Zubaukor- ridore als auch durch Nutzung marktgetriebener Instrumente, wie zum 
+Beispiel PPAs, unterstützt werden. Hier müssen geeignete Rahmenbedingungen durch eine Neuordnung 
+des Systems von Abgaben, Umlagen, Entgelten und Steuern geschaffen werden.
+■ Fördermaßnahmen in allen Sektoren: Nach Auffassung der weit überwiegenden Mehrzahl der 
+Teilneh-
+mer bleiben Fördermaßnahmen auch bei Einführung einer CO2-Bepreisung unverzichtbar. Ein CO2-Preis 
+allein könne die preisliche Lücke zwischen konventionellen und CO2-freien Technologien nicht 
+schließen.
+– Am häufigsten wurde die Notwendigkeit eines Förderprogramms (Markthochlaufprogramms) für Power to 
+X-Technologien (Power to Heat, Power to Liquids, Power to Gas) genannt.
+– Auch Förderprogramme (Investitionsförderung) zur Dekarbonisierung der Prozesswärme in der In- 
+dustrie werden benötigt, um weitere Emissionsreduktionen zu erreichen. Dies gilt sowohl im Hinblick 
+auf notwendige Effizienzsteigerungen als auch hinsichtlich des Einsatzes erneuerbarer Energien.
+– Ebenso wurde eine Intensivierung der Forschungs- und Entwicklungsförderung, z.B. im Hinblick auf 
+die Umgestaltung von Produktionsprozessen gefordert, um rasche Wissensfortschritte zu erzielen und 
+skalierbare Lösungen entwickeln zu können.
+■ Kluge und diversifizierte Verwendung der Einnahmen: Bezüglich der “Rückverteilung” gibt es eine 
+hohe Übereinstimmungsrate, dass keine vollständige Rückverteilung an die Verbraucher angestrebt 
+werden sollte. Ein Großteil der Teilnehmer unterstützt die teilweise Verwendung der Einnahmen für 
+Technologie- entwicklung (beispielsweise Zuschuss-Förderungen für Pilotprojekte in der Industrie 
+mit hoher CO2 Einspa- rung, Maßnahmen zur Modernisierung der Gebäudetechnik etc.), beispielsweise 
+über einen Effizienzfonds (Heizungsindustrie). Dies kann als Bestätigung dafür dienen, dass es 
+Technologieoptionen (Produkte oder
+
+
+
+
+
+34
+
+Produktionsweisen) gibt, die zwar technologisch vielversprechend, aber hinsichtlich ihrer 
+preislichen Wett- bewerbsfähigkeit noch so weit von einer Marktreife entfernt sind, dass ein 
+Schließen der Lücke über einen CO2-Preis allein nicht möglich erscheint. Insofern kann eine 
+CO2-Bepreisung lediglich den Hochlauf einer Technologie mit einem gewissen Reifegrad unterstützen.
+
+Gebäude
+Die Teilnehmer der Ideenschmiede CO2-Bepreisung aus dem Gebäudesektor sehen nur eine sehr einge- 
+schränkte Lenkungswirkung einer CO2-Bepreisung und unterstützen deshalb folgende verstärkenden Maß- 
+nahmen:
+■ Fördervolumen massiv ausbauen: Die CO2-Vermeidungskosten für eine Bestandssanierung bewegen sich 
+auf einem Preisniveau16, welches zu disruptiven sozialen Verwerfungen führen würde. Deshalb ist es 
+zur Erreichung der geforderten Emissionsminderungen nötig, Förderprogramme massiv auszubauen. Damit 
+dies aufgrund der angespannten Marktlage nicht zu Kostensteigerung führt, müssen die Gelder 
+aufwach- sen und langfristig zur Verfügung gestellt werden, damit die Bauwirtschaft sich darauf 
+einstellen kann. Eine höherer CO2-Einstiegspreis und der Verbleib der Einnahmen in den Sektoren, 
+der nicht zu einer Gegenfi- nanzierung einer Strompreissenkung verwendet wird, könnte aus Sicht 
+einiger Teilnehmer in einen massi- ven Ausbau der Förderprogramme fließen. Die Wohnungswirtschaft 
+geht hier von einem Förderbedarf in Höhe von 14 bis 25 Mrd. Euro pro Jahr aus.
+■ Alternative Lösungen entwickeln: Parallel zur Einführung eines (steigenden) CO2-Preises ist es 
+wichtig, Alternativen zu fossilen Energieträgern (CO2-neutrale Gase und flüssige Energieträger) im 
+Wärmesektor für die breite Anwendung wirtschaftlich nutzbar zu machen. Dafür könnte unter anderem 
+eine zeitliche Per- spektive für die Veränderung der spezifischen Zusammensetzung gasförmiger 
+Brennstoffe in der Gasinfra- struktur entwickelt werden. Diese sollte neben Wasserstoff auch 
+synthetische Gase und Biogas umfassen.
+■ Energiemanagement und Monitoring vorantreiben: CO2-Monitoring findet heute im Gebäudebereich nur 
+vereinzelt statt. Für weitere Emissionsminderungen ist neben einem niedrigen Energiebedarf vor 
+allem die Betriebsoptimierung entscheidend. Ein CO2-Monitoring für Bestandsgebäude und Neubauten 
+soll dabei helfen, die Effizienz von Sanierungsmaßnahmen und Gebäudestandards bewerten zu können. 
+Die Wirkung von gezielten CO2-Reduktionsmaßnahmen sollten im Rahmen des CO2-Monitorings gemessen 
+und be- schrieben werden.
+■ Verbraucherinformation bereitstellen: Aufgrund der geringen Preiselastizität sollten für 
+Verbraucher/Ge- bäudenutzer Informationen bereitgestellt werden, die zum einen darstellen, wie 
+negative Vermeidungskos- ten realisiert werden können (bspw. Anlagenoptimierung, geringinvestive 
+Maßnahmen) und zum anderen zeigen, welche Maßnahmen zur hohen, langfristigen Emissionsreduktionen 
+führen (bspw. Austausch der Heizungsanlage, Umstieg auf andere Wärmeversorgungsvarianten, 
+energetische Sanierung) und welche Alternativen genutzt werden können.
+
+Verkehr
+Aus der Perspektive der Diskussionsteilnehmer des Verkehrssektors kann nur ein sehr ambitionierter 
+CO2- Preis (siehe vorheriges Kapitel) als Leitinstrument eine zentrale Lenkungswirkung entfalten. 
+Wird ein CO2- Preis weniger ambitioniert gestaltet und sektorübergreifend implementiert, kann er 
+kein Leitinstrument zur
+
+
+
+16 Nach Berechnungen des GdW haben energetische Maßnahmen im Rahmen der normalen (d. h. sowieso 
+stattfindenden) Modernisie- rungsmaßnahmen CO2-Vermeidungskosten Bereich bis 400 €/t. 
+Darüberhinausgehende Maßnahmen schlagen im Durchschnitt mit 700
+€/t zu Buche und höhere Neubaustandards mit ca. 1.000 €/t
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  35
+
+Erreichung der ambitionierten Sektorziele im Verkehr sein. In diesem Fall sollte die 
+Lenkungswirkung durch die beschriebenen, verstärkenden Maßnahmen unterstützt werden.
+■ Förderung von alternativen Antriebstechnologien: Wird ein weniger ambitionierter CO2-Preis 
+eingeführt, sind neben bestehenden Regulierungen zu lokalen Emissionen vor allem Mechanismen zur 
+Unterstützung und Marktentwicklung neuer Technologien notwendig, die über einen CO2-Preis noch 
+nicht konkurrenzfä- hig werden, von denen aber starke Kostensenkungen erwartet werden. Dies 
+betrifft z.B. Wasserstoff-Brenn- stoffzellenfahrzeuge und Oberleitungs-Lkw. Notwendig ist auch die 
+Förderung des Markthochlaufs von Powerfuels-Technologien, da die Klimaziele im Verkehrssektor, vor 
+allem im Schwerlastbereich, ohne strombasierte Kraftstoffe nicht zu erreichen sind17. Verschiedene 
+Fördermechanismen werden derzeit dis- kutiert, unter anderem ein Ausschreibungssystem in einem 
+nationalen Marktanreizprogramm.
+■ Ambitionierte Quote für erneuerbare Kraftstoffe: Das bestehende Instrument der Kraftstoffquoten 
+kann ambitionierter ausgestaltet werden, indem eine Unterquote für fortschrittliche und 
+synthetische erneuer- bare Kraftstoffe (inklusive Powerfuels) gesetzt werden. Begleitet durch 
+Fördermaßnahmen und mit mehr- jährigem Vorlauf um hinreichende Investitionen zu ermöglichen, kann 
+damit ein langfristiger Markt für Powerfuels geschaffen werden und ein Beitrag zur Emissionssenkung 
+von Kraftstoffen geleistet werden.
+■ Verkehrsverlagerung auf die Schiene: Darüber hinaus ist die Förderung von Angeboten im 
+öffentlichen Nah- und Fernverkehr sowie dem Güterverkehr auf der Schiene zentral, um 
+Verkehrsverlagerung zu ermög- lichen.
+■ Verbesserung von Mobilitätsdienstleistungen und -angeboten: Darüber hinaus können innovative Mo- 
+bilitätsdienstleistungen und nachhaltige Stadt- und Regionalplanungen in ähnlicher Weise einen 
+Beitrag leisten. Weiterhin kann eine Vereinfachung der Abrechnung von Ladevorgängen bei 
+Elektrofahrzeugen die Akzeptanz erhöhen.
+■ Mautreduktion für emissionsarme Lkw: Für den Schwerlastverkehr ist die Maut ein entscheidender 
+Kos- tenfaktor. Der Einsatz emissionsarmer Lkw mit alternativen Antrieben kann durch eine deutliche 
+Differen- zierung der Maut im Vergleich zu Diesel-Lkw attraktiver werden.
+
+
+“Bei der Ausgestaltung des Regulierungsrah- mens ist Technologie- offenheit wünschens- wert. Sie 
+räumt dem Verbraucher Wahlmög- lichkeiten ein.”
+„Elektromobilität, Fahrzeugeffizienz und Verkehrsverlagerung - und damit sinkende Einnahmen aus der 
+Energie- steuer – machen eine Neugestaltung der Infrastrukturfinanzierung in Deutsch- land 
+notwendig. Eine streckenabhän- gige Maut im PkW-Bereich wird dabei eine zentrale Rolle einnehmen.“
+„Um einen starken Anreiz für alternative Kraftstoffe zu schaffen, braucht es zukünf- tig einen 
+konsequenten Well-to-Wheel-Ansatz in der Emissionsbemessung.“
+
+
+
+
+
+
+
+
+
+
+
+17 dena (2018), Integrierte Energiewende, S.
+
+
+
+
+
+36
+
+3  Fazit
+
+Im Rahmen der Ideenschmiede Effiziente CO2-Bepreisung haben sich sehr unterschiedliche Stakeholder 
+zu- sammengefunden und letztlich nicht nur darüber diskutiert, wie eine CO2-Bepreisung am besten 
+ausgestaltet werden sollte, sondern auch darüber, wie Klimaschutz in verschiedenen Sektoren 
+insgesamt am effizientes- ten erreicht werden kann. Fragen, die die Stakeholder beschäftigt haben, 
+waren: Welche verstärkenden Maß- nahmen sind zusätzlich zur CO2-Bepreisung nötig, um ausreichend 
+Klimaschutzwirkung zu erzielen? Welche Erwartungen gibt es daran, wie Verbraucherverhalten gelenkt 
+werden kann? Wie können sozial verträgliche Vorgehensweisen bei der Einführung der CO2-Bepreisung 
+aussehen? Wie kann die CO2-Bepreisung zur Ent- wicklung emissionsreduzierender Technologien 
+beitragen?
+Auch der politische Kontext der Diskussion befindet sich in Entwicklung. Klimazielverschärfungen 
+sind ab- sehbar und werden in den aktuellen Debatten auf EU-Ebene zur Zielsetzung „Klimaneutralität 
+2050“ im Rah- men des „Green New Deals“ schon konkret. Zu dieser Zielsetzung hat sich die deutsche 
+Bundesregierung be- reits positiv positioniert. Ein entsprechender Beschluss würde den 
+Emissionsreduktionsbedarf bis 2030 und damit auch die Erwartungen an den Wirkungsumfang der 
+CO2-Bepreisung deutlich erhöhen.
+Die große Diversität der in den Diskussionen der Ideenschmiede Effiziente CO2-Bepreisung 
+vorgebrachten Meinungen und Einschätzungen zeigte, dass neben der wissenschaftlich-analytischen 
+Diskussionsebene auch vermehrt ein Einbezug der Betroffenen der CO2-Bepreisung aus 
+Zivilgesellschaft und Wirtschaft in die weitere politische Diskussion und Lösungsgestaltung 
+stattfinden sollte.
+Schlussfolgerungen der Ideenschmiede Effiziente CO2-Bepreisung
+■ Klimaziele 2030 und 2050 können nicht allein durch CO2-Bepreisung erreicht werden
+Ganz grundsätzlich ist die klare Schlussfolgerung der teilnehmenden Stakeholder, dass die 
+CO2-Bepreisung absehbar nicht als alleiniges Instrument das Erreichen der Klimaziele 2030 bzw. der 
+Ziele des Pariser Klima- schutzabkommens mit Zieljahr 2050 sicherstellen kann. Die erfolgreiche 
+Reduktion von Emissionen hängt
+z.B. auch davon ab, dass alternative Technologien für Mobilität, Raum- und Prozesswärme erfolgreich 
+ska- liert und rasch in den Markt integriert werden können. Damit das gelingen kann, muss der 
+gesamte ökonomi- sche Rahmen so verändert werden, dass er klimafreundliche Geschäftsmodelle und 
+Technologien ermöglicht und befördert. Eine CO2-Bepreisungsmechanismus in der im 
+Klimaschutzprogramm 2030 beschlossenen Form wird die dafür erforderlichen Dynamiken bei der 
+Entwicklung und Einführung absehbar nicht schnell genug anstoßen können. Dafür wäre ein größerer 
+Spread bei den Preisen zwischen klimafreundlichen und klimaschädlichen Energieträgern und ein 
+deutlich höheres Preisniveau als bisher diskutiert erforderlich. Da- mit verbunden wären auch 
+deutlich größere sozial- und finanzpolitische Implikationen sowie Wettbewerbsri- siken für 
+Unternehmen, die zu berücksichtigen wären.
+■ Schnellstmögliche Umsetzung der CO2-Bepreisung und der verstärkenden Maßnahmen
+Das Zieljahr 2030 ist näher, als es scheint. Reaktionen auf die CO2-Bepreisung und verstärkende 
+Maßnahmen haben eine Vorlaufzeit: Gebäudesanierungsmaßnahmen, ein verstärkter Ausbau erneuerbarer 
+Energien, die Markteinführung von Powerfuels und der Aufbau industrieller Lieferketten dauern 
+einige Jahre. Erst danach sind emissionsmindernde Wirkungen messbar und die Wirksamkeit der 
+Maßnahmen kann beurteilt werden. Absehbar wirken auch weitere Restriktionen eher hemmend (z.B. 
+Verfügbarkeit von Fachkräften). Deswegen sprachen sich viele Diskutanten für ein sofortiges, 
+konkretes Regierungshandeln aus, einige plädierten für
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  37
+
+eine wirksam umgesetzte CO2-Bepreisung bereits in 2020. Das Klimaprogramm 2030 sieht nun vor, dass 
+erst in 2021 der nationale Emissionshandel für die Sektoren Wärme und Verkehr eingeführt wird. 
+Diese Verzöge- rung wurde aus Expertenkreisen bereits deutlich kritisiert. Auch einige Teilnehmer 
+schließen sich dem, ent- sprechend der Diskussionsinputs an, und fordern eine Nachjustierung und 
+einen preislich ambitionierteren Einstieg in die CO2-Bepreisung in 2020. In jedem Fall muss das 
+Jahr 2020 dafür genutzt werden, die verstär- kenden Klimaschutzmaßnahmen umzusetzen und die 
+Wirkungsmechanismen zu justieren. Eindeutige und verlässliche Regelungen mit klaren Zielsetzungen 
+sind nötig, auf denen basierend Bürger und Unternehmen ihr Handeln ausrichten und 
+Investitionsentscheidungen treffen können. Das ist insbesondere wichtig, um Attentismus auf das 
+„nächste, attraktivere Förderprogramm“ zu vermeiden, der dazu führen würde, dass er- forderliche 
+Investitionen in die unbestimmte Zukunft verschoben werden. Dementsprechend muss der Rege- 
+lungsrahmen auch die (Markt)Entwicklung von passenden Angeboten ermöglichen und ggf. anreizen.
+■ Verstärkende Maßnahmen zur CO2-Bepreisung in allen Sektoren für wirksamen Klimaschutz 
+nötig
+Unabhängig vom aktuellen Status Quo gab es große Zustimmung unter den Diskutierenden dazu, dass 
+ver- stärkende Klimaschutzmaßnahmen in den thematisierten Sektoren Industrie, Verkehr und Wärme 
+benötigt werden, um auch wirkliche Umsetzungsdynamiken anzustoßen.
+Die Meinungen zur Art und Umfang der Maßnahmen variierten zwar, aber die verstärkenden 
+Maßnahmenvor- schläge für mehr Klimaschutz, die aus den unterschiedlichen Perspektiven der 
+Diskussionsteilnehmer einge- bracht wurden (siehe Kapitel 2.2.10), illustriert den Handlungsbedarf 
+deutlich und kann als “erste Samm- lung” und Auftakt für einen weiterführenden Diskussionsprozess 
+verstanden werden.
+■ Maßgebliche bestehende Regulierungen sind nicht auf die Zielgröße „CO2-Reduktion“ ausgerichtet, 
+Wirkungsmechanismen müssen geprüft und angepasst werden
+Die grundsätzliche Logik vieler bestehender Regulierungen ist nicht primär auf den CO2-Gehalt oder 
+die ab- solute CO2-Reduktion ausgerichtet. Das kann unkritisch sein, wenn es sich insgesamt in die 
+Zielsetzung der Regulierung einfügt. Das ist beispielsweise bei der Förderung erneuerbarer Energien 
+der Fall, wo die CO2-Be- preisung das Förderziel unterstützen würde. Es kann aber auch massiv der 
+Zielsetzung entgegenlaufen und zu Fehlsteuerungen wie Vorzugseffekten, Mehremissionen, zeitlichen 
+Verzögerungen der Umsetzung und ins- gesamt Unwirksamkeit der CO2-Bepreisung und der verstärkenden 
+Klimaschutzmaßnahmen führen. So ver- hindern z.B. im Gebäudesektor definitorische und steuerliche 
+Fragen sowie die Struktur von Abgaben und Umlagen einen konsequenten, systemischen Ansatz für 
+Quartierskonzepte mit einer CO2-Minderungsma- xime. Im Verkehrssektor verhindert z.B. die 
+derzeitige Struktur der Energiesteuer die Entwicklung emissions- armer Kraftstoffe, da diese 
+steuerlich genauso hoch belastet werden wie fossile Kraftstoffe. Deswegen ist eine eingehende 
+Prüfung und ggf. Anpassung der bestehenden Regulierungsprinzipien und ihrer Wechselwir- kungen mit 
+der CO2-Bepreisung in allen Sektoren nötig.
+■ Für eine sozialverträgliche CO2-Bepreisung ist ein gut funktionierendes Zusammenspiel von klima-, 
+sozial- und förderpolitischen Maßnahmen wichtig
+Auch wenn die Meinungen zur konkreten Einnahmenverwendung sehr divers waren, so herrschte doch 
+weit- gehend Einigkeit, dass die sozialen Aspekte und Auswirkungen der Einführung einer 
+CO2-Bepreisung mit ho- her politischer Aufmerksamkeit antizipiert werden müssen. Deshalb sollten 
+Kompensationsmaßnahmen mit ressortübergreifendem Blick gestaltet werden, besonders um die 
+gesellschaftliche Verteilungswirkung einer CO2-Bepreisung abzufedern Härten für einkommensschwache 
+Haushalte und besonders belastete Bevölke- rungsgruppen (z.B. Langstreckenpendler) zu vermeiden. 
+Zur viel diskutierten Pro-Kopf-Prämie gingen die
+
+
+
+
+
+
+38
+
+Meinungen weit auseinander; zum Teil wurde sie als sozial gerecht und akzeptanzfördernd 
+befürwortet, aber auch wegen ihres bürokratischen Aufwands und ihrer geringen Lenkungswirkung 
+kritisiert. Auch andere Ent- lastungsmöglichkeiten, wie z.B. beim Strompreis, wurden diskutiert. 
+Mehrere Diskussionsteilnehmer sahen großen Bedarf, bei der Einnahmenverwendung vorzusehen, dass 
+Wettbewerbsnachteile von Unternehmen kompensiert werden und Anreize zu Investitionen in 
+CO2-Vermeidung und Technologien sowohl für Verbrau- cher als auch für Unternehmen gegeben werden 
+(z.B. in Form von Förderprogrammen). Insgesamt soll das vorrangige Ziel einer CO2-Bepreisung die 
+effektive Minderung von Emissionen sein, welches stringent, aber nicht ohne Rücksicht auf soziale 
+Auswirkungen umgesetzt werden sollte.
+
+
+Empfehlungen der dena zum weiteren Vorgehen bei der Umsetzung des Klimaschutz- programms 2030
+Im Klimaschutzprogramm 2030 hat die Bundesregierung über 60 Maßnahmen, verteilt auf verschiedene 
+Sek- toren, benannt, die spätestens bis zur geplanten Einführung der CO2-Bepreisung in Form eines 
+nationalen ETS in 2021 konkretisiert werden und in Gesetzesänderungen münden müssen. Aktuell 
+enthalten viele dieser Maßnahmen Beschreibungen der beabsichtigten Wirkung und Prüfaufträge, wie 
+diese Wirkung erreicht wer- den kann. Andere Maßnahmen sind bereits klarer quantifiziert, sollten 
+aber in der genauen gesetzgeberi- schen Umsetzung nochmal auf ihre tatsächliche emissionsmindernde 
+Wirkung und entsprechend möglichen Anpassungsbedarf geprüft werden. Bereits jetzt ist absehbar, 
+dass die beschlossenen Maßnahmen nicht zur Erreichung der Klimaziele für das Jahr 2030 führen 
+werden. Damit kommt dem Nachsteuerungsmechanis- mus aus dem Monitoring eine besonders wichtige 
+Aufgabe zu. Hier muss sichergestellt werden, dass die im Laufe der Jahre hinzukommenden 
+Maßnahmen/Instrumente sich in die bestehenden Strukturen einfügen und ausreichend Planbarkeit für 
+sofortige Investitionen für Verbraucher und Unternehmen erreicht wird.
+■ Effizientes Zusammenspiel der CO2-Bepreisung mit weiteren Instrumenten sicherstellen, verstär- 
+kende Maßnahmen für mehr Klimaschutz gemeinsam mit Stakeholdern evaluieren
+Die dena empfiehlt, Stakeholderprozesse begleitend zur Konkretisierung und Weiterentwicklung der 
+Maß- nahmen durchzuführen, in dem die Perspektiven aus der Praxis in die weitere Lösungsfindung und 
+Ausgestal- tung einbezogen werden. Aufgrund der Verschiedenartigkeit der Regulierungen und der 
+Kostenstrukturen sollte das nach Sektoren getrennt erfolgen. Da es thematische Überschneidungen 
+gibt, v.a. im Bereich Gas und flüssige, sollten die Prozesse Schnittstellen zueinander haben und 
+ein inhaltlicher Austausch vorgesehen werden, damit ein Abgleich mit der übergeordneten Zielsetzung 
+der Emissionsreduktion möglich wird und konsistente Handlungssignale für Bürger und Unternehmen 
+entstehen. Diese Stakeholderprozesse sollen die Beteiligungsformate, die im Klimaschutzprogramm 
+2030 vorgesehen sind, ergänzen. Sie sollten auf einer Ex- pertenebene stattfinden, so dass auch ein 
+qualifizierter Austausch mit den eingebundenen Akteuren aus der Wissenschaft möglich ist. Diese 
+Gremien können auch die Evaluation des Nachsteuerungsbedarfs aus dem Monitoring unterstützen.
+■ Dialogformate ausbauen, miteinander verknüpfen und in ein übergeordnetes Konzept „Klima-Gover- 
+nance“ einbetten
+Darüber hinaus sollte geprüft werden, wie die verschiedenen, im Klimaschutzprogramm 2030 
+vorgesehenen Stakeholderformate (Aktionsbündnis Klimaschutz, Wissenschaftsplattform Klimaschutz, 
+Stakeholderdialog Sustainable Finance, Bürgerdialog Stromnetz, Stakeholderdialog Wärmenetze, 
+Stakeholderdialog Nut- zung/Speicherung von Prozessemissionen, Energieeffizienzstrategie 2050) so 
+ausgestaltet und miteinander
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  39
+
+verknüpft werden können, dass alle wichtigen gesellschaftlichen Gruppen repräsentiert werden, eine 
+aktives Informationsmanagement für einen aktuellen Kenntnisstand aller Beteiligten und verbesserten 
+Austausch sorgt und politisch verwertbare Ergebnisse aus den Beteiligungsformaten entstehen. Mit 
+Blick auf die o.g.
+Vielzahl der Formate und Ebenen, auf denen die Stakeholder einbezogen werden, sollte es auch ein 
+klares Konzept für die Art und Wirkung der Beteiligung geben. Andernfalls besteht das Risiko, dass 
+unrealistische Erwartungshaltungen enttäuscht werden und das übergeordnete Ziel, durch mehr 
+Partizipation für eine breite Unterstützung der gewählten Politikmaßnahmen zu sorgen, nicht 
+erreicht werden kann.
+Last but not least sollte auch die parlamentarische Vertretung mitgedacht werden, die z.B. durch 
+die Einrich- tung eines thematisch passenden, themenübergreifenden Klima-Ausschusses in diese 
+Prozesse einbezogen werden könnte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+Anhang
+
+Anhang 1: Template des morphologischen Kastens „Präferierter Zielpfad zur CO2-Bepreisung“
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  41
+
+Abbildungs- und Tabellenverzeichnis
+Abbildung 1: Kernaspekte der Diskussionen                        7
+Abbildung 2: Präferierte Zielpfade zur CO2-Bepreisung                 10
+Abbildung 3: Stimmungsbild zum Zielrahmen der CO2-Bepreisung           11
+Abbildung 4: Stimmungsbild zur Bemessungsgrundlage der CO2-Bepreisung      18
+Abbildung 5: Stimmungsbild zur sektorenspezifischen CO2-Bepreisung        20
+Abbildung 6: Stimmungsbild zur Entwicklung des Preispfades der CO2-Bepreisung    21
+Abbildung 7: Stimmungsbilder zur Einnahmenverwendung / Rückverteilung der  Einnahmen                
+                25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+Literaturverzeichnis
+
+Agora Verkehrswende (2018): Klimaschutz im Verkehr: Maßnahmen zur Erreichung des Sektorziels 2030
+BDI Gerbert, Philipp; Herhold, Patrick; Burchardt, Jens; Schönberger, Stefan; Rechenmacher, 
+Florian; Kirchner, Almut; Kemmler, Andreas; Wünsch, Marco (2018): Klimapfade für Deutschland. 
+Erstellt durch The Boston Con- sulting Group (BCG) und Prognos.
+BMF (2019): Steuereinnahmen Kalenderjahr 2018.
+BMWi (2019): Energiepreise und effiziente Klimapolitik - Gutachten des Wissenschaftlichen Beirats 
+beim Bun- desministerium für Wirtschaft und Energie
+Bundesregierung (2019): Klimaschutzprogramm 2030 der Bundesregierung zur Umsetzung des Klima- 
+schutzplans 2050.
+CO2-Abgabe e.V. Sieberg, Ulf (2019): Für mehr Klimaschutz, weniger Bürokratie und sozial gerechte 
+Energie- preise. Präsentation während der 1. Sitzung der dena-Ideenschmiede Effiziente 
+CO2-Bepreisung.
+dena Crone, Kilian; Siegemund, Stefan; Zinnecker, Valentin (2018): Pathway to the future – Scandria 
+®2Act Clean Fuel Deployment Strategy. Interreg Baltic Sea Region Project.
+dena Bründlinger, Thomas; Elizalde König, Julian; Frank, Oliver; Gründig, Dietmar; Jugel, 
+Christoph; Kraft, Pat- rizia; Krieger, Oliver; Mischinger, Stefan; Dr. Prein, Philipp; Seidl, 
+Hannes; Siegemund, Stefan; Stolte, Christian; Teichmann, Mario; Wilke, Jakob; Wolke, Mareike: 
+dena-Leitstudie Integrierte Energiewende – Impulse für die Gestaltung des Energiesystems bis 2050
+DIW Kemfert, Claudia (2019): CO2-Steuer ist Mittel erster Wahl - Statement vom 12. Juli 2019. 
+https://www.diw.de/de/diw_01.c.669350.de/presse/statements/co2_steuer_ist_mittel_erster_wahl.html. 
+Zuletzt aufgerufen am 15.10.2019
+Mercator Research Institute on Global Commons and Climate Change & Potsdamer Institut für Klima- 
+folgenforschung (MCC-PIK) Edenhofer, Ottmar; Flachsland, Christian; Kalkuhl, Matthias; Knopf, 
+Brigitte; Pahle, Michael (2019): Optionen für eine CO2-Preisreform – MCC-PIK Expertise für den 
+Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung
+Mercator Research Institute on Global Commons and Climate Change (MCC) Löhe, Fabian Redaktion 
+(2016): MCC-Kurzdossier – Vorsicht beim Wetten auf Negative Emissionen, Neue Technologien sollen 
+die CO2- Hypothek abbauen – trotz unsicherer Auswirkungen
+Öko-Institut, Dr. Matthes, Felix Chr. (2019): Umsetzungsaspekte eines Emissionshandelssystems für 
+die Be- reiche Gebäude und Verkehr. Präsentation während der 3. Sitzung der dena-Ideenschmiede 
+Effiziente CO2- Bepreisung.
+Power to X Allianz (2019): Markteinführungsprogramm der Power to X Allianz. Hrsg. Johanssen + 
+Kretschmer Strategische Kommunikation GmbH.
+Swedish Government (2019): Sweden’s Carbon Tax. https://www.government.se/government-policy/taxes- 
+and-tariffs/swedens-carbon-tax/. Zuletzt aufgerufen am 11.10.2019.
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  43
+
+UBA (2019): Energiesparende Gebäude. https://www.umweltbundesamt.de/themen/klima-energie/energie- 
+sparen/energiesparende-gebaeude#textpart-1. Zuletzt besucht am 11.10.2019.
+UBA (2016): Emissionsquellen. https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas- 
+emissionen/emissionsquellen#textpart-1. Zuletzt besucht am 11.10.2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44
+
+Abkürzungen
+
+ETS      Emission Trading System
+EEG     Erneuerbare-Energien-Gesetz
+GEG     Gebäudeenergiegesetz
+
+GHG IPCC
+Greenhouse Gases
+Intergovernmental Panel On Climate Change
+KWKG     Kraft-Wärme-Kopplungsgesetz
+KWK     Kraft-Wärme-Kopplung
+NWG      Nichtwohngebäude
+THG      Treibhausgas
+PtX       Power to X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wirksamer Klimaschutz durch Preissignale? – Wege zur Zielerreichung 2030  45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de
+
+
+
+
+
+
+
+
+
+
+ dena
+Deutsche Energie-AgenŁur

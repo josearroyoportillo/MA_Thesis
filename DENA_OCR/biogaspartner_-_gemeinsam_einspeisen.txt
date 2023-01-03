@@ -1,0 +1,3923 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biogaspartner – gemeinsam einspeisen
+Biogaseinspeisung und -nutzung in Deutschland und Europa Markt, Technik und Akteure
+
+
+
+Inhalt
+
+
+
+
+
+
+Einleitung                         4
+1.    Das Projekt biogaspartner                6
+1.1   Projektbeschreibung                   6
+1.2   Die Unterstützer der Biogaspartnerschaft         7
+2.    Marktentwicklung und Rahmenbedingungen     8
+2.1   Deutschland                       8
+2.1.1  Rahmenbedingungen                  8
+2.1.2  Marktentwicklung                    16
+2.2   Europa                         20
+2.2.1  Marktentwicklung                    20
+3.    Die Wertschöpfungskette Biomethan         22
+3.1   Biomasseproduktion                  22
+3.2   Biogas- und Biomethanpotenzial            23
+3.3   Logistik                         25
+3.4   Biogaserzeugung                    25
+3.5   Aufbereitung                      25
+3.6   Einspeisung                       29
+3.7   Verkauf und Handel                    29
+4.    Projekt- und Anwendungsbeispiele          30
+4.1   Deutschland                       30
+4.2   Europa und weltweit                   33
+5.    Unternehmen & Akteure                 36
+Glossar                          53
+Impressum                        54
+
+
+
+
+
+
+
+Inhalt  3
+
+Biomethan –
+der Joker im Energiemix
+
+
+
+
+Eine der vielversprechendsten Nutzungen für Biomasse ist die Erzeugung von Biogas. In Deutschland 
+sind Mitte 2017 rund
+9.000 Anlagen in Betrieb, in denen Biogas durch Vergärung von Biomasse gewonnen wird. Durch am 
+Markt verfügbare Techno- logien lässt sich dieses Biogas auf Erdgasqualität aufbereiten – zu 
+sogenanntem „Biomethan“ oder „Bioerdgas“ – und in das Erdgasnetz einspeisen. Hierdurch kann 
+konventionelles Erdgas anderenorts ersetzt und ein wichtiger Beitrag zum Klimaschutz geleistet 
+werden. Derzeit speisen rund 199 Anlagen in Deutsch- land Biomethan in das Erdgasnetz ein. Weitere 
+Projekte sind in Planung und Bau.
+
+Diese Broschüre gibt einen Überblick sowohl über die einzelnen Schritte der Herstellung und 
+Anwendung von Biomethan als auch über die Marktentwicklung und Rahmenbedingungen der 
+Biogaseinspeisung in Deutschland. Nachfolgend werden die wesentlichen Vorzüge der Biogaseinspeisung 
+kurz dargestellt.
+Aktiver Klimaschutz
+
+Aus Biomasse gewonnenes Biomethan ersetzt fossiles Erdgas. Es kann somit den Ausstoß von 
+Treibhausgasen verringern und einen wichtigen Beitrag für eine nachhaltige und umweltfreund- liche 
+Energiewirtschaft leisten. Bioenergieträger wie Biomethan setzen bei ihrer Nutzung nur soviel CO₂ 
+frei, wie während des Wachstums der Pflanzen aus der Atmosphäre aufgenommen wurde. Dadurch kann im 
+Idealfall eine klimaneutrale Nutzung erreicht werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4  Einleitung.
+
+
+
+
+
+
+
+
+
+Weniger Importabhängigkeit
+
+Etwa 97 Prozent des in der Bundesrepublik Deutschland verbrauchten Erdöls und über 85 Prozent des 
+Erdgases werden importiert. Biomethan wird aus heimischen, nachwachsenden Rohstoffen und 
+organischen Resten und Abfällen erzeugt. Nach seriösen Prognosen reicht die heimische Rohstoffbasis 
+aus,
+um bis 2030 ca. zehn Prozent des deutschen Erdgasverbrauchs durch Biomethan zu decken. Damit können 
+Erdgasimporte ein- gespart und gleichzeitig die Sicherheit der Energieversorgung signifikant erhöht 
+werden.
+
+
+
+Regionale Entwicklung
+
+Die Produktion von Biogas aus regionalen Ressourcen schafft Arbeitsplätze, vor allem in den 
+Bereichen Abfall- und Landwirt- schaft, Logistik, Ingenieurdienstleistungen und Anlagenbau. Von der 
+regionalen Nutzung von z.B. als Kraftstoff im öffentlichen Personennahverkehr oder zur Beheizung 
+von öffentlichen Ge- bäuden profitieren auch Gemeinden und Kommunen.
+
+
+Ökologische Verträglichkeit
+
+In Biogasanlagen kann ein breites Spektrum an organischen Stoffen sowohl einzeln als auch in 
+Kombination („Multi- Feedstock“) eingesetzt werden, ohne dass dafür wesentliche technische 
+Änderungen vorgenommen werden müssen.
+Typischerweise kommen dabei biogene Rest- und Abfallstoffe als auch Energiepflanzen zum Einsatz. 
+Hierdurch lassen sich standortangepasste Lösungen entwickeln.
+
+
+Geschlossener Kreislauf
+
+Die Standorte von Biogasanlagen befinden sich stets in räum- licher Nähe zum Anbauort der Biomasse. 
+Dadurch werden energieintensive Transporte von Energiepflanzen zur Biogas- anlage und von Gärresten 
+zurück auf die landwirtschaftlichen Nutzflächen auf das erforderliche Mindestmaß beschränkt. Der 
+Gärrest wird als wertvoller Wirtschaftsdünger auf den land- wirtschaftlichen Nutzflächen 
+ausgebracht und reduziert den Ein- satz von künstlich hergestellten Düngemitteln. In einer für Bio- 
+gas optimierten Wertschöpfungskette werden alle entstehenden Nebenprodukte verwertet.
+
+
+Stabileres Energiesystem
+
+Biogas und Biomethan lassen sich konstant über das ganze Jahr hinweg erzeugen. Gülle, Mist und 
+organische Abfälle der Lebensmittelverarbeitung fallen kontinuierlich an. Ebenso wird geerntete 
+Biomasse in ausreichend dimensionierten Silos gelagert, um eine beständige Erzeugung von Biogas 
+über das Jahr zu gewährleisten. Die Biogas- und Biomethanproduktion leistet damit einen wichtigen 
+Beitrag für eine verlässliche und stabile Energieversorgung. So können beispielsweise über die
+Stromproduktion aus Biogas Schwankungen in der Strombereit- stellung durch andere 
+Erneuerbare-Energien-Technologien wie Windkraft und Photovoltaik ausgeglichen werden.
+
+
+Flexible Anwendung
+
+Biomethan ist in seiner Anwendung so flexibel wie kein anderer erneuerbarer Energieträger. Zudem 
+lässt es sich über die Einspeisung in das konventionelle Erdgasnetz wirtschaftlich und 
+energieeffizient transportieren. So wird es allen Anwen- dern mit Gasnetzanschluss zugänglich und 
+ermöglicht Ver- brauchern einen einfachen Umstieg auf regenerativ erzeugtes Gas. Biomethan kann zur 
+Strom- und Wärmeerzeugung in dezentralen Blockheizkraftwerken und zentralen Anlagen mit 
+Kraft-Wärme-Kopplung, zur Wärmeerzeugung in hocheffizienten Gas-Brennwertheizungen sowie als 
+regenerativer Kraftstoff in Erdgasfahrzeugen eingesetzt werden. Mit dem breiten, flexiblen 
+Anwendungsspektrum erschließt sich eine Vielzahl potenzieller Kunden. Biomethan ist somit ein 
+entscheidender Baustein auf dem Weg zu einer nachhaltigen Energieversorgung.
+
+
+
+Einleitung  5
+
+1. Das Projekt biogaspartner
+
+
+
+
+
+
+
+1.1 Projektbeschreibung
+
+Die Deutsche Energie-Agentur (dena) hat in Zusammenarbeit mit Partnern aus der Wirtschaft das 
+Projekt biogaspartner entwickelt. Im Rahmen des Projekts werden Marktakteure der gesamten 
+Wertschöpfungskette Biogaseinspeisung zusam- mengebracht und in ihren Aktivitäten zur 
+Marktgestaltung unterstützt. Die dena übernimmt dabei die Rolle des Modera- tors und stellt eine 
+Plattform für die Informationsbeschaffung und -aufbereitung sowie deren nationale und 
+internationale Verbreitung zur Verfügung. Das Projekt unterstützt durch seinen marktorientierten 
+Ansatz die Branchenakteure in ihrer Zielset- zung, Biomethan als einen festen Bestandteil des 
+zukünftigen Energiemix zu etablieren
+
+Kooperation schaft Wertschöpfung.
+Die Biogaseinspeisung bietet Wertschöpfung auf vielen Stufen: Biomassebereitstellung, Erzeugung, 
+Aufbereitung, Vermarktung, Transport, Verteilung und Anwendung im Strom-, Wärme-und 
+Transportsektor. Auf jeder der genannten Wertschöpfungsstufen bestehen Optimierungspotenziale 
+technischer und wirt- schaftlicher Natur. Zur Ausschöpfung dieser Potenziale wird 
+branchenspezifisches Know-how gebraucht. Ein dynamisches Zusammenspiel der Akteure kann nicht nur 
+die staatlichen För- dermechanismen besser greifen lassen, sondern beflügelt auch Investitionen und 
+Innovationen.
+Akzeptanz und Transparenz
+Die Aufbereitung und von Informationen über die Erzeugung und Nutzung von Biomethan besitzen in der 
+Biogaspartner- schaft höchste Priorität. Mithilfe der Webseite www.biogaspart- ner.de, einem 
+Newsletter sowie verschiedenen Veranstaltun- gen und Veröffentlichungen werden Stakeholder aus 
+Politik, Wirtschaft und der Fachöffentlichkeit gezielt über Biomethan informiert.
+
+Rahmenbedingungen
+Im Rahmen des Erneuerbare-Energien-Gesetzes (EEG) und der Gasnetzzugangsverordnung wurden 
+verschiedene Regelungen und Anreize geschaffen, welche die Biomethaneinspeisung und die -nutzung 
+fördern. So regelt die Gasnetzzugangsverord- nung beispielsweise die Verantwortlichkeiten und 
+Kostenver- teilung zwischen Einspeiser und Netzbetreiber.
+
+Da der Preis von aufbereitetem und eingespeistem Biogas derzeit noch nicht konkurrenzfähig zu 
+Erdgas ist, nutzt die Politik einen Instrumentenmix, um die entsprechenden Nach- fragemärkte zu 
+entwickeln. Einsatzfelder sind neben reinen Wärmeanwendungen die Kraft-Wärme-Kopplung und Strom- 
+vergütung auf Basis des Erneuerbare-Energien- Gesetzes (EEG) sowie der Einsatz in Erdgasfahrzeugen. 
+Aufgrund der breiten Anwendungsmöglichkeiten lässt sich eine Vielzahl interessanter 
+Geschäftsmodelle entwickeln. Mit steigenden Energiepreisen wird eingespeistes Biogas zunehmend 
+konkurrenzfähig zu fossi- lem Erdgas. Durch die Gasnetzliberalisierung ist es für Endver- braucher 
+inzwischen möglich, mehr als 500 Biomethanprodukte von knapp 200 Anbietern zu beziehen. Der 
+Biomethanmarkt hat damit eine Vielfalt an Produkten entwickelt, die ähnlich zu den umfangreichen 
+„Grünstrom“-Angeboten im Strommarkt ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6  Das Projekt biogaspartner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.2 Die Unterstützer der Biogaspartnerschaft
+
+Die Entwicklung des Markts für Biomethan erfordert eine partnerschaftliche Zusammenarbeit der 
+Akteure entlang der Wertschöpfungskette Biogaseinspeisung. Die folgenden Un- ternehmen und 
+Institutionen haben sich für diese Aufgabe im Projekt biogaspartner zusammengefunden:
+
+
+
+
+Aerzener Maschinenfabrik GmbH BayWa r.e. Green Energy Products Berliner Stadtreinigung (AöR) 
+Biogasrat+ e. V.
+B.KWK e. V.
+bmp greengas GmbH DBFZ gGmbH
+DLG e. V. DVGW e. V.
+E.ON Bioerdgas GmbH erdgas schwaben gmbh Evonik Industries AG Fachverband Biogas e. V. Fraunhofer 
+IEE Fraunhofer UMSICHT
+GASAG AG
+HZI Biomethan GmbH innogy SE
+Institut für Biogas, Kreislaufwirtschaft und Energie (IBKE) Landwärme GmbH
+NAWARO BioEnergie AG Open Grid Europe GmbH Pentair Haffmans Puregas Solutions GmbH
+Schwelm Anlagentechnik GmbH Thüga Energie GmbH
+TÜV SÜD Industrie Service GmbH von Bredow Valentin Herz
+VPT Kompressoren GmbH
+
+
+Das Projekt biogaspartner  7
+
+2. Marktentwicklung und Rahmenbedingungen
+
+
+
+
+2.1 Deutschland
+
+2.1.1 Rahmenbedingungen
+
+Die rechtlichen Rahmenbedingungen der Biogaseinspeisung in Deutschland sind in verschiedenen 
+Gesetzen und Verordnun- gen geregelt. Einen gesetzlichen Förderanspruch je kWh für
+die Einspeisung von Biomethan in das Gasnetz gibt es – anders als für Strom aus erneuerbaren 
+Energien – nicht. Erzeuger von Biomethan müssen das Biomethan vielmehr selbst vermark- ten. Die 
+Politik hat einen Instrumentenmix zur Förderung von Biomethan und zur Schaffung entsprechender 
+Nachfragemärkte entwickelt. Einsatzfelder sind neben reinen Wärmeanwendun- gen insbesondere die 
+Kraft-Wärme-Kopplung (KWK) sowie der Einsatz als Kraftstoff in Gasfahrzeugen. Der gesetzliche 
+Rahmen für die Biogaseinspeisung wird aufgrund der vielen Wertschöp- fungsstufen und erforderlichen 
+Prozesse von einer Vielzahl von Regelungen bestimmt.
+Erneuerbare-Energien-Gesetz (EEG)
+Wichtigstes Instrument für die Förderung erneuerbarer Energien ist in Deutschland das 
+Erneuerbare-Energien-Gesetz (EEG).
+Sinn und Zweck des EEG ist der Klima-und Umweltschutz, eine nachhaltige Energieversorgung, die 
+Verringerung der volks- wirtschaftlichen Kosten der Energieversorgung, die Schonung fossiler 
+Ressourcen und die Weiterentwicklung der Technolo- gien zur Erzeugung von Strom aus erneuerbaren 
+Energien. Zur Erreichung dieser Ziele sieht das EEG den vorrangigen Anschluss von Anlagen zur 
+Erzeugung von Strom aus erneuerbaren Ener- gien an die Stromnetze der allgemeinen Versorgung sowie 
+die vorrangige Abnahme, Übertragung und Verteilung des erzeugten Stroms vor. Neben diesen 
+netzbezogenen Ansprüchen steht Betreibern von Anlagen zur Stromerzeugung aus erneuerbaren Energien 
+außerdem eine finanzielle Förderung zu, deren Höhe seit Inkrafttreten des EEG 2017 vorwiegend in 
+Rahmen von Aus- schreibungen ermittelt wird.
+
+Das EEG gewährt für Betreiber von Blockheizkraftwerken (BHKW), die Gas aus dem Erdgasnetz 
+entnehmen, eine Förde- rung für jede erzeugte kWh Strom, wenn der Betreiber nach- weist, dass in 
+dem jeweiligen Kalenderjahr mindestens genauso viel Biomethan in das deutsche Erdgasnetz 
+eingespeist wurde wie zur Stromerzeugung in dem BHKW ausgespeist worden ist. In diesem Fall erhält 
+der Betreiber des Biomethan-BHKW eine finanzielle Förderung, die es ihm im Idealfall ermöglicht, 
+dem Biogaseinspeiser einen auskömmlichen Biomethanpreis zu zahlen. Wird das Biomethan in neuen, 
+seit Inkrafttreten des
+EEG 2017 in Betrieb genommenen BHKW mit einer installierten Leistung größer 150 kW eingesetzt, 
+besteht der Anspruch auf finanzielle Förderung nur, wenn der Anlagenbetreiber zuvor erfolgreich an 
+einer Ausschreibung teilgenommen hat. Bei Verstromung in bereits vor 2017 mit erneuerbaren Energien 
+be- triebenen BHKW ergibt sich die Höhe des Vergütungsanspruchs hingegen aus dem Gesetz. Wobei sich 
+die Höhe der Förderung dann unter anderem danach bestimmt, welche Stoffe für die Biogaserzeugung 
+zum Einsatz gekommen sind. Dabei ist es auch möglich, das eingesetzte Biomethan bei Verwendung 
+unter- schiedlicher Einsatzstoffe bilanziell zu teilen.
+
+Der Betreiber muss für die finanzielle Förderung nachweisen, dass er den Strom in 
+Kraft-Wärme-Kopplung (KWK) erzeugt hat (Wärmenutzungspflicht) und verschiedene technische Voraus- 
+setzungen und Dokumentationspflichten (Einsatzstoff-Tage- buch) erfüllen.
+
+
+
+
+8  Marktentwicklung und Rahmenbedingungen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weitere Voraussetzung ist, dass für den gesamten Transport des Biomethans von der 
+Biogasaufbereitungsanlage bis zum BHKW Massenbilanzsysteme verwendet werden.
+
+Die Förderung wird für das Jahr der Inbetriebnahme des BHKW und weitere 20 Jahre in 
+gleichbleibender Höhe gezahlt. Hier- durch kann das Biomethan effizient in KWK-Anlagen eingesetzt 
+werden, die an Orten mit einer entsprechenden Wärmenachfra- ge betrieben werden.
+
+Das EEG ist erstmals im Jahr 2000 in Kraft getreten und wurde in- zwischen mehrfach novelliert. Die 
+letzte große Novelle (EEG 2017) trat am 1. Januar 2017 in Kraft. Mit dem EEG 2017 ist nun auch für 
+Biomethan-BHKW die grundlegende Umstellung des EEG-Förder- systems erfolgt: Während die 
+Vergütungssätze früher gesetzlich festgelegt worden sind, soll die Förderhöhe künftig weitestgehend 
+im Rahmen von Ausschreibungen ermittelt werden.
+
+Betreiber aller seit 2012 in Betrieb genommener Biomethan- BHKW müssen den Strom aus ihren Anlagen 
+direkt vermarkten, wobei sie eine Förderung in Form der gleitenden Marktprämie erhalten können. Die 
+Pflicht zur Direktvermarktung gilt für alle seit dem 1. Januar 2012 in Betrieb genommenen 
+Neuanlagen
+mit einer installierten Leistung von mehr als 750 kW. Zum 1. Au- gust 2014 wurde die Schwelle dann 
+auf eine installierte Leistung von höchstens 500 kW abgesenkt. Zum 1. Januar 2016 sank die Schwelle 
+auf 100 kW.
+
+Für Anlagen, die vor dem 1. Januar 2017 in Betrieb genommen wurden, besteht der Anspruch auf die 
+Marktprämie oder die Ein- speisevergütung auch weiterhin in der gesetzlich festgelegten Höhe. Auch 
+können Betreiber von Bestandsanlagen eine Flexibi- litätsprämie in Anspruch nehmen. Allerdings ist 
+die Inanspruch- nahme der Flexibilitätsprämie seit dem 1. August 2014 auf einen bundesweiten 
+Netto-Gesamtzubau installierter Leistung von
+1.350 MW gedeckelt.
+
+Der weitere Zubau von Biomasse- und Biogasanlagen wurde bereits durch das EEG 2014 stark 
+abgebremst: Der Gesetzgeber hatte dort ab dem Jahr 2016 bei einer Überschreitung eines Zubaus von 
+100 MW (brutto) jährlich eine zubauabhängige Erhö- hung der Degression von 0,5 auf 1,27 Prozent 
+vorgesehen. Auch wurde bereits mit dem EEG 2014 die Höhe der Förderung erheb- lich gekürzt. 
+Insbesondere wurden die bislang für den Einsatz bestimmter Einsatzstoffe vorgesehenen erhöhten 
+Vergütungen und der Gasaufbereitungsbonus ersatzlos gestrichen.
+
+
+Marktentwicklung und Rahmenbedingungen  9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seit Inkrafttreten des EEG 2017 müssen sämtliche neu in Betrieb genommenen Biomasseanlagen 
+gemeinsam an einer jährlichen Ausschreibung teilnehmen, in der sie sich ihren individuellen 
+Fördersatz in Form des anzulegenden Wertes zur Berechnung der Marktprämie selbst „ersteigern“ 
+müssen. Eine Differenzie- rung nach Einsatzstoffen erfolgt ebenso wenig wie eine Differen- zierung 
+nach Anlagengröße oder -technik. Damit stehen künftig sämtliche Technologien zur Stromerzeugung aus 
+Biomasse miteinander im Wettbewerb. Lediglich kleine Neuanlagen mit einer installierten Leistung 
+bis einschließlich 150 kW, Bestands- anlagen und bestimmte „Übergangsanlagen“ (Inbetriebnahme vor 
+dem 1. Januar 2019 und Genehmigung vor dem 1. Januar 2017) erhalten auch unter Geltung des EEG 2017 
+weiterhin einen gesetzlich vorgegebenen Fördersatz. An der Direktvermark- tungspflicht ab einer 
+installierten Leistung von 100 kW ändert dies aber nichts.
+
+Ausgeschrieben wird jeweils zum 1. September jeden Jahres das gesetzlich bestimmte Ausbauvolumen 
+installierter Leistung (2017 bis 2019: je 150 MW, 2020 bis 2022: je 200 MW), wobei jeweils die in 
+Betrieb genommenen Anlagen mit gesetzlicher Förderung abgezogen werden. Das Verfahren wird von der 
+Bun- desnetzagentur abgewickelt.
+Die Bieter können dann angeben, welchen anzulegenden Wert sie für den wirtschaftlichen Betrieb 
+ihrer Anlage über 20 Jahre Förderzeitraum pro Kilowattstunde installierter Leistung benö- tigen. 
+Die günstigsten Gebote erhalten den Zuschlag, bis das Ausschreibungsvolumen erschöpft ist. Die 
+bezuschlagten Neu- anlagen erhalten dann die Marktprämie mit dem anzulegenden Wert, den sie selbst 
+geboten haben (sogenanntes Gebotspreis- oder „pay-as-bid“-Ver-fahren). Dabei dürfen für Neuanlagen 
+keine Gebote berücksichtigt werden, die den gesetzlich vorge- gebenen Höchstwert von 14,88 ct/kWh 
+übersteigen. Eine höhere Förderung als dieser – degressiv absinkende – Betrag kann künftig also 
+nicht mehr erzielt werden. Bei der Teilnahme an der Ausschreibung muss eine Sicherheit in Höhe von 
+60 Euro pro kWh gebotener installierter Leistung bei der Bundesnetzagentur hinterlegt werden. Denn 
+wird die Anlage nach dem Zuschlag nicht innerhalb einer vorgegebenen Zeit realisiert, werden 
+Strafzahlungen fällig.
+
+Für in der Ausschreibung bezuschlagte Biomethan-BHKW gelten künftig verschiedene Einschränkungen: 
+So haben bezuschlagte Biomethan-BHKW einen Anspruch auf Förderung nur für eine 
+Jahresdurchschnittsleistung, die 50 Prozent des Wertes der installierten Leistung entspricht. Sie 
+müssen ihre Anlage leis- tungstechnisch also doppelt überbauen und die entsprechend erhöhte 
+installierte Leistung in der Ausschreibung anbieten. Für darüber hinausgehende Strommengen entfällt 
+in der Direktver- marktung die Marktprämie, der Anlagenbetreiber erhält ledig- lich seinen 
+Markterlös. Allerdings können Anlagenbetreiber für die gesamte installierte Leistung einen sog. 
+Flexibilitätszuschlag
+i. H. v. 40 Euro pro kW und Jahr beanspruchen.
+
+
+10  Marktentwicklung und Rahmenbedingungen
+
+Außerdem darf bei bezuschlagten Anlagen nur solches Biome- than eingesetzt werden, bei dessen 
+Erzeugung der Anteil von Mais (Ganzpflanze) und Getreidekorn einschließlich Corn-
+Cob-Mix und Körnermais sowie Lieschkolbenschrot in einem Kalenderjahr insgesamt höchstens 50 (ab 
+2019: 47; ab 2021: 44) Masseprozent betragen (sogenannter Maisdeckel) hat.
+
+Bei Biomasseanlagen können – anders als bei den anderen Energieträgern Wind und Solarenergie – auch 
+Bestandsanlagen unter besonderen Voraussetzungen an der jährlichen Ausschrei- bung teilnehmen und 
+sich so eine einmalige Verlängerung ihres Förderzeitraums um zehn Jahre sichern. Diese Option haben 
+aber nur solche Altanlagen, deren bisheriger Förderanspruch für nur noch höchstens acht Jahre 
+besteht. Für die Betreiber von Biomethan-BHKW dürfte diese Option nur in seltenen Ausnah- mefällen 
+von Interesse sein.
+
+Bereits mit dem EEG 2014 wurde außerdem eine Sonderregel für auf Biomethan umgestellte Erdgas-BHKW 
+eingeführt, die mit dem EEG 2017 ergänzt wurde. Hintergrund ist, dass durch die mit dem EEG 2014 
+geänderte Inbetriebnahmedefinition nach einer Umstellung eines fossilen BHKW auf Biomethan der 
+Umstellungszeitpunkt als (Neu-)Inbetriebnahme im Sinne des EEG gilt. Da sich die anwendbare 
+Gesetzesfassung nach dem Inbetriebnahmezeitpunkt der Anlage richtet, kann in einem solchen Fall nur 
+noch eine – deutlich – geringere Förderung erzielt werden. Zum Schutz bestehender und in Umsetzung 
+be-
+findlicher Gasaufbereitungsprojekte wurde eine Sonderregelung eingeführt, nach der unter bestimmten 
+Voraussetzungen der alte Inbetriebnahmebegriff weitergilt, nach dem es bei ehemals fossil 
+betriebenen BHKW auf die erstmalige Stromerzeugung
+aus Erdgas ankam. Erste wesentliche Voraussetzung hierfür ist jedoch, dass das verstromte Biomethan 
+aus einer bereits
+bestehenden Gasaufbereitungsanlage stammt. Außerdem muss der Anlagenbetreiber in diesem Fall einen 
+sogenannten „Still- legungsnachweis“ erbringen. Er muss also nachweisen, dass vor der erstmaligen 
+Stromerzeugung aus Biomethan in seiner Anlage ein anderes bestehendes Biomethan-BHKW endgültig 
+stillgelegt wurde. Mit dem EEG 2017 wird insoweit klargestellt, dass mehrere Stilllegungsnachweise 
+einzelner Anlagen auch gemeinsam für eine größere Anlage verwendet werden können und ein 
+Stilllegungsnachweis einer größeren Anlage auf mehre- re kleinere Anlagen aufgeteilt werden kann.
+
+Aktuelle Informationen rund um das EEG finden Sie auf www.biogaspartner.de.
+Kraft-Wärme-Kopplungsgesetz (KWKG) und KWK-Ausschrei- bungsverordnung
+Wird Biomethan in Anlagen der Kraft-Wärme-Kopplung einge- setzt, kommt alternativ zu einer 
+Förderung nach dem EEG auch die Inanspruchnahme des sog. KWK-Zuschlags nach dem KWKG in Betracht. 
+Die nach dem KWKG gewährte Förderung bleibt jedoch deutlich hinter der Förderung nach dem EEG 
+zurück, so dass dieses Vorgehen nur in Ausnahmefällen sinnvoll erscheint.
+
+Die im August 2017 auf Grundlage des KWKG in Kraft getre- tene KWK-Ausschreibungsverordnung 
+allerdings setzt einen spezifischen Anreiz für die Nutzung von Biomethan. So sieht die Verordnung 
+für die Jahre 2018 bis 2021 für sog. innovative KWK-Systeme ein gesondertes Ausschreibungsvolumen 
+von jährlich 50 MW und einen Höchstwert von 12,0 ct/kWh vor.
+
+Für innovative KWK-Systeme gelten dabei spezielle Anforderun- gen. So muss der Anteil „innovativer 
+erneuerbarer Wärme“ bei mindestens 30 Prozent (ab 2021: 35 Prozent) der Referenzwärme liegen. Wird 
+in dem innovativen KWK-System Gas eingesetzt – was etwa bei gasbetriebenen Wärmepumpen der Fall ist 
+– muss es sich um gasförmige Biomasse, also Biogas oder Biomethan, handeln. Der Einsatz von 
+Biomethan wird zudem dadurch honoriert, dass in den ersten fünf Jahren die Nutzung von Biomethan in 
+der KWK-Anlage des innovativen KWK-Systems in Höhe von maximal 5 Prozentpunkten auf die Erfüllung 
+des ver- pflichtenden 30- bzw. 35-Prozent-Anteils erneuerbarer Wärme angerechnet wird.
+
+
+
+
+
+
+
+
+
+
+
+Marktentwicklung und Rahmenbedingungen  11
+
+Biomasseverordnung (BiomasseV)
+Die seit 2001 geltende Biomasseverordnung regelt für den Anwendungsbereich des EEG, welche Stoffe 
+als Biomasse gelten, welche technischen Verfahren zur Stromerzeugung aus Biomasse in den 
+Anwendungsbereich des Gesetzes fallen und welche Umweltanforderungen bei der Erzeugung von Strom 
+aus Biomasse einzuhalten sind. Biomasse im Sinne der Biomasse- verordnung sind Energieträger aus 
+Phyto- und Zoomasse. Hierzu gehören auch Folge- und Nebenprodukte, Rückstände sowie Abfälle, deren 
+Energiegehalt aus Phyto- und Zoomasse stammt. Die Definition von Biomasse schließt in § 2 Absatz 2 
+und Absatz 3 auch durch anaerobe Vergärung erzeugtes Biogas ein. Ausge- schlossen wird Biogas, das 
+aus den folgenden Stoffen erzeugt wird (§ 2 Absatz 3, Nummer 2):
+
+gemischte Siedlungsabfälle aus privaten Haushalten ein- schließlich ausgelöster Biomassefraktionen, 
+Hafenschlick und Gewässerschlämme,
+tierische Nebenprodukte,
+Klärschlamm, soweit dessen Anteil am Vergärungs- substrat 10 Gewichtsprozent übersteigt.
+
+Die BiomasseV enthält zusätzlich eine Negativliste von weiteren Stoffen, die nicht als finanziell 
+förderfähige Biomasse gelten (z. B. Altholz, Papier oder Textilien). Für Anlagen, die unter das EEG 
+2012 fallen, regelt die BiomasseV außerdem, welche Substrate den Einsatzstoffklassen I und II 
+zuzuordnen sind, für die nach dem EEG 2012 erhöhte Vergütungen verlangt werden können.
+Erneuerbare-Energien-Wärmegesetz (EEWärmeG)
+Das Erneuerbare-Energien-Wärmegesetz (EEWärmeG) ist Anfang 2009 in Kraft getreten und wurde im Mai 
+2011 an die EU-Gesetz- gebung angepasst. Im Jahr 2020 sollen gemäß EEWärmeG
+14 Prozent des Wärme- und Kältebedarfs (Endenergieverbrauch) in Deutschland aus erneuerbaren 
+Energien stammen.
+Wesentliche Elemente des Gesetzes sind: Nutzungspflicht für Neubauten
+Nutzungspflicht für bestehende öffentliche Gebäude Vorbildfunktion öffentlicher Gebäude
+Finanzielle Förderung in Form von Förderprogrammen Gezielte Förderung der Nutzung von Wärmenetzen
+
+Eigentümer von neu errichteten Gebäuden sind verpflichtet, zu einem bestimmten Anteil erneuerbare 
+Energien für ihre Wärmeversorgung zu nutzen oder Ersatzmaßnahmen nachzu- weisen (z.B. KWK-Nutzung 
+oder Energieeinsparleistungen). Die Nutzungspflicht für Neubauten trifft alle Eigentümer (Private,
+Staat, Wirtschaft), wobei im öffentlichen Bereich teilweise auch der Gebäudebestand erfasst ist. 
+Genutzt werden können alle Formen von erneuerbaren Energien, auch in Kombination.
+
+Bei der Nutzung von Biogas gilt die Pflicht grundsätzlich als erfüllt, wenn der Wärmeenergiebedarf 
+des jeweiligen Gebäudes zu 30 Prozent hieraus gedeckt wird. Die Nutzung des Biogases muss dabei in 
+einer KWK-Anlage erfolgen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12  Marktentwicklung und Rahmenbedingungen
+
+
+
+
+
+
+
+
+
+
+
+
+„Die Biomethanerzeugung kann auf
+rund 100 TWh ausgebaut werden – sofern die Rahmenbedingungen günstig sind.“
+
+
+
+
+
+
+
+
+
+
+
+Im Fall der Nutzung von Biomethan sind bei der Aufbereitung des Rohbiogases die Anforderungen nach 
+den im EEG 2012 gere- gelten Effizienz- und Klimaschutzanforderungen (Methanemissi- on ≤ 0,2 
+Prozent, Stromverbrauch max. 0,5 kWh pro Nm3 Rohgas, Prozesswärme aus erneuerbaren Energien oder 
+Abwärme der Aufbereitungs- bzw. Einspeiseanlage) sowie die Vorgaben an die Nutzung von 
+Massenbilanzsystemen einzuhalten.
+
+Die Bundesregierung beabsichtigt derzeit, den Rechtsrahmen
+für die Effizienzanforderungen und den Einsatz von erneuerbaren Energien in einem 
+Gebäudeenergiegesetz zu vereinheitlichen.
+
+Gasnetzzugangsverordnung (GasNZV) Vorrangiger Netzanschluss
+Nach § 33 GasNZV sind Netzbetreiber auf allen Druckstufen verpflichtet, Anlagen auf Antrag 
+vorrangig und unverzüglich an das Gasnetz anzuschließen. Die Kosten für den Netzanschluss tragen 
+bis zu zehn km Anschlussleitung der Netzbetreiber (75 Prozent) und der Biogaseinspeiser (25 
+Prozent) jeweils anteilig. Die Kosten für den Netzanschluss und den ersten Kilometer der 
+Verbindungsleitung sind dabei für den Biogaseinspeiser auf maximal 250.000 € gedeckelt. Die 
+Einspeisung von Biogas kann vom Netzbetreiber nach § 34 Absatz 2 Satz 2 GasNZV nicht mit dem 
+Hinweis auf bestehende Kapazitätsengpässe im Netz ver- weigert werden. Netzbetreiber und 
+Biogaseinspeiser sollen für die Errichtung des Netzanschlusses einen Realisierungsfahrplan nach § 
+33 Absatz 7 GasNZV vereinbaren, der der Bundesnetz- agentur vorgelegt wird. Der Netzbetreiber ist 
+Eigentümer des Netzanschlusses und trägt die Kosten für Wartung und Betrieb.
+
+Vorrangiger Netzzugang
+Nach § 34 GasNZV haben Netzbetreiber Ein- und Ausspeise- verträge vorrangig mit Transportkunden von 
+Biomethan zu schließen, soweit diese Gase netzkompatibel sind. Zugleich ist der Netzbetreiber zur 
+Vornahme aller wirtschaftlich zumutbaren Aufwendungen verpflichtet, um die technische Aufnahmefä- 
+higkeit des Netzes zu optimieren und eine Verfügbarkeit von mindestens 96 Prozent sicherzustellen.
+Erweiterter Bilanzausgleich
+Für Biogas-Transportkunden sieht § 35 GasNZV besondere Regelungen zum erweiterten Bilanzausgleich 
+bei der Biogas- bilanzierung vor. Während der Netzbetreiber für Erdgas-Trans- portkunden innerhalb 
+des Bilanzkreises eine unvergütete Ausgleichsmöglichkeit lediglich innerhalb enger stündlicher 
+Toleranzgrenzen anbieten muss, ist er in Bezug auf ausschließ- liche Biogas-Bilanzkreise dazu 
+verpflichtet, einen Flexibilitäts- rahmen von 25 Prozent anzubieten. Der
+
+Flexibilitätsrahmen gilt dabei für den besonderen Biogas- Bilanzierungszeitraum von zwölf Monaten. 
+Innerhalb dieses Bilanzierungszeitraums bezieht sich der Flexibilitätsrahmen auf die kumulierte 
+Abweichung der eingespeisten von der ausge- speisten Menge. Für die Nutzung des tatsächlich in 
+Anspruch genommenen Flexibilitätsrahmens ist ein pauschaliertes Entgelt von 0,1 ct/kWh an den 
+Netzbetreiber zu entrichten.
+
+DVGW-Arbeitsblätter
+In den Arbeitsblättern des Deutschen Vereins des Gas- und Wasserfaches e. V. (DVGW) sind die 
+grundlegenden Anforderun- gen an Gase in Netzen der öffentlichen Versorgung festgelegt. Grundlage 
+für die Beschaffenheit von Gasen aus erneuerbaren Quellen ist das DVGW-Arbeitsblatt G 262. Sofern 
+das hergestell- te Biogas in das öffentliche Gasnetz eingespeist werden soll, muss es den 
+Anforderungen des DVGW-Arbeitsblattes G 260 entsprechen und insbesondere den Anforderungen der 
+zweiten Gasfamilie mit der vor Ort vorhandenen Gruppe genügen.
+
+
+Marktentwicklung und Rahmenbedingungen  13
+
+Im DVGW-Arbeitsblatt G 265-1 sind die Mindestanforderungen an die Planung, Fertigung, Errichtung, 
+Prüfung und Inbetrieb- nahme von Biogasaufbereitungs- und -einspeisungsanlagen zusammenfassend 
+dargestellt. Es enthält die Vorgaben an die technische Sicherheit der zur Nutzbarmachung des 
+Biogases erforderlichen Anlagen und deren Komponenten – von der Aufbereitungsanlage über die 
+Verdichtung, Druckregelung, Kon- ditionierung und Messung bis zur Einspeisung in das Gasnetz als 
+Zusatz- bzw. Austauschgas.
+
+Das jüngst überarbeitete DVGW-Arbeitsblatt G 415 enthält die Mindestanforderungen an Planung, Bau 
+und Betrieb von Gas- leitungen bis zu 5 bar Betriebsdruck, in denen Rohbiogas oder 
+teilaufbereitetes Biogas fortgeleitet wird. Das DVGW-Arbeitsblatt G 1030 legt die Anforderungen an 
+die Qualifikation und die Orga- nisation von Betreibern von Anlagen fest, die der Erzeugung, 
+Fortleitung, Aufbereitung, Konditionierung oder Einspeisung von Biogas dienen. Es enthält damit die 
+Vorgaben an ein techni- sches Sicherheitsmanagementsystem (TSM) für Biogasanlagen.
+Biokraftstoffquotengesetz (BioKraftQuG), Energiesteuer- gesetz (EnergieStG) und 
+Bundes-Immissionsschutzgesetz (BImSchG)
+Seit 2006 ist in Deutschland vorgeschrieben, dass beim Verkauf von Kraftstoffen ein bestimmter 
+Anteil an Biokraftstoffen beizumischen ist, sog. Biokraftstoffquote. Die eigentlich nur für Diesel- 
+und Ottokraftstoff geltende Quotenverpflichtung kann auch durch den Einsatz von Biomethan in 
+Erdgasfahrzeugen erfüllt werden. Das quotenverpflichtete Mineralölunternehmen kann sich dabei 
+Dritter bedienen (sog. Quotenhandel). Neben der Einführung der Biokraftstoffquote wurden in der 
+Vergangen- heit Steuerbegünstigungen für bestimmte Biokraftstoffe wie z. B. Biomethan gewährt. Die 
+Steuererleichterungen für Biokraftstof- fe wurden jedoch Schritt für Schritt abgesenkt und liefen 
+Ende 2015 endgültig aus (§ 50 Absatz 2 EnergieStG).
+
+Umgesetzt wurden die Regelungen zur Biokraftstoffquote im Bundes-Immissionsschutzgesetz (vgl. §§37a 
+ff. BImSchG). Seit dem Jahr 2015 wird die energetische Quote durch eine anteilige 
+Treibhausgasminderungspflicht ersetzt. Die Bezugsgröße der Quote wurde also vom energetischen 
+Anteil auf die Netto-Treib- hausgasminderung umgestellt. Das bedeutet, die verpflichteten 
+Unternehmen aus der Mineralölwirtschaft müssen seit 2015 nachweisen, dass der von ihnen in Verkehr 
+gebrachte Kraft- stoff insgesamt eine Treibhausgasminderung von zunächst 3,5 Prozent gegenüber 
+einem rechnerischen Referenzwert erbringt, wobei der vorgegebene Minderungssatz seit 2017 auf 4 
+Prozent gestiegen ist und ab 2020 auf 6 Prozent ansteigt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biokraftstoff-Nachhaltigkeitsverordnung (Biokraft-NachV) Die 2008 novellierte 
+Erneuerbare-Energien-Richtlinie der EU enthielt in Art. 17 bis 19 erstmals sogenannte 
+Nachhaltigkeits- kriterien für die Erstellung und Weiterverwendung von Bio- brennstoffen. Diese 
+Vorgaben wurden für den Kraftstoffbereich durch die Verordnung über Anforderungen an eine 
+nachhaltige Herstellung von Biokraftstoffen (Biokraft- NachV) sowie für den Strom- und Wärmebereich 
+durch die Biomassestrom-Nachhal- tigkeitsverordnung (BioSt-NachV) umgesetzt. Die Verordnungen 
+sollen durch ein komplexes Zertifikatssystem bewirken, dass die Herstellung und Weiterverarbeitung 
+von Biobrennstoffen im globalen Maßstab unter Beachtung verbindlicher ökologischer und sozialer 
+Nachhaltigkeitsstandards erfolgt. Dies betrifft im Strom- und Wärmebereich grundsätzlich nur 
+flüssige, im Kraft- stoffbereich auch gasförmige Biokraftstoffe wie Biomethan.
+
+Nur im Sinne der Biokraft-NachV nachhaltig hergestellte Bio- kraftstoffe sollen nach dem 
+Energiesteuergesetz entlastungs- berechtigt oder auf die Biokraftstoffquote bzw. die neue 
+Treibhausgasminderungspflicht anrechenbar sein. So kann hier eine Anrechnung nur dann erfolgen, 
+wenn die Anforderungen an den Schutz bestimmter ökologisch besonders wertvoller Lebensräume und die 
+landwirtschaftliche Bewirtschaftung beim Anbau der Biomasse bescheinigt werden können. Außerdem 
+muss bei Berücksichtigung der gesamten Prozesskette ein bestimmtes Treibhausgasminderungspotenzial 
+gegenüber fos- silen Kraftstoffen Nachgewiesen werden. Zum 1. Januar 2017 ist die 
+Mindestanforderung von zuvor 35 auf nunmehr 50 Prozent angehoben worden. Zum 1. Januar 2018 ist 
+eine weitere Erhö- hung auf dann 60 Prozent vorgesehen. In Deutschland ist die Bundesanstalt für 
+Landwirtschaft und Ernährung (BLE) die für die Nachhaltigkeitszertifizierung zuständige Stelle.
+
+Biogasregister Deutschland
+Zur einheitlichen und vereinfachten Führung des Herkunfts- und Eigenschaftsnachweises für Biogas im 
+Erdgasnetz hat die dena zusammen mit 14 Unternehmen vorwiegend aus der Biogas- partnerschaft das 
+Biogasregister Deutschland aufgebaut. Es hat im Februar 2011 den Betrieb aufgenommen und wird von 
+der dena als Registerführer betrieben. Im Zuge des Aufbaus wurde die Nachweisführung für 
+Vergütungen und Erstattungen für Biogas im Erdgasnetz erstmalig vereinheitlicht.
+
+Sowohl das Erneuerbare-Energien-Gesetz (EEG) als auch das Erneuerbare-Energien-Wärmegesetz setzen 
+für die Förderung eines Einsatzes von Biomethan voraus, dass für den gesamten Transport und 
+Vertrieb des Biomethans von seiner Herstellung bis zu seiner Entnahme eine Dokumentation mithilfe 
+von Mas- senbilanzsystemen erfolgt. Das Biogasregister Deutschland er- füllt die in der 
+Auslegungshilfe zur Massenbilanzierung des BMU genannten Mindestanforderungen an ein 
+Massenbilanzsystem. Seit 2014 ist auch die Bilanzierung von Power-to-Gas-Mengen über das 
+Biogasregister Deutschland möglich.
+
+Auf www.biogasregister.de finden Sie hierzu weitere Infor- mationen.
+
+Marktentwicklung und Rahmenbedingungen  15
+
+Anlagen- zahl
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+Einspeise- kapazität in Nm3/h
+
+200.000
+
+180.000
+
+160.000
+
+140.000
+
+120.000
+
+100.000
+
+80.000
+
+60.000
+
+40.000
+
+20.000
+
+
+0
+2006  2007  2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+0
+9/2017
+
+Anlagenzahl    Einspeisekapazität in Nm3/h
+
+
+Abbildung 1: Anlagenentwicklung 2006-2017
+
+
+
+
+
+2.1.2 Marktentwicklung
+
+Seit der Inbetriebnahme der ersten beiden Biomethananlagen in 2006 sind rund 200 weitere Anlagen 
+ans Gasnetz angeschlos- sen worden. Zusammen verfügen sie über eine Einspeiseleis- tung von 120.000 
+Kubikmetern Biomethan pro Stunde.
+
+Über das Jahr betrachtet lassen sich mit diesen Anlagen knapp 9 Mrd. kWh Biomethan erzeugen und 
+einspeisen. Diese Menge reicht aus, um den für Heizung und Warmwasser benötigten Energieverbrauch 
+von 600.000 Drei- Personen-Haushalten
+mit einem Jahresverbrauch von jeweils 15.000 kWh Erdgas zu decken. Eingesetzt in Erdgasfahrzeugen 
+könnten 780.000 Erd- gasfahrzeuge mit einer Laufleistung von 20.000 km pro Jahr mit Biomethan 
+versorgt werden.
+
+Durch Streichung der Einsatzstoffvergütungsklassen im Rahmen des Erneuerbare-Energien-Gesetzes 
+(EEG) 2014 wird sich der Neubau zukünftig auf Anlagen konzentrieren, die biogene Abfäl- le und 
+Reststoffe einsetzen.
+
+Auf der Nachfrageseite von Biomethan sind insbesondere fünf Absatzmärkte relevant:
+
+Biomethan zur Strom- und Wärmeerzeugung in Kraft- Wärme-Kopplung (KWK)
+Biomethan als Beimischung zu Erdgas im Wärmemarkt Biomethan als Kraftstoff im Verkehrssektor
+Stoffliche Nutzung in der chemischen Industrie Internationale Biomethanmärkte
+
+
+
+
+
+
+
+
+
+16  Marktentwicklung und Rahmenbedingungen
+
+Anwendungsfelder
+Biomethan zur Strom- und Wärmeerzeugung in KWK
+In der Vergangenheit zielte die Gesetzgebung der Bundes- regierung vor allem darauf ab, Biomethan 
+aus Aspekten des Klimaschutzes vornehmlich zur Stromerzeugung in KWK zu nutzen. Wesentliches 
+Instrument hierfür ist das EEG, welches den Einsatz von Biomethan in KWK mit festen 
+Vergütungssätzen für den daraus erzeugten und eingespeisten Strom fördert.
+
+Derzeit stellt die Stromerzeugung nach EEG den Leitmarkt für Biomethan dar, da auf Basis der 
+staatlich garantierten Vergü- tungssätze über 20 Jahre Sicherheit für private Investoren gege- ben 
+ist. Risikofaktor bleibt insbesondere die Preisentwicklung der Einsatzstoffe (Substrate). Steigende 
+Rohstoffpreise können aufgrund der feststehenden Vergütungssätze nicht kompensiert werden und 
+wirken sich direkt auf die Wirtschaftlichkeit der Projekte aus. Mit dem Auslaufen der Vergütung für 
+zahlreiche Biogasanlagen ab 2021 gewinnen Repowering und die Nachrüs- tung mit einer Aufbereitung 
+für Anlagen ohne gutes Wärmekon- zept an Bedeutung.
+
+Zur Erhöhung des Anteils erneuerbarer Wärme auf 14 Prozent im Jahr 2020 stellt der Biomethaneinsatz 
+in der gekoppelten Strom- und Wärmeerzeugung derzeit eine der effizientesten und ökologischsten 
+Technologieoptionen dar. Insbesondere dort, wo andere erneuerbare Technologien oder Maßnahmen zur 
+Senkung des Energiebedarfs aus baulichen Gründen nicht in er- forderlichem Maße anwendbar sind, ist 
+die Nutzung von Biome- than in reinen Wärmeanwendungen eine sinnvolle Alternative.
+Biomethan als Beimischung zu Erdgas im Wärmemarkt Biomethan in Beimischungen zu fossilem Erdgas 
+wird von knapp 200 Gasversorgern bereits in Mischungsverhältnissen von 5 bis 100 Prozent angeboten. 
+Ein Großteil der Nachfrage geht auf Hauseigentümer in Baden-Württemberg zurück, wo seit 2010 
+Biomethan zur Erfüllung der Auflagen des EEWärmeG verwendet werden kann. Neben dem 
+Erneuerbare-Energien-Wärmegesetz für Neubauten auf Bundesebene werden letztere Angebote 
+insbesondere in Baden-Württemberg zur Erfüllung der Auflagen des Erneuerbare- Wärme-Gesetzes 
+vertrieben. Vor dem Hinter- grund der Ausweitung dieser Landesregelung auf den Altbaube- stand seit 
+2010 ist in diesem Segment eine steigende Nachfrage zu beobachten.
+
+Im Bereich des bundesweiten Absatzes von Biomethanpro- dukten ist ebenfalls mit einem steigenden 
+Absatz zu rechnen. Ähnlich den „Grünstrom“-Angeboten im Stromsektor besteht bei privaten Endkunden 
+eine prinzipielle Bereitschaft, für Beimi- schungen von Biomethan zu Erdgas einen Aufpreis zu 
+zahlen. Es gibt bereits etliche lokale und überregionale Erdgasversorger, die entsprechende 
+„Ökogas“- Produkte entwickelt haben und anbieten.
+
+
+
+
+
+
+
+
+
+Branchenbarometer Biomethan
+
+Das „Branchenbarometer Biomethan“ führt die dena seit 2012 jährlich durch.
+
+Neben quantifizierbaren Informationen enthält diese Kurz- publikation Einschätzungen, Meinungen und 
+Prognosen der Branchenakteure zu Entwicklungen, Chancen und Heraus- forderungen.
+
+Das Branchenbarometer Biomethan hat sich als eine wich- tige Informationsgrundlage für Wirtschaft, 
+Wissenschaft und Politik im Bereich Biomethaneinspeisung und –nutzung etabliert. Die Ergebnisse 
+werden von verschiedenen wissen- schaftlichen Einrichtungen und Ministerien verwendet.
+
+www.biogaspartner.de
+
+
+
+Marktentwicklung und Rahmenbedingungen  17
+
+120 %
+
+
+100 %
+
+
+80 %
+
+
+
+60 %
+
+
+40 %
+
+
+20 %
+
+
+50 %**
+
+35 %
+
+
+
+0 %
+Pflanzenöl
+
+
+FAME
+
+
+Biomethan
+
+
+Bioethanol
+
+
+2014
+2015
+2016
+
+
+Abbildung 2: THG-Einsparung Biokraftstoffe aus Nachhaltigkeitsnachweisen in der staatlichen 
+Datenbank Nabisy*
+* Treibhausgasminderung gegenüber dem fossilen Vergleichswert (83,8g CO2 eq/MJ), wobei weder die 
+Einsatzart (Biobrenn- oder Biokraftstoff) noch der Einsat- zort (Staat) berücksichtigt wurde. 
+Dargestellt ist das gewichtete Mittel der Treibhausgasminderung, der in den Vergleichszeiträumen 
+eingestellten Nachhaltig- keitsnachweise durch die Hersteller von Biokraft- und Biobrennstoffen 
+(sogenannte letzte Schnittstellen).
+** gesetzlich vorgeschriebene Treibhausgasminderungspflicht ab dem 01.01.2018
+
+
+
+
+
+
+
+Biomethaneinsatz im Verkehrssektor
+Biomethan kann wie Erdgas als Kraftstoff für Erdgasfahrzeuge genutzt werden. Über die 
+Gasnetzeinspeisung kann es an den in Deutschland bestehenden Gastankstellen verkauft werden und 
+fossile Kraftstoffe ersetzen.
+
+Prinzipiell ist Biomethan gegenüber anderen Biokraftstoffen als hocheffizienter Kraftstoff mit 
+einem hohen spezifischen Fläche- nertrag einzustufen. Besonders im Hinblick auf die Verminde- rung 
+von Treibhausgasemissionen schneidet Biomethan gut ab. Im Vergleich zu allen mengenmäßig relevanten 
+Biokraftstoffen hat Biomethan mit über 80 Prozent Treibhausgasvermeidung das höchste 
+Einsparpotenzial. Zudem werden beim Einsatz
+von Biomethan gegenüber anderen Kraftstoffen auch Luft- und Lärmemissionen reduziert. Aus 
+wissenschaftlich-technischer Sicht ist Biomethan daher eine der vielversprechendsten Alter- nativen 
+für einen nachhaltigen Einsatz von Biokraftstoffen im Verkehrssektor. Die Nachfrage in diesem 
+Sektor hängt jedoch maßgeblich von der Entwicklung der Verbreitung von Erdgas- fahrzeugen ab. 
+Derzeit gibt es ca. 100.000 Erdgasfahrzeuge in Deutschland. 2015 lag der Anteil von Biomethan am 
+Erdgasab- satz für Erdgasfahrzeuge bei rund 20 Prozent.
+schen Industrie (unverändert)
+Stoffliche Nutzung in der chemischen Industrie
+In der chemischen Industrie werden ca. drei Prozent des deut- schen Erdgasbedarfs für eine 
+stoffliche Nutzung verwendet. Hierbei wird Erdgas meist in Synthesegas (Gemisch aus Koh- lenmonoxid 
+und Wasserstoff) umgewandelt. Aus Synthesegas werden zahlreiche Basischemikalien hergestellt, die 
+Grundlage für viele chemische Produkte sind. Die Substitution von Erdgas durch Biomethan verringert 
+den Einsatz fossiler Rohstoffe in der chemischen Industrie, schont Ressourcen und hilft Treibhaus- 
+gas-Emissionen zu reduzieren. Die Dokumentation der Nach- haltigkeitseigenschaften von Biomethan 
+entlang der Lieferkette kann mittels stofflicher Lieferung (z. B. in Gasflaschen), über 
+Massenbilanzierung (Transport im Erdgasnetz) oder über Zerti- fikate erfolgen. Bei der 
+Massenbilanzierung kann der Anteil von Biomethan im Endprodukt je nach Kundenwunsch variieren und 
+über einen rechnerischen Vorgang zugewiesen werden.
+
+
+
+
+18  Marktentwicklung und Rahmenbedingungen
+
+1. Biogasproduktion aus Pflanzen
+und Reststoffen
+2. Biogasauf- bereitung
+und -einspeisung
+3. Biomethan- transport
+im Gasnetz
+4a. Massenbilanzieller Einsatz in der chemischen Industrie
+
+4b. Allokation von Biomethan
+
+5. Beispiele für Abnehmerindustrien
+
+
+Lebensmittel- industrie
+
+
+Verpackungs- mittelindustrie
+
+
+
+CxHy
+
+Bau- und Dämmstoff- industrie
+
+
+Hygieneprodukte
+
+
+Grundstoff- chemie
+
+
+
+Massenbilanzsystem Biomasse
+Massenbilanzsystem
+Erdgasnetz
+Massenbilanzsystem chemische Industrie
+
+
+Abbildung 3: Biomethan-Lieferkette in der chemischen Industrie
+
+
+
+
+
+
+
+Internationale Biomethanmärkte
+Die internationalen und hier insbesondere die europäischen Märkte haben für die deutsche 
+Biomethanbranche in den letzten Jahren stark an Bedeutung gewonnen. Gefragt sind vor allem deutsche 
+Anlagentechnik und Know-how sowie Dienstleistun- gen. Vermehrt wird auch Biomethan aus Deutschland 
+in den Nachbarländern nachgefragt.
+
+
+biogaspartner-Einspeiseatlas
+
+Die Aufbereitung und Einspeisung von Biogas in das Erdgasnetz ist ein noch junger Anwendungspfad 
+für die energetische Biomassenutzung.
+
+Der Einspeiseatlas der Biogaspartnerschaft stellt die um- fangreichste und aktuellste 
+Datengrundlage zu realisier- ten und geplanten Einspeiseprojekten in Deutschland und Europa dar. 
+Anhand einer interaktiven Karte werden der Anlagenstandort und dazugehörige Informationen 
+dargestellt. Mittels der ständig aktualisierten Projektliste können detaillierte Informationen über 
+die einzelnen Projekte abgerufen werden. Weiterhin finden Sie dort ausführliche Beschreibungen zu 
+ausgewählten Projekt- beispielen.
+
+Datengrundlage sind neben Informationen der Marktak- teure und Pressemeldungen eigene Recherchen 
+und kontinuierliches Marktmonitoring.
+
+www.biogaspartner.de/einspeiseatlas
+
+
+
+Marktentwicklung und Rahmenbedingungen  19
+
+2.2 Europa
+
+2.2.1 Marktentwicklung
+
+Biomethan besitzt, bezogen auf den europäischen Markt, große Ausbaupotenziale. Die im Rahmen des 
+GreenGasGrids-Projekts erarbeitete Biomethan Roadmap legt dar, dass durch die Biogas- einspeisung 
+drei Prozent des europäischen Gasverbrauchs bis zum Jahr 2030 ersetzt werden können. Zudem ist 
+Biomethan
+in der Lage, zu vertretbaren Kosten einen wertvollen Beitrag zur europäischen Versorgungssicherheit 
+sowie hinsichtlich der ambitionierten EU-Treibhausgasminderungsziele zu leisten.
+
+Derzeit existiert kein einheitlicher europäischer Standard für die Netzeinspeisung von Biomethan. 
+Die Rahmenbedingungen wurden zunächst in der EU-Richtlinie 2003/55/EG vom 26. Juni
+2003 über gemeinsame Vorschriften für den Erdgasbinnenmarkt geregelt und in der Richtlinie 2009/ 
+28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von 
+Energie aus erneuerbaren Quellen aufgegriffen. In Artikel 16 zu Netzzugang und Betrieb sind 
+folgende Bestimmun- gen zu Biomethan verankert:
+
+(7) … Die Mitgliedstaaten stellen sicher, dass Gas aus erneuer­ baren Energiequellen bei der 
+Erhebung der Tarife für die Übertra- gung und Verteilung nicht benachteiligt wird.
+
+(9) Soweit erforderlich, prüfen die Mitgliedstaaten die Notwen- digkeit, die bestehende 
+Gasnetzinfrastruktur auszuweiten, um die Einspeisung von Gas aus erneuerbaren Energiequellen zu 
+erleichtern.
+(10) Des Weiteren können die Mitgliedstaaten von den Fernlei- tungsnetz- und den 
+Verteilernetzbetreibern in ihrem Hoheitsgebiet verlangen, dass sie technische Vorschriken über 
+gemeinsame Vorschriken für den Erdgasbinnenmarkt veröffentlichen (Vorschrif- ten für den 
+Netzanschluss, die Anforderungen an die Gasqualität, odoriertes Gas und den Gasdruck). Die 
+Mitgliedstaaten verlan- gen von den Fernleitungsnetz- und den Verteilernetzbetreibern ferner, dass 
+sie die Tarife für den Anschluss erneuerbare Energien nutzender Gasquellen veröffentlichen, wobei 
+sie transparente und nichtdiskriminierende Kriterien zugrunde legen.
+
+Etliche europäische Länder können bereits auf jahrzehntelange Erfahrung bei der Einspeisung und 
+Nutzung von Biogas zurück- greifen. Politische Regelungen und auch Fördermechanismen gibt es neben 
+Deutschland zum Beispiel auch in Frankreich, Großbritannien, Luxemburg, den Niederlanden, 
+Österreich, Schweden und der Schweiz.
+
+Von mehr als 490 Anlagen, die in Europa in Betrieb sind, speisen nach Recherchen der dena derzeit 
+407 Anlagen aufbereitetes Biogas in das öffentliche Gasnetz ein. Inzwischen wird Biome- than in 15 
+europäischen Ländern erzeugt. In weiteren Ländern befinden sich erste Anlagen in Bau.
+
+Mehr Informationen zu Biogaseinspeiseanlagen in Europa finden sie unter www.biogaspartner.de.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20  Marktentwicklung und Rahmenbedingungen
+
+
+
+60
+86
+
+8                                 Chemische Wäsche
+
+PSA
+
+46                                     DWW
+
+chem./phys. Wäsche
+
+69         Membrantechnologie
+18
+Cryotechnologie
+
+keine Information
+
+
+127
+
+
+
+Abbildung 4: Anwendung von Aufbereitungstechnologien in Europa
+Anlagenanzahl Europa nach Verfahren (Stand Mitte 2017)
+
+
+
+
+Grundlage für einen funktionierenden internationalen Biome- thanhandel ist eine Zusammenarbeit der 
+europäischen Biogas- register. Die ersten Kooperationen hat die dena mit der Austrian Gas Clearing 
+& Settlement AG (AGCS) und Energinet geschlos- sen, um einen standardisierten und transparenten 
+Transfer von Biomethannachweisen zwischen Deutschland und Österreich bzw. Dänemark zu ermöglichen. 
+Um eine europäische Lösung für den internationalen Handel zu schaffen, arbeiten mehrere Betreiber 
+von Registern und Branchenvertreter seit Ende 2016 in der Initiative European Renewable Gas 
+Registry an einer zentra- len Dokumentations- und Nachweisplattform für den grenzüber- schreitenden 
+Handel von Biomethannachweisen.
+
+Technologien zur Aufbereitung von Biogas
+Bezogen auf die Anzahl bisher realisierter Anlagen dominieren die chemische Wäsche, 
+Druckwechseladsorption (PSA) und die Druckwasserwäsche (DWW) (siehe Grafik). Membranverfahren sind 
+bisher nur in den Niederlanden, Österreich, Großbritannien und Deutschland zur großtechnischen 
+Anwendung gekommen. Bei einzelnen Anlagen wird auch die im Bereich der Biogasein- speisung noch 
+sehr neue Kryotechnik genutzt.
+Marktüberblick
+In den Niederlanden, Schweden und der Schweiz besteht euro- paweit die meiste und längste Erfahrung 
+mit der Aufbereitung und Einspeisung von Biogas in das Erdgasnetz. Deutschland nimmt hinsichtlich 
+der Anlagenzahl und Einspeisekapazität in Europa eine führende Rolle ein. Unterschiedliche 
+Entwicklungen in einzelnen Ländern sind auf die verschiedene Ausprägung der vorhandenen 
+Infrastruktur des Gasnetzes zurückzuführen, sowie auf die unterschiedlichen politischen 
+Fördermechanismen mit ihrem jeweiligen bevorzugten Anwendungspfad für das erzeugte Biomethan.
+
+Substrate
+Während in Deutschland der Großteil der Biogasproduktion auf der Fermentation von 
+landwirtschaftlichen Abfällen, Gülle und eigens angebauten Energiepflanzen basiert, ist in anderen 
+euro- päischen Ländern der Markt anders strukturiert. In Frankreich, Luxemburg, Schweden und der 
+Schweiz wird die Gasproduktion von kommunaler Abfallversorgung und Haushaltsabfällen do- miniert. 
+Der Einsatz von nachwachsenden Rohstoffen spielt dort eine untergeordnete Rolle.
+
+Einsatzfelder
+Ein großer Teil des in Europa insgesamt produzierten Biome- thans wird als Kraftstoff in 
+Erdgasfahrzeugen eingesetzt. Spit- zenreiter in Bezug auf diesen Verwertungspfad sind insbeson- 
+dere Schweden und die Schweiz. Der deutsche Markt hingegen weist weiterhin eine starke 
+Konzentration auf den Einsatz des grünen Gases in Blockheizkraftwerken auf.
+
+
+
+Marktentwicklung und Rahmenbedingungen  21
+
+3. Die Wertschöpfungskette Biomethan
+
+
+
+
+Die Herstellung von Biomethan besteht aus einem komplexen Ablauf von Verfahrensschritten. Auf dem 
+Weg von der Biomasse- erzeugung bis zur Anwendung des eingespeisten Biomethans spielen viele 
+Einflussfaktoren eine Rolle – gleichzeitig sind verschiedenste Akteure daran beteiligt. Das 
+folgende Kapitel beschreibt die Wertschöpfungskette der Biomethanherstellung.
+
+
+3.1 Biomasseproduktion
+
+Da Biogas grundsätzlich aus allen organischen Verbindungen (Biomasse) erzeugt werden kann, ist die 
+genutzte Biomasse entsprechend vielfältig. Die Biomasse wird zum einen von Landwirten durch den 
+Anbau geeigneter Pflanzen erzeugt. Zum anderen werden biogene Reststoffe genutzt. Die Biomasse zur 
+Verwendung in Biogasanlagen wird auch als Substrat be- zeichnet. Bei der Nutzung von Reststoffen 
+als Substrat kommt jedes verfügbare organische Material in Frage. Von besonderer Bedeutung sind 
+hierbei insbesondere Gülle, Bioabfall und Klär- schlamm, da diese als Abfallprodukte in großen 
+Mengen günstig zur Verfügung stehen.
+Energiepflanzen
+Unter Energiepflanzen versteht man Pflanzen, die speziell zur Erzeugung von Energie angebaut 
+werden. Als Energiepflanzen eignen sich schnell wachsende Pflanzen mit einer hohen Pho- 
+tosyntheserate unter Berücksichtigung der lokalen Umwelt- gegebenheiten. In Mitteleuropa finden vor 
+allem Mais, Raps und Roggen Anwendung. In einigen tropischen Ländern ist der Anbau von Zuckerrohr 
+als Energiepflanze weit verbreitet.
+
+Energiepflanzen für die Biogaserzeugung
+Für den Einsatz in Biogasanlagen ist Mais aufgrund der hohen Flächeneffizienz und der Synergien bei 
+der Gewinnung von Futtermitteln besonderes gut geeignet, jedoch können auch Ge- treide (z.B. 
+Roggen) und/ oder Grasschnitt verwendet werden. Die Wahl der eingesetzten Pflanzen ist von Region 
+zu Region unterschiedlich und sollte den lokalen Bedingungen angepasst werden. Hierbei ist unter 
+anderem darauf zu achten, dass es nicht zu negativen ökologischen Folgeerscheinungen durch die 
+veränderte Bodennutzung kommt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energiepflanzen / Reststoffe
+
+
+
+Rückführung der Gärrückstände als Dünger
+
+
+
+
+Biogasanlage
+Verkauf / Handel
+
+
+Erdgas- netz
+
+
+Strom & Wärme (KWK)
+
+
+Wärme
+
+
+Kraftstoff
+
+
+Stoffliche Nutzung
+
+
+Biomasseproduktion
+Logistik
+Rohgaserzeugung        Aufbereitung   Einspeisung       Einsatzfelder
+
+
+
+Abbildung 5: Wertschöpfungskette Biomethan
+
+
+
+
+22  Die Wertschöpfungskette Biomethan
+
+3.2 Biogas- und Biomethanpotenziale
+
+Landwirtschaftliche Biogaspotenziale
+Die Nutzung landwirtschaftlicher Reststoffe und Anbaubio- masse (Energiepflanzen) ist in den 
+vergangenen Jahren in Deutschland erfolgreich etabliert worden. Trotzdem hat die Branche mit 
+Vorurteilen zu kämpfen: In einigen Regionen hat der stark angestiegene Anbau von Mais in der 
+Bevölkerung für Kritik an der Biogasproduktion gesorgt. Eine Entwicklung, die nicht nur viele 
+Bürger stört, sondern auch unter Nach-
+haltigkeitsaspekten kritisch zu betrachten ist. Derzeit wachsen in Deutschland auf rund 1,6 Mio. ha 
+Energiepflanzen für die Biogasproduktion. Wissenschaftlichen Erhebungen zeigen, dass bei 
+Berücksichtigung der regionalen Rahmenbedingungen ein gezielter nachhaltiger Ausbau von 
+Anbaubiomasse (z. B. durch mehrjährige Energiepflanzen, Zwischenfrüchte) mög- lich ist, ohne die 
+Nahrungsmittelproduktion einzuschränken.
+Regional ist ein nachhaltiger Energiepflanzenausbau unter Berücksichtigung von Umwelt- und 
+Naturschutzaspekten in sehr unterschiedlichem Umfang möglich. Werden rund 2 Mio. ha Ackerfläche zu 
+Grunde gelegt, liegt das technische Potenzial zur
+Biogaserzeugung in Deutschland bei etwa 107 TWhHs. Zusätzlich zum aktuellen Stand der 
+Biogasproduktion aus Energiepflanzen
+wäre demnach eine nachhaltige Steigerung des Biogaspotenzi- als um 20 bis 25 Prozent (bzw. 22 – 26 
+TWhHs) pro Jahr realisierbar.
+Die jährlichen Mengen tierischer Exkremente (Rinder, Schweine, Hühner), die für die 
+Biogasproduktion unter Berücksichtigung des jeweiligen Haltungssystems als technisches Potenzial 
+ermittelt wurden, liegen in einer Größenordnung von ca. 156,9 Mio. t (Frischmasse). Das technische 
+Biogaspotenzial tierischer Exkremente bewegt sich in der Bandbreite von 32 – 39 TWhHs, wovon trotz 
+des hohen Treibhausgasvermeidungspotenzials bisher nur rund ein Drittel energetisch genutzt wird. 
+In der
+Ko-Vergärung mit Energiepflanzen oder anderen Reststoffen be- steht eine Möglichkeit, die 
+Erschließung dieser Potenziale weiter voranzutreiben. In Summe beträgt das technische Biogaspoten- 
+zial in der Landwirtschaft 152 – 238 TWhHs. Davon könnten unter wirtschaftlichen Rahmenbedingungen 
+bis zu 168 TWhHs für die Biogasproduktion mobilisiert werden.
+
+Rest- und Abfallstoffe
+Rest- und Abfallstoffe stellen ein zusätzliches Biogaspotenzial in Deutschland dar. So könnten 
+industrielle organische Reststoffe wie z. B. Biertreber, Kartoffelschalen oder auch überlagerten 
+Lebensmittel zur Biogaserzeugung eingesetzt werden. Das tech- nische Biogaspotenzial aus 
+industriellen Rest- und Abfallstoffen bewegt sich zwischen 33 – 42 TWhHs. Unter aktuellen Rahmen- 
+bedingungen sind viele dieser Stoffe nur schwer technisch erschließbar oder werden bereits sinnvoll 
+genutzt. So ist bereits ein beachtlicher Anteil für die Verwendung als Futtermittel erschlossen 
+(u.a. Rapspresskuchen, Schlempe). Es wird daher damit gerechnet, dass insgesamt etwa 10 TWhHs für 
+die Biogas- produktion mobilisiert werden können.
+Abfälle sind Rohstoffe an der falschen Stelle. Insgesamt liegt das technische Biogaspotenzial für 
+kommunale organische Reststoffe (u.a. Biotonne, Garten/Parkabfälle, Speisereste aus 
+Großküchen/Kantinen, Organikanteil im Restabfall) bei 7 – 13 TWhHs , wovon gegenwärtig weniger als 
+1/3 zur Biogaspro- duktion eingesetzt wird. Vor allem mit der praktischen Umset- zung des 
+Kreislaufwirtschaftsgesetzes wurde in den Kommunen ab 2015 die Erfassung von Bioabfällen 
+ausgeweitet. Durch Erweiterung von Kompostieranlagen um eine Vergärungsstufe, die Verbesserung bei 
+der Erfassung von Bioabfällen sowie die Erschließung der Landschaftspflegematerialien kann das 
+tech- nische Biogaspotenzial aus kommunalen Reststoffen zukünftig erhöht werden. Das mobilisierbare 
+Biogaspotenzial liegt nach Schätzungen bei 6 – 8 TWhHs.
+
+Bestehende Biogasanlagen ohne Einspeisung
+Ein beachtliches Biomethanpotenzial liegt bei bestehenden Biogasanlagen ohne Einspeisung. Im Jahr 
+2016 umfasste der Primärenergieeinsatz zur Stromproduktion aus Biogas (KWK) vor Ort etwa 90 TWhHs. 
+Durch die Aufbereitung und Einspeisung von Biogas in das Erdgasnetz ist es möglich, vor allem an 
+den Biogasstandorten die Energieeffizienz zu steigern, wo das Koppelprodukt Wärme nur geringfügig 
+genutzt wird. Im Anla- genbestand wird die extern verfügbare Wärme durchschnittlich nur zu 51 
+Prozent genutzt. Um auch die Biogasproduktion aus kleineren Biogasanlagen wirtschaftlich auf 
+Erdgasqualität auf- zubereiten und in das Erdgasnetz einzuspeisen, ist die Zusam- menführung der 
+Biogasproduktion aus mehreren Anlagenstand- orten über Biogasleitungen eine mögliche Option.
+
+Abschätzungen gehen davon aus, dass 10-20 Prozent der bestehenden Biogasproduktion auf 
+Biogasaufbereitung und – einspeisung umgerüstet werden können. Die dadurch erzielbare 
+Treibhausgasvermeidung beträgt beim Einsatz des Biomethans in KWK-Anlagen bis zu 11 Mio. t CO2 äq 
+pro Jahr.
+Wenn im Jahr 2020 die ersten Biogasanlagen die Förder- höchstdauer nach dem EEG von 20 Jahren 
+erreichen, wird das wirtschaftlich realisierbare Potenzial zur Umrüstung von Bio- gasanlagen auf 
+Aufbereitung und Einspeisung noch steigen. Das Umrüsten bzw. Repowering bestehender Biogasanlagen 
+bietet eine Chance, den Substrateinsatz in alten Biogasanlagen zu ändern und die eingesetzten 
+Substrate insbesondere durch bes- sere Wärmekonzepte effizienter zu nutzen. Dafür sind allerdings 
+noch entsprechende Rahmenbedingungen zu schaffen.
+
+Darüber hinaus kann die Biogaserzeugung durch die Mobilisie- rung der beschriebenen Potentiale um 
+71 – 88 TWhHs deutlich erhöht werden. Die dann erreichbare Treibhausgasvermeidung beträgt beim 
+Einsatz der insgesamt etwa 100 TWhHs Biomethan in KWK-Anlagen rund 37 Mio. t CO2 äq pro Jahr.
+
+
+
+
+Die Wertschöpfungskette Biomethan  23
+
+Technisches Biogaspotenzial
+
+
+
+
+
+
+industrielle Rest- und Abfallstoffe 1
+33 – 41 TWhHs
+
+kommunale Reststoffe 2
+7 – 13 TWhHs
+
+Stroh
+
+13 – 21 TWhHs
+
+tierische Exkremente 32 – 40 TWhHs
+
+Energiepflanzen 3
+
+107 – 177 TWhHs
+
+
+
+Mobilisierbares Potenzial
+11 – 17
+TWhHs
+
+
+6 – 8
+TWhHs
+
+
+13 – 21
+TWhHs
+
+
+32 – 40
+TWhHs
+
+
+107
+TWhHs
+davon bereits erschlossen
+
+
+
+
+
+
+
+
+
+
+Aufbereitung aktuell
+
+
+
+
+
+
+
+
+
+
+9 TWhHs
+
+98 – 106 TWhHs
+
+
+Biogaspotenzial
+
+
+
+
+
+
+
+Biomethanpotenzial
+90 – 118 TWhHs
+
+
+Erschließung zusätzlicher Biogaspotenziale
+
+Umrüstung bestehender BGA
+
+
+
+
+
+
+10 – 21 TWhHs
+
+
+71 – 88 TWhHs
+
+
+
+
+Endverbraucher
+
+
+
+
+Abbildung 6: Zukünftiges Biomethanpotenzial
+Technische und mobilisierbare Biogaspotentiale nach (Zeller et al. 2011, Brosowski et al. 2015, 
+Daniel-Gromke et al. 2017). 1) Bandbreite ohne / mit Rapspresskuchen, 2) ohne organischer Anteil im 
+Restmüll, 3) Ackerflächenpotential von 2 Mio. ha ohne Grünland
+
+
+
+
+
+
+
+
+
+
+
+24  Die Wertschöpfungskette Biomethan
+
+3.3 Logistik
+
+Bei der Logistik der Biomasse ist aus energetischen und wirt- schaftlichen Gründen auf die 
+Vermeidung von langen Lieferwe- gen des Substrats zur Biogasanlage zu achten. Da die Biomasse nur 
+während kurzer Perioden im Jahr geerntet wird, setzt dies eine gut geplante Logistikkette voraus.
+
+Prinzipiell unterscheidet man zwischen Konzepten mit dezen- traler und zentraler Lagerung:
+
+Auf dezentrale Lagerung wird meist dann zurückgegriffen, wenn in näherer Umgebung der Biogasanlage 
+bereits ausreichend Kapazitäten für die Lagerung der für das Jahr benötigten Bio- masse vorhanden 
+sind. Die Biomasse wird dann kontinuierlich (just in time) an die Anlage geliefert. Dadurch wird 
+eine hohe Auslastung der Transportmittel erreicht, da das entstehende tro- ckene Gärsubstrat als 
+Rückfracht abtransportiert werden kann. Jedoch ist der personelle Aufwand relativ hoch, da mehrmals 
+wöchentlich angeliefert werden muss.
+
+Das zweite Konzept ist die zentrale Lagerung der Biomasse an der Biogasanlage. Als Vorteil hierbei 
+sind vor allem die konstan- te Silagequalität und der geringere Logistikaufwand zu nennen. Jedoch 
+werden höhere Investitionskosten fällig, da Lagerkapa- zitäten geschaffen werden müssen. Durch 
+Verminderung der Silierverluste um ca. zehn Prozent können jedoch Kostenreduk- tionen bei der 
+zentralen Lagerung gegenüber der dezentralen Lagerung von zwei Euro pro Tonne Silage erreicht 
+werden.
+Die Wahl der Transportmittel ist abhängig von der Entfernung der Anbaufläche zur Biogasanlage. Bei 
+kurzen Distanzen ist der Transport mit Schleppern günstiger, da nicht extra nach dem Häckseln 
+verladen werden muss. Bei größeren Entfernungen kann das Umladen auf LKWs günstiger sein.
+
+
+3.4 Biogaserzeugung
+
+Rohbiogas
+Rohbiogas entsteht bei der Vergärung von Substraten biologi- schen Ursprungs. Dies geschieht in 
+sogenannten Fermentern. In diesen befinden sich Mikroorganismen, die Biogas als Stoff- 
+wechselprodukt erzeugen. Die bei der Vergärung ablaufenden Prozesse sind sehr komplex und bis heute 
+immer noch nicht vollständigbekannt. Verschiedene Forschungsprojekte beschäf- tigen sich mit diesem 
+Thema. Zur Optimierung des Prozessab- laufs ist die eingesetzte Mess- und Regeltechnik 
+entscheidend.
+
+Das Rohbiogas besteht zu 45 bis 70 Prozent aus Methan (CH₄). Der zweitgrößte Bestandteil mit ca. 25 
+bis 50 Prozent ist Koh- lenstoffdioxid (CO₂ ). Des Weiteren entstehen geringe Anteile von 
+Schwefelwasserstoff (H₂S), Ammoniak (NH₃) und Wasser- dampf (H₂O). Fossiles Erdgas besteht je nach 
+Klasse zu 85 bis 98 Prozent aus Methan. Um eine konstante Qualität des im Gasnetz vorhandenen Gases 
+zu gewährleisten, ist eine Erhöhung des Methangehalts des Rohbiogases nötig.
+Methanerträge
+Der brennbare und damit relevante Teil des Biogases ist das Methan. Demzufolge sollte die im Biogas 
+prozentual enthaltene Methanmenge möglichst groß sein. Die Methanerträge unter- scheiden sich 
+hauptsächlich durch das eingesetzte Substrat.
+Durch die Optimierung der Anlagentechnik für das jeweilige Substrat und durch Einsatz moderner 
+Mess- und Regeltechnik lassen sich die Methanerträge noch steigern.
+
+
+3.5 Aufbereitung
+
+Vom Rohbiogas zum Biomethan
+Das Rohbiogas kann durch verschiedene Verfahren auf Erdgas- qualität aufbereitet werden. Der 
+wichtigste Schritt ist dabei die Erhöhung des Brennwerts durch die Abtrennung des im Rohbio- gas 
+enthaltenen CO₂ . Zusätzlich sind je nach Verfahren Prozesse zur Gastrocknung und zur Reinigung von 
+Schwefelverbindungen und anderen Spurenstoffen notwendig. Die Reihenfolge der Einzelprozesse ist 
+dabei vom gewählten Aufbereitungsverfahren abhängig. Darüber hinaus kann die Einspeisung in das 
+Erdgas- netz eine zusätzliche Brennwertanpassung (z.B. durch Zugabe von Flüssiggas/LPG) sowie eine 
+Odorierung des Biomethans notwendig machen. Aufgrund des umfangreichen apparativen Aufwands für 
+eine Biogasaufbereitung und -einspeisung liegt der spezifische Investitionsaufwand in der Regel 
+über der von Vor-Ort-Verstromungsanlagen. Für kleinere Biogasanlagen kann daher die Zusammenführung 
+des Rohbiogases aus verschiede- nen Fermentationsanlagen zu einer gemeinsamen Biogasauf- bereitung 
+und -einspeisung eine Option darstellen. Die Grafik unten zeigt eine Übersicht über die 
+verschiedenen Verfahrens- schritte der Gasaufbereitung.
+
+Entschwefelung
+Schwefelverbindungen können abhängig von der Substratzu- sammensetzung in zum Teil hohen 
+Konzentrationen im Rohbio- gas vorhanden sein.
+
+Häufig kommt Schwefel als Schwefelwasserstoff (H₂S) vor. An- dere Schwefelverbindungen sind im 
+Parameter Gesamtschwefel betrachtet. Diese Spurenstoffe haben eine korrosive Wirkung und müssen 
+daher aus dem Biogas entfernt werden. Andernfalls gefährden sie Anlagenteile und 
+Gasverbrauchseinrichtungen.
+Bei den verfügbaren Verfahren unterscheidet man in Grob- und Feinentschwefelung entsprechend der 
+Schwefelkonzentration im Reingas.
+
+Grobentschwefelung
+Die Grobentschwefelung kann sowohl auf biologischem Wege als auch auf chemischem Weg durchgeführt 
+werden. Als biologi- sche Verfahren kommen beispielsweise
+
+biologische Schwefeloxidation durch Einblasen von Luft oder reinem Sauerstoff in den Gasraum des 
+Fermenters, Tropfkörperverfahren mit interner Regeneration und Tropfkörperverfahren mit externer 
+Regeneration zur An- wendung.
+
+Die Wertschöpfungskette Biomethan  25
+
+Gülle
+NawaRo
+Abfälle
+Klärschlamm
+
+
+
+
+
+Option Grobentschwefelung
+Biogas
+
+
+Grobentschwefelung        Verdichtung          Verdichtung
+
+
+Feinentschwefelung
+
+
+Verdichtung
+
+
+Gaskühlung
+
+
+PSA
+
+ggf. Brennwertanpassung mit LPG oder Luft
+
+Verdichtung
+
+
+Gaskühlung
+
+
+DWW
+
+
+Gastrocknung
+
+ggf. Brennwertanpassung mit LPG oder Luft
+
+Feinentschwefelung
+
+
+Chemische Wäsche
+
+
+Gastrocknung
+
+
+Verdichtung
+
+ggf. Brennwertanpassung mit LPG oder Luft
+
+Grobentschwefelung
+
+
+Feinentschwefelung
+
+
+Gastrocknung
+
+Tieftemperatur- rektifikation
+
+ggf. Brennwertanpassung mit LPG oder Luft
+
+Membrantrennver- fahren
+
+Entspannung auf Einspeisedruck
+
+Option Feinentschwefelung
+Option Gastrocknung ggf. Brennwertanpassung
+mit LPG oder Luft
+
+Austauschgas
+
+
+
+Abbildung 7: Aufbereitungsschritte Rohbiogas
+Quelle: Fraunhofer UMSICHT (2013), eigene Recherche
+
+
+
+
+Die chemische Entschwefelung dagegen basiert auf der Zugabe von Stoffen in den Fermenter oder in 
+den Biogasstrom, die den Schwefel chemisch binden. In der Praxis werden häufig die folgenden 
+Verfahren eingesetzt:
+
+
+Zugabe von Eisensalzen in das Gärsubstrat im Fermenter, Adsorption der gasförmigen 
+Schwefelverbindungen an Eisenverbindungen in einem Festbettadsorber, Gaswäsche mit Natronlauge 
+(NaOH).
+
+Feinentschwefelung
+Mit Ausnahme weniger CO₂-Abtrennverfahren ist in der Regel eine Entfernung der Schwefelverbindungen 
+bis auf geringste Konzentrationen notwendig. In der Praxis hat sich hierfür die Feinentschwefelung 
+mit Aktivkohle bewährt.
+
+Gastrocknung
+Zur Trocknung von Biogas kommen vor allem adsorptive Ver- fahren und Kondensationsverfahren zur 
+Anwendung.
+
+Kondensationsverfahren
+Wird Biogas gekühlt, kondensiert der darin enthaltene Wasser- dampf. Das Wasser kann dem Prozess 
+entnommen und abgeführt werden. Dieses Verfahren wird vor allem bei der Biogasnutzung in BHKW 
+angewendet. Der mit diesem Verfahren erreichte Feuchtegehalt ist in der Regel nicht ausreichend, um 
+die Anforderungen nach DVGW G260 und G262 zu erreichen.
+Daher muss das Kondensationsverfahren in der Regel um ein weiteres Trocknungsverfahren ergänzt 
+werden.
+
+
+
+
+m3 Biomethan/t Substrat
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+
+
+
+
+Abbildung 8: Biomethanerträge verschiedener Substrate
+Quelle: dena (2011) auf Basis von FNR und KTBL
+
+
+
+
+26  Die Wertschöpfungskette Biomethan
+
+Adsorptive Gastrocknungsverfahren
+Das adsorptive Trocknungsverfahren basiert darauf, dass sich Wasserdampf an bestimmte Stoffe 
+anlagert (z.B. Molekular- sieben, Kieselgelen oder Aluminiumoxiden). Diese Stoffe werden in einem 
+Festbettadsorber in den Prozess eingebracht und entziehen dem umströmenden Biogas dabei das Wasser. 
+Das Trocknungsmittel muss nach der Adsorption regeneriert wer- den. Soll die Biogasanlage 
+kontinuierlich ins Netz einspeisen, müssen mindestens zwei getrennte Festbettadsorber verwendet 
+werden. Dann kann jeweils ein Adsorber beladen werden wäh- rend der andere sich in der 
+Regenerierung befindet.
+
+CO₂-Abtrennung
+Die Abtrennung von Kohlendioxid aus dem Rohbiogas ist not- wendig, um den Brennwert des Gases zu 
+erhöhen. Es kommen verschiedene Verfahren zum Einsatz, wobei sich auf dem euro- päischen Markt vor 
+allem die folgenden Verfahren durchgesetzt haben:
+
+Druckwechseladsorption Druckwasserwäsche
+Physikalische Wäsche mit Polyglykolen Chemische Wäsche mit Aminen
+Gasseparation über Membranen und Hybridverfahren aus Membranverfahren und Tieftemperaturkühlung 
+(kryogene CO₂-Abtrennung)
+Weitere Verfahren befinden sich im Pilotstadium bzw. werden intensiv erforscht. Im Folgenden finden 
+Sie eine Kurzdarstellung ausgewählter Verfahren:
+
+Druckwechseladsorption – PSA (engl.: Pressure Swing Adsorption)
+Unter einer Adsorption versteht man das Anlagern von Mole- külen aus einem Fluid an einer festen 
+Oberfläche. Dieser Effekt wird bei der PSA genutzt, um das CO₂ und die in Spuren vorhandenen Gase 
+aus dem Rohbiogas zu entfernen. Vor der Adsorption müssen Schwefelverbindungen und Wasserdampf
+aus dem Rohbiogas entfernt werden, da diese Stoffe das bei der Adsorption verwendete Material (z.B. 
+Molekularsieb) schädigen können.
+
+Druckwasserwäsche – DWW
+Die Druckwasserwäsche nutzt die unterschiedliche Löslichkeit von CH₄ und CO₂ in Wasser. Das 
+Rohbiogas wird im Gegenstrom zur Waschlösung durch eine Waschkolonne geführt, wobei sich vor allem 
+das im Biogas enthaltene CO₂ im Wasser löst. Um die Löslichkeit von CO₂ in Wasser zu verbessern, 
+wird das Verfahren unter einem Druck von mehreren bar über Atmosphärendruck durchgeführt. Auch 
+Schwefelwasserstoff (H₂S) und Ammoniak (NH₃) können zum Teil auf diese Weise aus dem Biogas 
+entfernt werden. Sofern die Konzentration des Schwefelwasserstoffs
+im Rohbiogas sehr hoch ist, wird eine vorgeschaltete Grobent- schwefelung erforderlich. Die 
+beladene Waschflüssigkeit kann durch Druckabsenkung regeneriert und neu beladen werden.
+
+
+
+
+Kriterien           PSA      DWW     Polyglykol     Amin     Membran   Hybridverfahren
+Membran/Kryo
+
+
+Feinentschwefelung
+d. Rohgases notwendig
+
+Ja       Nein       Ja       Ja1         Ja        Ja
+
+Methanschlupf2          < 3 %     1 – 2 %     1 – 2 %     < 0,1 %     0,6 – 3 %     0,004 %
+
+Arbeitsdruck (bar)       4 – 7      5 – 10      4 – 7      0 – 5      5 – 16    Membran: 6 – 10
+Kryo: 17
+
+
+Stromverbrauch (kWh/Nm3 RGB) 3
+Wärmebedarf (Temperaturniveau)
+
+0,19 – 0,26 4    0,2 – 0,     0,24 – 0,33    < 0,09     0,2 – 0,3    0,35 – 0,375
+
+
+Nein      Nein     55 – 80 °C   110 – 160 °C4     Nein      Nein
+Chemikalien          Nein      Nein       Ja       Ja       Nein       Nein
+
+
+Referenzen in D (Stand Mitte 2016)
+
+38       55       17       55       11        0
+
+
+Abbildung 9: Überblick über die verschiedenen Biogasaufbereitungsverfahren und deren wichtigste 
+Prozessparameter
+1) MDEA weniger empfindlich gegenüber H₂S, 2)Methanschlupf ist immer abhängig von der Bauart und 
+Betriebsweise. Angegeben sind Werte, die sich in der Praxis als Minimum für die gängige Bauweise 
+gezeigt haben. Zum Teil werden Anlagen zur Reduzierung des Verbrauchs an elektrischer Energie mit 
+höherem Methangehalt im Schwachgas gefahren als technisch möglich wäre. Der Methangehalt im 
+Schwachgas kann thermisch zur Wärmebereitstellung genutzt werden. 3) Basis: Produktgaskapazität 700 
+Nm3/h, Umgebungstemperatur 15 °C, Rohgas 55 % CH₄, Reingasqualität mit CO₂-Restbeladung von
+< 3 %,RGB (Rohbiogas), 4) in Abhängigkeit vom Prozessdruck, 5) bei Energierückgewinnung aus 
+CO₂-Verflüssigung.
+
+Die Wertschöpfungskette Biomethan  27
+
+Physikalische Wäsche mit Polyglykolen
+Auch die physikalische Wäsche mit Polyglykolen basiert auf dem Prinzip der Gaswäsche. Im Gegensatz 
+zur DWW wird hier jedoch eine Waschlösung aus verschiedenen Polyglykolen verwendet. Diese 
+Waschflüssigkeit hat eine höhere Aufnahmefähigkeit und Selektivität gegenüber CO₂ im Vergleich zu 
+Wasser. Die mit CO₂ beladene Waschflüssigkeit wird nach der Wäsche bei erhöhter Temperatur (50 – 
+60°C) regeneriert.
+
+Chemische Wäsche mit Aminen
+Bei der chemischen Wäsche kommen verschiedene Amine sowie deren Mischungen zum Einsatz. CO₂ 
+reagiert dabei mit den Ami- nen in einer chemischen Reaktion. Dadurch ist eine gegenüber den 
+anderen Waschverfahren wesentlich höhere Beladung der Waschflüssigkeit möglich. Das Waschmittel 
+wird durch Erhitzen auf Temperaturen von ca. 110 – 160 °C regeneriert.
+
+Das Temperaturniveau ist dabei abhängig von der Druckstufe des Absorptionsprozesses. Die notwendige 
+Wärme kann zum Beispiel durch die Abwärme aus einem Blockheizkraftwerk zur Verfügung gestellt 
+werden. In Deutschland wurde überwiegend das drucklose Verfahren mit hohen Temperaturen für die 
+Wasch- mittelregeneration realisiert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28  Die Wertschöpfungskette Biomethan
+Gasseparation über Membranen
+Bei der Aufbereitung mit Membrantrennverfahren handelt es sich um ein physikalisches Verfahren. Das 
+Rohbiogas wird auf einen Druck von mehreren bar verdichtet und über eine Mem- bran geführt. Hier 
+tritt das CO₂ durch die Membran und kann so von CH₄ abgetrennt werden. So erhöht sich die 
+Methankon- zentration im Biomethan. In der Regel sind bis zu drei Mem- branstufen notwendig, um die 
+für die Einspeisung geforderte Methankonzentration zu erreichen.
+
+Hybridverfahren aus Membranverfahren und Tieftempera- turkühlung
+CO₂ kann auch unter Einwirkung tiefer Temperaturen in flüssi- gem Aggregatzustand von Biogas 
+abgetrennt werden (kryogene Abtrennung). Durch die unterschiedlichen Siedepunkte von CO₂ und CH₄ 
+kann eine sehr saubere Trennung mit einem sehr geringen Methanschlupf gewährleistet werden. Darüber 
+hinaus bietet das Verfahren einen weiteren Vorteil. Das als Nebenpro-
+dukt gewonnene CO₂ hat eine hohe Reinheit und kann beispiels- weise in der Lebensmittelindustrie 
+verwendet werden. Verfah- ren nach dem Prinzip einer reinen kryogenen Abtrennung sind aufgrund des 
+hohen energetischen Aufwands selten in großem Maßstab realisiert worden.
+
+Dagegen stellt die Kombination aus Tieftemperaturkühlung und Membranverfahren ein innovatives 
+Hybridverfahren dar. In einem ersten Schritt wird hier an einer Membran das CH₄ im Biogas 
+angereichert. Anschließend wird das CH₄ mit dem
+restlichen CO₂ auf tiefe Temperaturen gekühlt und abgetrennt. Dieses Hybridverfahren findet in der 
+Praxis bereits Anwendung in industriellem Maßstab.
+
+3.6 Einspeisung
+
+Die Netzeinspeisung ermöglicht die Nutzung von Biogas fern ab vom Erzeugungsort. Nach der 
+Aufbereitung findet die Einspei- sung im Wesentlichen über einen Kompressor statt, der das 
+Druckniveau des Bioerdgases auf das der angeschlossenen Druckgasleitung anhebt. Voraussetzung für 
+die Einspeisung ist, dass die Qualität des einzuspeisenden Biogases den Bestim- mungen der 
+Gasklasse vor Ort entspricht und die Abweichungen die zur Einhaltung der Qualitätsstandards 
+zulässigen Grenzen nicht überschreiten.
+
+
+Bei der Einspeisung von Biomethan wird zwischen Austausch- gas und Zusatzgas unterschieden. Der 
+Unterschied liegt in der Qualität der Gase. Austauschgas hat dieselben qualitativen Standards wie 
+herkömmliches Erdgas und kann dieses somit ersetzen. Zusatzgas ist in der Zusammensetzung dem 
+Erdgas nicht äquivalent und kann deshalb nur zum Teil dem normalen Erdgas beigemischt werden. Je 
+nach geografischer Herkunft unterscheiden sich die in Deutschland verfügbaren Erdgase.
+Dadurch ist auch der erforderliche Grad der Aufbereitung des Biomethans regional verschieden.
+
+Qualitätsstandards
+Erdgas wird in „Erdgas L (low)“ und „Erdgas H (high)“ unter- schieden. Erdgas H hat einen höheren 
+Brennwert als Erdgas L und wird hauptsächlich in den GUS-Staaten und in der Nordsee gefördert.
+
+Erdgas L enthält ca. 89 Prozent brennbare Gase (hauptsächlich Methan, aber auch kleine Teile von 
+Ethan, Propan, Butan und Pentan), während Erdgas H aus ca. 97 Prozent brennbaren Gasen besteht.
+
+
+3.7 Verkauf und Handel
+
+Der Transport und Verkauf des eingespeisten Biomethans kann über eine Biogas- oder 
+Erdgashandelsgesellschaft erfol- gen. Dazu sind folgende Verträge abzuschließen:
+
+Biogas-Bilanzkreisvertrag
+Um das eingespeiste Biomethan im Gasnetz zu transportieren, muss die Handelsgesellschaft (der 
+Transportkunde) einen Bilanzkreisvertrag mit dem Bilanzkreisnetzbetreiber abschlie- ßen. Der 
+Netzbetreiber bilanziert die ein- und ausgespeisten Mengen in einem Bilanzkreis und rechnet etwaige 
+Mehr- und Mindermengen mit dem Transportkunden ab.
+
+Einspeisevertrag
+Um die Zuordnung der eingespeisten Mengen zu einem Bilanz- kreis zu regeln, schließt der Einspeiser 
+einen Einspeisevertrag mit dem Einspeisenetzbetreiber. Im Einspeisevertrag werden die 
+Qualitätsanforderungen des eingespeisten Gases geregelt.
+Ausspeisevertrag
+Der Letztverbraucher schließt für die Entnahme von Gas am physischen Ausspeisepunkt einen 
+Ausspeisevertrag mit dem Ausspeisenetzbetreiber. Die Kosten der Netznutzung unter- scheiden sich 
+nicht vom Erdgastransport und werden vom Letztverbraucher unabhängig vom Ort der Einspeisung mit 
+den Netznutzungsentgelten jeweils bis zum virtuellen Punkt bezahlt.
+
+Der Biomethanhandel unterscheidet sich durch den Herkunfts- nachweis vom klassischen Erdgashandel. 
+Die in das Erdgasnetz eingespeisten Mengen Biomethan müssen mit den entsprechen- den gesetzlich 
+geforderten Eigenschaften (z.B. „aus NawaRo erzeugt“) von der Erzeugung bis zur Nutzung 
+dokumentiert werden. Es handelt sich dabei um Eigenschaften, die sich im We- sentlichen aus den 
+gesetzlichen Rahmenbedingungen ergeben.
+
+Neben der Abwicklung des Transports und der Abrechnung hält der Händler ein Gasportfolio bereit. Er 
+kauft Biogasmengen von verschiedenen Erzeugern ein und kann an verschiedene Ab- nehmer und 
+Endverbraucher ausliefern. Zudem ist der Händler in der Lage, Lieferungen strukturiert als Band, 
+Profil oder auch einmalige Spot-Lieferung anzubieten. Diese klassischen Struk- turierungen werden 
+im Biomethanmarkt zudem von qualitati- ven Strukturierungen begleitet: Aus den Herkunftsmerkmalen 
+ergeben sich eine Vielzahl möglicher Biomethanprodukte. Der Händler kann durch die Strukturierung 
+dieser Merkmale indivi- duelle Anforderungen bedienen, die sich aus den angestrebten 
+Verwertungspfaden des Kunden ergeben.
+
+Die erstellten Mengenbescheinigungen sind für Biomethan- kunden die Grundlage, um beispielsweise 
+die Vergütungs- ansprüche gemäß EEG oder die Anrechenbarkeit im Rahmen des EEWärmeG nachzuweisen.
+
+Zur Vereinheitlichung dieses Herkunfts- und Eigenschaftsnach- weises steht seit Anfang 2011 das 
+Biogasregister Deutschland bereit. In dem System können Produzenten, Händler und Ver- braucher von 
+Biomethan ihre eingespeisten Mengen dokumen- tieren. Mit dem dabei verwendeten Kriterienkatalog 
+bleiben den Produzenten und Händlern alle Verwertungspfade offen. Nach ei- ner Bestätigung der 
+Angaben zu Produktionsbedingungen durch unabhängige Gutachter können die Mengen einem Verbrauch 
+zugeordnet werden und somit der Nachweis lückenlos zwischen Einspeisung und Entnahme belegt werden. 
+Eine Mehrfachver- marktung wird so ausgeschlossen.
+
+Die Wertschöpfungskette Biomethan  29
+
+4. Projekt- und Anwendungs- beispiele
+
+
+
+4.1 Deutschland
+
+Biomethan aus Abfällen
+Die Biogasanlage in Altenstadt ist 2001 in Betrieb gegangen. 2009 wurde das BHKW vor Ort 
+stillgelegt. Seitdem wird das Biogas auf Erdgasqualität aufbereitet und in das Erdgasnetz 
+eingespeist. In der Anlage werden jährlich ca. 33.000 t biologi- sche Abfälle zu Biogas vergoren, 
+u. a. überlagerte Lebensmittel, Reststoffe aus Käsereien/Molkereien, Schlachtabfälle und Biomüll. 
+Die Einsatzstoffe werden in acht Fermentern mit einem Fassungsvermögen von insgesamt 7.700 m3 zu 
+Biogas vergoren.
+
+
+Die gesamte erzeugte Biomethanmenge wird in das Verteil- netz der schwaben netz gmbh eingespeist. 
+Ein mit Biomethan betriebener Brennwertkessel erzeugt die Wärme, die für die Fermenterbeheizung 
+erforderlich ist. Auf dem Betriebsgelände der Biogasanlage wurde eine Erdgastankstelle errichtet, 
+an der die firmeneigenen Erdgasfahrzeuge mit Biomethan betankt werden. Da das Biomethan aus 
+biologischen Abfallstoffen erzeugt wird, kann es zu günstigen Preisen angeboten werden. Es eignet 
+sich daher nicht nur für den Einsatz in BHKW-Anlagen,
+sondern vor allem auch für Heizzwecke. erdgas schwaben bietet zwei Tarifmodelle an: Bio 100 und Bio 
+20. Damit können die Kunden ihren Heizenergiebedarf zu 100 Prozent oder 20 Prozent mit 
+CO₂-neutralem Bioerdgas decken.
+
+Das Projekt Altenstadt/Schongau wurde im Jahr 2009 als „Biogas- partnerschak des Jahres“ 
+ausgezeichnet.
+
+
+
+
+
+
+
+Kleines Erdgasfahrzeug mit großem Potenzial – Biomethanmobilität im urbanen Raum
+Im Jahr 2013 wurde der Volkswagen eco up! mit dem Innovati- onspreis der Biogaspartnerschaft 
+ausgezeichnet, weil der Klein- wagen aufgrund des geringen Verbrauchs in Kombination mit Biomethan 
+vor allem für umweltbewusste Stadtbewohner eine wichtige Erweiterung der Fahrzeugpalette darstellt. 
+Damit trägt der eco up! zwei wichtigen Aspekten im urbanen Raum Rech- nung: der hohen Verfügbarkeit 
+von Erdgas-/Biomethantankstel- len und der Verringerung lokaler Geräusch- und Luftemissionen. Der 
+Einsatz von Biomethan führt schließlich zu einer besonders hohen Treibhausgasminderung im 
+Verkehrsbereich.
+
+Die Volkswagen AG wurde für den eco up! mit dem Innovations- preis der Biogaspartnerschak 2013 
+ausgezeichnet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30  Projekt- und Anwendungsbeispiele
+
+
+
+
+
+
+
+
+
+
+
+„Die Einspeisung von Biomethan in das Gasnetz ermöglicht einen vielseitigen Einsatz in der 
+Energiewirtschaft, im Verkehr, in der Industrie und im Gebäudebereich.“
+
+
+
+
+
+
+
+
+
+Kooperation von Landwirten und Stadtwerken
+Das Geschäftskonzept „Biogas Pool 1 für Stadtwerke“ des Unter- nehmens ARCANUM Energy stellt eine 
+innovative Alternative in der Marktentwicklung der Biogaseinspeisung dar. Der „Biogas Pool“ 
+ermöglicht Stadtwerken einen langfristig gesicherten Bezug von Biogas, ohne selbst in die 
+Rohbiogas-Produktion zu investieren. Die Investition in die Biogasanlage tätigen Landwir- te, die 
+sich auf diesem Weg als „Energiewirte“ ein zusätzliches Geschäftsfeld erschließen. Derzeit besteht 
+das Projekt aus vier Anlagen in Niedersachsen und Mecklenburg-Vorpommern mit je 350 Nm3/h.
+
+Durch die Gründung eines „Biogas Pools“ investieren mehrere Stadtwerke gemeinsam in die 
+Aufbereitung und Einspeisung von Biogas, wodurch Synergien entstehen, die eine effiziente und 
+risikomindernde Nutzung von Biogas zulassen. Dieser Pooleffekt ermöglicht einen flexiblen und 
+individuellen Bezug von Biogas- mengen. Eine hohe Planungs- und Finanzierungssicherheit, u. a. auf 
+Basis klar definierter und fairer Rohbiogas-Lieferverträge, kann dadurch gewährleistet werden.
+
+Das Projekt Biogas Pool 1 für Stadtwerke wurde mit dem Preis
+„Biogaspartnerschak des Jahres 2011“ ausgezeichnet.
+Alternative Rohstoffe für die Biomethanerzeugung
+Die Bioerdgas Hallertau GmbH wurde für den weltweit erst­ maligen Einsatz von Hopfenresten zur 
+Biomethanerzeugung mit dem Biogaspartner Innovationspreis 2012 ausgezeichnet.
+
+Bisher wurden die Hopfenreste zum Verrotten zurück in die Hopfengärten gebracht, wobei das 
+energetische Potenzial ungenutzt blieb und häufig reifengefährliche Drahtreste („Hop- fenspikes“) 
+auf die Straßen fielen. Für die Bioerdgasanlage Hallertau allerdings werden die Hopfenreste in 
+geschlossenen Containern transportiert, sodass keine Spikes auf die Straße gelangen. Durch die 
+Verflechtung mit Draht und durch den hohen Ligninanteil ist die Verwertung nicht trivial. Vor der 
+Vergärung wird der Draht magnetisch entfernt. Das Biogas wird durch Druckwasserwäsche aufbereitet 
+und eingespeist. Die Gärreste werden zurück zu den Landwirten gebracht; durch den Abbau der Organik 
+sind die Nährstoffe besser verfügbar als im Ausgangsmaterial.
+
+Die Gesellschafter der Anlage tragen durch ihre komplementä- ren Expertisen zum Erfolg bei: Die 
+E.ON Bioerdgas GmbH ist ein Pionier in der Einspeisung von Biomethan in das Erdgasnetz und ist für 
+das Anlagenmanagement sowie die Gasvermarktung verantwortlich.
+
+Die Högl Kompost- und Recycling-GmbH hat langjährige Erfah- rung im Betrieb einer eigenen 
+Biogasanlage sowie in der Logistik und ist somit verantwortlich für den Betrieb und die Logistik 
+der Anlage.
+
+Die HVG Hopfenverwertungsgenossenschaft e. G. ist der Ver- bund aller Hopfenbauern der Hallertau 
+und zuständig für den Ankauf der gehäckselten Hopfenreben.
+
+
+
+
+
+
+
+
+Projekt- und Anwendungsbeispiele  31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 10: Biomethankreislauf
+Quelle: BSR
+
+
+
+
+
+
+Biomethan schließt den Kreislauf der Berliner Stadt- reinigung
+Die Berliner Stadtreinigung (BSR) ist ein kommunales Berliner Unternehmen, das bereits seit rund 20 
+Jahren biologische Abfälle in einer Biotonne einsammelt. In einer eigenen Bio- gasanlage werden bis 
+zu 75.000 Tonnen Bioabfall vergärt und zu Biogas aufbereitet. Das aufbereitete Biogas wird in das 
+Gasnetz eingespeist und zur Betankung von rund 150 gasge- triebenen Müllfahrzeugen genutzt. Dafür 
+wurde im Laufe der Projektentwicklung rund die Hälfte des Fuhrparks im Rahmen von 
+Ersatzbeschaffungen sukzessive auf Biomethan-betrie- bene Abfallsammelfahrzeuge umgestellt. Die 
+Gärreste aus der
+Biogasanlage werden für eine stoffliche Nutzung aufbereitet und an Gartenbau- und 
+Landwirtschaftsbetriebe geliefert. Jährlich werden dadurch rund 2,5 Mio. Liter Diesel substituiert 
+und rund
+12.000 Tonnen CO₂ vermieden.
+
+Die Biogasanlage Berlin­Ruhleben wurde mit dem Preis „Biogas- partnerschak des Jahres 2014“ 
+ausgezeichnet.
+
+Schlüsseltechnologie Biologische Methanisierung
+Die MicrobEnergy GmbH, eine Tochter der Viessmann Gruppe, hat ein biologisches Verfahren für 
+Power-to-Gas-Anwendungen entwickelt. Die biologische Methanisierung ermöglicht die Um- wandlung von 
+Überschussstrom in
+
+Methangas mit Hilfe von Mikroorganismen. Seit 2015 speist die weltweit erste Anlage ihrer Art am 
+Unternehmensstamm- sitz in Allendorf (Eder) Methan ins öffentliche Erdgasnetz ein. Die 
+Aufbereitungsleistung der Anlage liegt bei ca. 30 Nm3/h Rohbiogas (ca. 50% CH4 und 50% CO2 ) sowie 
+bei 15 Nm3/h CO2 Schwachgas aus der LPSA.
+
+Überschüssiger Strom aus regenerativen Quellen wird in einem Elektrolyseur in Wasserstoff 
+umgewandelt. Der Wasserstoff wird zusammen mit Kohlenstoffdioxid aus dem Rohbiogas oder der LPSA 
+einer benachbarten Biogasanlage in die Mikroorganismen- Kultur eingebracht und dort in nahezu 100 
+Prozent Methan umgewandelt. Dieses Methan gelangt dann direkt über die Ein- speiseanlage der 
+Biogasanlage ohne eine weitere Aufreinigung in das Erdgasnetz.
+
+Im Rahmen einer Kooperation wird das Methan aus der Power-to-Gas-Anlage auch an Audi vermarktet. 
+Gasfahrzeuge können über das e-Gas-Tankkartenmodell bilanziell mit dem Gas aus der 
+Power-to-Gas-Anlage betankt werden.
+
+Das Projekt wurde 2015 mit dem Preis „Biogaspartnerschak des Jahres“ ausgezeichnet.
+
+
+
+32  Projekt- und Anwendungsbeispiele
+
+4.2 Europa und weltweit
+
+Frankreich
+Die Stadtbehörde der Alpenmetropole Grenoble hat Degrémont und Gaz Electricité de Grenoble mit dem 
+Bau einer Anlage zur Aufbereitung des Überschuss-Biogases der Aquapole Abwasser- behandlungsanlage 
+(400.000 Einwohneräquivalente) und deren Betrieb für 15 Jahre beauftragt. Das mittels 
+Membrantechno- logie von Evonik aufbereitete Biomethan wird in das Erdgasnetz eingespeist. 
+Grenoble-Alpes-Métropole erhält eine Lizenzgebühr des durch den Verkauf generierten Einkommens des 
+Biome- thans.
+
+Das Projekt dient auch als Türöffner, um einen Teil des Bio- methans als grünen Kraftstoff für den 
+städtischen Transport verfügbar zu machen und so ein nachhaltiges Energiemodel in Grenoble zu 
+etablieren.
+Großbritannien
+Die Anlage in Andover, Südengland wird als erste Biogasauf- bereitungsanlage weltweit nachträglich 
+mit einem kompakten CO₂-Rückgewinnungssystem ausgestattet.
+
+Betrieben wird die 2.000 Nm3/h Biogasanlage von einem land- wirtschaftlichen Betrieb mit rund 425 
+Hektar Nutzfläche. Als Substrat werden nachwachsende Rohstoffe genutzt. Durch das von Pentair 
+Haffmans entwickelte und installierte CO₂-Rückge- winnungssystem kann der Methanertrag der Anlage 
+auf 100 Pro- zent erhöht werden. Während des CO₂-Rückgewinnungsprozes- ses werden alle 
+Verunreinigungen im Gasstrom – einschlieβlich dem von konventionellen Verfahren bekannten 
+Methanschlupf – aus dem CO₂ entfernt und zurück zur Biogasaufbereitungsanlage geleitet. Auf diese 
+Wege können geschätzt 87.600 Kubikmeter an Biomethan pro Jahr zusätzlich gewonnen und in das 
+Erdgasnetz eingespeist werden. Kein Methan geht während des Prozesses verloren.
+
+Darüber hinaus wird die Anlage 1.600 kg CO₂ pro Stunde – rund 37 Tonnen CO₂ pro Tag – produzieren. 
+Dieses wird verflüssigt und in einem Puffertank gespeichert. Das produzierte CO₂ ent- spricht den 
+Spezifikationen der EIGA (European Industrial Gases Association) und wird an ein internationales 
+Gasunternehmen verkauft. Der Anlagenbetreiber kann so bedeutende zusätzliche Mehreinnahmen 
+generieren.
+
+Die Mengen an umweltschädlichen Treibhausgasen, die in
+die Atmosphäre gelangen, geht mit dieser Kombination aus Bio- gasaufbereitung und CO₂-Rückgewinnung 
+gegen Null.
+
+Die Anlage ist im September 2016 in Betrieb gegangen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projekt- und Anwendungsbeispiele  33
+
+Schweden
+Die Biogasanlage in Alvesta verarbeitet Gülle und Abfallstof- fe von elf umliegenden Farmen. Die 
+Biogasaufbereitung von Malmberg wandelt das erzeugte Biogas zu Biomethan um.
+
+Aufgrund des fehlenden Erdgasnetzes vor Ort wird das Bio- methan nicht eingespeist, sondern nach 
+der Aufbereitung auf 250 bar verdichtet, in Gastransportcontainer gefüllt und per LKW zu 
+Tankstellen in der Umgebung transportiert. Das produ- zierte Biomethan wird dann als Kraftstoff in 
+Erdgasfahrzeugen eingesetzt und ermöglicht einen bedeutenden Beitrag zur Reduktion der Emissionen 
+an CO₂ , Stickoxiden und Partikeln in die Umwelt.
+Schweiz
+Seit 2008 ist die Wasseraufbereitungsanlage in Meilen (ARA Meilen) im schweizerischen Kanton Zürich 
+an eine Biogasaufbe- reitungsanlage angeschlossen. Die ARA Meilen existiert seit 1966 und wurde 
+1996 erweitert. Das entstehende Biogas wurde bis 2008 in einem BHKW direkt verstromt.
+
+Die Gasaufbereitung erfolgt mit der Aminwäsche und galt zum Zeitpunkt der Inbetriebnahme als 
+Pilotprojekt in der Schweiz. Ein Teil der eingesetzten thermischen Energie der Gasaufbe- reitung 
+wird in die ARA rückgeführt, um den Klärschlamm auf idealer Temperatur zu halten.
+
+Die Betreiber der Anlage haben 2009 eine Studie zur Ökobilanz der Biogasaufbereitung in Auftrag 
+gegeben, welche öffentlich eingesehen werden kann.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34  Projekt- und Anwendungsbeispiele
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ungarn
+Die Biogasanlage in Kaposvár wurde 2008 am Standort der Zuckerfabrik der ungarischen Magyar Cukor 
+Zrt. gebaut und 2013 um einen dritten Fermenter erweitert. Insgesamt 266.000 t Rohstoffe – wovon 
+rund 85 Prozent Reststoffe aus der Zucker- herstellung und 15 Prozent externe Abfall- und 
+Reststoffe aus der Milch- und Biodiesel-Erzeugung sind – werden zu Biogas verarbeitet.
+
+Das produzierte Biogas wurde bisher vorwiegend in der Zucker- fabrik vor Ort in einem Heizkraftwerk 
+zur Strom- und Wärme- versorgung des Standorts verwertet. Ein weiterer Teil wurde bislang über ein 
+lokales Gasnetz an das städtische Schwimmbad zur dortigen Wärmeerzeugung geleitet. Der durch die 
+Produk- tion des Biogases entstehende ökologische Mehrwert wird in Form von Biogaszertifikaten von 
+einem deutschen Ökogasan- bieter vermarket.
+
+Seit Ende 2015 ergänzt eine Biogasaufbereitungsanlage von Air Liquide den Standort, der von der 
+Landwärme projektiert wurde. Der verbleibende Teil des Rohbiogases kann somit zu
+Biomethan aufbereitet werden. Dadurch kann die Biogasanlage auch außerhalb der Kampagne genutzt 
+werden und trägt so zur energetischen Optimierung des Standorts bei. Das produzierte Biomethan wird 
+dabei vollständig von Landwärme abgenom- men und europaweit vermarktet.
+Kanada
+Abbotsford war die erste Biomethan-Einspeiseanlage Kanadas, umgesetzt von der PlanET Biogastechnik 
+GmbH. 2010 wurden die Fermenter erstmalig mit Hähnchenmist, Gras, Molke, Fett- resten, 
+Schlachthausabfällen und Mais in Betrieb genommen und Anfang 2011 erstmalig aufbereitetes Biogas in 
+das Gasnetz von British Columbia gespeist.
+
+Realisiert werden konnte das Projekt auch dank finanzieller Zuschüsse der öffentlichen Hand: 1,5 
+Millionen der insgesamt 4,5 Millionen Dollar Investitionskosten stammen aus öffentli- chen Mitteln.
+
+Aufgrund nicht vorhandener Vergütungen für Biomethan muss der Anlagenbetreiber die Vermarktung des 
+Gases in die eigene Hand nehmen. Das Biomethan wird daher an einen lokalen Gasversorger mit 940.000 
+Gaskunden verkauft und wird von der Kundschaft positiv aufgenommen.
+
+Viele Kunden sind bereit, Erdgas mit beigemischtem Biomethan zu nutzen, wenn damit ein Teil ihres 
+Energiekonsums CO₂-neu- tral produziert werden kann.
+
+Insgesamt erreicht die Anlage eine CO₂-Einsparung von 6.500 t jährlich.
+
+
+
+
+Projekt- und Anwendungsbeispiele  35
+
+5. Unternehmen und Akteure
+
+
+
+
+
+
+
+Dieses Kapitel stellt Unternehmen und Akteure der Biogas- einspeisung in Deutschland vor. Die 
+nachfolgende Tabelle gibt einen Überblick über ihre Tätigkeitsschwerpunkte.
+
+
+
+
+
+
+
+
+
+Aerzener Maschinenfabrik GmbH                                           38
+BayWa r.e. Green Energy Products                                          38
+Berliner Stadtreinigung (AöR)                                             39
+Biogasrat+ e. V.                                                     39
+B.KWK e. V.                                                       40
+bmp greengas GmbH                                                  40
+DBFZ gGmbH                                                      41
+DLG e. V.                                                         41
+DVGW e. V.                                                       42
+E.ON Bioerdgas GmbH                                                 42
+erdgas schwaben gmbh                                              43
+Evonik Industries AG                                               43
+Fachverband Biogas e. V.                                               44
+Fraunhofer IEE                                                     44
+Fraunhofer UMSICHT                                                  45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GASAG Berliner Gaswerke AG                                             45
+HZI Biomethan GmbH                                                 46
+innogySE                                                        46
+Institut für Biogas, Kreislaufwirtschaft                                        47
+und Energie (IBKE)
+Landwärme GmbH                                                   47
+NAWARO BioEnergie AG                                                48
+Open Grid Europe GmbH                                                48
+Pentair Haffmans                                                    49
+Puregas Solutions GmbH                                               49
+Schwelm Anlagentechnik GmbH                                            50
+Thüga Energie GmbH                                                  50
+TÜV SÜD Industrie Service GmbH                                           51
+von Bredow Valentin Herz                                               51
+VPT Kompressoren GmbH                                               52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unternehmen und Akteure  37
+
+
+
+
+
+
+
+
+
+
+
+Aerzener Maschinenfabrik GmbH
+
+
+AERZEN Produkte für Biogas- und Biomethan- Anwendungen
+
+Seit vielen Jahrzehnten fördern und verdichten AERZEN Gebläse und Verdichter in Anlagen der 
+chemischen und der petrochemi- schen Industrie alle Arten von Gasen und Gasgemischen.
+Energieeffizienz, Anlagensicherheit und Zuverlässigkeit sind dabei die maßgebenden Kriterien. Auf 
+Basis dieses Wissens und der daraus resultierenden Erfahrungen bietet die Aerzener Maschinenfabrik 
+GmbH speziell für den Biogasmarkt entwick- elte Produkte an.
+
+Die Aerzener Maschinenfabrik liefert passende Produkte für Biogasanwendungen in einem Druckbereich 
+von 200 mbar bis 20 bar Überdruck. Dabei eröffnet eine Vielzahl unterschiedlicher Größen und 
+Druckstufen die Möglichkeit, individuelle und hoch- effiziente kundenspezifische Lösungen anbieten 
+zu können.
+
+
+Aerzener Maschinenfabrik GmbH Axel Cichon
+Reher Weg 28, 31855 Aerzen
+Telefon +49 (0)5154 81-0
+Fax +49 (0)5154 81-9191,
+axel.cichon@aerzener.de www.aerzener.de
+BayWa r.e. Green Energy Products GmbH
+
+
+BayWa r.e. Green Energy Products GmbH ist ein Energiehandels- haus für Erneuerbare Energien mit den 
+Geschäftsbereichen Bio- methanhandel, Stromvermarktung und Ökoenergievertrieb. Als ein 
+hundertprozentiges Tochterunternehmen der BayWa r.e. renewable energy GmbH übernimmt das 
+Energiehandelhaus im Geschäftsbereich Biomethanhandel die Einspeisung, das Port- foliomanagement 
+und den Handel von Biomethan. Der Handel erfolgt deutschlandweit an physischen Ein- und 
+Ausspeisepunk- ten sowie über die virtuellen Handelspunkte der Marktgebiete (H-Gas und L-Gas) für 
+die Verwendungspfade KWK-Verstromung, Kraftstoffmarkt sowie Wärmemarkt. Die Biomethan Herkunfts- 
+nachweise werden transparent und lückenlos durch uns im Biogasregister der dena geführt.
+
+Das Leistungsspektrum im Überblick:
+
+EEG Direktvermarktung und Regelenergievermarktung Biomethanhandel im KWK-, Kraftstoff- und 
+Wärmemarkt Dienstleistung für Portfoliomanagement und Bilanzkreis- management
+Vertrieb von Ökostrom und Ökogas an Privat-, Gewerbe- und Industriekunden
+
+Die BayWa r.e. renewable energy GmbH ist eine hundertpro- zentige Beteiligung der BayWa AG und 
+bündelt die Konzernak- tivitäten im Bereich der erneuerbaren Energien. Gegründet im Jahr 2009 
+fungiert die BayWa r.e. als Holding für mehrere Ge- sellschaften in den Geschäftsfeldern 
+Solarenergie, Windenergie, Bioenergie und Geothermie.
+
+
+BayWa r.e. Green Energy Products GmbH Jens Eberlein, Geschäftsführung
+Mike Kutzner, Leiter Vertrieb Grillparzerstraße 12a, 81675 München Telefon +49 (0)89 383932-5700
+Fax +49 (0)89 383932-5720
+greenenergyproducts@baywa-re.com www.baywa-re.com
+
+
+
+
+
+
+38  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+
+Berliner Stadtreinigung (AöR)
+
+
+Mit ihren Dienstleistungen, der ökologischen Abfallentsorgung und der Straßenreinigung inklusive 
+Winterdienst verantwortet die Berliner Stadtreinigung ein Stück Lebensqualität für Berlin. Die 
+anerkannte Qualität der Leistung und die unter vergleich- baren Großstädten niedrigsten Gebühren 
+gehören ebenso wie ökologische und soziale Verantwortung zum Selbstverständnis der BSR.
+
+Und wenn es um die Zukunft geht, ist die BSR mit ihren rund
+5.300 Beschäftigten vorn dabei. Das umfasst alle Bereiche des Unternehmens: von der Ausbildung in 
+zukunftsorientierten Berufen über innovative Konzepte für die Verwertung der Abfälle bis hin zum 
+Qualitätsmanagement für die Straßenreinigung und einem auch in harten Wintern zuverlässigen 
+Winterdienst. Berliner Stadtreinigung (AöR)
+
+
+Kommunales Stadtreinigungsunternehmen Thomas Rücker
+Leiter Biologische Abfallbehandlung Ringbahnstraße 96, 12103 Berlin
+Telefon +49 (0)30 7592 4900
+Fax +49 (0)30 7592 2262
+Thomas.Ruecker@BSR.de www.BSR.de
+Biogasrat+ e. V.
+
+
+Biogasrat+ e.V. – dezentrale energien: Fairer Partner für eine Energiepolitik mit Zukunft
+
+Der Biogasrat+ e.V. – dezentrale energien ist der Verband der führenden Unternehmen der dezentralen 
+Energieversorgung und der Biogaswirtschaft. Seine Mitglieder repräsentieren die gesamte 
+Wertschöpfungskette im Bereich der dezentralen Energieversorgung.
+
+Der Biogasrat+ e.V. – dezentrale energien versteht sich als Verband, der die gemeinsamen Interessen 
+der Marktteilnehmer im Bereich Biogas und dezentraler Energieversorgung entlang der gesamten 
+Wertschöpfungskette vertritt und den Markt im Interesse seiner Mitglieder entwickelt.
+
+Der Biogasrat+ e.V. – dezentrale energien fördert die Verbesse- rung der gesetzlichen 
+Rahmenbedingungen für die dezentrale Energieversorgung, die Biogas- und Bioerdgasindustrie sowie 
+die Systemintegration erneuerbarer Energien und schafft mit seiner Arbeit in Politik und 
+Gesellschaft ein Bewusstsein für die Anforderungen der Energiewende und deren Konsequenzen. Der 
+Verband fühlt sich den internationalen und nationalen Klimaschutzzielen ebenso verpflichtet, wie 
+der Weiterentwick- lung der deutschen Energiewirtschaft. Unser Ziel ist es, die Tech- 
+nologieführerschaft und Wettbewerbsfähigkeit der deutschen Biogaswirtschaft durch das Vorantreiben 
+von Standards und stetige Optimierung der Anlageneffizienz unter Berücksichti- gung der 
+Klimaschutzziele und im Sinne der Nachhaltigkeit zu sichern.
+Der Biogasrat+ e.V. – dezentrale energien steht Politik und Wirtschaft jederzeit als verlässlicher 
+und fairer Partner für eine Energiepolitik mit Zukunft zur Seite.
+
+
+Biogasrat+ e.V. Janet Hochi
+Mittelstraße 55, 10117 Berlin
+Tel. +49 (0)30 206 218 100
+Fax. +49 (0)30 206 218 110
+geschaeftsstelle@biogasrat.de www.biogasrat.de
+
+
+
+
+Unternehmen und Akteure  39
+
+
+
+
+
+
+
+
+
+
+
+bmp greengas GmbH
+
+
+bmp greengas: Deutschlands führender-
+Biomethanhändler
+
+bmp greengas ist der führende Vermarkter von Biomethan und Experte für Grüne Gase. Das Unternehmen 
+entwickelt individu- elle Lösungen für den zuverlässigen Transport, die reibungslose Bilanzierung 
+und die ausfallsichere Lieferung und Biomethan.
+
+bmp greengas kauft, bündelt und vertreibt Biomethan ver- schiedenster Erzeuger und 
+unterschiedlicher Qualität. Dadurch hat das Unternehmen ein diversifiziertes Biomethan-Portfolio 
+etabliert. Für seine Kunden stimmt bmp greengas alle Produkte individuell ab und entwirft sowohl 
+sichere als auch zukunfts- orientierte Lösungen. Stadtwerke, Energieversorger und Gashändler sowie 
+Betreiber von Blockheizkraftwerken werden zuverlässig versorgt. Je nach Bedarf bekommt der Abnehmer 
+die passende Gasqualität: Dabei werden systematisch alle Fak- toren der Erzeugung und Verwendung 
+von einem Expertenteam bewertet – vom Ausgangsstoff bis zur aktuellen Gesetzeslage.
+
+bmp greengas ist Gründungsmitglied im Biogasregister der dena und führt für seine Kunden den 
+Biogasregisternachweis der Biomethanmengen und -qualitäten bei der Einspeisung in das Erdgasnetz. 
+Als Tochter der Erdgas Südwest ist es ein Unterneh- men des EnBW-Konzerns.
+
+
+bmp greengas GmbH
+Manuela Hotop, Marketing & Public Relations Ganghoferstr. 68a,80339 München
+Telefon +49 (0)89 30 90 58 7-130
+Fax +49 (0)89 309 05 87 888
+m.hotop@bmp-greengas.de www.bmp-greengas.de
+Bundesverband Kraft-Wärme-Kopplung (B.KWK) e. V.
+
+Unsere Aufgaben
+
+Der B.KWK ist gemeinnützig. Er verfolgt seine Ziele insbesondere durch:
+
+den politischen Dialog mit allen gesellschaftlichen Gruppen und Institutionen (national und 
+international).
+Beseitigung von Informationsdefiziten und Verankerung des KWK-Gedankens in Politik, Fachwelt und 
+Bevölkerung.
+Förderung des Informations- und Erfahrungsaustausches zwischen den Mitgliedern (Netzwerk).
+Beratung und Hilfestellungen für interessierte Personen und Institutionen.
+Anregung und Förderung wissenschaftlicher und techni- scher Innovationen.
+Durchführung von Infotagen, Workshops und Kongressen.
+
+Wer ist zur Mitwirkung eingeladen?
+
+Personen, Unternehmen, Institutionen und Verbände, d. h.
+
+KWK-Anlagenbetreiber in Industrie, Handel, Gewerbe und öffentlichen und privaten Einrichtungen,
+Anlagen- und Komponentenhersteller, Wartungsunter- nehmen,
+Planer, Consultants, Contractoren, Energieagenturen, Stadtwerke, Stromversorger, Stromhändler, 
+Netzbetreiber, Gasversorger, Anbieter von Kohle, Mineralöl und Bio- brennstoffen,
+Politiker, Städte und Kommunen, Wissenschaftliche Institute.
+
+
+Bundesverband Kraft-Wärme-Kopplung (B.KWK) e. V. Wulf Binde
+Markgrafenstraße 56, 10117 Berlin
+Telefon +49 (0)30 2701 9281-1060
+Fax +49 (0)30 2701 9281-1080
+info@bkwk.de www.bkwk.de
+
+
+
+
+
+
+40  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+
+Deutsches Biomasseforschungszentrum (DBFZ)
+
+
+Das Deutsche Biomasseforschungszentrum (DBFZ) ist ein interdisziplinäres Forschungsinstitut, das 
+sich mit technischen, ökonomischen und ökologischen Fragen der energetischen Nutzung von Biomasse 
+sowohl theoretisch als auch praktisch auseinandersetzt. Derzeit hat das DBFZ mehr als 200 
+Mitarbeiter.
+
+Neben Machbarkeitsstudien, Gutachten und Begutachtungen, Technikbewertungen, Szenarioanalysen, 
+Potenzialanalysen, Ökobilanzen sowie Modellierungen und Simulationen beinhaltet die Arbeit 
+schwerpunktmäßig experimentelle Untersuchungen im Labor-, Technikums-, Pilot- und 
+Demonstrationsmaßstab.
+Das DBFZ führt umfassende Projekte in den Bereichen der Bio- energieproduktion als auch der 
+Nutzbarmachung von Reststof- fen und Abfällen durch. Insbesondere hinsichtlich der Bereit- stellung 
+von Biomethan werden öffentlich und privat finanzierte Forschungsprojekte, Begutachtungen, 
+Potenzialanalysen und Machbarkeitsuntersuchungen durchgeführt. Im nationalen und internationalen 
+Bereich werden sowohl Energieversorger und Industrieunternehmen als auch Behörden beraten.
+
+
+DBFZ Deutsches Biomasseforschungszentrum gemeinnützige GmbH
+Prof. Dr. mont. Michael Nelles Torgauer Straße 116, 04347 Leipzig
+Telefon +49 (0)341 24 34-112
+Fax +49 (0)341 24 34-133
+info@dbfz.de www.dbfz.de
+
+Deutsche Landwirtschafts- Gesellschaft (DLG) e. V.
+
+Impulse für den Fortschritt
+
+Die DLG: Basis für Innovation und Fortschritt.
+Die DLG wurde im Jahr 1885 von dem Ingenieur und Schrift- steller Max Eyth gegründet. Sie hat über 
+20.000 Mitglieder und gehört zu den Spitzenorganisationen der deutschen Agrar- und 
+Ernährungswirtschaft. Sie ist eine für jeden offene Fachorganisation der Agrar- und 
+Ernährungswirtschaft und ist politisch und wirtschaftlich unabhängig. Grundlage und
+Selbstverständnis der DLG ist die Förderung des wissenschaft- lichen und technischen Fortschritts. 
+Mit ihren Aktivitäten und Initiativen setzt die DLG Maßstäbe und ist Impulsgeber für den 
+Fortschritt.
+
+Internationale Ausrichtung
+Die DLG denkt und handelt international. Sie unterhält mit führenden internationalen Praktikern und 
+anderen Fachorgani- sationen einen weltweiten Wissensaustausch.
+
+Die Arbeitsfelder
+Plattform für den Wissensaustausch und die Meinungsbildung
+
+in der Land- und Ernährungswirtschaft Internationale Fachausstellungen Testen von Technik und 
+Betriebsmitteln Testen von Lebensmitteln
+
+
+DLG e. V. (Deutsche Landwirtschafts-Gesellschaft) Markus Vagt
+Eschborner Landstraße 122, 60489 Frankfurt am Main Telefon +49 (0)69 247 88-323
+Fax +49 (0)69 247 88-114
+m.vagt@dlg.org www.dlg.org
+
+
+
+
+
+
+
+
+
+
+Unternehmen und Akteure  41
+
+
+
+
+
+
+
+
+
+
+
+
+DVGW Deutscher Verein des Gas- und Wasser- faches e. V. – Technisch-wissenschaftlicher Verein
+
+Die technischen Regeln des DVGW garantieren die hohe Qualität der Gas- und Wasserversorgung in 
+Deutschland: Sie geben
+den Unternehmen eine Orientierung für notwendige, wirtschaft- lich sinnvolle Maßnahmen zum Erhalt 
+der technischen Sicherheit und Hygiene der Gas- und Wasserversorgung in Deutschland. Der DVGW als 
+technischer Regelsetzer gestaltet
+in Zusammenarbeit mit seinen rund 13.000 Mitgliedern die Veränderungsprozesse der Branche 
+maßgeblich mit und sorgt so dafür, dass sich die technische Selbstverwaltung des Fachs auch unter 
+den sich schnell wandelnden Rahmenbedingungen bewährt.
+
+Im Bereich Biogas engagiert sich der DVGW als Regelsetzer für Gas und Wasser mit einem 
+ganzheitlichen Ansatz: für Versor- gungssicherheit mit Gas durch Diversifizierung und Zugriff auf 
+einheimische, nachhaltige Quellen und für einen gewässer- schonenden Anbau der häufigsten 
+Nutzpflanzen für die Energie- erzeugung aus Biomasse.
+
+
+DVGW Deutscher Verein des Gas- und Wasserfaches e.V. – Technisch-wissenschaftlicher Verein
+Josef-Wirmer-Straße 1-3, 53123 Bonn
+Telefon +49 (0)228 9188-5
+Fax +49 (0)228 9188-990
+info@dvgw.de www.dvgw.de
+E.ON Bioerdgas GmbH
+
+
+Die E.ON Bioerdgas GmbH produziert und handelt mit Bio-Erd- gas und führt als Dienstleister den 
+Betrieb von Anlagen. Sie besitzt oder ist mehrheitlich beteiligt an 5 Bio-Erdgasanlagen, darunter 
+die schon 2008 als eine der ersten in Deutschland in Betrieb gegangenen Anlage in Schwandorf.
+
+Das Handelsportfolio beträgt jährlich ca. 1 TWh und beinhaltet Bio-Erdgas aus Abfall-Biomasse 
+ebenso wie aus nachwachsen- den Rohstoffen. E.ON Bioerdgas beliefert sowohl die nationalen Märkte 
+für KWK, Wärme und Transport als auch den internatio- nalen Markt.
+
+Die E.ON Bioerdgas entwickelt und fördert innovative Anlagen- konzepte. Besonders erfolgreich ist 
+der Einsatz neuer, ökono- misch und ökologisch vorteilhafter Pflanzen wie der Anbau von 
+ertragsreichem Szarvasi-Gras auf 110 ha und der bienen-
+freundlichen Durchwachsenen Silphie auf 10 ha. Der Einsatz von Rebhäckseln aus dem Hopfenanbau in 
+der Anlage Wolnzach, mitten im weltgrößten Hopfenanbaugebiet Hallertau, wurde von der dena mit dem 
+Biogaspartner-Innovationspreis aus- gezeichnet. Mit weiteren Forschungsprojekten wie im Bereich 
+power-to-gas an Biogasanlagen fördert E.ON Bioerdgas den Wert von Bio-Erdgasanlagen für die 
+nachhaltige Energieversor- gung Deutschlands.
+
+
+E.ON Bioerdgas GmbH Brüsseler Platz 1, 45131 Essen
+Telefon +49(0)201 184-7831
+Fax +49(0)201 184-7837
+info.bioerdgas@eon.com www.eon.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+42  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+erdgas schwaben gmbh
+
+
+Wir sind da, wo unsere Kunden sind
+
+erdgas schwaben blickt auf eine lange Geschichte als Energie- versorger in Schwaben und Oberbayern 
+zurück. Aktuell sind 183 Städte und Gemeinden an fast 6.000 km Rohrleitungen angeschlossen. Sowohl 
+öffentliche Einrichtungen wie private Haushalte nutzen die Leistungen von erdgas schwaben, die das 
+komplette Spektrum der Erdgasversorgung abdecken. Seit bald drei Jahren verfolgt der schwäbische 
+Energieversorger eine
+eigene Energiestrategie: Den erdgas schwaben Weg. Kernpunkte des erdgas-schwaben-Wegs sind die 
+professionelle Energieein- sparberatung, die Förderung von effizienter Erdgasanwendungs- technik 
+und der konsequente Ausbau regenerativer Energien.
+
+E wie Erneuerbare Energie: Der erdgas-schwaben-Weg
+
+Bioenergien, die regenerativ erzeugten Energien aus Schwaben, haben ein enormes Wachstumspotenzial! 
+Zug um Zug wurde dieses Geschäftsfeld mit Erfolg weiter ausgebaut. Um langfristig als regionaler 
+Partner die Energiewende aktiv mitzugestalten, hat die erdgas schwaben die erdgas schwaben 
+regenerativ gmbh gegründet. Die schwaben regenerativ verfügt bereits über vier laufende 
+Erdgasanlagen. Eine Anlage produziert seit 2008 in Graben bei Augsburg Bioerdgas, eine weitere in 
+Maihingen, in der Nähe von Nördlingen im Donau-Ries. Eine Anlage in Alten- stadt/Schongau 
+(Einsatzstoff: biogene Reststoffe) ist seit 2009 in Betrieb und seit Herbst 2010 speist eine Anlage 
+in Arnschwang/ Cham in das bestehende Erdgasnetz ein. Jährlich werden insgesamt 210 Mio. kWh ins 
+Erdgasnetz eingespeist. Das sind
+ca. 12.000 Haushalte, die die Vorteile der grünen Energie nutzen können.
+
+
+erdgas schwaben GmbH Christian Arlt
+Bayerstraße 43, 86199 Augsburg
+Telefon +49 (0)821 90 02-160
+Fax +49 (0)821 90 02-385
+christian.arlt@schwaben-regenerativ.de www.schwaben-regenerativ.de
+Evonik Industries AG
+
+
+Energieeffiziente Biogasaufbereitung mit Sepuran® Green
+
+Evonik Industries ist eines der weltweit führenden Unternehmen der Spezialchemie. Mit mehr als 
+vierzig Jahren Erfahrung in der Polymerchemie ist Evonik in über 100 Ländern der Welt aktiv.
+Wir bieten Hohlfasermembrankartuschen und -module zur effi- zienten und energiesparenden 
+Biogasaufbereitung an.
+
+Unsere Membrantechnologie: Alle Vorteile für Ihren Einsatz in Klein- und Großanlagen
+
+Die membranbasierte Biogasaufbereitung von Evonik zeigt eine besonders hohe Anlagenverfügbarkeit, 
+einen sehr geringen Energiebedarf und niedrige Wartungskosten. Zudem entstehen bei der Aufbereitung 
+weder Abfälle noch Emissionen. Es werden auch keine Hilfsmittel wie Wasser oder Sorptionsmittel 
+benötigt. All diese Vorteile schlagen sich direkt in Form von Kostenvor- teilen nieder. Außerdem 
+ist aufgrund der hohen Flexibilität des Verfahrens die Membrantechnologie sowohl für Klein- als 
+auch für Großanlagen anwendbar. Darüber hinaus kann diese Tech- nologie leicht an sich ändernde 
+Volumenströme und Gaszusam- mensetzungen angepasst werden.
+
+Unsere Referenzen
+Die Anzahl der Biogasanlagen, die auf SEPURAN® Green setzen, ist seit 2012 stetig gewachsen. In 
+Deutschland, Großbritannien, Frankreich, Schweden, Thailand und China sind bereits zahl- reiche 
+Anlagen in Betrieb. Weitere Anlagen in Norwegen, den Niederlanden, Korea und den USA sind bereits 
+in Planung oder im Bau.
+
+
+Evonik Industries AG
+Gewerbepark 4, 4861 Schörfling, Österreich
+Telefon +43 (0)7672 701 3016
+Fax +43 (0)7672 96862
+sepuran@evonik.com www.sepuran.de
+
+
+
+
+
+Unternehmen und Akteure  43
+
+
+
+
+
+
+
+
+
+
+
+
+Fachverband Biogas e. V.
+
+
+Seit seiner Gründung im Jahr 1992 hat sich der Fachverband Biogas mit seinen heute rund 4.800 
+Mitgliedern zur größten Interessenvertretung der Biogas-Branche in Europa entwickelt. Er vertritt 
+bundesweit Hersteller, Anlagenbauer und Biogas- anlagenbetreiber. Die Hauptaufgabe der 30 
+Mitarbeiter/-innen besteht in der politischen Lobbyarbeit zur Förderung einer nachhaltigen 
+Biogasnutzung. Neben der Hauptgeschäftsstelle in Freising unterhält der Verband eine Vertretung in 
+Berlin sowie fünf Regionalbüros. Darüber hinaus engagieren sich die Mitglie- der ehrenamtlich für 
+den weiteren Ausbau der Biogasnutzung in Deutschland. Organisiert in 23 Regionalgruppen treffen sie 
+sich bei Versammlungen.
+
+Neben der intensiven politischen Interessenvertretung gehört zu den weiteren Zielen des 
+Fachverbandes Biogas u. a.:
+
+Förderung von technischen Entwicklungen
+Förderung, Auswertung und Vermittlung von wissenschaft- lichen Erkenntnissen und praktischen 
+Erfahrungen Herausgabe von Publikationen
+Förderung des nationalen und internationalen Erfahrungs- austausches
+Erarbeitung von Qualitätsstandards
+
+Der wichtigste Branchentreff findet zu Beginn jeden Jahres im Rahmen der Jahrestagung des 
+Fachverbandes Biogas e.V. statt. Zur letzten Tagung kamen mehr als 9.000 Besucher/-innen.
+Angeschlossen ist Europas größte Biogasfachmesse.
+
+
+Fachverband Biogas e. V. Angerbrunnenstraße 12, 85356 Freising
+Telefon +49 (0)8161 98 46 60
+Fax +49 (0)8161 98 46 70
+info@biogas.org www.biogas.org
+
+Fraunhofer-Institut für Energiewirtschaft und Energiesystemtechnik IEE
+
+Abteilung Bioenergie-Systemtechnik
+
+Die Abteilung Bioenergie-Systemtechnik des Fraunhofer IEE forscht auf dem Gebiet der Integration 
+von Bioenergieanlagen in Energieversorgungsstrukturen. Im Vordergrund steht die Systemtechnik von 
+Biogasanlagen, Biogasaufbereitungstechno- logien und Power to Gas. Haupttätigkeiten sind die 
+Entwicklung von Technologien, Komponenten und Konzepten zur bedarfs- orientierten 
+Energiebereitstellung, Aufbereitung und Einspei- sung regenerativer Gase und PtG-Technologien für 
+Kunden aus Energiewirtschaft und Industrie.
+
+Die Abteilung betreibt ein Testzentrum am Hessischen Bio- gasforschungszentrum (HBFZ) mit 
+großtechnischer For- schungsbiogasanlage (900 m3), 170 Laborfermentern, Kon- versionsaggregaten, 
+Silagebuchten und Gülleversorgung. Wir bieten Beratungsdienstleistungen, Gutachten und Studien für 
+Stadtwerke, Unternehmen und Politik mit den Schwerpunkten der Biogasaufbereitung sowie der 
+bedarfsorientierten Energie- bereitstellung und PtG an.
+
+
+Fraunhofer-Institut für Energiewirtschaft und Energiesystemtechnik IEE
+Bereich Bioenergie-Systemtechnik Königstor 59, 34119 Kassel
+Telefon +49 (0)561 7294-421
+Fax +49 (0)561 7294-100
+Michael.Beil@iee.fraunhofer.de www.iee.fraunhofer.de
+
+
+
+
+
+
+
+
+
+44  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+
+Fraunhofer-Institut für Umwelt-, Sicherheits- und Energietechnik UMSICHT
+
+Wir entwickeln und optimieren industrienahe Verfahren der Um- welt-, Prozess-, Werkstoff- und 
+Energietechnik. Unser Ziel ist es, nachhaltiges Wirtschaften, umweltschonende Technologien und 
+innovatives Verhalten voranzubringen, um die Lebensqualität der Menschen zu verbessern und die 
+Innovationsfähigkeit der Wirtschaft zu fördern.
+
+Der Fokus unserer Biogasforschung liegt auf der Optimierung der biologischen und 
+verfahrenstechnischen Prozesse und der Entwicklung zukunftsweisender Verfahren z.B. zur Substrat- 
+vorbehandlung, Vergärung, Gasreinigung oder zur Methanisie- rung im Rahmen von PtG-Konzepten.
+
+Im Themenfeld Biogaseinspeisung arbeitet Fraunhofer UMSICHT auf nationaler und internationaler 
+Ebene an der Weiterentwick- lung effizienter Gesamtsysteme zur Biogaserzeugung,-reinigung,
+-einspeisung und -nutzung. Wir erstellen Markt-, Technologie- und Anlagenmonitoringstudien und 
+beraten deutsche und europäische Entscheidungsträger.
+
+Im Bereich der GIS-gestützten Modellierung und Bilanzierung der Biomasseproduktion (Potenziale, 
+Emissionen, Stoffströme, Standorte) im ländlichen Raum bietet Fraunhofer UMSICHT die Erstellung von 
+Biomasse-Energiekatastern zur nachhaltigen Entwicklung von Energieversorgungskonzepten und 
+Standorten an. Weiterhin bearbeiten wir fachübergreifende Querschnitts- themen wie Genehmigungs- 
+und raumplanerische Fragestellun- gen sowie Akzeptanzfragen bei der Entwicklung von Biogas- 
+einspeiseprojekten.
+
+
+Fraunhofer-Institut für Umwelt-, Sicherheits- und Energietechnik UMSICHT
+Joachim Krassowski
+Osterfelder Straße 3, 46047 Oberhausen
+Telefon +49 (0)208 85 98-1162
+Fax +49 (0)208 85 98-1423
+joachim.krassowski@umsicht.fraunhofer.de www.umsicht.fraunhofer.de
+
+GASAG AG
+
+
+In Berlin und weiten Teilen Brandenburgs sind wir als führender Erdgasversorger, als innovatives 
+Energiedienstleistungs- und Mehrspartenunternehmen sowie als Betreiber von Energie- netzen ein 
+fester Bestandteil des wirtschaftlichen Geschehens.
+
+Die Unternehmen der GASAG-Gruppe unterstützen Privathaus- halte, Industrie- und Gewerbekunden sowie 
+öffentliche Einrich- tungen und Kommunen auf vielfältige Weise bei der effizienten und 
+klimaschonenden Nutzung von Energie und sorgen für eine verlässliche und wirtschaftliche 
+Energieversorgung in der Region. Mit zukunftsweisenden Techniken wie der Erzeugung von Bioerdgas, 
+mit dezentralen Energielösungen und unseren Smart-Metering-Dienstleistungen geben wir der 
+Entwicklung der Energienutzung immer wieder Impulse und erschließen uns gleichzeitig bundesweit 
+neue Märkte.
+
+
+GASAG AG
+Dr. Guido Bruch
+Henriette-Herz-Platz 4, 10178 Berlin
+Telefon +49 (0)30 78 72-1150
+Fax +49 (0)30 78 72-1155
+gbruch@gasag.de www.gasag.de
+
+
+
+
+
+
+Unternehmen und Akteure  45
+
+
+
+
+
+
+
+
+
+
+
+
+Hitachi Zosen Inova BioMethan GmbH
+
+
+Gasaufbereitung und Carbon Capture
+
+Hitachi Zosen Inova BioMethan entwickelt und fertigt modulare Anlagetechnik zur Biomethanerzeugung 
+und/oder CO2-Gewin- nung aus biogenen Gasen wie Bio-,Klär-oder Deponiegas sowie aus Rauchgasen.
+Für die Erzeugung dieser hochreinen Produktgase stehen zwei leistungsfähige Technologien zur 
+Verfügung: drucklose Aminwä- sche und membranbasierte Gaspermeation. Mit der passenden 
+Anlagetechnik für jede Kundenanforderung kann die Auswahl leistungs-,betreiber-und marktgerecht 
+getroffen werden.
+Umfangreiche Services für den Erhalt bestmöglicher Leistungs- fähigkeit und einen dauerhaft 
+sicheren Anlagenbetrieb runden das Portfolio ergänzend zum Anlagenbau ab: Von der Ersatz- 
+teillieferung über Wartungs- und Reparaturarbeiten bis hin zum Rundum-Sorglos-Paket, von der 
+Einzelkomponente über praxis- orienterte Betreiber-Apps bis zum Komfort-plus-Vertrag.
+Der Anlagenbau mit hohem Qualitätsstandard erfolgt in der Fertigung mit drei Produktionsstraßen am 
+Firmensitz in Zeven. Über unsere europäischen Kernmärkte hinaus sind wir in Koorperation mit den 
+weltweiten HZI-Niederlassungen sowie Partnerunternehmen im jeweiligen Land tätig
+
+
+Hitachi Zosen Inova BioMethan GmbH Gasaufbereitung und Carbon Capture Jan Ludeloff
+Ludwig-Elsbett-Straße 1, 27404 Zeven
++49 (0)4281 98 76-0
+jan.ludeloff@hz-inova.com www.hz-inova.com
+
+innogy SE
+
+
+Seit dem September 2016 sind die Bereiche Erneuerbare Energi- en, Vertrieb sowie Netz & 
+Infrastruktur der RWE AG in der innogy SE gebündelt worden.
+
+innogy SE mit Unternehmenssitz in Essen beliefert in Deutsch- land rund 4 Millionen Kunden mit 
+Strom und Erdgas und agiert bei Bio-Erdgas in den Bereichen Anlagen-betrieb, Beschaffung, 
+Vermarktung sowie Handel.
+
+Die Strom- und Wärmeerzeugung mit biogasbetriebenen BHKW ist insbesondere für Gewerbe- und 
+Geschäftskunden interes- sant, die mit der regenerativ erzeugten Wärme entweder den eigenen 
+Wärmebedarf decken oder als Wärmelieferant andere Abnehmer versorgen können.
+
+Unsere Energiespezialisten können für den Kunden geeignete BHKW-Standorte ausfindig machen und 
+individuelle Lösungen entwickeln. Diese Wärmelieferungskonzepte basieren auf der Erfahrung, die wir 
+selbst als Eigentümer und Betreiber bei einer Vielzahl von KWK-Anlagen gemacht haben. In unseren 
+Energie- dienstleistungsprojekten profitiert der Kunde von stabilen und kalkulationssicheren 
+Wärmepreisen; zudem managt innogy SE beim Contracting die gaswirtschaftliche Abwicklung und sichert 
+die EEG-Vergütung. innogy SE bietet überdies die Direktver- marktung des in den EEG-Anlagen 
+produzierten Stroms an.
+
+
+innogy SE
+Philipp Birkenstock
+Neue Jülicher Str. 60, 52353 Düren
+Telefon +49 (0)2421 47 2828
+philipp.birkenstock@innogy.com www.innogy.com
+
+
+
+
+
+
+
+
+
+
+
+
+46  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+
+Institut für Biogas, Kreislaufwirtschaft & Energie
+
+
+Das Institut für Biogas, Kreislaufwirtschaft und Energie verfügt über international anerkannte 
+Kompetenz im Bereich Biogas und Biomethan – fokussiert auf prozessbiologische und tech- nische 
+Fragestellungen, Gutachten als auch Biomethanhandel, Energiesystemintegration, Wissenstransfer und 
+Politikberatung. Das Institut verfügt zudem über ein Expertennetzwerk und die Möglichkeit auch 
+große und komplexe Projekte zu realisieren. Wir setzen mit unseren Kunden neue Ideen, Technologien 
+und Forschungsvorhaben um.
+
+Das Institut für Biogas, Kreislaufwirtschaft und Energie ist ein guter Ausgangspunkt für 
+unabhängige Beratung und Projektentwicklung.
+
+Zum Leistungsspektrum gehören:
+
+Beratung in allen Fragen der Konzeption, der Etablierung, des Betriebes und der Energienutzung von 
+Biogas- und Biomethananlagen
+Umstellung von Erdgas-BHKW auf Biomethan Beratung (inter)nationaler Biomethanhandel
+Erarbeitung und Begutachtung konkreter technischer und ökonomischer Konzepte,
+Koordination und wissenschaftliche Arbeit für Forschungs- projekte,
+Wissenstransfer (Konferenzen, Seminare, Fachvorträge) Gerichtsgutachten
+Zu den (internationalen) Kunden gehören: Energieversorger
+Anlagenbetreiber Behörden, Gerichte Technologieanbieter Forschungseinrichtungen
+
+
+Institut für Biogas, Kreislaufwirtschaft & Energie Johan Grope, Projektleiter
+Henßstraße 9, 99423 Weimar
+Telefon +49 (0)30 67 96 75 57
+Fax +49 (0)3643 7 40 23 63
+grope@biogasundenergie.de www.biogasundenergie.de
+Landwärme GmbH
+
+
+Wir versorgen Europa mit Biomethan
+
+Landwärme ist ein europaweit tätiger Biomethanversorger, Händler und Dienstleister. Seit 2007 sind 
+wir als einer der ersten Akteure am Markt aktiv und mit einem Handelsvolumen von mehr als 2 TWh 
+einer der größten europäischen Biomethan- händler.
+
+Landwärme beherrscht jeden Schritt entlang der Wertschöp- fungskette. Wir betreiben 5 eigene 
+Biomethananlagen in Deutschland und bündeln das grüne Gas zudem von mehr als 80 Lieferanten 
+europaweit. Damit beliefern wir über 150 Kunden mit der passenden Qualität und Menge. Zu unseren 
+Abnehmern zählen Stadtwerke, Energieversorger, Händler, BHKW-Betreiber und Erdgastankstellen. Als 
+Dienstleister unterstützen wir un- sere Kunden zudem mit unserem Know-how und unseren Erfah- rungen 
+bei der Zertifizierung von Biomethan, beim Transport über das Erdgasnetz sowie beim Einsatz von 
+Biomethan als Ergänzung oder Alternative zu Erdgas.
+Unsere Leistungen: Biomethaneinkauf
+Biomethanlieferung für Wärme-, Strom- & Kraftstoffsektor Beratung zur Biokraftstoffquote
+Bilanzkreismanagement
+Dokumentation der Vergütungsansprüche
+Beratung zur Biogasaufbereitung und Anlagenzertifizierung Technische & kaufmännische 
+Betriebsführung von Bio- methananlagen
+
+
+Landwärme GmbH
+Ungererstr. 40, 80802 München
+Tel. +49 (0)89 24 88 200 11
+Fax +49 (0)89 24 88 200 01
+info@landwaerme.de www.landwaerme.de
+
+
+Unternehmen und Akteure  47
+
+
+
+
+
+
+
+
+
+
+
+NAWARO BioEnergie AG
+
+
+NAWARO BioEnergie AG – Biogas nach industriellen Standards
+
+Die NAWARO BioEnergie AG wurde 2005 in Leipzig gegründet. Geschäftszweck ist die Planung, 
+Errichtung und der Betrieb von BioEnergie Parks im industriellen Maßstab.
+
+Im Jahr 2006 nahm das Unternehmen mit dem NAWARO
+Bio-Energie Park „Klarsee“ den weltgrößten Anlagenpark zur Verstromung von Biogas mit einer 
+Leistung von 20 MWel in Betrieb.
+
+Seit Juni 2009 speist der NAWARO BioEnergie Park „Güstrow“ Bioerdgas ins Erdgasnetz ein. Mit einer 
+Leistung von 55 MWth ist dies die größte Anlage der Welt zur Erzeugung von Bioerdgas aus 
+nachwachsenden Rohstoffen und setzt damit wiederum einen neuen Standard.
+
+Allen von der NAWARO entwickelten Standorten liegt ein industrielles Konzept zugrunde, das eine 
+effiziente Anlagen- auslastung und damit eine höchstmögliche Ressourcenver- wertung garantiert. 
+Durch eigene Forschung und Entwicklung unterliegen sämtliche Arbeitsabläufe einem permanenten 
+Verbesserungsprozess.
+
+Die NAWARO leistet damit einen nachhaltigen Beitrag zur saube- ren, versorgungssicheren und 
+bezahlbaren Energieproduktion der Zukunft.
+
+
+NAWARO BioEnergie AG Leyly Erfani
+Trufanowstraße 8, 04105 Leipzig
+Telefon +49 (0)341 231 02 80
+Fax +49 (0)341 231 02 61
+leyly_erfani@nawaro.ag www.nawaro.ag
+Open Grid Europe GmbH
+
+
+Open Grid Europe mit Sitz in Essen ist mit einem Leitungsnetz von rund 12.000 Kilometern einer der 
+größten Fernleitungs- netzbetreiber in Deutschland. Zwei Drittel des in Deutschland verbrauchten 
+Erdgases fließt durch unser Fernleitungsnetz mit rund 100 Verdichtereinheiten und etwa 1100 
+Ausspeisepunkten.
+1.450 Mitarbeiter sorgen bundesweit für einen sicheren, umwelt- freundlichen und kundenorientierten 
+Gastransport. Darüber hinaus bieten wir die dazugehörigen technischen und kauf- männischen 
+Dienstleistungen und erbringen kaufmännische, technische und IT-Dienstleistungen für Dritte. Wir 
+unterstützen aktiv den europäischen Gasmarkt und schaffen gemeinsam mit den europäischen 
+Verteilnetzbetreibern die Voraussetzungen für grenzüberschreitenden Gastransport und -handel. 
+Ausdrücklich unterstützen wir die nachhaltige Ausgestaltung der Energiewen- de. Es ist unsere 
+Überzeugung, dass Gas und seine Infrastruk- turen über große Klimaschutzpotenziale verfügen und 
+somit eine entscheidende Rolle im künftigen Energiesystem spielen werden.
+
+
+Open Grid Europe GmbH Martin Frings
+Kallenbergstr. 5, 45141 Essen
+Telefon +49 (0)201 3642-12772
+martin.frings@open-grid-europe.com www.open-grid-europe.com
+
+
+
+
+
+
+
+
+48  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pentair Haffmans
+
+
+Pentair Haffmans bietet eine breite Palette an Lösungen zur Bio- gasaufbereitung und 
+CO2-Rückgewinnung – von standardisierten Biogasaufbereitungssystemen mit Membrantechnologie über 
+maβgeschneiderte Lösungen zur kombinierten Methangewin- nung und CO2-Rückgewinnung bis hin zu 
+alleinstehenden Units zur CO2-Rückgewinnung.
+
+Pentair Haffmans bietet eine innovative Biogasaufbereitungs- technologie an, die wesentliche 
+Vorteile gegenüber konven- tionellen Verfahren aufweist. Mit dem Verfahren von Pentair Haffmans ist 
+es möglich, 100 Prozent des Methans aus dem Roh- biogas zu gewinnen. Der von vielen anderen 
+Verfahren bekannte umweltschädliche Methanschlupf wird damit ausgeschlossen. Ein weiterer Vorteil 
+besteht darin, dass auch das Nebenpro- dukt CO₂ zurückgewonnen und als wertvoller Rohstoff verkauft 
+werden kann. Auf diese Weise können Anlagenbetreiber eine zusätzliche Einnahmequelle erschließen.
+
+Unsere Biogasaufbereitungsanlagen basieren auf einer Kom- bination von Membran- und 
+Kryogentechnologie. Jedes Projekt wird von der Auftragsvergabe bis zur Endabnahme intensiv durch 
+ein erfahrenes Projektteam betreut.
+
+Durch ein umfassendes Produktlebenszyklus-Management stellt Pentair Haffmans auch nach der 
+Inbetriebnahme sicher, dass Ihre Biogasaufbereitungsanlage jederzeit den Anforderungen entspricht. 
+Neben einem globalen Netzwerk an erfahrenen Servicetechnikern steht Ihnen unser Technischer Service 
+rund um die Uhr über Telefon, Email und Fernwartungsservice zur Verfügung.
+
+
+Pentair Haffmans Sjoerd van der Sterren
+Marinus Dammeweg 30, 5928 PW Venlo, Niederlande
++31 (0)77 323 23 35
++31 (0)77 323 23 23
+NLVENmarketing@Pentair.com www.haffmans.nl
+Puregas Solutions GmbH
+
+
+Puregas Solutions liefert schlüsselfertige Lösungen für Bioga- saufbereitung. Unsere einzigartiger 
+CApureTM Prozess erfasst> 99,9% des im Rohgas enthaltenen Methans und maximiert da- mit die 
+Wertschöpfung, bei gleichzeitig sehr niedrigen Betriebs- kosten, für Netzeinspeisung oder als 
+Kraftstoff. Falls erforderlich, zur direkten Verflüssigung (<50 ppm CO2).
+
+Puregas Solutions plant und errichtet modulare ,werksgefertig- te Biogasaufbereitungsanlagen mit 
+niedrigen Betriebskosten, funktionsgetestet und CE-zertifiziert. Das Unternehmen ist Teil der 
+Läckeby Water Group, einer unabhängigen schwedischen Industriegruppe in privater Hand. Die Läckeby 
+Water Group bietet Produkte und Dienste zur Behandlung von Wasser und Abwasser und zur Produktion 
+von Biogas. Das Unternehmen
+ist auf drei Kontinenten tätig und hat weltweit in 70 Ländern Anlagen errichtet. Mit einem Umsatz 
+von circa 90 Millionen Euro ist die Läckeby Water Group einer der Marktführer.
+
+Purac´s CApure™ Biogasaufbereitungstechnologie bietet eine Vielzahl von Vorteilen. Der 
+Methan-Ertrag ist höher als 99,9%, und der Gesamtenergieverbrauch ist am unteren Ende von dem, was 
+derzeit möglich ist. Wahrscheinlich das grünste Biomethan auf dem Markt. Unsere erste CApure™ läuft 
+seit 2002. Stetige technologische Optimierung und Weiterentwicklung erlaubt
+es uns Biogasaufbereitungsanlagen mit höchster Verfügbarkeit anzubieten, die einfach zu bedienen 
+und leicht zu warten sind
+- Anlagen mit herausragender technischer und wirtschaftlicher Performance.
+
+Puregas Solutions ist ein nach ISO 9001, 14001 und OHSAS 18001 zertifiziertes Unternehmen.
+
+Puregas Solutions GmbH Sven Fischer, Vertriebsleiter
+Am Fallturm 5, Haus 2, 28359 Bremen
+Telefon +49 (0)421 168 39-10
+Fax +49 (0)421 168 39-25
+info@puregas-solutions.com www.puregas-solutions.com
+
+
+
+
+
+
+Unternehmen und Akteure  49
+
+
+
+
+
+
+
+
+
+
+
+Schwelm Anlagentechnik GmbH
+
+
+Hervorgegangen aus der früheren Muttergesellschaft des Schwelmer Eisenwerk im Jahr 2003 steht 
+Schwelm Anlagentech- nik traditionell für zuverlässige Technik mit einem erstklassigen Preis-/ 
+Leistungsverhältnis.
+
+Als Marktführer im Bereich der Erdgasbetankungstechnik kon- nten wir uns in kürzester Zeit zu einem 
+der führenden Anbie- ter im Bereich Biogas sowohl für Einspeiseanlagen als auch
+Aufbereitungsanlagen entwickeln. Entscheidend hierfür war die Zusammenführung unserer Kompetenzen 
+im Anlagenbau für die Großindustrie mit der innovativen Technik der Aufbereitung: mit einem 
+Gesamtenergieverbrauch von unter 0,21 kWh/Nm3 sowie einem Methanverlust deutlich unter 1 Prozent 
+zählt die physikalische Druckwäsche aus Schwelm zu den effizientesten Verfahren am Markt. Im 
+Biogassegment insgesamt wurden bereits über 20 Anlagen errichtet. Der aktuelle Fokus liegt in der 
+Aufbereitung von Abfallgasen, wobei unser Projekt in Coesfeld als richtungweisend gesehen werden 
+kann.
+
+Die schnelle und kompetente Reaktion unseres Kundendienstes bezüglich der Erdgastankstellen konnten 
+wir problemlos auf die Betreuung der Biogasanlagen übertragen.
+
+Schwelm Anlagentechnik bietet Komplettlösungen bezüglich Engineering, Fertigung und 
+deutschlandweitem Kundendienst in den Bereichen hocheffizienter Biogasaufbereitung und
+-einspeisung, Chemieanlagen sowie Erdgasbetankung, und das sowohl für eigene Produkte als auch für 
+Fremdfabrikate.
+
+
+Schwelm Anlagentechnik GmbH Dirk Rose, Vertriebsleitung Loher Straße 1, 58332 Schwelm
+Telefon +49 (0)2336 809-0
+Fax +49 (0)2336 809-392
+info@schwelm-at.de www.schwelm-anlagentechnik.de
+Thüga Energie GmbH
+
+
+Die Thüga Energie GmbH ist ein modernes, kundenorientiertes Energieversorgungsunternehmen und 
+gehört zur Thüga-Grup- pe, dem größten kommunalen Energienetzwerk Deutschlands. Rund 100.000 Kunden 
+werden in den Regionen Hegau und west- licher Bodensee, sowie Allgäu- Oberschwaben und Rheinhes- 
+sen-Pfalz mit Strom, Erdgas und Wärme versorgt. Erneuerbare Energien sind nicht nur ein fester 
+Bestandteil des Produktange- bots. Die Thüga Energie GmbH investiert auch in neueste Tech- 
+nologien. Das jüngste Großprojekt ist eine Biogasaufbereitungs- anlage, die in Kooperation mit der 
+BRV – Biologische Reststoff Verwertung GmbH betrieben wird.
+
+Mehr Effizienz dank innovativer Technik
+
+Die BRV verwertet in ihrer Biogasanlage in Kißlegg Rahmhaus Lebensmittel, die nicht mehr für den 
+Verzehr bestimmt sind. Die hochmoderne Aufbereitungsanlage, welche im Mai 2010 in Be- trieb 
+genommen wurde, wandelt das Gasgemisch in ein Biogas um, das Erdgas-Qualität erreicht. Durch die 
+dort eingesetzte innovative Membrantechnik ist die Aufbereitung des Gases ohne die Verwendung von 
+Prozesswasser oder chemischer Reini- gungsmittel möglich. Das neue Reinigungsverfahren für Biogas 
+ist zum einen ökologisch nachhaltiger, zum anderen aber auch wirtschaftlich deutlich effizienter 
+als herkömmliche Verfahren zur Biogasaufbereitung.
+
+Das aufbereitete Bioerdgas wird in das Erdgasnetz eingespeist und kann als Kraftstoff und 
+Energielieferant genutzt werden. Mit dem Biogas aus Kißlegg können rund 1.000 Haushalte versorgt 
+werden.
+
+
+Thüga Energie GmbH Peter Ehret
+Leiter Contracting und energienahe Dienstleistungen Industriestr. 9, 78224 Singen
+Telefon +49 (0)7731 5900-1444
+peter-ehret@thuega-energie.de www.thuega-energie.de
+
+
+
+
+
+
+50  Unternehmen und Akteure
+
+
+
+
+
+
+
+
+
+
+
+TÜV SÜD Industrie Service GmbH
+
+
+TÜV SÜD verfügt auf dem Gebiet der Energie-Zertifizierung über langjährige, internationale 
+Erfahrung und zertifiziert klassische Ökostromprodukte, die Generierung handelbarer Zertifikate und 
+Erzeugungsanlagen.
+
+Mit der Dienstleistung „GreenMethane“ bietet TÜV SÜD auch eine Zertifizierung für Erzeugung, Handel 
+und Vertrieb von Biomethan an.
+
+Der Zertifizierungsservice richtet sich an: Betreiber von Anlagen zur Biogaseinspeisung 
+Biomethan-Händler Anbieter von End- kundenprodukten mit einem Biomethan-Anteil.
+
+Durch die räumliche Entkoppelung von Produktion und Ver- brauch werden Dokumentation und Nachweis 
+über Beschaffen- heit der Anlage und Rohstoffeinsatz immer wichtiger. Der TÜV Süd-Standard 
+GreenMethane bietet eine verlässliche Systematik bei Nachweisführung, Auditierung und 
+Zertifizierung. Die nach dem GreenMethane-Standard zertifizierten Marktteilnehmer profitieren von 
+den Regelungen des EEWärmeG, des EEG und der Biokraftstoff-Nachhaltigkeitsverordnung.
+
+
+TÜV SÜD Industrie Service GmbH Michael Landspersky Westendstraße 199, 80686 München
+Telefon +49 (0)89 5791-3399
+Fax +49 (0) 89 5791-2756
+Michael.Landspersky@tuev-sued.de www.tuev-sued.de/biomasse
+von Bredow Valentin Herz
+
+
+Die Rechtsanwaltskanzlei von Bredow Valentin Herz berät von ihrem Standort in Berlin-Mitte aus 
+deutschlandweit zu allen Rechtsfragen rund um Projekte zur Gewinnung von Strom, Gas, Wärme und 
+Power to Gas aus erneuerbaren Energien.
+
+Im Bereich Biogaseinspeisung verfügt die Kanzlei über umfas- sende Beratungserfahrung aus einer 
+Vielzahl von Projekten. Beratungsschwerpunkte sind die Prüfung, Gestaltung und Verhandlung von 
+Verträgen, insbesondere zur Lieferung von Substraten, Rohbiogas und Biomethan, sowie die 
+Durchsetzung von Netzanschlüssen und von Schadensersatzansprüchen bei deren Verzögerung.
+
+von Bredow Valentin Herz begleitet Einspeiseprojekte jeder Größenordnung. Das Beratungsangebot 
+richtet sich insbeson- dere an Projektentwickler, Anlagenbetreiber, Anlagenhersteller, 
+Energiehändler, Landwirte und Energieversorger. Stets „nah am Geschehen“ steht die Kanzlei in 
+ständigem Austausch mit zahlreichen in der Branche tätigen Unternehmen und politi- schen 
+Institutionen. Die Rechtsanwälte der Kanzlei von Bredow Valentin Herz treten regelmäßig als Autoren 
+von Fachbeiträgen und als Referenten zur Biogaseinspeisung in Erscheinung.
+
+
+von Bredow Valentin Herz Partnerschaft von Rechtsanwälten mbB Rechtsberatung
+Rechtsanwalt Dr. Hartwig von Bredow Rechtsanwalt Dr. Florian Valentin Rechtsanwalt Dr. Steffen Herz 
+Littenstraße 105, 10179 Berlin
+Telefon +49 (0)30 8092482-20
+Fax +49 (0)30 8092482-30
+info@vonbredow-valentin-herz.de www.vonbredow-valentin-herz.de
+
+
+
+
+
+
+
+
+
+
+Unternehmen und Akteure  51
+
+
+
+
+
+
+
+
+
+
+
+
+VPT Kompressoren GmbH
+
+
+1980 wurde durch eine bereits auf dem Sektor des Verdich- terbaus berufserfahrene Gruppe von 
+Ingenieuren, Technikern und Monteuren die VPT Verdichter-Pumpen-Technik GmbH gegründet. Nach der 
+Spezialisierung auf die Verdichtung von Gasen wurde der Firmenname 1988 in VPT Kompressoren GmbH 
+geändert.
+
+Neben der Wartung bereits bestehender Verdichteranlagen hat VPT sehr bald mit der Entwicklung einer 
+eigenen Verdichterbau- reihe für Erdgas, Biogas, Deponies, etc. begonnen. Durch die hohe Qualität 
+der Produkte und der Serviceleistungen konnte VPT seither einen stetig wachsenden Kundenkreis auf 
+dem Ge- biet der Verdichtung von Gasen für sich gewinnen. Heute steht VPT ihren Kunden mit einem 
+Werk in Remscheid und einem technischen Büro in Dinslaken Verfügung.
+
+Das VPT Lieferprogramm umfasst Verdichter für fast alle Anwen- dungsfälle sowie komplette 
+Container-Anlagen inkl. Enginee- ring, Planung, Rohrleitungsbau, Steuerungstechnik, etc. VPT 
+bezieht die Einzelkomponenten für die Verdichteranlagen von einer Vielzahl namhafter deutscher 
+Hersteller. So hat der Kunde den Vorteil, unabhängig von den spezifischen Baureihen eines einzelnen 
+Herstellers eine Gesamtanlage aus jeweils optimal auf den Bedarfsfall abgestimmten Teilkomponenten 
+zu erhalten.
+
+Von der Beratung der Ingenieurbüros bei öffentlichen Aus- schreibungen, über Basic-Engineering für 
+Kunden, bis hin zur schlüsselfertigen Aufstellung und Begleitung des Kunden bei der Abnahme der 
+Gesamtanlage durch den TÜV übernimmt die VPT Kompressoren GmbH eine Vielzahl von Aufgaben.
+
+
+VPT Kompressoren GmbH Carsten Kollenbach, CEO
+Glockenstahlstraße 6, 42855 Remscheid
+Telefon +49 (0)2191-59254-35
+Fax +49 (0)2191-59254-37
+C.Kollenbach@VPT-Kompressoren.de www.VPT-Kompressoren.de
+
+
+
+
+
+
+52  Unternehmen und Akteure
+
+Glossar
+
+
+
+
+
+
+
+
+Aufbereitung: Prozess, mit dem Biogas qualitativ aufgewertet wird. Um Erdgasqualität zu erreichen, 
+ist insbesondere eine CO₂-Abtrennung (= Methananreicherung) notwendig, um den Methananteil des 
+Rohbiogases (45 – 70 Prozent) auf den der Gasqualität vor Ort (Erdgas L ca. 85 Prozent, Erdgas H 
+bis zu 99 Prozent) anzuheben.
+Bioerdgas: Kunstwort, Bezeichnung für auf Erdgasqualität auf- bereitetes und in das Erdgasnetz 
+eingespeistes Biogas, Synonym für „Biomethan”.
+Biogas: Produkt des anaeroben biologischen Abbaus orga- nischer Substrate. Enthält ca. 45 – 70 
+Prozent Methan, 30 – 55 Prozent Kohlendioxid, geringe Mengen an Stickstoff, Schwefel- wasserstoff 
+und anderen Spurengasen. In Gesetzestexten und Verordnungen wird mit „Biogas“ das auf 
+Erdgasqualität aufbe- reitete Biogas bezeichnet (welches im Rahmen dieser Broschüre als „Bioerdgas“ 
+bzw. „Biomethan“ bezeichnet wird). Für das Gas direkt aus dem Vergärungsprozess wird demgegenüber 
+oftmals die Bezeichnung „Rohbiogas“ oder „Biorohgas“ verwendet.
+Biomethan: Kunstwort, Bezeichnung für Methan biologischen Ursprungs, wird verwendet für auf 
+Erdgasqualität aufbereitetes Biogas, Synonym für „Bioerdgas”.
+Einspeisung: Prozess der Einbringung von Biomethan in das Erdgasnetz.
+Energiepflanzen: Eigens für die energetische Verwertung ange- baute Pflanzen, deren Energie über 
+Prozesse wie Verbrennung, Vergärung und Vergasung nutzbar gemacht wird.
+Entschwefelung: Verfahrensschritt der Biogasaufbereitung, bei dem der im Rohbiogas enthaltene 
+Schwefelanteil durch biologi- sche und/oder chemische Prozesse entfernt wird.
+Fermenter: Behälter einer Biogasanlage, in dem die Vergärung stattfindet.
+Gärrest: Rückstand der Biogasgewinnung, wie er nach der Vergärung im Fermenter anfällt.
+Gülle: Übergreifende Bezeichnung für Kot und Urin von land- wirtschaftlichen Nutztieren, der ggf. 
+zusammen mit Einstreu (Mist) anfällt.
+Herkunftsnachweis: Nachweis, der belegt, dass eine dem Erdgasnetz entnommene Gasmenge bzgl. 
+Qualität und Menge einer an anderer Stelle in das Erdgasnetz eingespeisten Menge Biomethan 
+entspricht. Insbesondere wichtig zur Erlangung der EEG-Vergütung für aus Biomethan produzierten 
+Strom.
+H-Gas (Erdgas-H): Gasklassifizierung, wobei „H“ für das engli- sche Wort high („hoch“) steht. 
+Erdgas dieser Qualität hat einen Brennwert von ca. 12 kWh/Nm3.
+Kraft-Wärme-Kopplung (KWK): Gleichzeitige Umwandlung von eingesetzter Energie in mechanische bzw. 
+elektrische Energie und nutzbare Wärme. Durch die Kraft-Wärme- Kopplung wird die im Energieträger 
+(z.B. Biogas) enthaltene Energie effizient genutzt, da die bei der Stromerzeugung anfallende Wärme 
+für Heizzwecke oder Produktions-prozesse verwendet wird.
+L-Gas (Erdgas-L): Gasklassifizierung, wobei „L“ für das engli- sche Wort „low“ (niedrig) steht. 
+Erdgas dieser Qualität hat einen Brennwert von ca. 10 KWh/Nm3.
+Nachwachsende Rohstoffe (NawaRo): Sammelbegriff für land- und forstwirtschaftlich erzeugte 
+Rohstoffe wie Holz, Flachs, Raps, Zuckerstoffe und Stärke aus Rüben, Kartoffeln oder Mais. Der 
+Begriff „NawaRo“ umfasst damit neben Pflanzen für die energetische Nutzung insbesondere auch 
+Pflanzen zur stoffli- chen Nutzung in der Industrie.
+Normkubikmeter (Nm3): Maßeinheit für die Menge Gas, die unter „Normbedingungen“ das Volumen von 
+einem Kubikmeter ausfüllt. Normbedingungen beinhalten einen Druck von 1,01325 bar, eine 
+Luftfeuchtigkeit von 0 Prozent und eine Temperatur von 0°C (DIN 1343) bzw. 15 °C (ISO 2533).
+Rohbiogas: Biogas im (unaufbereiteten) Zustand, wie es direkt nach der Vergärung am Ausgang des 
+Fermenters vorliegt. In der Literatur oftmals auch als „Biorohgas“ bezeichnet.
+Vergärung: Mehrstufiger Prozess, bei dem unter Luftabschluss und in feuchter Umgebung organische 
+Stoffe durch Methan- bakterien abgebaut werden und Biogas entsteht, Synonym für
+„Faulung“.
+Wobbe-Index: Kennwert, der für die Charakterisierung der Qua- lität von Brenngasen herangezogen 
+wird. Ähnliche Wobbe-Kenn- zahlen deuten auf eine Austauschbarkeit von Gasen hin, ohne dass 
+Modifikationen an den Gasendgeräten (z.B. Brenndüsen) notwendig werden.
+
+
+
+
+
+
+
+
+Glossar  53
+
+Impressum
+
+
+
+
+
+
+
+
+
+
+Herausgeber
+Deutsche Energie-Agentur GmbH (dena) Chausseestraße 128 a
+10115 Berlin
+Tel: +49 (0)30 66 777 - 0
+Fax: +49 (0)30 66 777 - 699
+
+E-Mail
+info@dena.de
+
+Internet. www.biogaspartner.de www.dena.de
+
+Redaktion
+Matthias Edel, dena
+Dr. Christine Kühnel, dena
+
+Layout
+kursiv kommunikationsdesign Peter Frey
+
+Fotos
+aboutpixel.de/Fischlein/Gastmann, ARCANUM Energy,
+B. KWK e. V., DVGW e. V., erdgas schwaben gmbh, Energie Mark Brandenburg GmbH, Landwärme GmbH, 
+ÖKOBiT GmbH, RWE Energy AG, Schmack Biogas GmbH, digitalstock. de, pixelio.de, stock.adobe.com/am/ 
+elenathewise, PlanET Biogastechnik GmbH, Viessmann/Carbotech, Rainer Weisflog, MT-Energie/ Martin 
+Bockhacker, Getty Images, iStockphoto
+
+Stand: 01/2019
+Alle Rechte sind vorbehalten. Die Nutzung steht unter dem Zustimmungsvorbehalt der dena.
+
+Sämtliche Inhalte wurden mit größtmöglicher Sorgfalt und nach bestem Wissen erstellt. Die dena 
+übernimmt keine Gewähr für die Aktualität, Richtigkeit und Vollständigkeit der bereitgestell- ten 
+Informationen. Für Schäden materieller oder immaterieller Art, die durch Nutzung oder Nichtnutzung 
+der dargebotenen Informationen unmittelbar oder mittelbar verursacht werden, haftet die dena nicht, 
+sofern ihr nicht nachweislich vorsätzliches oder grob fahrlässiges Verschulden zur Last gelegt 
+werden kann.
+
+Diese Publikation wurde mit freundlicher Unterstützung der Partner im Projekt biogaspartner 2017 
+erstellt und wird regelmä- ßig aktualisiert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54  Impressum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de  dena
+Deutsche Energie-AgenŁur

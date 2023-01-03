@@ -1,0 +1,865 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dena-ANALYSE
+Biomethan in der Wärmewende
+
+Impressum
+
+Herausgeber
+Deutsche Energie-Agentur GmbH (dena) Chausseestraße 128 a
+10115 Berlin
+Tel.: +49 (0)30 66 777 - 0
+Fax: +49 (0)30 66 777 - 699
+E-Mail: info@dena.de Internet: www.dena.de
+
+Autoren
+Stephan Bowe, dena Christine Kühnel, dena Toni Reinholz, dena Catharina Sutor, dena
+
+Titel-Foto
+Sebastian Unrau, Unsplash
+
+Stand: 10/2018
+Alle Rechte sind vorbehalten. Die Nutzung steht unter dem Zustimmungsvorbehalt der dena. Diese 
+Publikation wurde im Rahmen der Biogaspartnerschaft erstellt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de
+
+Zusammenfassung
+
+Die vorliegende Kurzanalyse gibt eine Übersicht über den bestehenden deutschen Wärmemarkt, 
+beleuchtet dabei insbesondere die Rolle von Biomethan und zeigt weitere Einsatzmöglichkeiten und 
+damit einhergehende Treibhausgas-Minderungspotenziale des biogenen Gases für die Wärmeerzeugung 
+auf.
+Die wichtigsten Ergebnisse auf einen Blick:
+■ Im Wärmebereich sind sowohl die Treibhausgasemissionen (THG-Emissionen) als auch der Anteil der 
+erneuerbaren Energien in den letzten Jahren auf einem ähnlichen Niveau geblieben. Zusätzliche 
+Anstrengungen und Investitionen sind notwendig, um die selbst gesteckten Klimaschutzziele im 
+Wärmebereich zu erreichen.
+■ Gegenwärtig wird Biomethan vornehmlich in der Kraft-Wärme-Kopplung in Blockheizkraftwerken (BHKW) 
+verwendet. Biomethan hatte im Jahr 2017 einen Anteil von rund 2 Prozent (ca. 3,8 TWh) am gesamten 
+Wärmeverbrauch aus erneuerbaren Energien (ca. 163 TWh). Durch die Nutzung des zur Verfügung 
+stehenden Potenzials kann der Beitrag von Biomethan zur Erreichung der Klimaschutzziele um ein 
+Vielfaches gesteigert werden.
+■ Erdgas nimmt in der gebäudeeigenen Wärmeversorgung die wichtigste Rolle ein. Biomethan kommt 
+aufgrund fehlender Anreize aber nur in einem geringen Umfang zum Einsatz.
+■ Erdgasnetze besitzen die strategische Kapazität und Flexibilität zur Übertragung, Verteilung und 
+Speicherung im Hinblick auf eine bedarfsgerechte und flexible Sektorkopplung mit Biomethan und 
+synthetischen erneuerbaren Gasen. Damit bietet sich eine kosteneffiziente Lösung zur Erreichung der 
+Klimaschutzziele.
+■ Nah- und Fernwärmenetze bieten durch die Versorgung vieler Verbraucher über eine zentrale 
+Energiequelle eine strategische Flexibilität im Hinblick auf zukünftige Entwicklungen und zur 
+Integration erneuerbarer Energien an zentraler Stelle. Daher sollten Wärmenetze erhalten und 
+modernisiert werden. Biomethan stellt hierbei eine kurzfristig umsetzbare Option dar, um den Anteil 
+erneuerbarer Energien schnell zu erhöhen und die THG-Emissionen in Wärmenetzen zu senken.
+■ Um die Dekarbonisierung des Wärmesektors mit erneuerbaren Gasen zu forcieren, sollte deren THG- 
+Minderungspotenzial stärkere Berücksichtigung finden. Als Option bietet sich hierfür die 
+Einpreisung der CO2-Vorteile von Biomethan und anderen erneuerbaren Gasen an.
+■ Im kommenden Gebäudeenergiegesetz sollte sich der Primärenergiefaktor für Biomethan an einem 
+wissenschaftlich fundierten Wert von fp = 0,361 orientieren. Bedarfsgerechten, smarten KWK-Lösungen 
+mit Biomethan und Wärmespeicher sollte eine besondere Rolle zukommen.
+■ Bei Nichterfüllung der Klimaschutzziele drohen Deutschland erhebliche Strafzahlungen in 
+Milliardenhöhe. Zur Vermeidung dieser Strafzahlungen und zur Erreichung der Klimaschutzziele 
+empfiehlt es sich, in effiziente und kurzfristig verfügbare Technologien wie Biomethan zu 
+investieren. So sind derzeit sowohl motorische als auch brennstoffzellenseitige KWK-Lösungen 
+verfügbar. Beide Lösungen sollen sowohl durch Marktanreize als auch durch F&E-Förderung weiter 
+vorangebracht werden. Besonders sollte dabei die Netzintegration gefördert werden.
+
+
+1 Primärenergiefaktoren von biogenen Energieträgern, Abwärmequellen und Müllverbrennungsanlagen, 
+Juni 2012. BMVBS.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 3 von 16
+01.11.2018
+
+1  Erneuerbare Energien im Wärmesektor
+
+Mit Blick auf die Energiewende und das Pariser Klimaschutzabkommen hat sich die Bundesregierung im 
+Wärmesektor Ziele gesteckt: Nach dem Energiekonzept 2010 soll der Anteil der erneuerbaren Energien 
+(EE) an der Wärmebereitstellung bis 2020 auf 14 Prozent steigen. Der Klimaschutzplan 2050 aus dem 
+Jahr 2016 erklärt überdies die Zielstellung, die Treibhausgasemissionen bis 2030 um mindestens 55 
+Prozent im Vergleich zu 1990 zu senken.2 Weiterhin wird explizit im Gebäudesektor (derzeit 35 
+Prozent des deutschen Endenergieverbrauchs) eine Minderung des Primärenergiebedarfs um 80 Prozent 
+bis 2050 angestrebt. Ziel ist es, bis 2050 einen nahezu klimaneutralen Gebäudebestand zu erreichen. 
+Neubauten sollen bereits ab 2020 klimaneutral sein.3, 4
+Der deutsche Wärmesektor wird von fossilen Energieträgern dominiert. Im Jahr 2017 basierten rund 87 
+Prozent des Wärmeverbrauchs (insgesamt 1.262 TWh) auf diesen Rohstoffen.5 Die aus erneuerbaren 
+Energien bereitgestellte Wärme beläuft sich derzeit immerhin auf knapp 13 Prozent des 
+Endenergieverbrauchs für Wärme. Den größten Anteil daran haben biogene Festbrennstoffe. Die
+Wärmebereitstellung durch Biomethan stieg im Verlauf der letzten fünf Jahre stetig, aber auf 
+niedrigem Niveau an. Sie machte 2017 rund 2 Prozent des Wärmeverbrauchs aus erneuerbaren Energien 
+(3,8 TWh) aus.6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 1: Endenergieverbrauch für Wärme aus EE nach Energieträgern 2017 (insgesamt 162,5 TWh)
+
+In der Betrachtung nach Anwendungsbereichen machen Raumwärme und Warmwasser allein ein Drittel des 
+Endenergieverbrauchs in Deutschland aus, Prozesswärme und -kälte knapp ein Viertel. Haushalte 
+sorgen mit etwa 44 Prozent für den größten Anteil am Wärmeverbrauch, gefolgt von Industrie (38 
+Prozent) und Gewerbe/Handel/Dienstleistungen (18 Prozent).7
+Die Entwicklungen im EE-Wärmemarkt stagnieren seit vielen Jahren. Aufgrund der wenig 
+ambitionierten, teils unkonkreten Ziele und der damit einhergehenden ungünstigen Rahmenbedingungen 
+erhöht sich der Anteil erneuerbarer Energien an der Wärmebereitstellung derzeit nicht.
+
+
+2 Der Klimaschutzplan 2050 – Die deutsche Klimaschutzlangfriststrategie, Stand Oktober 2017. BMU.
+3 Bundesregierung: Energiewende, Stand 2018.
+4 Energiekonzept für eine umweltschonende, zuverlässige und bezahlbare Energieversorgung, 28. 
+September 2010. BMWi und BMU.
+5 Erneuerbare Energien in Deutschland – Daten zur Entwicklung im Jahr 2017. Umweltbundesamt.
+6 Eigene Berechnungen.
+7 Anwendungsbilanzen für die Endenergiesektoren in Deutschland in den Jahren 2013 bis 2016. AG 
+Energiebilanzen e. V.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 4 von 16
+01.11.2018
+
+2  Biomethan im Wärmesektor
+
+Biomethan stellt eine attraktive und klimafreundliche Option für Anwendungen im Wärmebereich dar. 
+Es kann Erdgas in beliebigen Anteilen beigemischt werden, da es die gleichen chemischen 
+Eigenschaften aufweist. Daher kann es flexibel in den Sektoren Strom, Wärme und Kraftstoff sowie 
+bei der stofflichen Nutzung zum Einsatz kommen.
+Es existiert ein funktionierender Biomethanmarkt in Deutschland. Im Jahr 2017 haben in Deutschland 
+210 Biomethananlagen insgesamt 9.838 GWh biogenes Gas ins Erdgasnetz eingespeist. Daraus wurden 
+3.808 GWh Wärme (gekoppelt und ungekoppelt) sowie 2.728 GWh Strom (über das Erneuerbare-Energien- 
+Gesetz vergütet) generiert. Der Markt stagniert allerdings seit Jahren aufgrund von mangelnden 
+Wachs- tumsimpulsen.
+
+
+Landwirtschaft
+8%
+
+
+
+
+Umwandlungssektor*
+29%
+Industrie 4%
+
+
+Haushalte 19%
+
+
+
+Gewerbe / Handel
+/ Dienstleistungen 40%
+
+
+Abbildung 2: Verteilung der Wärmebereitstellung aus Biomethan nach Sektoren 20178
+
+Folglich ist auch der Zubau von Biomethanerzeugungsanlagen zum Erliegen gekommen. Mittlerweile 
+haben einzelne Bestandsanlagen auch wieder den Betrieb eingestellt. Für die erfolgreiche Umsetzung 
+der Wärme- wende und um die Klimaschutzziele zu erreichen, können weitaus größere Potenziale von 
+Biomethan ausge- schöpft werden.9
+Die rechtlichen Rahmenbedingungen der Biomethannutzung im Wärmemarkt in Deutschland sind in 
+verschiedenen Gesetzen und Verordnungen geregelt. Erzeuger von Biomethan müssen dieses selbst 
+vermarkten. Einen eigenen gesetzlichen Förderanspruch je Kilowattstunde für die Wärmenutzung von 
+Biomethan gibt es – anders als für Strom aus erneuerbaren Energien – nicht. Zu den wichtigsten 
+Fördergesetzen in Deutschland gehören:
+■ Erneuerbare-Energien-Gesetz (EEG)
+■ Kraft-Wärme-Kopplungs-Gesetz (KWKG)
+■ Energieeinsparverordnung (EnEV)
+■ Erneuerbare-Energien-Wärme-Gesetz (EEWärmeG)
+
+
+8 Definition Umwandlungssektor: Allein stehende / separate Anlagen zu Heizzwecken für mehrere 
+Wärmeabnehmer (zum Beispiel Heizhäuser).
+9 Das technische Potenzial wird in der dena-Analyse „Rolle und Beitrag von Biomethan im Klimaschutz 
+heute und in 2050“ mit maximal 118 TWhHs angesetzt.
+
+
+
+Biomethan in der Wärmewende                                                   Seite 5 von 16
+01.11.2018
+
+■ Erneuerbare-Wärme-Gesetz (EWärmeG) aus Baden-Württemberg
+Im Folgenden werden diese Fördermöglichkeiten beschrieben, gegliedert nach Einsatzbereich des 
+Biomethans.
+
+2.1  Biomethan in Kraft-Wärme-Kopplung
+Ein wichtiger Baustein der Wärmewende ist die Kraft-Wärme-Kopplung. Die Zielvorgabe ist hier, bis 
+zum Jahr 2020 bis zu 110 TWh Strom zu erzeugen sowie bis zum Jahr 2025 diese Menge auf 120 TWh zu 
+erhöhen (jedoch auch auf fossiler Basis). Das Ziel für 2025 wurde bereits im Jahr 2017 mit 124 
+TWhel (dazu 231,1 TWhth) übertroffen.
+Gegenwärtig wird Biomethan vornehmlich in der Kraft-Wärme-Kopplung (KWK) in BHKWs verwendet. Im 
+Jahr 2017 haben in Deutschland insgesamt 1.323 mit Biomethan betriebene BHKWs mit einer gemeinsamen 
+elektrischen Leistung von 529 MWel 3.340 GWh Wärme und 2.764 GWh Strom generiert, eingesetzt in den 
+Ver- brauchssektoren private Haushalte (HH), Gewerbe/Handel/Dienstleistungen (GHD), 
+Umwandlungssektor (UW), Landwirtschaft (LW) und Industrie (IND).
+Die Wärmenutzung von Biomethan ist gegenüber der Biogas-Vor-Ort-Verstromung aufgrund der Standort- 
+flexibilität und größerer Wärmesenken wie zum Beispiel Wärmenetzen meist weitaus effizienter. 
+Darüber hinaus bietet die Einspeisung in das Gasnetz einen optimalen Speicher und die damit 
+verbundene Flexibilität, die es bei der Direktverstromung nicht gibt.
+
+
+
+
+
+
+Industrie: 130 GWh
+
+Haushalte: 546 GWh
+
+
+
+
+Gewerbe/ Handel/ Dienstleistungen:
+
+Landwirtschaft: 304 GWh
+1.258 GWh
+
+
+Umwandlungs- sektor:
+1.107 GWh
+
+Abbildung 3: Wärmeerzeugung aus BHKWs in Deutschland 2017 nach Verbrauchssektoren (in GWhHs)
+
+Das Erneuerbare-Energien-Gesetz (EEG) ist das wichtigste Instrument für die Förderung erneuerbarer 
+Energien in Deutschland, mit dem Zweck, eine nachhaltige Energieversorgung im Sinne des Klima- und 
+Umweltschutzes zu gewährleisten. Neben netzbezogenen Ansprüchen steht Betreibern von Anlagen zur 
+Stromerzeugung aus erneuerbaren Energien außerdem eine finanzielle Förderung zu, deren Höhe seit 
+Inkrafttreten des EEG 2017 vorwiegend im Rahmen von Ausschreibungen ermittelt wird.
+Das EEG gewährt für Betreiber von KWK-Anlagen, die Biomethan aus dem Erdgasnetz entnehmen, eine 
+Förderung für jede erzeugte Kilowattstunde Strom. Dafür muss der Betreiber nachweisen, dass 
+mindestens genauso viel Biomethan in das deutsche Erdgasnetz eingespeist wurde, wie zur 
+Stromerzeugung in dem
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 6 von 16
+01.11.2018
+
+BHKW ausgespeist worden ist. Wird das Biomethan in neuen, seit Inkrafttreten des EEG 2017 in 
+Betrieb genommenen BHKWs mit einer installierten Leistung von mehr als 150 kW eingesetzt, besteht 
+der Anspruch auf finanzielle Förderung nur, wenn der Anlagenbetreiber zuvor erfolgreich an einer 
+Ausschreibung teilge- nommen hat. Bei Verstromung in bereits vor 2017 mit erneuerbaren Energien 
+betriebenen BHKWs ergibt sich die Höhe des Vergütungsanspruchs hingegen aus dem Gesetz. Dabei 
+bestimmt sich die Höhe der Förderung unter anderem danach, welche Stoffe für die Biogaserzeugung 
+zum Einsatz gekommen sind. Eine Voraus- setzung ist, dass für den gesamten Transport des Biomethans 
+von der Biogasaufbereitungsanlage bis zum BHKW ein Massenbilanzsystem, wie zum Beispiel das 
+Biogasregister Deutschland, verwendet wird.10
+Wird Biomethan in Anlagen der Kraft-Wärme-Kopplung eingesetzt, kommt alternativ zu einer Förderung 
+nach dem EEG auch die Inanspruchnahme des sogenannten KWK-Zuschlags nach dem Kraft-Wärme-Kopplungs- 
+Gesetz (KWKG) in Betracht. Die nach dem KWKG gewährte Förderung bleibt jedoch deutlich hinter der 
+Förderung nach dem EEG zurück, sodass dieses Vorgehen nur in Ausnahmefällen sinnvoll erscheint. Die 
+im August 2017 auf Grundlage des KWKG in Kraft getretene KWK-Ausschreibungsverordnung setzt 
+allerdings einen spezifischen Anreiz für die Nutzung von Biomethan. So sieht die Verordnung vor, 
+für die Jahre 2018 bis 2021 den Einsatz sogenannter innovativer KWK-Anlagen besonders zu vergüten. 
+Eine innovative KWK-Anlage besteht neben der fossilen KWK-Anlage aus einer Power-to-Heat-Anlage 
+sowie einer Wärmepumpe oder Thermie-Anlage zur Bereitstellung von Wärme aus erneuerbarer Energie.
+Für innovative KWK-Systeme gelten dabei spezielle Anforderungen. So muss der Anteil „innovativer 
+erneuer- barer Wärme“ bei mindestens 30 Prozent (ab 2021: 35 Prozent) der Referenzwärme liegen. 
+Wird in dem inno- vativen KWK-System Gas eingesetzt – was etwa bei gasbetriebenen Wärmepumpen der 
+Fall ist –, muss es sich um gasförmige Biomasse, also Biogas oder Biomethan, handeln. Für Anlagen 
+mit Inbetriebnahme ab 2020 steigt der erneuerbare Mindestanteil auf 35 Prozent der Referenzwärme, 
+wobei in den ersten fünf Jahren ab der Inbetriebnahme Biomethan dem fossilen Gas der KWK-Anlage 
+zugemischt und für bis zu 5 Prozent der Referenzwärme angerechnet werden kann.
+Die Energieeinsparverordnung (EnEV) formuliert bauliche und heizungstechnische Anforderungen an 
+Gebäude und legt die energetischen Standards für Neubauten und für die Sanierung von Bestandsbauten 
+fest. Damit sollen die klimapolitischen Ziele der Bundesregierung erreicht werden – insbesondere 
+ein nahezu klimaneutraler Gebäudebestand bis zum Jahr 2050 sowie etwa 60 Prozent 
+Endenergieeinsparung durch Effizienzmaßnahmen an der Gebäudehülle und der Anlagentechnik im 
+Vergleich zu 2010. Die EnEV basiert auf dem Energieeinsparungsgesetz (EnEG) und wird in ihrer 
+Wirkung von weiteren Normen und Gesetzen unterstützt. Biomethan wird bei der Berechnung des 
+Primärenergiebedarfs mit demselben Primärenergiefaktor (PEF) wie Erdgas (1,1) bewertet – unabhängig 
+davon, ob das Biomethan in einem Heizkessel oder in einer KWK-Anlage zum Einsatz kommt. Es gibt 
+somit also keinen Anreiz für eine Umstellung auf erneuerbare Gase. Nur wenn das Biomethan im 
+räumlichen Zusammenhang, also in einer Biogasanlage nebenan, erzeugt wurde, wird das Biomethan mit 
+dem PEF 0,5 bewertet.11
+Das Erneuerbare-Energien-Wärme-Gesetz (EEWärmeG) unterstützt die Zielstellung, den Anteil 
+erneuerbarer Energien an der Deckung des Wärmebedarfs (bezogen auf den Endenergieverbrauch) auf
+14 Prozent bis 2020 zu erhöhen. Wesentliches Element ist die Pflicht zur Nutzung erneuerbarer 
+Energien in Neubauten. Kommt Biomethan zur Erfüllung der Vorgaben des EEWärmeG zum Einsatz, muss 
+der
+
+
+
+10 www.biogasregister.de
+11 Einsatz von Biogas in der EnEV, dem EEWärmeG und bei der KfW, Stand Dezember 2016. Klimakönner.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 7 von 16
+01.11.2018
+
+Wärmeenergiebedarf zu 30 Prozent aus gasförmiger Biomasse gedeckt werden. Die Nutzung von Biomethan 
+hat dabei in Kraft-Wärme-Kopplung zu erfolgen.
+Im Koalitionsvertrag wurde vereinbart, dass die Kraft-Wärme-Kopplung weiterentwickelt und der 
+Bestand umfassend modernisiert werden soll. Dazu gehört auch, die Kraft-Wärme-Kopplung CO2-ärmer 
+auszugestal- ten und zu flexibilisieren. Mit dem im Koalitionsvertrag vereinbarten 
+Gebäudeenergiegesetz bietet sich zudem kurzfristig die Möglichkeit, die Rahmenbedingungen für den 
+effizienten Einsatz erneuerbarer Energien in der Kraft-Wärme-Kopplung zu verbessern und somit 
+nachhaltig die THG-Emissionen zu senken.
+
+2.2  Biomethan in Gasheizungen (ungekoppelte Wärme)
+Die alleinige Erzeugung von Wärme erfolgt durch gebäudeeigene Heizsysteme zur Objektversorgung. 
+Auch in der gebäudeeigenen Wärmeversorgung spielt Gas die wichtigste Rolle. Im Jahr 2017 basierten 
+weit über
+50 Prozent der Bestandsanlagen in der Objektversorgung auf Gas.12 Beim Neubau lag die Installation 
+von Gasheizsystemen bei 39,3 Prozent im Jahr 2017.13
+Der Absatz von Biomethan im Markt für ungekoppelte Wärme ist vor allem durch die Sektoren private 
+Haushalte und Gewerbe/Handel/Dienstleistungen getrieben. Im Vergleich zum gesamten Erdgasabsatz 
+(ca. 437 TWh in 201714) in beiden Sektoren besitzt Biomethan aber nur einen sehr geringen 
+Marktanteil (ca. 0,1 Prozent15). Im Umwandlungssektor kommt Biomethan in kleineren Mengen zur 
+Erzeugung von
+Prozesswärme zur Aufbereitung von Biomethan zum Einsatz. Grund hierfür ist, dass die Prozesswärme 
+aus regenerativen Energien stammen muss, um eine Vergütung nach dem EEG mit dem erzeugten Biomethan 
+in Anspruch nehmen zu können. Aufgrund des hohen Energiebedarfs ist für den Industriesektor und die 
+Land- wirtschaft nach derzeitigem Stand davon auszugehen, dass kein Biomethan für die reine 
+Wärmeerzeugung eingesetzt wird. Für diese Bereiche ist Biomethan aktuell bei hohem Kostendruck 
+wirtschaftlich unattraktiv.
+
+
+
+Haushalte 180 GWh
+
+
+
+
+Umwandlungssektor 14 GWh
+
+
+
+Gewerbe/ Handel/ Dienstleistungen 274 GWh
+
+Abbildung 4: Biomethanabsatz im Wärmemarkt nach Sektoren in GWhHs
+
+Ein Großteil des Biomethanabsatzes liegt im freiwilligen Beimischmarkt. Anders als bei sogenanntem
+„Ökogas“, das über Ausgleichsmaßnahmen (z.B. CDM/JI-Projekte) als CO2-neutral zertifiziert wird, 
+ist Biomethan tatsächlich klimaneutrales Gas, das auch massenbilanziell direkt zum Kunden geliefert 
+werden kann.
+
+
+12 Gesamtbestand zentrale Wärmeerzeuger 2017. Bundesverband der Deutschen Heizungsindustrie.
+13 Energiewirtschaftliche Entwicklung in Deutschland 1. Halbjahr 2018. BDEW.
+14 Erdgasabsatz in Deutschland nach Verbrauchergruppen, Stand Februar 2018. BDEW.
+15 Eigene Berechnungen.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 8 von 16
+01.11.2018
+
+Das Erneuerbare-Wärme-Gesetz (EWärmeG) ist ein Landesgesetz aus Baden-Württemberg, das für 
+Bestandsgebäude im Wärmemarkt gilt. Mit dem EWärmeG werden Eigentümer beim Heizungsaustausch 
+verpflichtet, fortan erneuerbare Energien bei der Wärmeversorgung einzusetzen. Es gilt für alle 
+zentral beheizten Wohngebäude ab 50 Quadratmetern Wohnfläche. Seit der Novellierung des Gesetzes 
+zum 1. Juli 2015 müssen 15 Prozent des Wärmebedarfs durch erneuerbare Energien gedeckt werden. Die 
+Erfüllung dieser Nutzungspflicht durch Biomethan ist jedoch gedeckelt. Demnach können nur zwei 
+Drittel der Verpflichtung durch Biomethan erfüllt werden.
+Kommt Biomethan in renovierten öffentlichen Bestandsgebäuden zur Erfüllung der Vorgaben des 
+EEWärmeG zum Einsatz, muss der Wärmeenergiebedarf zu 25 Prozent aus gasförmiger Biomasse gedeckt 
+werden. Die Nutzung von Biomethan kann dabei in Brennwerttechnik, der besten verfügbaren Technik, 
+erfolgen.
+
+2.3  Biomethan in Wärmenetzen
+Die Wärmeversorgung aus Wärmenetzen stagniert seit dem Jahr 2003 in Deutschland. Im Einzelnen ist 
+das Bild komplexer: So gewannen Wärmenetze in den letzten 20 Jahren insbesondere im Industriesektor 
+an Bedeutung (nahezu verdreifacht), während die Bedeutung im GHD-Bereich rückläufig war (nahezu 
+halbiert) und im HH-Bereich in etwa konstant blieb. Wesentlichste Brennstoffe in Fernheiz- und 
+Heizkraftwerken sind weiterhin fossile Energieträger. Trotz jährlich teilweise starker Fluktuation 
+blieb der Einsatz von Kohlen in den letzten 20 Jahren fast unverändert, mit geringfügig fallender 
+Tendenz, während Mineralöl nur noch einen minimalen Beitrag zur Wärmeversorgung in Wärmenetzen 
+leistet. Auch der Anteil von Gas durchlief in den letzten 20 Jahren keine große Veränderung, Gas 
+bleibt der wichtigste Brennstoff für die Wärmebereitstellung in Wärmenetzen. Demgegenüber nahm die 
+Müllverbrennung als Energiequelle drastisch zu: In den letzten zehn Jahren hat sie sich verdoppelt, 
+im Vergleich zu 1997 ist sie auf mehr als das 20-Fache gestiegen. Sie ist nun der zweitwichtigste 
+Einsatzstoff nach Erdgas. Im Jahr 2017 flossen über Fernwärmenetze 114 TWh Wärme in die Sektoren 
+Haushalte (50,8 TWh), Gewerbe/Handel/Dienstleistungen (12,6 TWh) und Industrie (50,6 TWh).16 
+Zukünftig wird Gas weiterhin den wichtigsten Einsatzstoff darstellen, da einige Versorger 
+vollständig auf Gas in ihren (Fernwärme-)Netzen umstellen.17 Für Nahwärmenetze lässt sich aufgrund 
+mangelnder Datenlage keine eigene Unterteilung vornehmen.
+Prinzipiell gelten hier dieselben Fördermechanismen wie für erneuerbare Energien, KWK und reine 
+Wärmenutzung. Zusätzlich kann der Primärenergiefaktor von Biomethan im Wärmenetz beim Einsatz in 
+KWK inklusive Spitzenlastkessel mit null angesetzt werden, wenn der Wärmeanteil aus der KWK-Anlage 
+gegenüber dem Gesamtwärmebedarf des Wärmenetzes größer als 70 Prozent ist.18
+Relativ neu ist eine Regelung im KWKG, die den Einsatz von Biomethan als Ergänzung zu Wärmenetzen 
+und Wärmespeichern vorsieht. Wenn ein Wärmenetz nach diesem Gesetz gefördert wird, gibt es hier 
+unter anderem die Voraussetzung, dass alle angeschlossenen Abnehmer ihre Wärme zu mindestens 50 
+Prozent aus EE-Wärme, KWK-Wärme oder Abwärme beziehen (beliebig kombinierbar). Hierfür kann 
+Biomethan den EE- Wärmeanteil stellen.
+
+
+
+
+
+
+16 Energiedaten (Gesamtausgabe) – Verwendung von Fernwärme in Deutschland 2017. BMWi. Stand August 
+2018.
+17 Vgl. Flügel, Harald: Gas statt Kohle: Ein Heizkraftwerk steigt um. Vattenfall Wärme. DVGW.
+18 AGFW: Arbeitsblatt FW 309-1.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 9 von 16
+01.11.2018
+
+3  Treibhausgasminderungen durch Biomethan
+
+Der Einsatz von Biomethan in den beschriebenen Einsatzbereichen hat unterschiedliche Auswirkungen 
+auf die Treibhausgasbilanz, die im Folgenden dargestellt werden.
+Je nach eingesetzten Substraten zur Erzeugung (Energiepflanzen, Gülle, Abfall- und Reststoffe) 
+erhält Bio- methan einen Treibhausgasemissionsfaktor von ca. 36 bis 158 g/kWh CO2eq 
+(CO2-Äquivalent).¹⁹ Je mehr Rest- und Abfallstoffe oder Gülle verwendet werden, desto geringer sind 
+die THG-Emissionen. Im Wärmesektor beträgt der gewichtete mittlere Emissionsfaktor von fossilen 
+Energieträgern rund 289 g/kWh CO2eq. Folglich bietet Biomethan die Möglichkeit, je Kilowattstunde 
+zwischen 131 und 253 g THG-Emissionen zu vermeiden.20
+Minderungspotenzial durch Biomethan in KWK
+Aufgrund ihrer hohen Effizienz und damit verbundenen Umweltverträglichkeit gewinnt die Kraft-Wärme- 
+Kopplung in der Energieversorgung immer mehr an Bedeutung. Der weitaus größte Anteil an Wärme aus 
+Biomethan wird in diesem Bereich erzeugt (3.340 GWhth in 2017). Dadurch wurden bereits mehr als
+0,5 Mio. t CO2eq pro Jahr durch die Nutzung von Biomethan eingespart.²¹ Das technische Potenzial 
+von Biomethan wird mit über 110 TWh22 angesetzt, wodurch die THG-Einsparung beim Einsatz in der KWK 
+auf über 6 Mio. t pro Jahr steigen würde. Noch nicht berücksichtigt ist hierbei die THG-Einsparung 
+durch die Verdrängung von fossilem Strom.
+Minderungspotenzial durch Biomethan in ungekoppelter Wärmeversorgung
+Durch die direkte Wärmeversorgung mit Biomethan wurden im Jahr 2017 etwa 0,1 Mio. t CO2eq 
+vermieden.²³ Da Erdgas etwa 50 Prozent der eingesetzten Energieträger in der Objektversorgung 
+ausmacht und innovative Technologien wie die hocheffiziente Brennwerttherme zum Einsatz kommen, 
+bietet Biomethan hier eine gute Möglichkeit, den Anteil der aus erneuerbaren Energien 
+bereitgestellten Wärme schnell und effizient zu erhöhen sowie beträchtliche THG-Einsparungen zu 
+erreichen.
+Minderungspotenzial durch Biomethan in Wärmenetzen
+Da Biomethan beim Einsatz in Wärmenetzen direkt Kohle ersetzen kann, ist hier ein höherer 
+THG-Faktor zur Bemessung des Treibhausgas-Minderungspotenzials anzusetzen. Bei einem THG-Faktor von 
+rund 315 g/kWh CO2eq erhöhen sich die potenziellen Einsparungen gegenüber den anderen Anwendungen 
+entsprechend.
+Würde man zum Beispiel beim aktuellen Verbrauch in Wärmenetzen von 114 TWh/a durch Beimischung 
+zusätzlich 1 Prozent Biomethanwärme zum Einsatz bringen, könnte man zwischen 0,18 und 0,31 Mio. t 
+CO2eq einsparen.24 Dabei ist zu beachten, dass dieser Wert je nach Art des fossilen Energieträgers, 
+der dadurch ver- drängt wird (Gas oder Kohlen), Abweichungen unterliegt.
+Bisher wird jedoch nicht einmal ein Zehntel der Biomethanpotenziale genutzt. Dies liegt unter 
+anderem an dem signifikanten Preisvorteil von Erdgas im Vergleich zu Biomethan. Hinzu kommt eine 
+fehlende Einpreisung der CO2-Vorteile von Biomethan.
+
+
+19 Aktualisierung der Eingangsdaten und Emissionsbilanzen wesentlicher biogener 
+Energienutzungspfade (BioEm). Umweltbundesamt (09/2016).
+20 Eigene Berechnungen.
+21 Eigene Berechnungen.
+22 Rolle und Beitrag von Biomethan im Klimaschutz heute und in 2050. dena, 2017.
+23 Eigene Berechnungen.
+24 Eigene Berechnungen.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 10 von 16
+01.11.2018
+
+4  Biomethan-Nachweisführung
+
+Um eine gesetzliche Förderung für Biomethan im Wärmemarkt in Anspruch zu nehmen, müssen regelmäßig 
+Nachweise über die Biomethanqualität erbracht werden. Die Nachweisführung hat zum Ziel, eine 
+transpa- rente Rückverfolgbarkeit hinsichtlich der Herkunft, der Menge und der Eigenschaften des 
+Biomethans zu gewährleisten. Je nach Einsatzbereich unterscheiden sich die Nachweispflichten 
+erheblich. Im Folgenden soll kurz auf die Besonderheiten der Nachweisführung für Biomethan als 
+Bioenergieträger eingegangen werden.
+
+4.1  Ablauf der Nachweisführung
+Bei der Einspeisung in das Erdgasnetz vermischt sich das Biomethan mit dem fossilen Erdgas. Es ist 
+daher physikalisch nicht möglich, eine KWK-Anlage mit reinem Biomethan zu beliefern. Dies erfolgt 
+stattdessen über den sogenannten Gasabtausch: Beim Verbrauch von Gas aus dem Gasnetz wird 
+angenommen, dass es Biomethan ist, wenn dafür an einem anderen Ort in Deutschland eine gleiche 
+Menge Biomethan eingespeist wurde (Input-Output-Prinzip). Die „gleiche“ Menge bezieht sich in 
+diesem Fall auf den Wärmegehalt des ein- bzw. ausgespeisten Gases, das sogenannte 
+„Wärmeäquivalent“. Zusätzlich muss sichergestellt sein, dass die Gasmenge bis zur Produktion 
+rückverfolgbar ist, also für jede Menge die Biomethananlage und der Produk- tionszeitraum bekannt 
+sind.
+Um diese Rückverfolgbarkeit sicherzustellen, ist in den deutschen Fördergesetzen (siehe oben) die 
+Nutzung von Massenbilanzsystemen wie dem Biogasregister Deutschland vorgeschrieben. Sie erfassen 
+die exakt produzierte Menge und den Produktionsstandort und -zeitraum. Im Zuge der weiteren 
+Belieferung melden sich die Handelspartner entlang der Handelskette im Massenbilanzsystem an. Bei 
+der Belieferung zum Beispiel einer KWK-Anlage ist eine Rückverfolgung über das Massenbilanzsystem 
+dann möglich.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 6: Grundlegende Funktionsweise des Biogasregister Deutschland
+
+
+4.2  Vorgaben zum Substrateinsatz
+Biomethan wird in Deutschland überwiegend aus nachwachsenden Rohstoffen (NawaRo) hergestellt. 
+Dieser Kategorie können massebezogen rund 75 Masseprozent des Substrateinsatzes zugeordnet werden. 
+Dabei ist
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 11 von 16
+01.11.2018
+
+nach wie vor Mais der dominierende Einsatzstoff. Gülle wird besonders gefördert, zum Beispiel im 
+EEG, und auch in großem Maßstab eingesetzt (ca. 13 Masseprozent in 2017). Aufgrund des 
+verhältnismäßig geringen Methanertrags ist jedoch die aus Gülle gewonnene Biogasenergie deutlich 
+weniger bedeutend (ca. 5 Prozent in 2017).
+Während zu den Zeiten großen Anlagenzubaus Mais noch stark gefördert wurde, ist mittlerweile die 
+Förde- rung stärker auf Abfall- und Reststoffe ausgerichtet. Dies schlägt sich allerdings aufgrund 
+des geringeren Zubaus nur geringfügig in der Entwicklung des Substrateinsatzes nieder (siehe 
+Abbildung 7).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbildung 7: Entwicklung des energie- und massebezogenen Stoffeinsatzes zur Biomethanerzeugung
+
+
+Je nach Einsatzmöglichkeit von Biomethan gibt es in den Gesetzen unterschiedliche Vorgaben zu den 
+erlaub- ten Einsatzstoffen. Die Förderung nach dem EEG beruht auf den Regelungen in der 
+Biomasseverordnung (BiomasseV). Diese Verordnung definiert, welche Stoffe im EEG einsatzfähig sind 
+(z. B. nachwachsende Rohstoffe oder Bioabfälle) und welche nicht (z. B. Torf). Für einige 
+Substratgruppen gab es in der Vergangen- heit eine besondere Förderung (z. B. NawaRo-Bonus) und sie 
+finden sich in Bestandsanlagen bis heute wieder. Das EEWärmeG und das baden-württembergische 
+EWärmeG haben demgegenüber einen erweiterten Biomassebegriff. Die BiomasseV wird explizit 
+einbezogen – EEG-Biomethan kann also uneingeschränkt einge- setzt werden. Zusätzlich können noch 
+weitere Biomethanarten zum Einsatz kommen, zum Beispiel aus Klärschlamm, aus Pflanzenölmethylester 
+oder aus biologisch abbaubaren Industrie- und Haushaltsabfällen.
+Keine expliziten Vorgaben für Substrate finden sich in der EnEV und im KWKG. Das KWKG verweist in 
+der KWK-Ausschreibungsverordnung (KWKAusV) an einigen Stellen auf das EEG, sodass hier von einem 
+Bio- massebegriff analog zum EEG auszugehen ist. Die EnEV hingegen lehnt sich an das EEWärmeG an, 
+sodass hier der erweiterte Biomassebegriff gelten wird.
+
+
+
+
+
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 12 von 16
+01.11.2018
+
+5  Ausblick und Handlungsoptionen
+
+Im Hinblick auf die Klimaschutzziele wird der Energiebedarf von Gebäuden im Zeitverlauf durch 
+Sanierungen und Heizungsmodernisierungen sinken und damit auch der Gasverbrauch. Für die Erzeugung 
+von Prozesswärme in der Industrie könnten Gase eine stärkere Nachfrage erfahren. Gleiches gilt für 
+den Einsatz von Gas in Nah- und Fernwärmenetzen. Zur Erreichung des Ziels, die 
+Treibhausgasemissionen bis 2050 um 95 Prozent zu senken, muss der Anteil an erneuerbaren Gasen 
+signifikant gesteigert werden. Gas kann angebotsseitig konventionell (Erdgas), biogen (Biomethan) 
+sowie synthetisch (Power to Gas) erzeugt und in das Erdgasnetz eingespeist werden. Biomethan steht 
+bereits zur Verfügung und kann für die Dekarbonisierung der Wärmebereitstellung direkt eingesetzt 
+werden. Dank bereits bestehender Technologien, die sofort genutzt werden können (Gas- und 
+Wärmenetze, Heizsysteme etc.), ist hier eine Umstellung von fossil auf erneuerbar leicht 
+umzusetzen. Überdies besteht für weitere Produktionssteigerungen von Biomethan noch großes 
+Potenzial (bis zu 118 TWh, das ist mehr als eine
+Verzehnfachung des aktuellen Werts). Der verstärkte Einsatz von Biomethan kann dabei auch 
+Wegbereiter für synthetische Gase sein. Für diese gilt es im kommenden Jahrzehnt 
+Erzeugungskapazitäten aufzubauen.
+Hierzu ist es notwendig, verbrauchsseitige Anreizsysteme zu schaffen.
+Ein wichtiger Aspekt für die zukünftige Ausgestaltung der Rahmenbedingungen sind die 
+Weichenstellungen aus der EU-Gesetzgebung. Für den Fall, dass Deutschland seine europarechtlich 
+verbindlichen Klimaschutz- ziele verfehlt, drohen empfindliche Geldbußen. So muss Deutschland seine 
+Emissionen, die nicht dem Emis- sionshandel unterliegen, bis 2020 um 14 Prozent und bis 2030 um 38 
+Prozent gegenüber 2005 senken. Für jedes Jahr gilt dabei eine Emissionsobergrenze. Es ist bereits 
+heute abzusehen, dass Deutschland seine Ziele für 2020 verfehlen wird. Als Folge muss Deutschland 
+überschüssige Emissionsrechte von anderen Mitglied- staaten kaufen. Mit der Verschärfung der 
+Klimaschutzziele wird erwartet, dass die Kosten solcher Emissions- rechte steigen. Laut 
+Berechnungen könnten sich die Haushaltskosten für den Bund bis 2030 auf 30 bis
+60 Milliarden Euro belaufen.25 Dies zeigt auch die Notwendigkeit weiterer Investitionen in den 
+Ausbau der erneuerbaren Energien sowie zur Steigerung der Energieeffizienz.
+Bei einem weiteren Ausbau der Biomethanproduktion wird darüber hinaus heimische Wertschöpfung gene- 
+riert, die zugleich zur Zielerfüllung beiträgt und einen mehrdimensionalen Mehrwert für die 
+Gesellschaft bietet. Bei einem bloßen Einkauf von Emissionszertifikaten entstünde dieser Mehrwert 
+nicht. Die geschätzten Kosten solcher Zertifikate übertreffen dabei die bisherigen Investitionen in 
+den Anlagenbestand zur Erzeu- gung und Verwendung von Biomethan um ein Vielfaches.
+
+
+
+
+
+
+
+
+
+
+
+
+25 Agora Energiewende, Agora Verkehrswende (2018): Die Kosten von unterlassenem Klimaschutz für den 
+Bundeshaushalt. Die Klimaschutzverpflichtungen Deutschlands bei Verkehr, Gebäuden und 
+Landwirtschaft nach der EU-Effort-Sharing-Entscheidung und der EU-Climate-Action-Verordnung.
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 13 von 16
+01.11.2018
+
+Um einen weiteren Ausbau voranzubringen, gibt es viele Möglichkeiten. Im Folgenden werden 
+Handlungs- optionen aufgezeigt, die einen verstärkten Einsatz von erneuerbaren Gasen im Wärmesektor 
+anreizen können:
+Ziel / Handlungsfeld               Handlungsoptionen
+
+
+Industrielle Prozesswärme: Biomethan als erneuerbare Alternative etablieren (insbesondere bei hohen 
+Temperaturen von über 500 Grad Celsius)
+-  Anreize für die Senkung der CO2-Intensität der industriellen Prozesswärme durch den Einsatz 
+erneuerbarer Energien entwickeln
+
+
+Netzgebundene Wärmeversorgung: Erhöhung des Anteils erneuerbarer Energien durch Biomethan (ohne 
+aufwendige Eingriffe in bestehende Heiz- systeme)
+-  Einführung von THG-Grenzwerten für Fernwärme
+-  Förderung der effizienten Nutzung von Biomethan in KWK im Rahmen des geplanten 
+Gebäudeenergiegesetzes
+
+
+Hohe Preisdifferenz zwischen fossilen Energie- trägern und Biomethan verringern: Biomethan im 
+Wärmemarkt stärken und neue Anreize setzen
+-  Anpassung des Primärenergiefaktors für Biomethan im Gebäudeenergiegesetz auf fp = 0,36
+
+
+Anteil von Biomethan und anderen EE-Gasen im
+Erdgasnetz erhöhen
+-  Förderung der Umrüstung von Biogasanlagen mit schlechtem Wärmekonzept auf Biomethan
+-  Wirtschaftliche Rahmenbedingungen für Power to Gas schaffen
+
+
+Gebäudebestand: Erhöhung des Anteils erneuer- barer Energien und Senkung des Ausstoßes von 
+THG-Emissionen
+-  Technologieoffene Förderung der effizienten Nutzung von Biomethan und anderen erneuer- baren 
+Gasen (KWK und Brennwerttechnik) im Rahmen des geplanten Gebäudeenergie- gesetzes unter 
+Berücksichtigung möglicher Wärmenutzungskonzepte in Gebäuden
+
+Tabelle 1: Ziele und Handlungsoptionen für Biomethan im Wärmemarkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 14 von 16
+01.11.2018
+
+Quellenverzeichnis
+
+AG Energiebilanzen e. V. (AGEB): Anwendungsbilanzen für die Endenergiesektoren in Deutschland in 
+den Jahren 2013 bis 2016.
+AGFW: Arbeitsblatt FW 309-1
+Agora Energiewende: Die Kosten von unterlassenem Klimaschutz für den Bundeshaushalt. Die 
+Klimaschutzverpflichtungen Deutschlands bei Verkehr, Gebäuden und Landwirtschaft nach der 
+EU-Effort- Sharing-Entscheidung und der EU-Climate-Action-Verordnung, 2018.
+BDEW 2018: Energiewirtschaftliche Entwicklung in Deutschland 1. Halbjahr 2018.
+BDEW 2018: Erdgasabsatz in Deutschland nach Verbrauchergruppen, Stand Februar 2018.
+BMU 2017: Der Klimaschutzplan 2050 – Die deutsche Klimaschutzlangfriststrategie, Stand Oktober
+2017. https://www.bmu.de/themen/klima-energie/klimaschutz/nationale-klimapolitik/klimaschutzplan- 
+2050/#c8420
+BMWi und BMU 2010: Energiekonzept für eine umweltschonende, zuverlässige und bezahlbare 
+Energieversorgung. https://www.bmwi.de/Redaktion/DE/Downloads/E/energiekonzept- 2010.pdf? 
+blob=publicationFile&v=3
+BMWi: Gesamtausgabe der Energiedaten - Datensammlung des BMWi. Stand August 2018.
+Bundesregierung 2018: Energiewende, Stand 2018. 
+https://www.bundesregierung.de/Webs/Breg/DE/Themen/Energiewende/Fragen- 
+Antworten/1_Allgemeines/1_warum/_node.html
+Bundesverband der Deutschen Heizungsindustrie: Gesamtbestand zentrale Wärmeerzeuger 2017. 
+https://www.bdh- koeln.de/fileadmin/user_upload/Daten_Fakten/Gesamtzahl_Waermeerzeuger_2017_DE.pdf
+BMVBS: Primärenergiefaktoren von biogenen Energieträgern, Abwärmequellen und 
+Müllverbrennungsanlagen, Juni 2012.
+dena: Rolle und Beitrag von Biomethan im Klimaschutz heute und in 2050, 2017.
+Flügel, Harald 2018: Gas statt Kohle: Ein Heizkraftwerk steigt um. Vattenfall Wärme. DVGW. 
+https://www.energie-wasser-praxis.de/technik/artikel/gas-statt-kohle-ein-heizkraftwerk-steigt-um/
+Klimakönner 2016: Einsatz von Biogas in der EnEV, dem EEWärmeG und bei der KfW, Stand Dezember 
+2016. https://www.klimakoenner.de/blog/biogas-in-waermegesetzen
+UBA 2016: Aktualisierung der Eingangsdaten und Emissionsbilanzen wesentlicher biogener 
+Energienutzungspfade (BioEm), Umweltbundesamt (09/2016).
+UBA 2018: Erneuerbare Energien in Deutschland – Daten zur Entwicklung im Jahr 2017.
+
+
+
+
+
+
+
+
+
+
+Biomethan in der Wärmewende                                                   Seite 15 von 16
+01.11.2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.dena.de

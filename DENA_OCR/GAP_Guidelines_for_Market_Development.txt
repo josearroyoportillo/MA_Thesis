@@ -1,0 +1,1272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guidelines for Market Development
+Principles and instruments to foster the development of global markets for powerfuels
+
+
+
+
+
+
+
+
+
+
+
+Publisher:
+Deutsche Energie-Agentur GmbH (dena) German Energy Agency
+Chausseestraße 128 a
+10115 Berlin, Germany
+Tel.: + 49 (0)30 66 777-0
+Fax: + 49 (0)30 66 777-699
+E-mail: info@dena.de www.dena.de
+
+Authors:
+Kilian Crone Christoph Jugel Diego Rojas Stefan Siegemund
+
+Conception & design:
+Heimrich & Hannot GmbH
+
+Printed by:
+copyprint, Berlin
+
+Image credits:
+Title - shutterstock/polygraphus
+
+Date:
+06/19
+
+All rights reserved. Any use is subject to consent by dena. Please cite as: Global Alliance 
+Powerfuels, Guideline Paper for Market Development, June, 2019.
+
+
+
+
+Table of Contents
+
+
+1  Executive Summary                       4
+2  Introduction                           5
+3  Challenges and opportunities                  6
+3.1 The specific role of powerfuels and its opportunities      6
+3.2  Challenges of powerfuels                   7
+4  Principles for political action                   8
+5  Sectoral frameworks                       9
+6  Policy levers along the value chain               12
+7  Political recommendations                   14
+Figures                                15
+Tables                                15
+Bibliography                              15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents  3
+
+1  Executive Summary
+
+
+
+Powerfuels are synthetic gaseous or liquid non-biofuels that draw their energy content from green 
+electricity. They are renewable and climate-friendly and can be used as energy carri- ers and 
+feedstocks. This understanding of powerfuels includes, but is not limited to, hydrogen, synthetic 
+gas (e.g. methane, propane, ammonia) and synthetic liquid fuels (e.g. methanol, Fischer-Tropsch 
+products) and is hence technologically neutral.
+
+By transforming electrons into molecules, powerfuels enable renewable electricity to be stored over 
+long periods and trans- ported over long distances. Technologies for production of powerfuels are 
+proven and tested in many installations world- wide, but processes have not yet been scaled up to 
+industrial- scale.
+
+The Global Alliance Powerfuels was initiated with the strategic objective of fostering the 
+development of a global market for powerfuels. The main goals are to raise awareness and accep- 
+tance, to stimulate global project development and to enhance the regulatory framework to stimulate 
+demand.
+
+The following guideline paper presents the Alliance’s perspec- tive on the most important 
+principles and instruments to foster global market development. Powerfuels can provide all sectors 
+with low emission fuels. They thus will be vital towards achiev- ing the global goals on reducing 
+greenhouse gas (GHG) emis- sions stated in the Paris Agreement on climate change.
+
+Bearing in mind the important role of powerfuels for future en- ergy supply and the time required 
+to penetrate markets with new technologies, policy makers have to start creating a new
+global market framework today for the continuous market development of powerfuels. This will 
+stimulate a new technolog- ical development with global benefits for sustainable fuel and feedstock 
+supply, local employment and technological expertise.
+
+To stimulate and foster the market development of powerfuels, the Global Alliance Powerfuels 
+recommends to:
+
+■  bring powerfuels as missing link for the reduction of global GHG emissions to the highest level 
+of national and inter- national climate and energy debate between politicians and business leaders;
+■  develop a consistent, long-term GHG emission policy with instruments that give market players 
+long-term plan- ning stability and investment security. As a first step on a national level, 
+powerfuels auctions can be an effective in- strument that can create competition between powerfuels 
+producers while bringing a set amount of powerfuels into the market;
+■  set fuels blending quotas for powerfuels on a national, but especially international level 
+coordinated by suprana- tional institutions (e.g. ICAO, IMO). This would leverage the demand for 
+powerfuels, create long-term investment per- spectives and pave the way for real GHG reductions;
+■  ensure a consistent framework for pricing fossil fuels, with final consumer prices determined by 
+energy content and GHG emissions. This means successively phasing out fossil fuel subsidies and 
+implementing carbon pricing regimes to create an increasingly level playing field between renewable 
+and non-renewable fuels. Additional revenue can be used to facilitate the market development of 
+powerfuels.
+
+
+
+
+
+
+
+
+
+
+
+
++H2O
+
+
++CO2
+
+
+H2      Methanisation
++CO
+
+H2
+
+Hydrogen Methane
+Diesel
+
+Petrol
+
+
+
+
+Electrolysis
+
+H2
+Fischer-Tropsch-Process
+
+
++CO2
+
+H2
+
+Methanol Synthesis
++N2
+
+
+Ammonia Synthesis
+
+
+Refining and Conversion
+
+
+
+
+Methanol to Olefins
+Kerosene (Jet-fuel)
+
+Methanol
+
+Propylene Ethylene
+Ammonia
+
+Figure 1: Production of powerfuels. Source: Dena
+
+4  Executive Summary
+
+2 Introduction
+
+
+
+By 2050 – the time horizon of the Paris climate goals – the world population is set to increase to 
+9.8 billion1 with continu- ing unprecedented economic growth. Climate targets must
+be achieved while potentially facing an even higher energy demand than today. This situation 
+highlights the importance
+of developing and supporting technologies that will guarantee such an energy supply and that will 
+help to get on track with the 2-Degree Celsius Scenario (2DS) contained in the Paris Agree- ment. 
+To reach its targets, a profound transformation of the global energy system is essential.
+
+
+
+
+
+in %       Transport
+100
+Buildings
+Industry
+
+3,3%
+90
+80
+70
+60
+50
+40  96,7%
+30
+20
+10
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2050
+
+
+
+57%
+
+
+
+
+
+43%
+
+
+36%
+
+
+
+64%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2050
+
+
+
+
+
+81%
+
+
+
+
+19%
+12%
+
+
+
+
+88%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2050
+
+
+
+62%
+
+
+
+
+
+38%
+
+Non-Renewable    Renewable
+
+Figure 2: Future share of final energy consumption in key sectors by source. Source: data from 
+IRENA, 20192
+
+
+
+
+
+Energy efficiency plays an important role. According to IRENA’s “Global Energy Transformation” 
+study, global final energy con- sumption can be reduced from 395 EJ in 2016 to 351 EJ in 20503 
+(IRENA, 2019). At the same time, the share of renewable energy needs to increase substantially from 
+17 to 66 per cent across all sectors by 2050. In this scenario, renewable electricity is used 
+directly wherever possible. It is complemented by sustainable biofuels, up to the available 
+quantities. The missing link for reaching climate targets is renewable fuels and feedstocks of 
+non-biological origin – powerfuels.
+Powerfuels are gaseous or liquid fuels and feedstocks, pro- duced using renewable electricity. This 
+includes, but is not limited to, hydrogen, synthetic gas and synthetic liquid fuels. According to 
+the World Energy Council4, the global demand for powerfuels may reach 10.000 to 41.000 TWh by 2050, 
+the equiv- alent of 16 to 66 per cent of today’s global demand of crude oil5. Creating and running 
+the associated production facilities means new global energy supply chains – and new opportuni- 
+ties for value creation.
+
+
+
+
+
+1  United Nations. (2019, March 28). Department of Economic and Social Affairs. Retrieved from 
+world population projected to reach 9.8 billion in 2050: 
+https://www.un.org/development/desa/en/news/population/world-population-prospects-2017.html
+2  IRENA. (2019). Global Energy Transformation, a roadmap to 2050. Abu Dhabi: IRENA
+3  IRENA. (2019). Global Energy Transformation, a roadmap to 2050. Abu Dhabi: IRENA
+4  WEC Germany . (2018). International aspects of a Power-to-X Roadmap. Germany: World Energy 
+Council Germany and Frontier Economics.
+5 IEA, Oil Market Report. (2019, May 02). International Energy Agency. Retrieved from 
+https://www.iea.org/media/omrreports/tables/2019-04-11.pdf
+
+Introduction  5
+
+3 Challenges and opportunities
+
+Fossil fuels as we use them today have many advantages: they have a high energy density, are 
+storable over a long period of time, flexible in their use, easily transported and production costs 
+are low. The basis of these advantages comes from sedi- mentary processes and natural storage 
+mechanisms occurring over previous millions of years. The amount of fossil fuels used within one 
+year took a million years to be produced6. According to the understanding of the modern economy, 
+such production time would be associated with very high costs. Therefore, when discussing the costs 
+of renewable fuels, people have to be aware that these costs are not part of today’s fossil fuels 
+costs, but are very much part of the costs of renewable resources.
+Compared to fossil fuels, renewable fuels depend on the avail- ability of renewable energy sources 
+such as solar radiation, wind speed, water, or biomass feedstock. To increase flexibility in the 
+use of renewable fuels and to be able to store and trans- port them, energy and cost-intensive 
+conversion and refining processes are required.
+
+
+Therefore, all renewable fuels (e.g. electricity, biofuels, power- fuels) are facing production 
+constraints or competitive disad- vantages compared to fossil fuels. Nevertheless, these renew- 
+able fuels are key for the future global energy supply and nec- essary to reduce GHG emissions. 
+Consistent support for the development of renewable fuels today will be the driving force for 
+learning and scale effects, that will guarantee affordable and socially balanced energy costs in 
+the future. Facilitating powerfuels markets through the development of entry and growth mechanisms 
+is an important prerequisite to increase the use of renewable energies in all sectors.
+
+
+3.1  The specific role of powerfuels and its opportunities
+
+Gaseous and liquid fuels and feedstocks will still play an impor- tant role in an optimized future 
+energy system. From today’s perspective, energy carriers with high energy density as well
+
+
+
+
+Complement to direct electrification in all sectors
+Use of existing infrastructure
+Energy security and diversification
+
+
+
+Powerfuels provide an opportunity to use renewable fuels in all sectors and in nearly all available 
+applica- tions. They complement the direct use of renewable energies and will have an important 
+role where for ex- ample direct electrification is not possible or economical.
+Powerfuels can be integrated com- pletely or partly into the existing gaseous and liquid fuel 
+infrastruc- ture, as well as in applications with very long investment cycles.
+Since powerfuels offer high flexibility, they contribute to energy security and energy stability, 
+e.g. as a flexibility op- tion for electricity grids. As renewable power resources are widely 
+distribu- ted around the world, they offer a way to diversify the supply.
+
+
+Sustainability and costs
+Global commodity and new markets
+Technologial progress and local benefits
+
+
+
+Powerfuels can be more efficient and less resource-intensive than biomass products, but are 
+currently more ex- pensive. In the future, costs will con- verge due to technological progress and 
+a wider variety of available sus- tainable resources.
+Powerfuels could become a tradeable global commodity. Countries with low natural resources but good 
+solar and wind conditions will get the chance to improve their own energy supply and become a new 
+player in the global energy market.
+The development of powerfuels offers benefits such as technological inno- vation and new employment 
+in indus- try and in research and development for advanced and emerging market economies.
+
+
+Figure 3: Opportunities of powerfuels
+
+
+6  Rahmstorf, S., & Schellnhuber, H. (2018). Der Klimawandel. München: Verlag C.H. Beck oHG.
+
+6  Challenges and opportunities
+
+as specific raw materials have great difficulties being replaced. This can be seen especially in 
+both the chemical and transport sectors. Powerfuels are the most sustainable solution to meet the 
+energy demand of a growing global economy, even in the future. Technological progress and cost 
+reductions in wind and solar power, as well as electrolysers, have been significant in recent 
+years. Therefore, even from a cost perspective, there has been an increasing amount of interest in 
+creating a market for powerfuels. Combining these factors will mean that powerfuels can offer new 
+opportunities.
+
+
+3.2  Challenges of powerfuels
+
+Worldwide, private and industrial consumers are accustomed to energy prices that exclude external 
+costs and often include subsidies7. Under such conditions, renewable fuels – especially powerfuels 
+– are unable to reach competitiveness with their non-climate-friendly competitors.
+Currently, one of the main challenges are relatively high production costs for powerfuels due to 
+the lack of industrial scaling of technology, which means high investment costs (CAPEX). In 
+addition, state-induced price elements can sub- stantially increase operational costs (OPEX).
+
+To make powerfuels more cost-competitive, political support is needed to guarantee an increasing 
+and continuous global pow- erfuels demand that enables an expansion of renewable ener-
+gy production. Evolved regulatory frameworks can positively affect the market-value of powerfuels, 
+for example by recog- nizing powerfuels in allowances and quotas. This would create long-term 
+planning stability for producers and thus enables investments in production capacities.
+
+Especially in the early market phase, political decision-makers should be aware of the following 
+challenges:
+
+
+
+
+High investments (CAPEX), but lower running costs (OPEX)
+Trade-off: avoided infrastructure investments vs. additional costs
+
+
+
+Powerfuels are currently a relatively new product with high investment costs (CAPEX) that offer 
+great potential to reduce the cost of the final product. If renewable power generation is 
+considered part of the plant, operational costs (OPEX) are comparably low.
+Powerfuels are currently more expensive than other renew- able options. However, they can reduce 
+the need for infra- structure investments in the overall system. This trade-off is difficult to 
+quantify and communicate in the energy pol- icy debate.
+
+
+Reduction of production costs
+New global renewable energy perspective
+Investments risks
+
+
+
+Powerfuels are at a very early market stage. They have a very high cost reduction potential, which 
+can only be achieved through economies of scale and scope in combination with applied research.
+Some of the best powerfuels produc- tion spots are in markets that are not relevant fuel demand 
+markets today and can still be considered develop- ing markets in terms of renewable investments.
+Some of the best potential power- fuels production sites are located in countries with relatively 
+unstable in- vestment conditions. It is important to initiate dialogue with decision makers in such 
+countries to identify the potential for local benefit and to reduce investment risks.
+
+Figure 4: Challenges for powerfuels
+
+
+
+
+
+7  Phasing out inefficient fossil fuel subsidies is the target of the most important economies, 
+like the G20 members, the EU28 or the Asia–Pacific Economic Cooperation (APEC). There is a wide 
+range of fossil fuel subsidies. The International Energy Agency (IEA) focuses on the price-gap 
+approach, which compares average end-user prices with reference prices of full costs for fuel 
+supply (Source: IEA, Fossil-fuel subsidies, 2019). The OECD’s Inventory of Support measures for 
+fossil fuels uses a wider approach (Source: OECD, Retrieved from Companion to the Inventory of 
+Support Measures for Fossil Fuels, 2018). The EU follows a “bottom-up” approach (Source: European 
+Commision, Energy prices and costs in Europe, 2019) whose methodology and results are described by 
+(Rademaekers, et al., Study on Energy Prices, Costs and Subsidies and their Impact on Industry and 
+Households, 2018)
+
+Challenges and opportunities  7
+
+4 Principles for political action
+Powerfuels are a missing link for a future low emission energy system. But although being necessary 
+for achieving climate mitiga- tion goals, powerfuels are facing competitive disadvantages at 
+present. Therefore, political support is necessary for their entry into the global market. The 
+following principles for political action are important pillars for a successful market 
+development.
+
+
+
+Cost efficiency
+
+Political support should help to compensate for the higher costs of new technologies and enable 
+competitiveness in the early market phase. To avoid long-term subsidies, an adequate regulative and 
+market frame-work must be established and needs to be streamlined with the global GHG emission 
+goals. Instruments should be market-based to promote innovation and competition with the aim of 
+avoiding overspending and overcompensation. This will enable cost competition in the market.
+
+It is recommended that the regulatory framework primarily supports the development of a stable 
+demand for powerfuels as renewable energy carriers and feedstocks to encourage competition and 
+avoid stranded investments. To keep the bur- den on public budgets as low as possible, focus should 
+be on sectors, where near-term market-driven demand is possible, for example due to sector-specific 
+CO₂ abatement costs that allow to more easily close the cost gap between powerfuels and their 
+fossil-based counterparts.
+
+
+
+Investment and planning security
+
+Long-term security for investment and business decisions are key for scaling the powerfuels market. 
+Alternating political decision making decreases trust and prevents investments. Investment 
+decisions for capital-intensive assets are made with long-term planning, which require a credible 
+commitment to powerfuels support. The market success of powerfuels will not be traced back to one 
+single instrument. The package of instruments should be consistent and not contradictory. Polit- 
+ical instruments should therefore be a long-term enabler for powerfuels.
+
+Focus on GHG emission reduction and sustainability
+
+GHG emissions are the key global challenge. Political actions should focus on supporting solutions 
+which contribute to a sustainable and longer-term emission reduction. Therefore, political 
+instruments promoting powerfuels such that their sustainability benefits are fully recognized and 
+lead to a high- er market value, should be part of each country’s holistic and comprehensive 
+strategy for reducing GHG-emissions.
+
+
+
+Emphasis on polluter-pays principle
+
+Considering the urgent need for a rapid reduction of GHG emis- sions, it will not be sufficient to 
+only privilege consumers of low emission fuels. In addition, regulation should increasingly 
+strengthen the polluter-pays principle in every sector. How- ever, to gain social acceptance, this 
+should happen gradually and take sector specific characteristics into consideration. Not all 
+sectors can and will proceed at the same pace to implement these principles on a global 
+perspective. Hence the most ad- vanced countries will need to lead these developments, and sectors 
+with less international competition or tight global regulative frameworks, will have to start 
+first.
+
+
+
+Overall strategy and sector-specific approach
+
+In a perfect market, the optimal political instruments should incentivise competition between all 
+sectors and applications to reduce GHG emissions. This would probably be the most cost- efficient 
+path to reducing GHG emissions. In the real world, dif- ferent applications and sectors have very 
+different conditions and a very different level of regulation and market framework. Thus, political 
+actions to support powerfuels have to be aligned considering the specific characteristics and 
+requirements of each key sector.
+
+
+
+
+
+
+8  Principles for political actions
+
+5 Sectoral frameworks
+
+
+
+Discussions regarding powerfuels often focus on the question of in which sectors and for which 
+applications powerfuels are most appropriate. In the long run, a holistic and integrated policy 
+framework across all sectors is desirable. However, from today’s perspective and with respect to 
+global markets, it seems much more important to create an environment for early investment in 
+powerfuels within existing sectoral frame- works. In many ways, sectors currently differ from each 
+other in various aspects:
+
+■  Energy consumption for different applications in different sectors is subject to different 
+national or international regulation processes.
+■ Energy taxes and duties in each sector vary greatly from country to country. Thus, the window of 
+opportunity to foster powerfuels will vary by country and sector.
+■  The level of international competition in sectors and appli- cations differs greatly. 
+Cross-sectoral national mandates towards the use of powerfuels in one region may thus af- fect 
+market players’ competitiveness in some sectors much more than in others (e.g. industry vs. heating 
+market)
+■  Different applications in the sectors have different GHG abatement costs, which is affecting the 
+attractiveness to invest in powerfuels under the current political and market framework for 
+different industries and sectors (e.g. private transport vs. producing industry).
+■  Private and commercial consumers are used to different prices for energy consumption depending 
+on applications and sectors, and the acceptance for price increases varies. Moreover, price 
+elasticity differs between applications and use cases (e.g. private transport vs. heating market).
+
+Referring to the early phase of powerfuels market development, the previously mentioned examples 
+show that it is not sufficient for political decision-makers to only focus on technological 
+questions, such as whether there are technological alternatives to powerfuels. More important is 
+the question, which political instruments can trigger the market development of powerfuels today 
+and how that would affect consumers.
+
+
+
+
+
+
+
+Social Acceptance
+■ Basic consumer needs
+■ Fuels cost compensation
+Political Influence
+■ National or international regulation
+
+
+
+Market conditions
+■ International or national competition
+
+
+
+
+Powerfuels support
+
+
+
+
+Figure 5: Factors influencing the choice of instruments to support powerfuels. Source: Dena
+
+
+
+
+
+
+
+
+
+Sectoral framework  9
+
+In this context, it seems relevant to identify the sectors in which consumers have good 
+opportunities or alternatives to compensate for increasing fuel costs (e.g. by switching to
+more efficient applications), the extent to which basic needs are affected, and which windows of 
+opportunities exist in each sector to start powerfuels market development.
+
+The following figures represent a rough overview of the extent to which consumers may be affected 
+by political actions to in- tegrate powerfuels in the different sectors, the extent to which
+political actions would affect the competitiveness of busi- nesses in the market and also to which 
+degree the sectors are influenced by international regulation. The figures have to be understood as 
+a schematic description from a global perspec- tive. The importance of certain applications and 
+sectors will always depend on certain consumer and region-specific nat- ural, market and policy 
+conditions.
+
+
+
+Effect on basic consumer needs                Inability to compensate high fuel costs
+low                        high      low                        high
+
+
+
+
+
+
+
+
+
+
+
+Importance of international competition            Importance of international regulation
+low                        high      low                        high
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Producing Industry
+Heating market
+Energy sector
+Private Road Transport
+
+Freight Road
+Transport          Aviation          Maritime
+
+Figure 6: Qualitative assessment8 of potential effects of using higher amounts of powerfuels in 
+different sectors. Source: Dena
+
+
+
+
+
+
+
+8  The figures have to be understood as a schematic description from a global perspective. One has 
+to be aware that the importan.ce of certain applications and sectors will always depend on the 
+certain consumer and regional-specific geographic, market and policy conditions.
+
+10  Sectoral framework
+
+
+
+
+
+
+Effect on basic consumer needs
+This category estimates the extent to which an increased fuel price through the use of renewable 
+fuels could affect essential consumer needs. It therefore relates to both the extent of the price 
+increase as well as the relevance of the affected service or good for average consumption. The 
+lighter green part of the scale represents a lesser impact, implying that the gen- eral consumer 
+needs are not largely affected. The darker blue areas affect average basic consumer needs even 
+more. These assessments refer to the average consumer on a global scale. Therefore, people’s 
+reality can diverge from the figures given, depending on individual circumstances.
+
+Opportunities to compensate higher fuel costs
+This category estimates how many technical or other possible opportunities are available to 
+consumers in order to avoid neg- ative effects of increased fuel prices. The more opportunities 
+exist, the better and lighter-coloured the position in the figure. The figure partly shows a wide 
+range of opportunities, because these vary greatly depending on the individual conditions and 
+preferences. On average, there are many options to reduce heating costs by, for example, changing 
+one’s behaviour and through the use of new technologies. But in reality, not every consumer has the 
+option to rapidly become a “high efficiency household”. A similar situation can be observed for 
+transport. It is not always necessary to travel by car as people’s commutes often entail short 
+distances. Public transport can often be
+also an alternative for necessary longer distances. Further- more, highly efficient vehicles can 
+compensate for the costs of
+today’s fuels price increases, even today. In contrast, the op- portunities for aviation are 
+limited when it comes to long dis- tances or if there is also a lack of other transport 
+infrastructure.
+
+Importance of international competition
+International competition between industries determines to this extent the political decision to 
+support the use of power- fuels, as political measures should not lead to disadvantages for 
+competing local industries that wish to use sustainable, clean fuels. The figure shows that there 
+are huge differences between sectors in terms of international competition. For ex- ample, 
+international competition for the maritime industry has a much greater importance than it does for 
+private transport, where consumers do not compete with other markets. Further- more, neither do 
+other markets provide the same service in this case.
+
+Importance of international regulation
+In principle, a high degree of international regulation could be advantageous in terms of fostering 
+market development in the sectors without though leading to competitive disadvantages for single 
+markets. Unfortunately, in the past, international reg- ulated markets have tended to be very 
+conservative and slow in terms of progress relating to environmental standards or climate friendly 
+technologies. From a current perspective, it seems easier to guarantee rapid success (quick wins) 
+in sectors which can be influenced by national politics, whilst addressing international markets at 
+the same time in order to foster pow- erfuels market deployment.
+
+
+
+
+The darker blue areas in the figure represent a strong influence or impact for the sector. The 
+lighter green areas represent less significance of these challenges in terms of the effect on basic 
+needs, the cost increase for consumers, the international com- petitiveness for companies or in the 
+sense of finding national or bilateral solutions to integrate powerfuels (which are cost- lier than 
+fossil fuels) in the markets. The schematic illustration
+shows that powerfuels costs would probably have less of an im- pact in the transport market than in 
+the heating market (espe- cially in regions with colder winter periods) or in the production 
+industry because there are more alternatives to compensate for the costs and basic consumer needs 
+will be affected less. At the same time, maritime, aviation and industry are facing strong 
+international competition in contrast to the heating market, private transport or most national 
+power markets. The respon- sibility to regulate the market framework predominantly lies with 
+national institutions in most sectors, except maritime and aviation. Thus, the potential for rapid 
+success (quick wins) in promoting powerfuels is predominantly higher in national or regional 
+markets than it is in international regulated markets.
+
+From the current perspective, it can be concluded that
+
+■  Although there are existing universal principles for regu- lation, and powerfuels find 
+applications in all (above) sectors, there are different policies and instruments to stimulate 
+market development for each sector, which are dependent on the above factors. The choice of 
+political instruments can also vary based on the regional market conditions and policy framework 
+that already exist.
+■  Some sectors may be more suitable for early market-devel- opment of powerfuels, even if other 
+GHG abatement tech- nological options are available (e.g. road transport). This mainly results from 
+the available opportunities to reduce energy consumption without (greatly) affecting basic con- 
+sumer needs.
+■  To promote the use of powerfuels in sectors with intense international competition and in 
+sectors bound by interna- tional regulations, a much higher level of global awareness is necessary 
+in terms of how important powerfuels are. Con- certed action is also essential in order to increase 
+aware- ness in many of the developing countries, and to create a new market framework there. 
+Furthermore, this also means much more pressure on international organisations to foster the use of 
+powerfuels in internationally regulated markets.
+
+
+Sectoral framework  11
+
+6 Policy levers along the value chain
+
+There is a wide range of measures in place to support the mar- ket entry of powerfuels. Many of 
+these measures have been im- plemented successfully to establish alternative fuels (biofuels, 
+etc.), renewable energy (power) or energy efficiency. Neverthe- less, they do not currently 
+consider powerfuels as an option.
+The table below lists generic political instruments that can support the use of powerfuels; it also 
+specifies effects and examples of their application. In some cases, these instruments can also be 
+combined, e.g. carbon pricing with subsidy pro- grammes. Many instruments have already been put 
+into practice and just need to be adapted to foster the use of powerfuels. In other cases, there is 
+extensive policy experience (e.g. feed-in tariffs, auctions and so forth). With the aim of having a 
+holistic approach, it is possible to cluster these instruments as follows9.
+Table 1: Policies and political instruments that can foster powerfuels
+
+Measure
+Mode of action
+Examples
+Enabling policies: contribute to further developing renewable energy technologies.
+
+
+
+
+
+
+Carbon Pricing
+
+
+
+
+
+
+
+
+Adaptation of fuel prices
+
+Cap-and-trade: setting a cap on GHG emis- sions and allowing trade with allocated cer- tificates, 
+creating a market for avoided GHG emissions within all covered sectors.
+Carbon tax: puts a flat tax on each
+unit of GHG emitted, thereby creating a clear and predictable price for
+avoided emissions.
+
+
+Adapting fuel prices with a focus on ener- gy content and emissions reduces the dif- ference 
+between alternative fuels for elec- tricity and fossil fuels. A first step could be to phase out 
+subsidies for the exploration, processing and use of fossil fuels.
+
+■ The EU’s and China’s Emissions Trading Scheme (energy and industry).
+
+
+
+■ National carbon price floor (UK, California and others).
+■ Carbon taxes (Norway, Denmark, Chile, Sweden, Mexico, Ireland and other coun- tries).
+■ G20 called to phase out inefficient fossil fuel subsidies (for producer and consu- mer).
+■ APEC committed to phasing out inefficient fossil fuel subsidies.
+
+Integrating policies: integrate the use of renewable energy in key sectors, such as transport
+(i.e. road, maritime and air), heating/cooling and power, into the end-users’ daily life and energy 
+system.
+
+
+
+
+
+Instruments for development of infrastructure for alternative fuels
+Subsidising the expansion of the necessa- ry infrastructure for refuelling alternative fuels. 
+Especially relevant for hydrogen and CNG/LNG in the transport sector. As alterna- tive fuels 
+infrastructure comes with higher cost and initially lower usage, it allows for infrastructure to be 
+built and consumers to use corresponding applications.
+■ EU funding for alternative fuel deploy- ment (under Clean Mobility
+package).
+■ Kreditanstalt für Wiederaufbau (KfW) programmes (Germany)
+■ Renewable Energy Standard in Germany that gives funding for district heating/cool- ing networks 
+supplied with energy from renewable resources.
+
+
+
+9  IRENA. (2018). Renewable Energy Policies in a Time of Transition. IRENA, OECD/IEA and REN21.
+
+12  Policy levers along the value chain
+
+
+
+
+
+
+
+
+
+
+Measure
+Mode of action
+Examples
+
+Direct Policies and instruments: dedicated to supporting the expansion and deployment of renewable 
+energy.
+
+
+
+
+Feed-in tariffs
+
+
+
+
+
+
+Emission/
+efficiency standards
+
+
+
+
+
+
+
+
+
+Subsidy programmes
+
+
+
+
+
+
+
+
+Auctions/tenders
+
+
+
+
+
+
+Fuel blending quotas
+Stable tariffs guarantee suppliers a fixed price for each unit produced and lower risks for 
+investors by giving them predictability in their earnings.
+
+
+Defining limits for GHG emissions, usually for new applications. If accounted for in these 
+regulations, technologies become necessary to meet targets.
+
+
+
+
+
+Direct tax-funded subsidies fully or partly covering a supplier’s expenses for R&D, CAPEX and OPEX 
+in a certain area. May guar- antee the commercial viability of an invest- ment or operation of a 
+plant.
+
+
+
+
+
+
+The residual between a fossil and GHG- neutral option is subsidised by consumers or taxpayers, 
+while markets determine the price in the bidding process, lowering the risk of under- or 
+overpricing the subsidy.
+Creating a market in proportion to all sales of the fossil commodity. Additional costs of GHG 
+reduction are directly added to the final product, and therefore born by con- sumers.
+■ Feed-in tariff in Germany (wind, PV, biomass), in China (wind and solar) and in India (wind and 
+solar).
+■ Feed-in tariff premium in Sweden, Finland, UK, etc.
+■ European emission and fuel regulations for four-wheeled light-duty and for heavy- duty vehicles.
+■ China VI emission standard for new heavy- duty vehicles.
+■ Comprehensive Action Plan on Fine Dust (Korea).
+■ GEG Building Energy Law GEG (Germany)
+
+■ Hydrogen and Fuel Cell Technology National Innovation Programme (Germany).
+■ Subsidy supporting biofuels blending, 7 per cent cap on conventional biofuels blending rate (EU).
+■ New Energy Vehicle credits (China).
+■ Subsidy programme for eco-friendly cars in Korea (electric vehicles, hydrogen
+fuel-cell cars).
+
+■ Auctions in the power sector (Germany, China, India, Brazil, Mexico, USA and others)
+■ Proposed auctions for powerfuels (Germany – PtX-Alliance)
+■ Fuel Quality Directive (Europe)
+■ Renewable Fuel Standard in the US
+■ Renewable Energy – recast to 2030 (RED II) in Europe
+■ Proposed aviation biofuel mandate (Sweden)
+
+
+
+
+
+
+
+
+
+Policy levers along the value chain  13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7: CO₂ emission reduction targets. Source: shutterstock.com/Olivier Le Moal
+
+7 Political recommendations
+
+
+
+The development of markets for powerfuels depends on varying regional and national as well as 
+sector-specific preconditions. This means that not all instruments can be implemented suc- 
+cessfully in all countries at the same time, and that the develop- ment of a powerfuels market 
+needs a regional approach, too.
+
+However, from the perspective of the Global Alliance Powerfuels, the following political actions 
+are recommended with respect to all global markets to foster the market development of power- fuels 
+over the next few years.
+
+1. Stakeholders should be made aware of the potential and advantages of powerfuels in politics and 
+economies. The international discussion has to be accelerated using reli- able information to 
+expose the potential global market de- mand of powerfuels and enable global investment in inno- 
+vative powerfuels technologies, particularly in countries with outstanding production conditions.
+2. Auctions on national level can be an effective instrument that allows for competition between 
+powerfuels producers to bring a guaranteed amount of powerfuels into the mar- ket. Auctions will 
+give the market players the highest level of investment security, especially in markets with fast 
+learn- ing effects and economies of scale.
+3. As a first step in creating powerfuels markets, the reduction potential of GHG emissions from 
+powerfuels can be ack- nowledged within the existing energy policy frameworks and regulations in 
+all sectors. In some instances, this can provide sufficiently large incentives for the development 
+of the powerfuels market and contribute to sector integration.
+4. Fuel blending quotas for powerfuels can – on a national level, but especially on an 
+international level and within supranational regulated sectors (e.g. aviation/ICAO, mar- itime/IMO) 
+– be an important instrument to kick-start glo- bal demand for powerfuels. It would create 
+long-term in- vestment perspectives and pave the way for real GHG re- ductions in sectors with 
+limited technological alternatives.
+5.  A consistent framework for pricing fossil fuels is neces- sary, with final consumer prices 
+determined by energy content and GHG emissions. This means successively phas- ing out fossil fuel 
+subsidies and implementing carbon pric- ing regimes to create an increasingly level playing field 
+between renewable and non-renewable fuels. Additional revenues can be used to facilitate the 
+development of the powerfuels market.
+6. Further support of Research and Development (R&D) is important to enhance process efficiency, 
+improve tech- nology readiness and understand the interplay between
+the technologies involved on a large scale. Beside techno- logical questions, R&D support can help 
+to evaluate the regional potential of powerfuels, costs and define sustain- able criteria.
+7. Global tradability of guarantees of origin (GOOs) for renew- able electricity and used carbon 
+for powerfuels require standards and the monitoring of these commodities to be standardised 
+globally. An international energy and carbon emission monitoring system should therefore be 
+developed.
+
+
+14  Political recommendations
+
+Figures
+Figure 1: Production of powerfuels. Source: Dena                                    4
+Figure 2: Future share of final energy consumption in key sectors by source. Source: data from 
+(IRENA, 2019)        5
+Figure 3: Opportunities for powerfuels                                          6
+Figure 4: Challenges for powerfuels                                           7
+Figure 5: Factors influencing the choice of instruments to support powerfuels. Source: Dena         
+       9
+Figure 6: Qualitative assessment of potential effects of using higher amounts of powerfuels in 
+different sectors. Source: Dena  10
+Figure 7: CO₂ emission reduction targets. Source: shutterstock.com/Olivier Le Moal                  
+ 14
+Tables
+Table 1: Policies and political instruments that can foster powerfuels                           12
+
+
+Bibliography
+
+European Commission. (2019, May 26). Energy prices and costs in Europe. Retrieved from 
+https://ec.europa.eu/transparency/regdoc/rep/1/2019/EN/COM-2019-1-F1-EN-MAIN-PART-1.PDF
+
+IEA, Fossil-fuel subsidies. (2019, May 26). World Energy Outlook. Retrieved from Fossil-fuel 
+subsidies: https://www.iea.org/weo/energysubsidies/
+
+IEA, Oil Market Report. (2019, May 02). International Energy Agency. Retrieved from 
+https://www.iea.org/media/omrreports/tables/2019-04-11.pdf
+
+IRENA. (2018). Renewable Energy Policies in a Time of Transition. IRENA, OECD/IEA and REN21.
+
+IRENA. (2019). Global Energy Transformation, a roadmap to 2050. Abu Dhabi: IRENA.
+
+OECD. (2018). OECD. Retrieved from Companion to the Inventory of Support Measures for Fossil Fuels 
+2018: 
+https://read.oecd-ilibrary.org/energy/oecd-companion-to-the-inventory-of-support-measures-for-fossil
+-fuels-2018_ 9789264286061-en#page3
+
+Rademaekers, K., Smith, M., Yearwood, J., Saheb, Y., Moerenhout , J., Pollier, K., Altman, M. 
+(2018).
+Study on Energy Prices, Costs and Subsidies and their Impact on Industry and Households. Rotterdam: 
+Trinomics B.V.
+
+Rahmstorf, S., & Schellnhuber, H. (2018). Der Klimawandel. München: Verlag C.H. Beck oHG.
+
+United Nations. (2019, March 28). Department of Economic and Social Affairs. Retrieved from World 
+population projected to reach 9.8 billion in 2050: 
+https://www.un.org/development/desa/en/news/population/world-population-prospects-2017.html
+
+WEC Germany. (2018). International aspects of a Power-to-X Roadmap. Germany: World Energy Council 
+Germany and Frontier Economics.
+
+
+
+
+
+
+
+
+
+
+
+
+Figures, Tables, Bibliography  15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.powerfuels.org
+
+
+
+
+
+
+
+
+
+
+ dena
+German Energy Agency
