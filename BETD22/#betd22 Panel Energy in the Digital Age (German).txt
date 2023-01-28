@@ -1,0 +1,1901 @@
+Die Digitalisierung ist ein Schlüsselfaktor für die Energiewende
+Energiewende. Aufgrund des wachsenden Drucks durch
+
+die internationale Gemeinschaft, sinkende Kosten,
+und neue innovative digitale Technologien.  
+
+Von KI über Blockchain bis hin zu virtuellen Kraftwerken
+und aggregierte gemeinschaftliche Energiemodelle,
+
+welche digitalen Lösungen am wichtigsten sein werden
+um mehr Widerstandsfähigkeit und Effizienz zu schaffen,
+
+und kostengünstigere Energielösungen?
+Willkommen zurück. Willkommen zurück zu unserem Online
+
+Publikum. Willkommen zurück an alle, die sich
+Person hier im Weltsaal anwesend sind. Wenn Sie
+
+Sie hören gerade Jennifers Diskussion mit dem irischen
+dem irischen Umweltminister anhören, dann haben Sie
+
+hörte ihn über den Tanz sprechen, der im Mittelpunkt
+der Herausforderung der Energiewende steht.  
+
+Nämlich ein Tanz zwischen Angebot und Nachfrage
+Angebot und Nachfrage. Zwischen intermittierend,
+
+variable erneuerbare Energiequellen und variable
+Nachfrage. Und diese zu integrieren ist ein Dauerthema
+
+hier auf dem Berliner Energiewende
+Dialogs, weil sie so herausfordernd ist.
+ 
+
+
+ 
+
+Und natürlich ist einer der Gründe dafür
+ist, dass wir erneuerbare Energiequellen einbinden
+
+in ein Stromnetz, das vor Jahrzehnten für
+vor Jahrzehnten für fossile Brennstoffe gebaut wurde. Also
+
+diese Herausforderung ist jetzt noch kritischer geworden
+da sich Länder und Gesellschaften im Niedergang befinden,
+
+Brückentechnologien wie Kohle und Gas. Jetzt
+mehr denn je, wie wir überall hören
+
+den Tag. Maximierung der erneuerbaren Energien und Minimierung der
+Emissionen bei gleichzeitiger Aufrechterhaltung des Systems
+
+Stabilität ist absolut abhängig von genauen
+Prognosen der Stromerzeugung und der Nettolast ab,
+
+und da kommt natürlich die Digitalisierung
+ins Spiel kommt. Digitalisierung, wie Sie gerade gehört haben
+
+ist hier unser Thema. Grid-Entwickler und
+Verbraucher machen sich die Fähigkeiten
+
+von KI, Algorithmen zur Vorhersage von Angebot und
+Nachfrage und von digitalen Verfahren unterstützte Anlagen
+
+Technologien, die von Sensoren und Blockchain
+bis hin zum Internet der Dinge. In diesem Panel,
+
+Führungskräfte aus Regierung und Industrie werden
+uns sagen, welche Technologien sie für die wichtigsten
+
+vielversprechend sind und welche Rahmenbedingungen erforderlich sind, um
+Risiken zu beherrschen und Vorteile zu erschließen. Und wir haben einen
+
+eine hervorragende Reihe von Rednern bei uns. Ich werde mich
+Ich werde mich im Interesse der Pantomime bei den Einführungen kurz fassen.  
+
+Andrea Meza schaltet sich online zu uns. Sie sehen sie
+hier, wenn Sie bei uns im Weltsaal sind.  
+
+Auf dem Bildschirm. Sie ist Ministerin für Umwelt
+und Energie für Costa Rica. Herzlich willkommen. Schön, dass wir
+
+Sie mit uns. Und es ist mir ein Vergnügen, Jan
+Lipavsky begrüßen zu dürfen. Er ist Minister für auswärtige Angelegenheiten der
+
+Tschechische Republik. Vielen Dank, dass Sie sich uns anschließen. Wir freuen uns
+freuen uns sehr, Dr. Alparslan Bayraktar begrüßen zu dürfen,
+
+Stellvertretender Minister für Energie und natürliche Ressourcen
+für die Türkei. Schön, dass Sie hier sein können, Sir.  
+
+Hier in der Mitte sitzt Sandra Trittin. Sie
+ist Mitbegründerin und CSO der dezentralen Energie
+
+Management Start-up tiko Energy Solutions. Und
+Gründer des Softwareunternehmens grid singularity,
+
+und Mitbegründer der Blockchain-Organisation,
+Energy Web Foundation. Danke, dass Sie hier sind.  
+
+Liebe Diskussionsteilnehmer, es wäre schön, wenn wir
+direkt in unseren Dialog einsteigen könnten. Ich bin sehr glücklich
+
+wenn Sie Ihre Antworten kurz und bündig halten können, in
+Bitte halten Sie sich, wie vereinbart, an drei Minuten oder weniger.
+ 
+
+
+ 
+
+Bevor ich also meine erste Frage stelle, lassen Sie mich
+schnell unser erstes Publikum einladen
+
+Umfrage. Und, liebe Zuschauer, Sie können wieder
+entweder unter #betd22 oder mit unserem digitalen Tool abstimmen.  
+
+Wie ich sehe, haben viele von Ihnen es bereits gefunden. Was
+sollte die höchste Priorität bei der Digitalisierung sein
+
+und die Modernisierung des Energiesektors? Das war
+unsere Frage. Und unsere Antworten sind ein digitales
+
+qualifizierte Bevölkerung und Fachkräfte. Sicherung einer
+ausreichende und nachhaltige digitale Infrastruktur.  
+
+Transparente Beteiligung der Bürger und
+Schutz der digitalen Grundrechte.  
+
+Oder die Verbesserung des Zugangs zu Energie.
+Das sind also unsere Entscheidungen und wir werden
+
+kommen Sie zurück und schauen Sie noch einmal nach. Ich sehe gerade
+jetzt Kopf an Kopf zwischen Infrastruktur und
+
+Zugang. Aber wir werden zurückkommen und
+und sehen uns das Endergebnis gleich an.  
+
+Lassen Sie mich damit beginnen, Sie alle zu bitten, ein paar Worte
+ein paar Worte darüber zu verlieren, welche Technologien und Systeme
+
+auf die Sie besonders gespannt sind. Welche
+digitalen Lösungen sind Ihrer Meinung nach am wichtigsten
+
+zur Unterstützung einer nachhaltigen Energiewende.
+Und wenn Sie gestatten, möchte ich gleich hier beginnen.
+ 
+
+
+ 
+
+Ich danke Ihnen sehr für diese großartige Konferenz.
+Vielen Dank, dass Sie mich eingeladen haben. Und meine Antwort
+
+ist sehr einfach. Und das gilt für alle Technologien
+und alle Systeme, die dahinter liegen und die es ermöglichen
+
+Übertragungsnetz. Dies ist der Schlüssel für
+erneuerbare Energiequellen in ein Netz integriert werden können,
+
+und für diese Ressourcen und auf der
+der Nachfrageseite des Energienetzes.
+ 
+
+
+ 
+
+Dies ist also absolut entscheidend für unsere Arbeit und
+ein zuverlässiges Energienetz zu schaffen. Und die Macht der
+
+diese Technologien und die Art und Weise, wie das Netz
+kontrolliert und verstanden werden kann. Vor kurzem hat die
+
+Die Ukraine hat vom russisch?kontrollierten
+Energienetz auf das europäische umgestellt. Es war ein Projekt
+
+die seit vielen Jahren vorbereitet wurde, aber die
+die aktuellen Ereignisse, die schrecklichen Putin-Kriege, Sie wissen schon,
+
+die in wenigen Tagen erledigt sein müssen. Ohne diese
+Technologien wäre das nicht möglich.
+
+um dies zu tun. Für mich ist die Antwort also ganz klar.
+Auf der anderen Seite ist jede Art dieser Technologie
+
+öffnet Hackern einen offenen Raum für
+die Möglichkeit, das Netzwerk anzugreifen.  
+
+Je ausgefeilter, desto anfälliger.
+Deshalb muss die Cybersicherheit Hand in Hand gehen
+
+und wir müssen auch diese Backup-Pläne haben.
+Pläne haben. Ohne sie wäre es sehr anfällig.
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Wir werden zurückkommen
+zurück, um ein wenig mehr darüber zu erfahren, was
+
+was Ihr Unternehmen in diesem Bereich tut, wird gleich
+Moment. Ich werde einen Sprung machen? Ich nehme
+
+zuerst unsere politischen Entscheidungsträger und dann unsere Unternehmen.
+Wenn Sie gestatten, möchte ich zu Minister Bayraktar übergehen.
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Ich möchte etwas über den
+den heutigen Konflikt zwischen Russland und der Ukraine sagen.  
+
+Es ist eine leichte Verbesserung zu erkennen. Dies sind
+eine gute Nachricht, die ich mit Ihnen teilen möchte.  
+
+Wenn ich auf Ihre Frage zurückkomme. Ich würde gerne
+Makro-Perspektive angehen, nämlich aus der
+
+Rolle der Digitalisierung. Und die größte Herausforderung
+der heutigen Energiewelt ist, wie wir die
+
+diese Energiewende haben, ob sie nun turbulent oder
+turbulent oder reibungslos verlaufen wird, dass alles, was wir diskutiert haben
+
+während dieser Panels im Laufe des Tages.
+Und sie sind alle Hinweise, ab heute, zeigen
+
+Wir wissen, dass es ein turbulenter Übergang sein wird. Wir alle
+sehen hohe Energiepreise, Rohstoffpreise,
+
+Unterbrechungen der Lieferkette auf dem Markt. Und all
+all diese Dinge begannen bereits vor der russischen
+
+Innovation in der Ukraine. Also, ich meine, der Markt
+bereits eine Krise nach der anderen, die Sie
+
+die heute Morgen beschrieben wurden.
+Es deutet also darauf hin, dass es wieder
+
+ein turbulenter Übergang sein. Und um einen reibungsloseren
+einen reibungsloseren Übergang zu schaffen, müssen wir meiner Meinung nach miteinander reden,
+
+nicht nur die Energiewende, sondern die intelligente Energiewende
+Übergang. Und wenn ich "intelligent" sage, dann meine ich
+
+reaktionsschnelle, rationelle, flexible und
+digitale Energiewende. Wir müssen sein
+
+flexibel genug, und wir müssen uns der Marktrealität
+Realitäten erkennen. Ich meine, die Energiewende wird
+
+nicht über Nacht geschehen. Es wird einige Zeit dauern, bis wir
+bis wir das Ziel von 1,5 Grad Celsius erreicht haben. Wir brauchen also
+
+dass wir wirklich rational und nicht emotional sind. Dass wir
+sehr emotionales und ehrgeiziges Gerede zeigen,
+
+aber was das Handeln angeht, sind wir leider
+wirklich hinterher. Und wenn es um die Digitalisierung geht
+
+der Energiesysteme wie IT und Energie ist
+in jüngster Zeit sehr stark konvergieren.
+ 
+
+
+ 
+
+Aber dennoch sind wir wirklich hinter all diesen
+diese technologischen Entwicklungen, weil
+
+die größte Sorge im Moment ist die Versorgungssicherheit
+der Versorgung. Jeder denkt über das Öl nach
+
+Versorgung, die Gasversorgung und schließlich die Strom
+Versorgung, und wie wir eine kontinuierliche Versorgung
+
+und qualitätsorientierte Stromversorgung der Verbraucher. Also
+Ich denke, die Makrofrage ist, wie wir
+
+Nutzung der digitalen Technologien in einem Energiesystem
+System auf harmonisiertere und reibungslosere Weise.
+ 
+
+
+ 
+
+In der nächsten Runde werden wir tiefer eintauchen
+Runde der Antworten. Lassen Sie mich zu Minister
+
+Meza, um die gleiche Antwort zu erhalten.
+Ich danke Ihnen. Ich werde dasselbe tun. Nehmen Sie dies weiter gefasst
+
+Ansatz aus der Sicht der Regierung.
+Und es ist ein bisschen ?? wenn wir darüber sprechen
+
+die Digitalisierung und die Energiewende, und
+Ich denke, es ist sehr wichtig, wenn wir uns das vor Augen halten,
+
+zumindest vom Standpunkt Costa Ricas aus, dass
+wir sprechen über die drei Ds, Dekarbonisierung,
+
+Die Digitalisierung ?? verändert das Paradigma, wie
+die Art und Weise, wie wir die Dinge im Energiebereich angehen.  
+
+Und das erfordert neue rechtliche Rahmenbedingungen.
+Und ich denke, neue politische Maßnahmen, die es uns ermöglichen werden
+
+auf dieses Ziel hinarbeiten. Aber ich denke, es ist sehr
+wichtig, dass wir diese drei Punkte im Auge behalten?D
+
+Perspektive. Und natürlich, wenn wir über Technologien sprechen
+Technologien sprechen, müssen wir ? und das aus einer
+
+Land, halte ich es für sehr wichtig, auch die
+die Kosten für diese Technologien zu berücksichtigen. Und
+
+dass dieser Übergang ein integrativer und gerechter Übergang sein
+Übergang und ein gerechter Übergang sein. Dies wird also sein
+
+einige der Elemente, die aus unserer Perspektive kommen.
+Dies muss mit diesem systemischen Ansatz geschehen,
+
+Was wir wollen, ist die Dekarbonisierung unserer Wirtschaft. Zweitens,
+natürlich die Technologie. Sie ist ein gutes Instrument, aber
+
+wir müssen wirklich die Rechte der Menschen berücksichtigen
+der Menschen berücksichtigen, die Verbraucher werden sich an
+
+all diese Mechanismen, und natürlich,
+von Seiten der Regierungen,
+
+müssen wir gute Rahmenwerke entwickeln, die
+die dem privaten Sektor gute Signale geben, die
+
+Innovation ermöglichen, gleichzeitig aber auch
+wird sie die Rechte der Verbraucher schützen.
+ 
+
+
+ 
+
+Wie können wir also wirklich einen guten
+rechtlichen und politischen Rahmens,
+
+in Anbetracht all dieser Bedürfnisse? Ich werde die
+dort lassen und meine Überlegungen später fortsetzen.
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Und in der Tat, wir werden zurückkommen
+insbesondere auf das von Ihnen angesprochene Thema zurückkommen,
+
+Regierungsführung, ein wenig später. Aber
+lassen Sie mich nun die Sichtweise unserer
+
+Vertreter des privaten Sektors auf dem
+angefangen mit Ihnen, Frau Trittin.
+ 
+
+
+ 
+
+Ich danke Ihnen. Ich möchte auf dem aufbauen, was bisher gesagt wurde
+bisher gesagt wurde, mit dem privaten Sektor, den drei Ds
+
+die erwähnt wurden, ist die Digitalisierung das, was
+wird alles zusammenführen. Und damit werden Sie
+
+haben unterschiedliche Schwerpunkte, richtig? Auf der einen Seite,
+geht es darum, wie man alles miteinander verbindet, was
+
+im verteilten Raum da draußen, richtig? Wie kann man
+Wie bringt man Solarpaneele, wie bringt man Speicher,
+
+Batterien, was auch immer zusammen, wie können Sie damit umgehen
+damit umgehen? Und da ist der erste Teil der Technologie oder
+
+Bereich der Technologie, der meiner Meinung nach wichtig ist, ist
+alles, was mit dem Internet der Energie zu tun hat und wie
+
+Sie verbinden und vernetzen all diese Assets.
+Auf dieser Grundlage können Sie dann mit allen
+
+die Daten. Sie können mit den Assets arbeiten.
+Sie können daraus einen Wert ableiten. Könnte es sein
+
+für eine sicherere Energieversorgung. Energie-Effizienz
+Gründe. Schaffung von Flexibilität. Was Sie
+
+die eingangs erwähnte Zusammenführung des volatilen
+Angebot mit der Nachfrage zusammenbringt, die jeder von
+
+die wir jeden Tag und jeden Abend zu Hause haben.
+Und hier denke ich, dass Technologien wie Blockchain
+
+worüber Ana sicher noch mehr erzählen wird. Aber
+auch Künstliche Intelligenz, maschinelles Lernen,
+
+Das sind alles entscheidende Technologien in diesem Bereich.
+Ich danke Ihnen vielmals. Ana Trbovich, Ihre Gedanken
+
+wie das, was Sie anbieten, mit dem übereinstimmt
+was wir von den politischen Entscheidungsträgern gehört haben.
+ 
+
+
+ 
+
+Ich danke Ihnen. Wie immer stimme ich mit meinem
+Mitunternehmer zustimmen, dass die Antwort alle
+
+zu den oben genannten. So ersparen Sie sich den Kampf mit der
+Umfrage zu ersparen, gibt es Technologie für alle
+
+dieser Ziele. Wir müssen uns nicht entscheiden.
+Und eine Sache, die ich hinzufügen würde, ist die Demokratisierung,
+
+die den anderen drei Ds inhärent ist, und ich bin
+und ich bin sicher, dass die politischen Entscheidungsträger dem zustimmen würden. Deshalb,
+
+wir brauchen das IoT für die Konnektivität. Wir brauchen die
+Künstliche Intelligenz und maschinelles Lernen
+
+die Größenangaben zu überwinden, denn auch das
+kann auch eine Herausforderung sein. Und zu nehmen
+
+Daten zu nutzen, um zu lernen, effizienter zu werden
+effizienter zu gestalten und verschiedene Prozesse zu automatisieren.  
+
+Und schließlich ermöglicht die Blockchain eine Mischung aus
+von Sicherheit und dezentraler Interoperabilität.  
+
+Hätten wir also zum Beispiel ein
+dezentrales Register für Energieanlagen
+
+in einer bestimmten Region, wie zum Beispiel ein Projekt
+derzeit zum Beispiel in Australien.  
+
+Dann könnte eine Anwendung wie diejenige, die
+für unser virtuelles Kraftwerk anbietet, könnte
+
+viel leichter in dieser Region eingerichtet werden.
+Oder eine Anwendung, die wir bauen, die
+
+ist es, Energiegemeinschaften, Menschen zu ermöglichen
+lokal miteinander zu handeln und zu verbrauchen
+
+mehr, was vor Ort produziert wird. Das könnte auch
+mehr und leichter umgesetzt werden. Die eine
+
+Ich stimme nicht mit dem Kollegen aus der
+Kollegen aus der Tschechischen Republik, dass nicht
+
+alles ist auf den höchsten Ebenen des Netzes.
+Ja, die Übertragung ist kritisch, aber eigentlich, wenn man
+
+es für die Menschen einfacher machen, sich vor Ort zu engagieren, um
+die Belastung des Netzes zu verringern, wird das
+
+tatsächlich helfen, die Investitionen zu verringern
+die auf der Übertragungsebene erforderlich sind.
+ 
+
+
+ 
+
+Und wenn Sie fortgeschrittene Anwendungen haben, die
+die mit der heutigen Technologie möglich sind,
+
+können Sie auch lokale Marktplätze nutzen, um die
+Flexibilität und den Ausgleich der Netzebene zu unterstützen.  
+
+Und das ist es, was die Technologie heute bietet.
+Und unsere Hoffnung ist nur, dass die aktuellen Ereignisse,
+
+nicht nur die geopolitische, sondern auch die Klimakrise,
+die schließlich die Zahl der Menschen, die sich in der
+
+die das leugnen, werden immer kleiner. Dass dies
+wird die regulatorische Seite der Dinge beschleunigen.  
+
+Denn die Technologie ist vorhanden. Ich denke, dies
+ist die wichtigste Botschaft, die wir heute haben.
+ 
+
+
+ 
+
+Und ich möchte Minister Lipavsky die Möglichkeit geben
+darauf zu antworten. Ich möchte eine Frage von mir hinzufügen
+
+und vielleicht können Sie zu beiden Punkten etwas sagen.
+Die Tschechische Republik erhielt kürzlich den Titel
+
+der digitalen Herausforderer und der Digitalisierung bereits
+in Ihrem Land einen größeren Anteil am BIP ausmachen,
+
+wenn ich richtig gerechnet habe, als die fünf größten
+EU-Mitgliedstaaten. Und der Anteil in der Tschechischen
+
+Die Republik wächst sogar doppelt so schnell. Also
+Ich frage mich, ob Sie vielleicht ein wenig über
+
+wie sich das Ihrer Meinung nach im tschechischen
+Energiesystem, bei der Umstellung auf erneuerbare Energien,
+
+und dann können Sie natürlich auch gerne
+auf den Punkt von Frau Trbovich eingehen.
+ 
+
+
+ 
+
+Ja, ich werde Ihnen nur kurz antworten. Ich habe also
+über das gesamte europäische Energienetz gesprochen.  
+
+Und wir müssen über Großunternehmen
+und die Industrie als Teil des Energienetzes betrachten.  
+
+Ich glaube nicht, dass diese lokale Lösung im großen Maßstab eine
+lokalisierte Lösung im großen Maßstab. Das war
+
+meine Idee. Ich habe es aus dieser Perspektive betrachtet?
+von oben nach unten, und Sie boten die Sicht von unten nach oben an,
+
+was sehr wertvoll ist, und ich denke, am Ende des Tages
+wird es sich in der Mitte treffen. Also beide, beide
+
+dieser Ansätze notwendig sind. Und für die
+Digitalisierung. Wir sind also ein fleißiges Land.  
+
+Wir haben viele Universitäten. Viele ausländische
+Unternehmen aus den USA und aus anderen
+
+Staaten haben eigene Niederlassungen in tschechischen Entwicklungs
+Zentren. Das ist also durchaus hilfreich.
+ 
+
+
+ 
+
+Aber für uns, da wir nicht ? die Landschaft
+ist nicht die beste für erneuerbare Ressourcen,
+
+dass wir diese Initiativen nicht vorantreiben. Man braucht
+ein bestimmtes Umfeld haben. Dies ist also etwas
+
+wo wir viel tun können, würde ich mich dazu äußern.
+Auch wenn wir bei den erneuerbaren Energien technisch versiert sind,
+
+wir brauchen neuen Input.
+Ich danke Ihnen vielmals.  
+
+Und Minister Bayraktar, die Türkei setzt einen hohen
+Kontext der Digitalisierung auf ihr Jubiläum, das
+
+wird das 100. Jahr der Republik begangen.
+Wo sehen Sie besondere Anwendungen in der
+
+digitalen Sektor. Welche Prioritäten setzen Sie dort?
+Ich danke Ihnen. Um es besser zu verstehen, was ist die
+
+Rolle der Digitalisierung auf dem türkischen Energiemarkt,
+müssen Sie zwei Dinge über unseren Markt wissen.  
+
+Der Energiebedarf in der Türkei wächst. Wir müssen also
+diesen wachsenden Bedarf decken. Andererseits,
+
+sind wir stark von importierten Ressourcen abhängig, hauptsächlich
+Gas, Öl und Kohle. Wir müssen also diese
+
+Nachfrage zu befriedigen, während wir gleichzeitig versuchen
+die Abhängigkeit zu verringern. Um das tun zu können,
+
+wir brauchen Energieeffizienz. Wir haben ein sehr starkes
+Programm für das Jahr 2023. Und danach. Und wir
+
+haben auch ein Ziel der Nutzung unserer erneuerbaren
+Ressourcen. Sonne, Wasser und andere.  
+
+All dies sind also wichtige Pfeiler, um die
+bestehenden Probleme und auch unsere Ziele zu
+
+Dekarbonisierung der türkischen Wirtschaft, die Präsident
+Erdogan vor kurzem angekündigt hat. Im Jahr
+
+2053 wird die Türkei eine kohlenstoffneutrale Wirtschaft sein.
+Um dieses Niveau zu erreichen, braucht es also drei Jahrzehnte,
+
+um mehr erneuerbare Energien, mehr intermittierende
+Ressourcen in unser Netz zu integrieren, brauchen wir
+
+eine digitale Lösung, digitale Werkzeuge, um
+um dies zu tun. Wir brauchen ein dezentrales System,
+
+verteilte Erzeugung. Großes Potenzial in unserem
+Land in Bezug auf erneuerbare Energien, aber sehr unterschiedlich,
+
+sagen wir mal, Gebiete in Bezug auf Ressourcen.
+Und in Bezug auf die Energieeffizienz, die wir
+
+unseren nationalen Aktionsplan für Energieeffizienz angekündigt
+Plan, der viele verschiedene Sektoren einschließt
+
+Verkehr, Landwirtschaft, Industrie und
+Energie. Auch hier brauchen wir digitale Lösungen. Wir brauchen
+
+Nachfragesteuerung, um einen effizienteren Energieverbrauch zu
+effizienteren Energieverbrauch. Die Digitalisierung ist also
+
+kein Luxus oder nur ein modisches Instrument, das
+jeder folgt und die Türkei folgt,
+
+aber es ist eine Notwendigkeit für unser Land.
+Aber die Hauptfrage, und ich denke, wir können darüber diskutieren
+
+in der zweiten Runde, wie wir eine digitale
+digitale Lösung in Energiesysteme einführen, ohne
+
+auf die Sicherheit und Zuverlässigkeit des Systems verzichten.
+Ja, absolut. Und ich möchte noch etwas aufgreifen
+
+viel zu diesem Punkt. Lassen Sie mich nun zu
+Minister Meza, wenn ich darf. Denn, noch einmal,
+
+Ihr Land bekommt goldene Sterne dafür, dass es das Silicon
+Valley von Lateinamerika, wie es manchmal genannt wird.  
+
+Sie haben eine sehr wissensintensive Wirtschaft, die
+16 der 100 größten IT-Unternehmen der Welt beherbergt.  
+
+Wie bauen Sie also auf all das in Ihrem
+Ihrem nationalen Dekarbonisierungsplan? Was
+
+digitalen Technologien sehen Sie uns in Costa Rica besonders
+in Costa Rica besonders vielversprechend?
+ 
+
+
+ 
+
+Ich danke Ihnen. Und noch einmal, ich komme aus dieser breiteren
+Perspektive. Denn ich möchte nicht darüber sprechen
+
+nur eine bestimmte Technologie. Denn ich denke
+dass es viele wichtige Technologien gibt, die
+
+die verschiedenen Bereiche. Und was ich sagen möchte, ist,
+auch hier sind Technologie und Digitalisierung nur
+
+ein Mittel und nicht ein Zweck für etwas. Und was
+wir zu tun versuchen, ist es, zu verstehen, und ich
+
+Ich glaube, es war einer der Vorredner, der
+sagte, dass die Digitalisierung eine dieser
+
+Schlüsselkomponenten zur Erreichung der Dekarbonisierung
+zu erreichen und weiter auf dieses Ziel hinzuarbeiten.
+ 
+
+
+ 
+
+Und was wir im Moment versuchen,
+ist es, diese Ermöglichungsbedingung zu schaffen.  
+
+Die richtigen Signale zu setzen. Und in unserem Fall, wie
+produzieren wir, wie Sie wissen, fast 99% der Elektrizität
+
+aus erneuerbaren Energien stammt. Und, ja, wir befassen uns
+jetzt mit diesem anderen Teil, den wir
+
+weiterhin auf die Dekarbonisierung unserer gesamten
+gesamten Energiematrix, was am Ende bedeutet, dass wir
+
+dass alles, insbesondere der Verkehrssektor,
+Elektrizität verwenden wird. Und das wird auch so sein
+
+eine steigende Nachfrage nach der Erzeugung von mehr
+Strom, und wir werden mit den gleichen
+
+Herausforderungen der Stabilität und Flexibilität. Aber
+hier sind viele dieser Technologien und
+
+diese verschiedenen Digitalisierungen, die wir
+eine entscheidende Rolle spielen würde.
+ 
+
+
+ 
+
+Was sind einige der großen Herausforderungen, mit denen wir
+vor denen wir im Moment stehen? Und wie ich sagen würde, wir haben wirklich
+
+müssen es sehen und verstehen, was die
+Anforderungen oder die Dinge, die wir ausarbeiten müssen
+
+was den regulatorischen Teil betrifft. Denn wir wissen, dass wir
+mehr Interaktion mit den Verbrauchern haben werden,
+
+und das ist etwas, das wir wirklich besser
+besser verstehen wollen. Was sind die Risiken?
+
+und was sind die richtigen Elemente, die wir
+aus diesem rechtlichen Rahmen heraus und
+
+diesen politischen Rahmen? Und das sind einige der großen
+Herausforderungen und einige der großen Fragen, die
+
+Das fragen wir uns.
+Wir wollen Innovation. Wir wollen weiter
+
+diese Innovation zu bringen, aber gleichzeitig
+gleichzeitig wissen wir, dass es viele
+
+Rechte der Menschen und die wir abdecken müssen und
+es gibt einige Garantien, auf die wir achten müssen
+
+dieses Gleichgewicht. Wir haben also wirklich diese großen
+Fragen innerhalb dieser Regierung.
+ 
+
+
+ 
+
+Und wir werden auf diese Fragen zurückkommen
+gleich zurückkommen. Ich wollte uns einen Blick geben
+
+kurz auf die Publikumsumfrage, die wir durchgeführt haben
+das Publikum als einige der Prioritäten ansieht.  
+
+Übrigens, liebes Publikum, wir würden gerne Ihre Fragen
+Ihre Fragen an unsere Diskussionsteilnehmer zu hören.  
+
+Wenn Sie eine Frage an uns haben, senden Sie sie bitte
+über unser digitales Tool oder über #betd22 an uns.
+
+und wir werden sie in die Diskussion einbringen.
+Lassen Sie mich Sie, Sandra Trittin, als eine der
+
+größten intelligenten Echtzeit-Netze der Welt, was
+tiko in Form von Innovationen und neuen Technologien einsetzt.
+
+wo Ihrer Meinung nach zusätzliche Innovationen erforderlich sind.
+Gibt es derzeit Lücken im Bild, wo
+
+Sie würden sagen, dass wir in diesem oder jenem Bereich weitere Arbeit
+in diesem oder jenem Bereich, um die Sache voranzubringen?
+ 
+
+
+ 
+
+Wahrscheinlich ist es eine kurze Erklärung. Wir sind
+liefern Kraftwerke hauptsächlich von unten nach oben.  
+
+Im privaten und gewerblichen Bereich.
+Wir verbinden alles miteinander, was
+
+ist in Wohnhäusern und gehört zum Bereich
+den Bereich der dezentralen Energieressourcen.  
+
+Boxen für Autos, Batteriespeicher, Solar-Wechselrichter.
+Wir erbringen Dienstleistungen für das Übertragungsnetz
+
+durch schnelles Frequenzverhalten,
+Bilanzkreisoptimierung,
+
+verschiedene Arten von Diensten. So kann das virtuelle Kraftwerk
+Kraftwerk kann also wie ein normales Kraftwerk funktionieren. Einfach
+
+ohne die Lücke, sagen wir mal, dass es
+keine neuen Elektronen produzieren kann, richtig?
+ 
+
+
+ 
+
+Aber die Idee ist, die Nachfrage besser auf die
+der volatilen Produktion der erneuerbaren Energien anzupassen.  
+
+Wo ist nun die Lücke? Die Lücke ist ziemlich groß
+im Moment im Bereich der Politik. Also in der neuen
+
+Vorschriften. Denn noch sind nicht alle Märkte offen
+noch nicht. Nicht einmal in Europa. Nicht weltweit. Um zu ermöglichen
+
+diese Art von Systemen. Und sie werden entscheidend sein
+für die Zukunft entscheidend sein, um alle Ressourcen zu nutzen, die wir
+
+sowieso bauen und dass jeder von uns
+wahrscheinlich mit Solardächern baut, und
+
+cetera. Aber die Politik erlaubt einfach keinen Zugang
+zu den Märkten. Das ist die eine Sache. Die zweite Sache
+
+ist, dass an einem bestimmten Punkt - und ich baue ein wenig
+auf dem auf, was Ana ebenfalls sagte: "Es gibt
+
+lokale Märkte fehlen. So könnten wir zum Beispiel
+über lokale Flexibilitätsmärkte nachdenken. Nicht nur
+
+auf dem Übertragungsnetz, sondern auch auf der
+Ebene der Verteilernetze. Es gibt keinen Markt auf
+
+alle. Es ist nicht so, dass nur die Politik fehlt,
+sondern es fehlt überhaupt ein Marktmechanismus.
+ 
+
+
+ 
+
+Aber es wird nützlich sein. Und dann die Frage
+wie es mit dem Übertragungsnetz interagiert,
+
+richtig, über die verschiedenen Ebenen? Ich denke also, dass dies
+ist die eine Sache. Der zweite Teil, den ich für wichtig halte
+
+Wichtig ist auch, wie wir finanzielle,
+sagen wir mal, Stabilität für Investitionen in
+
+diesem Bereich? Denn wenn Sie in Energieeffizienz
+oder in die Flexibilität investieren,
+
+es ist nichts, woran man sich festhalten kann, richtig? Wenn
+Sie ein Gaskraftwerk bauen, wissen Sie,
+
+Okay, ich muss einen bestimmten Prozess durchlaufen.
+Es wird gebaut. Dann habe ich eine Laufzeit von
+
+wahrscheinlich 40 bis 60 Jahre. Ich kann es sehen. Ich sehe
+die Elektronen. Wenn Sie eine virtuelle Energiequelle bauen
+
+2.000 Menschen, die Sie überzeugen müssen, sich Ihrem
+überzeugen müssen, sich Ihrem Geschäftsmodell anzuschließen, dann
+
+müssen sie miteinander verbinden und auch mit diesen
+Kunden arbeiten, richtig? Dann müssen Sie den Markt haben
+
+Zugang und dann können Sie die Dienstleistung anbieten.
+Dies schafft oft das Problem, dass Investoren
+
+sagen, na ja, es klingt nett, richtig,
+aber es ist ein bisschen unsicher. Es ist ein bisschen riskant,
+
+also bleibe ich wohl besser bei meiner Investition in das
+das Gaskraftwerk. Es gibt viele, viele andere
+
+Beispiele gibt. Auch wenn Sie über das Thema
+über das Thema Energiegemeinschaften nachdenken, richtig?  
+
+Wenn Sie eine Energiegemeinschaft aufbauen wollen
+aufzubauen, in der man einen Peer-to-Peer-Handel betreiben kann,
+
+Welcher Investor ist wirklich bereit, das Risiko einzugehen
+zu sagen: "Ich werde das bauen".
+
+auf? Denn es gibt so viele unsichere Teile in
+aber an einem bestimmten Punkt müssen wir anfangen.
+ 
+
+
+ 
+
+Ich sehe, dass Minister Bayraktar
+möchte sich hier einbringen.
+ 
+
+
+ 
+
+Ich wollte gerade sagen, jetzt sind Gaskraftwerke
+zu riskant. Ob wir das Gas finden oder nicht.
+ 
+
+
+ 
+
+Danke, dass Sie sich dazu geäußert haben. Lassen Sie mich nun zu
+zu Ana Trbovich. Denn in der Tat ist Blockchain ein
+
+Technologie, für die es eine Reihe von potenziellen
+Anwendungsfälle im Technologiesektor, insbesondere
+
+genau hier in Berlin, viele Start-ups
+die versuchen, daran teilzuhaben. Gibt es auch
+
+Lücken, würden Sie sagen, wenn Sie das Gesamtbild betrachten
+Gesamtbild, sei es bei der Innovation oder bei
+
+Governance- und Investitionsstrukturen?
+Normalerweise ist die Politik technologieunabhängig.  
+
+Und ich glaube, jeder in diesem Raum weiß das.
+Und so handeln die politischen Entscheidungsträger. Sie tun nicht
+
+normalerweise perfekt oder verbieten eine bestimmte Technologie
+zu verwenden. Die Politik hat jedoch mehr zu tun
+
+wie diese Technologie eingesetzt wird. Was können Sie also tun?
+Was können Sie mit dieser Technologie bewirken?  
+
+Und genau deshalb haben wir eine Lücke. Wir haben eine
+Lücke, weil technisch etwas möglich ist.  
+
+Etwas, das erhebliche Auswirkungen haben könnte
+Auswirkungen haben könnte. Aber die Politik erkennt nicht an
+
+diese Art von Operation auf dem Markt.
+Und das ist genau das, was Sandra auch war
+
+wie ich vorhin schon sagte. Wenn man also zum Beispiel betrachtet
+wie viel Sie investieren müssen,
+
+das könnte auch Null sein, oder? Es hängt alles davon ab
+davon ab, wie sehr die Energieanlagen miteinander verbunden sind. Das ist
+
+warum Sie diese Infrastruktur brauchen. Ich erwähnte
+ein Projekt, bei dem es sich um eine dezentralisierte Energie
+
+Vermögensregister. Warum ist das wichtig? Weil
+Jede Energieanlage hätte eine ID und würde
+
+in der Lage sein, mit verschiedenen Anwendungen zu interagieren
+nahtlos zu interagieren, da Sie keinen Manager benötigen,
+
+organisieren, wäre es so einfach wie die Verwendung einer
+App auf Ihrem Telefon. Und genau hier müssen wir ansetzen
+
+zu erreichen. Es muss für uns einfach sein, Verbindungen herzustellen.
+Es muss für die Menschen viel einfacher werden
+
+in erneuerbare Energien zu investieren und diese zu installieren.
+Für mich ist es bis heute unverständlich, warum
+
+Es ist so schwierig, das zu tun. Warum, weißt du,
+jeder?? wo es nicht sehr normal wäre
+
+wie Sie einen Kühlschrank oder ein anderes Gerät kaufen
+kaufen, kaufen Sie auch ein Solarpanel, eine Wärmepumpe,
+
+was auch immer es ist. Im Moment weiß ich, dass es einen
+Fachkräftemangel. Das, wissen Sie, Installation
+
+Unternehmen haben nicht einmal mehr Verkaufsabteilungen
+weil sie zu viel Arbeit haben.  
+
+Wir haben auch einen Mangel an einigen dieser
+erneuerbaren Energien. Die EU forderte kürzlich die Wärme
+
+Pumpenhersteller, um ihre Produktion zu steigern.
+Auch hier gibt es also noch einige Lücken.
+ 
+
+
+ 
+
+Was die Kerninfrastruktur betrifft, so gibt es
+einige Projekte wie die von mir erwähnten
+
+wo die Regierungen mit sehr geringen Investitionen
+Fortschritte mit sehr begrenzten Investitionen. Und
+
+Ein Beispiel, das über Energiegemeinschaften gegeben wurde
+Energiegemeinschaften genannt wurde, ist ein sehr
+
+Ermächtigungsgesetzgebung, zum Beispiel auf EU-Ebene
+Ebene. Aber wenn Sie auf die Ebene der EU-Mitglieder kommen,
+
+dann erklären sie entweder nicht, wie die Richtlinie
+in der Praxis umgesetzt werden kann oder sie erlauben
+
+seine Umsetzung, allerdings in sehr begrenztem Umfang.
+Sie können zum Beispiel eine Energiegemeinschaft gründen.  
+
+Sie können sogar Peer-to-Peer-Handel betreiben, aber Sie
+Sie tun dies nicht auf der Grundlage der Marktbedingungen.  
+
+Sie tun dies nicht auf eine Weise, die es Ihnen ermöglicht
+Verteilernetzbetreiber darauf reagieren kann mit
+
+Flexibilität und Ausgleich zunächst auf dieser Ebene
+und dann auf der höheren Ebene des Netzes. Sie tun dies auf der Grundlage einer
+
+vorher festgelegten Preisschema. Und obwohl es
+ist es gut, die Menschen zur Selbstübernahme zu ermutigen,
+
+sie kann auch kontraproduktiv sein, wenn der Markt
+wirklich möchte, dass Sie die Flexibilität unterstützen. Und
+
+wenn dies eine produktivere Art der Nutzung
+der jeweiligen Ressource zu diesem Zeitpunkt.  
+
+Es gibt also durchaus Lücken. Es gibt zwar
+Technologie, die eine viel optimalere Nutzung ermöglicht
+
+der erneuerbaren Energien. Und auch das würde den Einzelnen ermutigen
+Einzelpersonen, mehr in erneuerbare Energien zu investieren.
+ 
+
+
+ 
+
+Und um den Bürger in diesem Prozess wirklich zu aktivieren
+Prozess zu aktivieren und nicht die gesamte Last
+
+auf der Seite der Zentralregierung.
+Ich danke Ihnen vielmals. Lassen Sie mich das "unsere" holen.
+
+technischen Team, uns bitte die Ergebnisse der
+unserer Publikumsbefragung zu zeigen, denn ich würde jetzt gerne reden,
+
+tiefer in die Governance eintauchen und herausfinden, was in diesem Bereich notwendig ist.
+in diesem Bereich. Wenn wir also diese Ergebnisse sehen könnten.  
+
+Hier sind sie. Und was wir sehen. Wir haben gefragt, was
+die höchste Priorität bei der Digitalisierung haben sollte
+
+und die Modernisierung des Energiesektors? Wir sehen, dass
+55 % der Befragten sagten, dass sichere und
+
+effiziente und nachhaltige Infrastruktur. Der nächst
+größte Anteil, nämlich 20 %, nennt die Verbesserung des Zugangs zu Energie.  
+
+Dann haben wir 18%, die sagen, dass sie alle qualifizierten
+Beruf. Sie sprachen in der Tat von einem Mangel an
+
+Personalmangel in einigen Fällen, Qualifikationsdefizite.
+Und schließlich die transparente Einbeziehung von
+
+Bürger und den Schutz der digitalen Grundrechte
+Rechte. Das sind nur 6 %. Was interessant ist.  
+
+Ziemlich niedriger Anteil. Darüber bin ich besorgt.
+Herr Minister Lipavsky, möchten Sie sich dazu äußern?
+ 
+
+
+ 
+
+Ja, ich denke, die letzte Option ist sehr eng mit der
+mit der ersten. Im Grunde genommen geht es um digitale Rechte.  
+
+Und ohne diese Rechte kann keine effiziente, nachhaltige Infrastruktur
+ohne diese Rechte geschaffen werden. Und es kommt zu
+
+meine Frage und meinen Punkt, den ich in dieser
+dieser Debatte. Wir erhalten eine Menge Daten. Wir erhalten eine
+
+Unmengen von Daten. Wo speichern wir sie? Unter
+welchen Bedingungen? Wer wird Zugang zu ihnen haben?  
+
+Wie soll das geregelt werden? Dies ist eine
+grundlegende Frage für die EU, für Europa.  
+
+Wir müssen nach diesen Antworten suchen. Wollen wir
+wollen wir sie mit unseren Freunden in den Vereinigten Staaten teilen?  
+
+Sollen wir sie nach China schicken? Wollen wir
+Wie können wir diesen Datensatz bearbeiten? Das ist also
+
+etwas, wo ich eine Rolle der Politiker sehe
+diese Fragen aktiv zu beantworten.
+ 
+
+
+ 
+
+Und wie lautet Ihre Antwort auf einige dieser Fragen?
+Zum Beispiel gibt es eine sehr aktuelle kontroverse
+
+die Debatte darüber, ob Europa seine eigene Cloud braucht.
+Ja, das ist eine laufende Debatte, und ich glaube, dass es
+
+ist ein gewisser Fortschritt in den Gesprächen mit der US-Seite.
+Und das ist genau die Debatte, die ich führen möchte.
+
+auf die sie hinweisen. Und ja, wir müssen Wege finden, wie
+wie wir Daten in Europa schützen können. Um eine Kontrolle zu haben über
+
+sie. Aber nicht den Anschluss zu verlieren, zu wissen, wie,
+und wissen, wie und ?? wie, um es gelinde auszudrücken.  
+
+Die Köpfe der übrigen demokratischen Welt.
+USA, Japan, Taiwan, zum Beispiel, Australien,
+
+Sie wollen sie mit an Bord haben, wenn wir über
+über Digitalisierung und die Schaffung neuer Dinge sprechen.
+ 
+
+
+ 
+
+Ich möchte alle anderen bitten, ihre Sichtweise
+zu den Umfrageergebnissen Stellung zu nehmen und auch
+
+allgemein zu der Frage, was Ihrer Meinung nach die
+wichtigsten Voraussetzungen für politische Entscheidungsträger, um
+
+bei der Einführung digitaler Technologien gesetzt werden
+Technologie. Ich werde zunächst die politischen Entscheidungsträger und
+
+dann komme ich zu unseren Wirtschaftsvertretern...
+Vertreter. Bitte, Minister Bayraktar.
+ 
+
+
+ 
+
+Ich danke Ihnen. Ich meine, wenn ich mir das Ergebnis der
+Umfrage sehe, zeigt es auch die größte Sorge über
+
+Energie. Sie wissen schon, die Sicherheit der Versorgung. Die
+Effizienzprobleme und Fragen der Nachhaltigkeit
+
+kommt jedem in den Sinn. Das ist also eine Art
+ich glaube, auch von den aktuellen Realitäten betroffen
+
+und Bedenken. Wenn es um die Rolle der ?
+die richtige Steuerung des digitalen Einsatzes,
+
+Ich denke, die wichtigste Herausforderung ist die
+regulatorische Herausforderung. Dem stimme ich zu. Und
+
+als ehemaliger Regulierer kann ich Ihnen ein Geheimnis verraten.
+Ich bin sicher, Sie wissen es, aber das Problem mit der
+
+Die Welt der Regulierung ist ?? und vor allem diese neuen
+Technologien oder die Digitalisierung
+
+dass wir die Zahl der Regulierungsbehörden irgendwie erhöhen und trainieren müssen.
+Regulierungsbehörde, weil wir sie im Grunde
+
+verstehen nicht, wie das System funktioniert.
+Und wenn sie es nicht verstehen, ist das Offensichtliche
+
+Reaktion von ihnen ist, einfach nichts einzusetzen
+weil wir alle sehr konventionell wissen
+
+wir machen Tarifregulierung. Wir erteilen Lizenzen. Markt
+Eintritt und Austritt. Dies sind die Instrumente einer Regulierungsbehörde
+
+sie benutzen. Das habe ich früher auch getan. Also die Interessenvertreter
+Management, Regulierungsbehörden, politische Entscheidungsträger,
+
+Verbraucher. Ich meine, ich war ein wenig überrascht
+und enttäuscht über die Rolle der Bürger, die
+
+scheinen 6 % recht niedrig zu sein. Aber ich denke, das
+wichtigste Teil ist die Befähigung der Verbraucher
+
+und die Rolle der Verbraucher in dieser neuen
+neuen digitalen Welt. Die neue digitale Welt der Energie.
+ 
+
+
+ 
+
+Wir müssen also das Bewusstsein der Menschen schärfen.
+Menschen. Wie werden sie sich mit dem
+
+Marktaktivitäten. Wie können sie eine andere Rolle
+Rolle auf dem Markt in Bezug auf die Verbraucher spielen können.  
+
+Aber in erster Linie würde ich auch sagen, dass das
+richtige Marktdesign, wir brauchen ein neues Marktdesign
+
+für diese digitale Energiewelt. Um das zu erreichen,
+müssen wir das System digitalisieren. Wir müssen
+
+das System intelligent oder smart zu machen. Und wir müssen
+das System schützen. Die Cybersicherheit, die wir
+
+auf die sich alle beziehen. Dies sind also die Schlüsselfaktoren
+Faktoren, die wir haben müssen.
+ 
+
+
+ 
+
+Bevor Sie Ihr Mikrofon weglegen, was
+würden Sie als ehemaliger Regulierer sagen
+
+und als aktueller politischer Entscheidungsträger zu Sandra Trittins
+Bemerkung, dass es in der Tat Technologien gibt, die
+
+die nicht auf den Markt gebracht werden können
+weil das Regulierungssystem dazu nicht in der Lage ist,
+
+sie innerhalb des bestehenden Rahmens zu konzipieren?
+bestehenden Rahmens? Ist das ein Problem, das Sie
+
+bewusst? Sind sich Regulierungsbehörden und politische Entscheidungsträger dessen bewusst?
+Nun, wir sind uns dessen bewusst, aber das Problem ist? I
+
+Ich denke, Sie werden mir alle zustimmen,
+diese neuen Technologien, die Digitalisierung
+
+wird ständig verbessert. Es ist nicht wie das
+ausgereifte System, das wir einführen werden. Also
+
+wir wissen es nicht. Wir sind so unsicher
+und wir wissen nicht, wie wir es schaffen
+
+die richtige Politik, die richtigen Anreize
+die richtigen Anreize, die richtige Gesetzgebung, die es
+
+erlauben uns, ? wir werden gestrandete Vermögenswerte vermeiden,
+gestrandete Kosten. Denn schließlich wird es
+
+neue Dinge, die online gehen. Und das, meine ich,
+das ist, glaube ich, das Hauptproblem, und ich hoffe
+
+dass wir mehr lernen und uns mehr engagieren werden
+mit den relevanten Akteuren, um die richtigen
+
+Politik und Regelwerk.
+Und ich sah, wie Ministerin Meza nickte
+
+Kopf ziemlich nachdrücklich. Ich wende mich also an Sie
+Jetzt bitte ich Sie um einen Kommentar zu dieser Frage.
+ 
+
+
+ 
+
+Ich schließe mich den Worten des Ministers voll und ganz an. I
+denke, ich meine, wir bauen einen neuen Markt auf,
+
+und wir bauen eine neue Art der Verwaltung des
+gesamten Energiesystems. Und das ist der Grund, warum wir keine
+
+die Antworten im Moment. Und wir müssen uns
+diese Aspekte sehr klar und bewusst sein. Aber
+
+Deshalb ist es so wichtig, dass wir wirklich
+die wichtigsten Ziele im Auge behalten müssen
+
+davon? Denn dann können wir uns wirklich verlieren
+wenn wir uns nicht darüber im Klaren sind, warum wir das tun?  
+
+Und dies sind die Art von Fragen
+die wir als politische Entscheidungsträger wirklich stellen müssen
+
+die im Mittelpunkt der Dinge und der Diskussionen stehen
+Diskussionen. Wir tun dies, weil wir wollen
+
+unsere Volkswirtschaften zu dekarbonisieren. Wir tun dies
+dies, weil wir auch eine bessere
+
+System und eine bessere Wirtschaft für alle Menschen.
+Und das ist auch ein Aspekt der Inklusion, den ich möchte
+
+hierher zu bringen. Das ist für die Menschen. Und das ist der Grund
+war ich sehr überrascht, als ich die Antworten der
+
+auch die Umfragen. Und ich war ?? Ich stimme dem vollkommen zu.
+Ich glaube, es war der erste Minister, der erwähnte
+
+und wir werden eine Menge Informationen von den Verbrauchern erhalten.
+Informationen von den Verbrauchern, die Verbraucher
+
+wird ihre beste Interaktion sein. Und ich finde das
+ist großartig. Das ist fantastisch. Aber zur gleichen Zeit
+
+Was sollen wir mit all diesen Informationen machen?
+Informationen? Wie werden wir sie nutzen?  
+
+Ist allen klar, dass wir Zugang zu all diesen Informationen haben werden?
+zu all diesen Informationen haben werden? Ich denke also, dass dies
+
+Es geht darum, diesen Teil zu verstehen, aber ich bin mir auch darüber im Klaren.
+Ich bin mir darüber im Klaren, dass das Kommen und Hören der
+
+anderen Diskussionsteilnehmern aus dem Privatsektor, ist es
+so klar, dass wir auch verstehen müssen, dass
+
+alles verändert sich gerade und wir müssen
+das Risiko abdecken, die richtigen Signale senden, dass
+
+wir wissen, dass diese Technologien es uns ermöglichen werden
+die wichtigsten Ziele zu erreichen, die wir anstreben.
+ 
+
+
+ 
+
+Es ist also ein komplexer Moment. Und mein Hauptanliegen
+ist, dass wir die großen Ziele nicht aus den Augen verlieren dürfen. Denn
+
+Im Moment ist noch nichts klar. Wir schreiben
+die Zukunft und es ist so wichtig, dass wir
+
+klare Ziele von Seiten der Politik. Warum
+wir dies tun? Diese Frage müssen wir uns ständig stellen.  
+
+Denn sonst nur Technik für Technik,
+Digitalisierung für Digitalisierung kann auch zu
+
+ein sehr großes Risiko und kann eine Menge Menschen
+aus dem System ausschließen, wenn wir das nicht tun, weil wir die
+
+Menschen, der Mensch im Mittelpunkt. Und, natürlich,
+unsere Umweltziele dort ganz klar als Teil
+
+von all diesen Übergängen.
+Lassen Sie mich nun zu den beiden Innovatoren kommen
+
+auf dem Podium. Und wenn Sie möchten, können Sie uns auch
+Ihre Antwort auf die Ergebnisse der Umfrage
+
+und wie Sie sie sehen. Aber dann würde ich auch gerne
+darüber sprechen, wie Sie die Balance finden zwischen
+
+politische Rahmenbedingungen, die die neuen Technologien ermöglichen
+? die verfügbaren und zukünftigen Technologien,
+
+noch nicht vollständig optimierte Technologien
+auf den Markt zu bringen. Und zur gleichen Zeit
+
+die Risiken, die bewältigt werden müssen. Also
+dieses Gleichgewicht zu finden. Aber zuerst, wenn Sie möchten,
+
+Sagen Sie uns einfach Ihre kurze Antwort auf die Umfrage.
+Ich habe also nur zwei Reaktionen darauf.  
+
+Eine Reaktion war, dass für die sichere
+Infrastruktur, für mich das Schlüsselwort in
+
+Diese Frage betraf die digitale Infrastruktur.
+Das heißt, auf den verschiedenen Ebenen, wie,
+
+wenn man die verschiedenen Ebenen des Energiesystems betrachtet
+Energiesystems, zum Beispiel den Verbraucher,
+
+hat keine Ahnung, was Digitalisierung auf der
+auf der Ebene der Übertragungsnetze, nicht wahr?
+ 
+
+
+ 
+
+Sie bringen mehr Technologie ein, Sie
+Sie haben mehr Überblick, mehr Daten und so weiter.  
+
+Hier wird es interessant. Dies ist
+bezieht sich auf den letzten Punkt, die letzte Frage
+
+mit der begrenzten Anzahl von Prozenten, richtig?
+Wo die Leute sagten, digitale Rechte sind, sagen wir mal
+
+weniger wichtig. Ich denke, die Menschen haben
+bereits verstanden haben, ist: Ja, ganz sicher,
+
+wir müssen einige grundlegende Rechte auf Privatsphäre haben, aber
+um ehrlich zu sein, wen interessiert es schon, wie
+
+wie viel Energie ich jeden Tag verbrauche? Ich meine, würde
+wären Sie alle daran interessiert, das zu sehen? Oder zu sehen
+
+meine Stromrechnung. Wenn sie um etwa 100 Euro steigt oder
+runter? Das interessiert mich persönlich, oder? Weil ich
+
+Ich möchte sehen, wie viel ich im Vergleich zum letzten Jahr
+Jahr gespart habe. Aber falls es jemand da draußen sieht,
+
+Mir persönlich ist das nicht so wichtig. Und ich denke
+es könnte auch eine Frage der Generation sein.  
+
+Dies nur als Gedanke. Ich sage nicht, dass
+ich damit völlig einverstanden bin, aber es ist mehr
+
+meine Interpretation der Ergebnisse.
+Dann in Bezug auf die Politik,
+
+was der Minister vorhin gesagt hat. Ich denke
+das ist wirklich ein Problem. Ist die Frage der Geschwindigkeiten.  
+
+Die Technologie und insbesondere die Digitalisierung
+entwickelt sich so schnell, während die Politik
+
+braucht einfach Zeit. Und dieser Unterschied in der Geschwindigkeit
+schafft eine gewisse Spannung. Ich glaube, wir haben alle
+
+dass in dem Land, in dem wir uns gerade befinden
+in Deutschland mit dem Smart Metering,
+
+wo es einen guten Ansatz für die Einführung
+die intelligente Verbrauchsmessung in vollem Umfang in das Land zu bringen.  
+
+Während andere Technologieanbieter, etwa
+oder die meisten von ihnen denken, na ja, es ist ein
+
+guter Ansatz, aber er ist schon zehn Jahre alt.
+Aber das ist doch normal, oder? Denn die Gedanken an
+
+die Politik hier in Deutschland in dieses System zu bringen
+vor zehn Jahren gemacht worden sind, um an dem Punkt zu sein
+
+wo wir im Moment stehen. Ich denke also, die größte
+Herausforderung wird sein, wie wir die Geschwindigkeit angleichen?  
+
+Wie können, denke ich, auch die politischen Entscheidungsträger dazu beitragen
+sagen wir mal einige Grundregeln zu finden, die
+
+zukünftige Weiterentwicklungen und technologischen Fortschritt nicht
+der Technologie, richtig? Und Veränderungen.
+ 
+
+
+ 
+
+Ich danke Ihnen. Wenn ich mir die Ergebnisse ansehe.
+Ergebnisse anschaue, meine Damen und Herren, können wir die
+
+Ergebnisse, die wir hier oben auf dem Bildschirm sehen, wenn wir
+Politikern und Regulierungsbehörden zu den
+
+die digitalen Fachleute, dann ist der Anteil von 16 %
+in der Tat recht niedrig. Denn Sie sagen
+
+dass Regulierungsbehörden und politische Entscheidungsträger
+im Wesentlichen in Bezug auf die folgenden Punkte mitgenommen werden müssen
+
+ihr Verständnis. Bitte, Minister Bayraktar.
+Ich wollte gerade sagen, ja, wir machen Regulierung,
+
+Wir machen also etwas für fünf
+Jahre später, zehn Jahre später, und
+
+vielleicht haben wir ein Recht darauf, Fehler zu machen,
+aber letztendlich, wenn man ?? Ich meine, was du bist
+
+Ich meine, die Leute beschweren sich heute
+und kritisieren politische Entscheidungsträger oder Regulierungsbehörden
+
+von einem einzigen Land oder einer einzigen
+Energiequelle zu verlassen. Das schafft eine Menge
+
+Probleme bei der Versorgungssicherheit.
+Wir könnten diese Art von Schwierigkeiten haben
+
+und Herausforderungen der Zukunft im Hinblick auf die
+Digitalisierung der Energie. Das können Sie berücksichtigen,
+
+können wir uns auf eine einzige Software
+Software in den nächsten zehn Jahren verlassen können.
+ 
+
+
+ 
+
+Darf ich nur kurz etwas dazu sagen? Ich bin völlig einverstanden mit
+Ihre Perspektive. Ich sehe die Herausforderungen. Diese
+
+ist eher aus unternehmerischer Sicht zu betrachten
+Sichtweise. Wir haben immer gesagt, dass wir ein Unternehmen aufbauen wollen.
+
+Lösung, mit der man leben kann, ohne dass die Politik
+ändern muss, richtig? Etwas, das unterstützen kann
+
+sagen wir mal die Umsetzung, erhöhte Geschwindigkeit,
+aber letzten Endes müssen die Start-ups mit der
+
+mit den Etappen, zumindest wie sie heute sind, oder?
+Sie können Ihr zukünftiges Geschäft nicht auf etwas aufbauen
+
+dass es zu einer Änderung der Politik kommen könnte. Ich kann Ihnen
+ein Beispiel nennen. Ich warte seit zehn Jahren darauf, dass
+
+der Schweizer Energiemarkt wird liberalisiert. Und
+Ich denke, ich werde wahrscheinlich noch zehn Jahre warten, oder?
+ 
+
+
+ 
+
+Aber das ist in Ordnung. So ist die Welt nun mal.
+Trotzdem ist Tiko noch am Leben. Wir haben geschaffen
+
+unser eigenes Geschäftsmodell. In diesem Fall hat es
+geklappt. In anderen Fällen mag das nicht der Fall sein.
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Ich möchte nun zu Ana
+Trbovich sprechen, denn ich wollte Ihre Meinung hören
+
+auch über das Ergebnis der Umfrage. Dann habe ich eine
+Frage zur Sicherheit an Sie.
+ 
+
+
+ 
+
+Ich danke Ihnen. Ich werde mich vielleicht dem Energie
+Zugang, denn in meiner Arbeit sehe ich tatsächlich
+
+eine Kreuzung, die andere vielleicht nicht haben, nämlich
+eine mit transparenter Bürgerbeteiligung.  
+
+Der Zugang zu Energie ist ein Grundrecht auf buchstäblich
+Zugang zu Energie. Normalerweise bedeutet es Zugang
+
+an das Netz angeschlossen. Denn wir haben immer noch einen erheblichen
+Teil der Erde keinen Zugang zum Stromnetz hat.  
+
+Und was passiert in diesen Gemeinden
+die einen gewissen Zugang haben durch
+
+Solar- oder Hausmanagementsysteme, während
+andere zahlen am Ende mehr für weniger.  
+
+Wegen der Situation. Und zum Teil auch
+weil der Strom aus dem Netz kommt
+
+oft in genau diesen Regionen stark subventioniert werden
+subventioniert und spiegeln nicht den tatsächlichen Preis wider.
+ 
+
+
+ 
+
+Wir haben also eine Unterbrechung, wo zukünftige
+Lösungen entwickeln und entwickeln können
+
+um diesen Gemeinschaften ein optimales Funktionieren
+optimal vom Netz zu trennen.  
+
+Aber sobald die Gemeinschaft eine Verbindung zum
+an das Netz angeschlossen ist, wollen sie diese Lösung nicht mehr.  
+
+Dies trägt zur Entlastung des Stromnetzes bei
+denn der Strom aus dem Netz wird
+
+billiger. Es gibt also auch hier eine Trennung.
+Im Gegensatz zu solchen Gemeinschaften haben wir dann
+
+Gemeinden in sehr fortgeschrittenen Volkswirtschaften, in denen
+Menschen für den Zugang zu Energie zusammenkommen, weil
+
+sie wollen vom Netz sein. Denn sie wollen
+autark sein wollen. Weil sie es können. Weil sie
+
+haben die Ressourcen. Sie sind in der Regel selbst Experten
+selbst. Sie können es sich leisten, das Beste zu kaufen
+
+fortschrittliche Technologie Batterien zu speichern. Alles
+vom Netz zu sein und sind stolz darauf, vom Netz zu sein
+
+Netz und selbständig und nicht abhängig. Und
+auf lange Sicht geht es ihnen viel besser,
+
+oder? Weil sie nicht jeden Monat belastet werden
+und so weiter. Wir haben also eine Diskrepanz zwischen
+
+wer unterstützt werden muss und wer
+am Ende ein besseres Geschäft macht.
+ 
+
+
+ 
+
+Und das ist es, was in Einklang gebracht werden muss. Und zum Schluss
+positiv zu beenden, wie immer ein Optimist,
+
+wir sind auf einem guten Weg. Jeder einzelne
+politischen Entscheidungsträger, den ich getroffen habe, ist
+
+wie Sie sagten, über Blockchain, zum Beispiel
+sich zum Beispiel in die Technologie verliebt, weil
+
+weil es Transparenz schafft. Weil es die Sicherheit erhöht.
+Weil es die Effizienz erhöht. Und weil es
+
+sehr gut mit anderen Technologien wie KI und
+IoT. Und es ist immer eine hybride Lösung. Aber wir tun
+
+die Notwendigkeit, die Bildung zu verbessern.
+Es gibt auch
+
+die so genannten regulatorischen Testbeds, richtig?
+Das sind Orte, an denen man sicher innovieren kann.  
+
+Und es gibt viele Piloten auf der ganzen Welt
+die Lösungen umgesetzt haben. Dann gibt es
+
+ein Wartezimmer, richtig? Wann entscheiden Sie und
+was müssen Sie entscheiden, um von diesem Pilotprojekt wegzukommen?
+
+und dieses regulatorische Testfeld zum Mainstream? Diese
+werden wir als Innovatoren ein wenig frustriert.  
+
+Denn wie Sandra schon sagte, passen wir unsere Technologie
+an das, was in Bezug auf die Regulierung möglich ist,
+
+aber wir wissen, dass wir viel mehr tun könnten
+wenn man uns das erlauben würde.
+ 
+
+
+ 
+
+Und hier müssen wir weiter reden und diesen Dialog
+und diesen Dialog führen, und deshalb ist heute ein
+
+eine wichtige Rolle, und deshalb sind wir beide hier.
+Ich danke Ihnen vielmals. Ich möchte nur kurz
+
+hier den Punkt der sicheren und effizienten
+effiziente und nachhaltige digitale Infrastruktur.  
+
+Ich bin nicht infrastrukturell auf dem neuesten Stand. Ich bin mir nicht sicher, ob
+Sie, Minister Lipavsky, oder Sie, Minister
+
+Bayraktar. Die Sorge um die Sicherheit unserer
+kritischen Infrastruktur unserer Systeme, insbesondere
+
+im Hinblick auf mögliche Cyberangriffe. Also nur
+kurz zu Ihnen, Ana Trbovich. Denn Blockchain
+
+wird oft als besonders sichere Technologie angesehen.
+sichere Technologie. In der Regel werden nicht nur
+
+in Bezug auf Blockchain, aber wie sicher ist unsere
+digitale Infrastruktur? Wie verwundbar ist sie?
+ 
+
+
+ 
+
+Ja, gut. Vielleicht sollten wir zu dieser Wolke zurückkehren.  
+
+Blockchain ist sicherer, weil es sehr schwierig ist
+schwierig ist, die Blockchain zu behindern.
+
+Lösung und zur Manipulation der vorhandenen Daten
+und eine Reihe von Transaktionen, die folgen
+
+einen bestimmten Weg, der üblicherweise als intelligenter
+Vertrag genannt wird. Aber im Wesentlichen bedeutet es, wie werden
+
+Dinge erledigt? Was ist der Prozess? Wissen Sie, welche
+Schritte werden befolgt und was passiert als Ergebnis?  
+
+Was immer anfällig ist, ist der Input. Richtig?
+Wenn Ihr Input also von einem digitalen System kommt,
+
+eine Batterie, die zu einer bestimmten Zeit eine bestimmte Leistung
+zu einer bestimmten Zeit erzeugt, und Sie nehmen das als Input,
+
+das sicherer ist als eine Person, die
+aus einer Excel-Tabelle kopiert oder Ihnen sagt
+
+so lauten die Zahlen, richtig? Also
+können Sie die Schwachstellen verringern,
+
+aber es gibt immer eine Schwachstelle am
+am Anfang, die nicht verhindert werden kann.
+ 
+
+
+ 
+
+Ein Beispiel für viele Fälle, die bereits funktionieren, sind
+diese Zertifikate für erneuerbare Energien, bei denen statt
+
+dass mehrere Personen überprüfen müssen, ob das stimmt,
+das ist ein Wasserkraftwerk. Ja, wir können sehen, dass dies das ist, was
+
+die sie in der Excel-Tabelle erzeugt haben. Stattdessen werden Sie
+nur Minute für Minute oder Sekunde für Sekunde stempeln
+
+durch das System, das Sie dort haben. Sie vermeiden
+Betrug, der in dem System mit doppelter
+
+Zertifikate. Sie können die Verträge
+im Voraus zu kaufen. Das ist ein Anwendungsfall.
+ 
+
+
+ 
+
+Ein weiterer Anwendungsfall ist, wenn eine Batterie
+in Ihrem Auto eine digitale ID hat,
+
+dann befinden Sie sich nicht in einem geschlossenen System, in dem nur
+der Besitzer oder der Autohersteller entscheiden kann
+
+der Zugriff auf die Daten Ihres Autos, Ihrer Batterie hat
+Ihrer Batterie hat und diese für seine eigenen Zwecke verwendet
+
+und Ihnen ein darauf basierendes Produkt anbieten
+aber Sie können auch zwischen anderen
+
+Anbieter und nutzen Sie Ihre Batterie nicht nur für Ihr
+Auto, sondern auch um sie zu einem bestimmten Zeitpunkt wieder zu verkaufen
+
+und einen Fahrzeug-zu-Netz-Dienst anbieten.
+Ganz einfach, Sie haben diese Interoperabilität, die
+
+wird sicherer, weil Sie diese digitale ID haben.
+AUSWEIS. Viele Länder haben digitale Ausweise für ihre Bürger.  
+
+Die digitale ID für Energieanlagen folgt einem
+ähnlichem System, aber wir haben jetzt eine Technologie
+
+um dies auf eine sicherere Weise zu tun. Und nehmen wir an
+sagen wir, jeder hat eine digitale ID,
+
+jeder Anlage, die Ihnen auch die Möglichkeit gibt
+Möglichkeit für jeden, seine Daten zu behalten
+
+und tauschen aus, was für einen bestimmten Dienst erforderlich ist
+zu funktionieren. Genauso, wie wir wiederum Apps auswählen und
+
+was wir einer App auf unserem Telefon erlauben. Das verhindert auch
+verhindert, dass eine einzige Cloud alle Informationen speichert
+
+denn jeder kann seine Daten speichern und austauschen
+was für den jeweiligen Anwendungsfall erforderlich ist.
+ 
+
+
+ 
+
+Dies soll nur Ihre Neugierde wecken
+auf eine Alternative zu einer Cloud.
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Und nur ganz
+kurz, wir haben noch etwa 2 1/2 Minuten,
+
+und ich möchte Sie alle einfach fragen.
+Denn ein zentrales Thema dieser Konferenz
+
+ist die Zusammenarbeit und wie sie uns bei der
+uns bei der Energiewende voranbringen kann. Also setzen
+
+wenn Sie so wollen, zusammen mit der digitalen
+und sagen Sie mir, was die wichtigste Priorität wäre,
+
+Wo ist Ihrer Meinung nach die Zusammenarbeit
+wichtig oder unerlässlich ist? Minister Lipavsky.
+ 
+
+
+ 
+
+Ja, wir müssen an einer gemeinsamen europäischen
+Lösung arbeiten. Das ist völlig klar. Wir müssen
+
+Es ist eine Frage der Energiesicherheit. Wir müssen
+im Bereich der Digitalisierung und der Regulierung.  
+
+Und das wäre im Grunde meine Antwort auf diese Frage
+Frage. Also ein gemeinsamer Rechtsrahmen, der
+
+würde es diesen Technologien ermöglichen, sich zu entwickeln.
+Ich danke Ihnen vielmals. Minister Bayraktar.
+ 
+
+
+ 
+
+Meiner Meinung nach können wir gemeinsam am Veränderungsmanagement arbeiten.
+Denn die Hauptfrage hier ist, wie werden wir
+
+in der Lage sein, diesen Wandel erfolgreich zu bewältigen?
+Veränderungen in der Welt der Energie? Die
+
+Verteilung von Versorgungsleistungen geschieht gerade
+jetzt. Einige Kollegen erwähnten bereits die Geschwindigkeit
+
+des Wandels ist enorm. Wie werden wir also
+sagen wir mal, diese Geschwindigkeitsänderung bewältigen? Also
+
+müssen wir an dieser Front zusammenarbeiten. Außerdem,
+sehr wichtige Dinge zur Cybersicherheit. Nochmals,
+
+ein weiterer Bereich der Zusammenarbeit, den wir alle teilen. Und
+auch wir können von verschiedenen Sektoren lernen.  
+
+Es geht nicht nur um Energie, sondern auch um den Bankensektor,
+Telekommunikation. Sie haben bereits diese
+
+nur Fragen. Und eine Sache weniger für den privaten
+Sektoren, den Innovatoren, die versuchen, einfacher zu sein,
+
+die Dinge für die Verbraucher zu vereinfachen, verbraucherfreundlicher zu
+verbraucherfreundlich und auch für die politischen Entscheidungsträger und
+
+Regulierungsbehörden wären wirklich nett.
+Ich danke Ihnen vielmals. Herr Minister Meza.
+ 
+
+
+ 
+
+Ich möchte sagen, dass wir diese Zusammenarbeit fortsetzen müssen
+Zusammenarbeit mit, nun ja, diesen Dialogen
+
+mit dem Privatsektor, und ich stimme dem Minister völlig
+mit dem Minister. Es ist sehr wichtig, dass wir
+
+weiterhin diese Gespräche zwischen all diesen
+all diesen Innovatoren und den politischen Entscheidungsträgern.  
+
+Dies ist sehr wichtig. Setzen Sie die Pilotierung fort. Dort
+gibt es ein Problem? Ich weiß, dass sie nicht wissen, dass wir das wollen.
+
+aber wir sind immer noch in der Phase, in der wir
+in der wir noch einige Pilotprojekte durchführen müssen.  
+
+Und natürlich ist diese Zusammenarbeit zwischen
+Entwicklungsländern und Industrieländern,
+
+wäre das wiederum sehr wichtig, denn wir alle sind
+wir alle mit vielen dieser Herausforderungen konfrontiert sind. Und,
+
+noch einmal, es ist sehr wichtig, dass wir
+dass wir bei diesem Übergang niemanden zurücklassen.
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Sandra Trittin.
+Das Wort als Kooperation zu den Menschen
+
+Ich denke, dass das, was gerade erwähnt wurde, der kontinuierliche
+erwähnt wurde, den kontinuierlichen Austausch zu pflegen.  
+
+Auch die Geschwindigkeit des Austauschs muss meiner Meinung nach
+erhöhen, weil wir über Technologie sprechen
+
+die sich schnell verändert. Das ist von entscheidender Bedeutung.
+Und dann denke ich, dass auch das, was gerade gesagt wurde
+
+die der Minister bereits erwähnt hat,
+dass wir auf der einen Seite immer noch pilotieren können,
+
+aber auch, wie wir dazu beitragen können, dass die politischen Entscheidungsträger
+die nächste Stufe zu erklimmen, um eine Möglichkeit für
+
+Anwendungen für den Massenmarkt? Also nicht nur zum Lernen
+zu lernen und Wissen von beiden Seiten auszutauschen, sondern
+
+Und wie können wir uns gegenseitig im Tagesgeschäft unterstützen
+wie wir uns gegenseitig unterstützen können, um schneller voranzukommen?
+ 
+
+
+ 
+
+Ich danke Ihnen vielmals. Ana Trbovich.
+Ich glaube, ich habe bereits in gewisser Weise abgeschlossen,
+
+Ich kann also nur wiederholen, dass wir immer wieder
+wiederkommen und Zeit zum Reden finden. Und Sie sollten
+
+auch Ihre Unternehmer in Ihren Ländern treffen und
+hören Sie ihnen zu und versuchen Sie, diese Ziele zu erreichen,
+
+Sie wissen? Wie viele Beweise brauchen Sie, um
+um mit der Politik voranzukommen? Vielleicht lassen Sie das als
+
+die letzte Note. Und ein Beispiel, wir hatten tatsächlich
+einen Hack?a?thon mit einem jungen türkischen Unternehmer
+
+die letzte Woche Studenten der Universität einbezogen haben
+um diesen Fehler früh zu erkennen und sie zum Nachdenken zu bringen
+
+der Bücher. Wie Sie sagten, denken wir über
+ein völlig neues Marktdesign. Denn es
+
+ist nicht die Technologie, die den Markt durcheinander gebracht hat
+Markt. Der Markt ist bereits gestört. Und
+
+müssen wir diese Technologie nutzen, um den verteilten
+den verteilten und zerrütteten Markt besser zu verwalten.
+ 
+
+
+ 
+
+Vielen Dank an Sie alle. Es war eine
+eine sehr lebhafte und interessante Diskussion.  
+
+Wir wissen das sehr zu schätzen. Lasst uns
+eine schöne Runde Applaus geben.
+
+
