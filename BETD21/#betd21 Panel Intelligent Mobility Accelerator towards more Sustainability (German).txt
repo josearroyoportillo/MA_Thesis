@@ -1,0 +1,835 @@
+Die Welt des Transportwesens befindet sich zweifelsohne in
+mitten im Umbruch, da sie zunehmend mit
+
+Herausforderungen an mehreren Fronten. Die heutigen Herausforderungen in den Bereichen
+und Energieprobleme erfordern einen ganzheitlichen Ansatz.  
+
+Bessere Stadtplanung. Verringerung und
+Optimierung unseres Mobilitätsbedarfs.  
+
+Die Digitalisierung. Neue Geschäftsmodelle. Gemeinsame
+Wirtschaft. Verhaltensänderungen und Elektrifizierung.
+
+Wie Sie wissen, meine Damen und Herren, verändern bahnbrechende
+Technologien die Mobilität verändern. Aber die
+
+seconder muss unbedingt noch schneller werden, um seinen
+Fußabdruck zu reduzieren. Und wegen der
+
+Verknüpfung mit dem Energiesektor zu erreichen, ist ein ganzheitlicher
+ganzheitlichen Ansatz. Wie haben wir gebaut
+
+umfassende, systemische Lösungen, die
+zu besseren, saubereren und sozial gerechteren
+
+Verkehr für alle? Das ist unsere Schlüsselfrage
+in dieser Sitzung. Und das in nur einer Minute,
+
+Ich möchte unsere geschätzten Podiumsteilnehmer vorstellen.
+Doch zunächst möchte ich all diejenigen bitten, die
+
+sind registrierte Nutzer, die bitte abstimmen oder
+sich zu unserer Publikumsfrage zu äußern
+
+dieser Sitzung. Und diese Frage lautet: Sollte Ihrer
+Ihrer Meinung nach, sollte der Verursacher zahlen,
+
+und das Verursacherprinzip ohne Verzögerung in allen
+unverzüglich bei allen Verkehrsträgern umgesetzt werden? Und ich sehe, dass
+
+einige von Ihnen haben bereits gewählt. Aber lasst uns mehr
+auch darüber abstimmen. Sollte der Verursacher zahlen,
+
+und das Verursacherprinzip ohne Verzögerung in allen
+unverzüglich bei allen Verkehrsträgern umgesetzt werden. Bitte abstimmen
+
+ja oder nein. Und wir werden uns die Ergebnisse
+die Ergebnisse in wenigen Augenblicken ansehen.
+
+Doch nun ist es mir eine Freude, Ihnen unsere
+geschätzten Gäste vorzustellen. Und ich begrüße Meike Jipp,
+
+der Leiter der Verkehrsforschung des Deutschen
+Zentrum für Luft- und Raumfahrt. Derzeit beurlaubt von ihrem
+
+Professur für Nachfrage und Auswirkungen des Verkehrs an der
+der Technischen Universität Berlin. Das können wir Ihnen bieten.  
+
+Und ich freue mich, dass Corina Apachite, Leiterin
+für künstliche Intelligenz und Big Data-Lösungen
+
+bei Big Continental Automotive. Ich hoffe, ich habe
+Ihren Nachnamen richtig ausgesprochen, Corina. Wenn nicht, bitte
+
+korrigieren Sie mich. Und schließlich Joanne Kubba, die in den
+in den Niederlanden für Uber tätig und zuständig für
+
+Europa, der Nahe Osten und Afrika.
+Und liebe Damen, und noch einmal,
+
+haben wir eine Sitzung nur für Frauen, was
+immer aufregend ist. Lassen Sie mich zunächst auf eine
+
+einen kurzen Blick auf die Ergebnisse zu werfen, bevor ich
+Ergebnisse zu sehen, bevor ich zu Ihnen komme. Und in der Tat,
+
+Bei weitem die meisten unserer registrierten Nutzer
+mit Ja gestimmt. Dass sowohl der Verursacher zahlt,
+
+und der Grundsatz "Nutzer zahlt" sollten
+ohne Verzögerung umgesetzt werden. Nur 8 % sagen Nein.
+
+So, und übrigens, meine Damen und Herren, ich hoffe sehr
+ich hoffe sehr, dass Sie uns auch die
+
+Fragen aus dem Publikum. Wir hatten ein kleines Problem
+Problem mit der Technologie für Publikumsfragen
+
+vorhin. Ich hoffe, dass wir das behoben haben. Also, liebe
+liebe Zuhörerinnen und Zuhörer, bitte senden Sie uns Fragen
+
+und wir werden versuchen, sie ein wenig später zu
+ein wenig später. Und zurück zum Titel dieses Beitrags
+
+und bitten Sie jeden von Ihnen, uns zu erzählen, was Sie und
+was Sie und Ihre Organisation derzeit tun
+
+um einen besseren, saubereren und gerechteren Verkehr
+für alle. Und wie sehen Sie die wichtigsten Prioritäten für
+
+das zu tun. Und wie immer möchte ich Sie bitten
+sich bitte kurz zu fassen, denn wir haben
+
+ein sehr begrenztes Zeitfenster für diese Sitzung.
+Ich spreche also von Antworten, die weniger als 3 Minuten dauern.
+
+wenn Sie so freundlich wären. Und
+Ich beginne mit Meike Jip.
+
+Herzlichen Dank für die Einladung. Und für
+die Möglichkeit, die Diskussion mit Ihnen hier in
+
+diese Konferenz. Aus meiner Sicht ist die wichtigste
+entscheidende Antwort auf Ihre Frage ist die ganzheitliche
+
+Ansatz, den Sie bereits in dem von Ihnen vorgestellten
+die Sie vorgestellt haben. Und das ist eigentlich das, was wir
+
+mit denen wir uns in unserem Institut beschäftigen. Also, wir
+analysieren die Lösungen, die wir erreicht haben.  
+
+Und wir betrachten die Auswirkungen dieser Lösungen in einem
+ein ziemlich breites Bild. Wir analysieren die Menschen,
+
+und wer diese Technologie nutzen will. Wir
+prüfen, ob die Infrastruktur zu den
+
+diese Lösungen. ob die Geschäftsmodelle passen,
+ob sie existieren. Und wir schauen auch auf die
+
+Rebound-Effekte. Nachdem wir die positiven Auswirkungen
+von Lösungen, aber nur in sehr begrenztem Maße.
+
+Und sie verursachen auch Rebound-Effekte
+die auf lange Sicht negativ sind.  
+
+Wir versuchen also, mit unserer Forschung zu tun,
+diese ganzheitlichen Effekte zu identifizieren. Und dann,
+
+natürlich auch Lösungen für diese Probleme bieten. Für
+Wenn wir uns zum Beispiel die automatisierten Spuren ansehen
+
+die in der Windschutzscheibe anderer Gleise fahren können.
+Sie haben natürlich die Idee, Energie zu sparen.  
+
+Aber wenn sie tatsächlich kosteneffizienter wären,
+erhöht sich auch die Anzahl der Spuren
+
+die auf diese Weise angetrieben werden. Und das ist
+genau einer dieser Rebound-Effekte.
+
+Wir können also tatsächlich Klimaneutralität für alle umsetzen
+für alle umsetzen, aber wir müssen unsere Lösungen in
+
+systemisch vorgehen und an alle Auswirkungen denken
+und ein ganzes Paket von Lösungen umsetzen.  
+
+Und dann werden wir diese Transformation bewältigen.
+Ich danke Ihnen vielmals. Und lassen Sie mich nun zu Corina übergehen.
+
+Apachit jetzt. Und würden Sie bitte meine
+meine Aussprache korrigieren und uns sagen
+
+was Continental in diesem Bereich unternimmt
+Bereich. Und auch, was Sie tun
+
+in Ihrem speziellen Bereich der KI und Big Data.
+Ja, sicher. Ich danke Ihnen vielmals. Ich danke Ihnen für
+
+heute zu sein. Mein Name ist Corina Apachite, das ist die
+Aussprache. Aber da ich all die großen Sachen mache.
+
+Fehler in der deutschen und englischen Aussprache,
+ist das in Ordnung. Aber die Mobilität bedeutet, dass es
+
+ein wichtiger Baustein für unsere zukünftige Mobilität.
+Und Spezialisten auf der ganzen Welt arbeiten daran
+
+auf die Weiterentwicklung bestehender Konzepte
+und neue Lösungen für Klima- und Hybridsysteme.  
+
+Um eine sichere, effiziente und
+Mobilität zu schaffen, müssen wir die
+
+Kompetenzen zur Energieoptimierung und
+Antriebsmanagement, Sicherheit, Informationsmanagement.
+
+Ich glaube, dass die Daten in diesem
+mein Verantwortungsbereich ist, werden
+
+zu einem intelligenten und nachhaltigen Verkehr beitragen
+auch zum Transport. Wie können wir das tun?  
+
+Die Daten, wenn sie zusammengefügt werden, können vielleicht helfen
+zu einer noch nie dagewesenen ganzheitlichen Mobilität. An
+
+dies aus der Perspektive und unter Berücksichtigung aller
+Abhängigkeiten und Wirkungen. Automatisch wird die
+
+Das Ministerium hat eine sehr komplexe Lieferkette. Und
+es gibt nur einen Teil der Mobilität, den wir
+
+Visionen für die Zukunft.
+Sehr oft versuchen wir, Teile der Produktion zu optimieren.
+
+unseres Systems, werden einige andere benachteiligt sein.
+Neue Technologien wie künstliche Intelligenz
+
+bereits zu einer vorausschauenden und optimierten
+Mobilitätslösungen bei. Stellen Sie sich vor, Sie könnten vorhersagen
+
+wie viele Personen bereit sind, jederzeit von A nach B zu gehen
+jederzeit. Und wir haben den Bus in genau dieser Größe
+
+um sie vor Ort abzuholen. Wir reduzieren die
+Emissionen, und wir stellen die Produkte in der Größe
+
+um die Aufgabe zu bewältigen. Es gibt die überdimensionierte
+Lösung, aber wir können die Bedürfnisse des Kunden erfüllen.  
+
+Und wir stehen vor Herausforderungen. Aber wir bekommen
+wie Big Data zur Hand, um sie zu meistern.
+
+Ich danke Ihnen vielmals. Sehr, sehr interessant
+in der Tat. Und jetzt möchte ich mit Joanne Kubba sprechen
+
+darüber, was Uber hier tut. Und wie Sie
+zu diesen drei verschiedenen
+
+sehr wichtige Ziele, die in unserem Titel genannt werden.
+Ich danke Ihnen vielmals. Und ich bin wirklich froh, hier zu sein.  
+
+Während unserer Zeit in Europa haben wir also wirklich hart daran gearbeitet
+hart daran gearbeitet, positive und nachhaltige Wege zu finden
+
+und mit Städten in ganz Europa zusammenarbeiten. Und auch,
+in Deutschland. Und wir haben auf diesem Weg viel gelernt.  
+
+Wir glauben, dass wir in Partnerschaft mit dem öffentlichen
+und den Städten ein Mobilitätsangebot schaffen können
+
+Ökosystem, in dem der Besitz eines privaten Autos
+entbehrlich wird. Die eigentliche Frage wird sein
+
+um die Frage, wie die Akteure der Mobilität die besten
+die besten und nachhaltigsten Dienstleistungen für die Verbraucher anbieten.  
+
+Einige von Ihnen haben es vielleicht schon gehört und wir sind
+wirklich stolz darauf, dass wir eine globale Nachhaltigkeits
+
+Verpflichtung im vergangenen Jahr, die eigentlich
+aus Europa heraus. Wir werden sehen, dass Uber
+
+neutral in Europa im Jahr 2030. Umstellung auf
+50% elektrische Fahrten auf unserer Plattform bis 2025.  
+
+Wir stellen auch 800 Millionen an Mitteln für Autofahrer bereit
+um Autofahrer beim Umstieg auf Elektrofahrzeuge zu unterstützen.  
+
+Aber wir können das nicht allein tun. Wir müssen in der Lage sein
+mit politischen Entscheidungsträgern und der EV-Industrie zusammenarbeiten
+
+um wirklich die Bedingungen zu schaffen, die uns dabei helfen
+Dinge wie die Bekämpfung des Mangels an
+
+einer geeigneten Ladeinfrastruktur, dem Mangel an
+erschwingliche und gebrauchte Elektrofahrzeuge.  
+
+Derzeit gibt es keine ausreichenden finanziellen
+Anreize, um die zwischenzeitliche Kostenlücke zu schließen.  
+
+Aber wir müssen auch dafür sorgen, dass es eine
+Politik, die den Übergang zu Elektrofahrzeugen erleichtert
+
+für Fahrer speziell in unserem Fall. Für
+zum Beispiel Subventionen für gebrauchte Elektrofahrzeuge
+
+oder emissionsbezogene Straßenbenutzungsgebühren, die
+die auf emittierende Fahrzeuge angewandt wird.
+
+Aber wir müssen auch sicherstellen, dass wir
+überholte nationale Vorschriften in Angriff nehmen
+
+die Ineffizienz verursachen und
+verhindern, dass Fahrer elektrifiziert werden.  
+
+Wir haben Regeln wie die Rückkehr in die Garage, die in
+Deutschland oder in Italien, die tatsächlich zu einer
+
+höher und manchmal sogar doppelt so hoch wie die
+gefahrenen Kilometer. Die Hälfte davon ohne Auto
+
+Passagier. Wenn Sie nun darüber nachdenken, bedeutet das für Elektro
+Fahrzeuge bedeutet das eigentlich doppelt so viele Ladevorgänge
+
+benötigt, weil das Fahrzeug leer ist.
+Wir sehen also eine Menge Möglichkeiten. Und ich denke
+
+dass vor allem Europa und die Städte rund um den
+und die Städte rund um den Weltraum sind wirklich
+
+in Angriff nehmen. Und wir wollen ein Partner für viele
+der Vordenker sein, die in diesem Bereich führend sind.
+
+Ich möchte gleich auf die Elektrifizierung zurückkommen
+Moment zurückkommen. Denn das ist eindeutig einer der wichtigsten
+
+Nexus-Räume, in denen Energie und Verkehr
+in Zukunft zusammenlaufen werden. Aber lassen Sie mich
+
+zunächst ein wenig mehr fragen. Und ich glaube, diese
+geht an, ich würde sagen, an Meike Jipp. Auch,
+
+mit Ihrem Überblick über Politik und Planung. Unsere
+Publikumsfrage. Der Nutzer zahlt und der Verursacher zahlt.  
+
+Ein etwas naiver Beobachter könnte sagen, warum ist das
+nicht schon geschehen? Also, was genau was
+
+Hindernisse müssen überwunden werden, damit dies geschieht
+dass dies geschieht und dass wir die externen Effekte und
+
+dazu beitragen, die Verantwortung für sie zu übernehmen.
+Und welchen Unterschied würde das machen?
+
+Ich habe tatsächlich gelächelt, als ich die Antwort
+auf Ihre Fragen aus dem Publikum sah. Die
+
+Grund dafür ist, dass zumindest unserer Erfahrung nach
+unserer Erfahrung, dass der politische Teil nicht
+
+funktionieren, wenn wir die Steuern tatsächlich erhöhen, um
+die Art von Verhalten zu bewirken, die wir wollten
+
+zu beobachten. Denn typischerweise in unseren
+Modellen ändert es die Modelle kaum.  
+
+Wir können die Menschen also nicht davon überzeugen, z. B,
+eine umweltfreundliche Art des Transports
+
+durch Erhöhung der Steuern für umweltschädliches
+unfreundliches Verhalten. Das ist eine völlig
+
+andere Sichtweise in Bezug auf den
+Energierahmen. Aber im Rahmen der Mobilität,
+
+es funktioniert kaum für die gesamte Bevölkerung.
+Natürlich kann es Unterschiede geben,
+
+von einem Menschen zum nächsten. Von einem Individuum
+zum nächsten. Aber in der großen Mehrheit tun wir das nicht.
+
+eine positive Wirkung solcher Bestrafungen beobachten.
+Und als Psychologe muss ich Ihnen sagen
+
+es gibt auch eine andere Sichtweise. Es ist auch eine
+das richtige Verhalten zu lernen und nicht nur
+
+die Bestrafung des Verhaltens. Wir müssen tatsächlich darüber nachdenken
+zwei verschiedene Arten von Lösungen zu kombinieren.
+
+In der Tat sehr, sehr interessant. Ich danke Ihnen
+dafür. Lassen Sie mich ein wenig tiefer bohren
+
+jetzt auf die Elektrifizierung. Und wie gesagt, das ist der Punkt
+hier wird die Verknüpfung sehr, sehr deutlich.  
+
+Joanne Kubba erwähnte einige der Hindernisse
+oder die Bereiche, in denen Verbesserungen erforderlich sind.  
+
+Aber ich möchte Sie alle bitten, sich dazu zu äußern
+zu äußern. Und auch dazu, wo Sie die Grenzen sehen
+
+zur Elektrifizierung des Mobilitätssektors.
+Was in gewisser Weise auch auf die Frage hinausläuft
+
+über die Rolle von grünem Gas und grünem Wasserstoff.
+Ob Sie glauben, dass dies zu einer
+
+zu einem wichtigen Konkurrenten im Verkehrswesen werden.
+Lassen Sie mich also vielleicht mit Corina beginnen
+
+Apachit und auch von den anderen eine Meinung einholen.
+Ja, genau. Also, die Elektrifizierungsmobilität braucht
+
+uns alle, um diese Entwicklung erfolgreich zu
+Entwicklung. Es geht nicht nur um
+
+Mobilitätsanbieter und Lieferanten. Aber auch der
+Endnutzer und die Menschen in der Gesetzgebung. Und
+
+wir alle müssen uns dieser Herausforderung stellen und
+die Lösungen bereitstellen, die Lösungen in
+
+ihr Leben. Und deshalb braucht es vielleicht mehr
+Zeit, als wir es gerne hätten. Dies ist
+
+ein Aspekt, den Sie akzeptieren müssen. Es
+braucht uns alle, damit dies gelingt
+
+mit dem gemeinsamen Ziel, das wir haben. Die Elektrifizierung
+ist auch eine Frage der Infrastruktur. Also,
+
+es muss die Möglichkeit haben, die
+die Elektrofahrzeuge wieder aufzuladen.  
+
+Es ist etwas, das die breite Masse erreichen muss.
+Jeder muss die Möglichkeit haben
+
+das Fahrzeug besitzen, um es zu benutzen. Aber
+es gibt Möglichkeiten, das zu korrigieren. Es gibt
+
+eine Herausforderung. Und es gibt verschiedene Aspekte und
+alle müssen ein bestimmtes Niveau erreichen. Es ist
+
+eine bestimmte Durchdringung zu erreichen, z. B. Ja zu sagen,
+ist es uns gelungen, uns auf dieses gemeinsame Ziel hin zu entwickeln.
+
+Und was auch wichtig ist, ist, der
+gewisse Technologiefreiheit zu lassen. Also, einfach
+
+Umweltziele sind wichtig, ja. Und
+wir müssen sie erreichen, um sie zu erfüllen. Aber
+
+ist es notwendig, die technologische
+Freiheit. Es liegt an jedem Akteur in diesem Bereich, die
+
+die entsprechende Technologie, die die
+z.B. die CO2-Ziele erreicht.
+
+Lassen Sie mich Ihnen eine Folgefrage stellen, die
+aus dem Publikum kam. In gewisser Weise,
+
+Es spielt auf den letzten Punkt an, den Sie genannt haben. Das
+die Prämisse dieser Frage ist die folgende.  
+
+E-Mobilität erfordert Synergien zwischen Ladepunkten
+Ladestationen und E-Netzen und eine angemessene für alle
+
+drei. Und gleichzeitig haben Sie über
+über technologische Freiheit gesprochen. Ich habe diesen Teil eingefügt.  
+
+Wie lassen sich die beiden Aspekte am besten betrachten und wie
+am besten zu konfrontieren, fragt der Zuhörer?
+
+Ich bin sehr angetan von künstlicher Intelligenz
+und der Nutzung von Daten. Und wenn wir anfangen
+
+diese Bereiche zu regulieren, dann wird eine Menge
+viele Experimente, viele Entwicklungen
+
+beigetragen werden. Also müssen wir es nehmen
+sehr vorsichtig sein in der Reihenfolge oder was tun?
+
+Die Regulierung von etwas, das es noch nicht gibt
+noch nicht existiert, wäre unerschwinglich. Und es gibt
+
+bestimmte Lösungen, die nicht entwickelt werden können. Die
+Ziele, ja. Wir brauchen eine technologische Freiheit
+
+um diese Ziele zu erreichen.
+Ich danke Ihnen. Ich danke Ihnen vielmals.  
+
+Joanne Kubba, Ihre Gedanken, zusätzliche Gedanken
+zur Elektrifizierung und zur Bewältigung der Herausforderungen.
+
+Ja, das stimmt. Also, ich meine, ich würde auf jeden Fall wieder auf
+auf viele der Punkte zurückkommen, die ich vorhin gesagt habe.
+
+ist, dass es wirklich entscheidend sein wird
+dass wir diese drei Elemente finden, wenn
+
+zur gleichen Zeit zusammen. Ich denke, es ist
+absolut richtig, dass wir die
+
+technologische Freiheit, um wirklich Fortschritte zu machen
+Fortschritt zu zeigen und die Nadel zu bewegen, was die
+
+die Dynamik der Gesellschaft wirklich sucht
+suchen. Aber auch, wenn wir etwas tun wollen
+
+große Veränderungen, damit die Menschen tatsächlich
+die richtigen Entscheidungen zu treffen. Und wir müssen schaffen
+
+Zugänglichkeit. So muss zum Beispiel sichergestellt werden,
+wenn es um fehlende Ladeinfrastruktur geht
+
+dass diese nicht einfach eingebaut oder in stark frequentierten
+Bereiche mit hohem Verkehrsaufkommen. Aber eigentlich,
+
+vielleicht in Gegenden platziert, in denen Menschen
+die sie nicht nur für den persönlichen Gebrauch nutzen würden,
+
+sondern für die eigentliche Arbeit. Also, Fahrer in Gemeinden
+wo sie leben, damit sie aufladen können und dann
+
+Teil des Beitrags, um sicherzustellen, dass
+wenn sie auf der Straße sind und auf einer Plattform verdienen,
+
+sie benutzen auch ein Elektrofahrzeug.
+Erschwinglichkeit. Und so sehe ich, dass diese Dinge
+
+gehen Hand in Hand. Sie stehen in engem Zusammenhang mit
+den staatlichen Vorschriften, die in den letzten Jahren
+
+und des privaten Sektors, sowie die
+Schaffung des rechtlichen Umfelds, um die
+
+diese Dinge zu fördern. Ich denke also, dass man unbedingt
+man die richtigen Freiheiten schaffen muss. Aber ich denke
+
+dass sie nicht getrennt durchgeführt werden können. All diese
+Dinge müssen gleichzeitig zusammenkommen.
+
+Und Meike Jipp, sprechen Sie die allgemeine Frage an,
+auch, wenn Sie möchten. Aber ich habe ein paar
+
+Fragen aus dem Publikum, die zusätzlich eingegangen sind
+eingegangen sind. Auch die Frage nach der Mobilität, die
+
+Synergien zwischen Herstellern, Ladepunkten und
+Ladepunkten und E-Netzen. Und vielleicht warte ich noch
+
+bis Sie diese Frage beantworten und dann die beiden anderen stellen
+denn sie führen uns von der Elektrifizierung weg.
+
+Was ich in meiner Antwort betonen möchte
+möchte ich den menschlichen Aspekt betonen.  
+
+Menschen treffen Entscheidungen darüber, wie sie sich
+mobil sind. Darüber, wie sie mobil sein wollen.  
+
+Der Mensch ist normalerweise an Routine gewöhnt. Zum Beispiel
+zum Beispiel ein Auto, weil sie es immer benutzt haben
+
+in den vergangenen Wochen, Monaten und Jahren. Wenn Sie also
+dieses Verhalten ändern wollen, müssen Sie die
+
+einen Anreiz. Und man muss sicherstellen, dass die
+Menschen das Recht haben, diese Veränderung zu gestalten.  
+
+Wenn Sie überzeugt sind, dass das Elektroauto Sie nicht
+Sie nicht an Ihr Ziel bringen wird, ist es sehr unwahrscheinlich, dass
+
+dass Sie es tatsächlich benutzen werden. Und es ist eigentlich
+ziemlich selten, dass Menschen wirklich prüfen, ob
+
+ihre mentalen Modelle sind korrekt. Sie glauben einfach
+glauben, dass es nicht funktioniert, und nutzen es nicht.
+
+Wir müssen also dafür sorgen, dass
+dass die Menschen die richtigen mentalen Modelle haben,
+
+und sie sehen die Möglichkeiten, die es auf unseren
+Straßen, die sich in der Entwicklung befinden.  
+
+Und sie davon überzeugen, dass es eine gute Idee ist
+Idee ist, es zu benutzen. Und zu diesem Zweck ist es auch
+
+nicht über die Infrastruktur. Wenn Sie überzeugt sind
+dass Sie keine Chance haben, ein Elektroauto zu nutzen,
+
+ist es unwahrscheinlich, dass Sie
+benutzen oder kaufen werden.
+
+Ja, das stimmt. Und das führt zurück zu Joanne Kubba's Punkt,
+wenn man es den Leuten leicht macht. Wenn man es
+
+an dem logischen, einfachen Ort, an dem sie
+erwarten oder sich freuen würden, sie zu finden,
+
+dann haben Sie offensichtlich eine Chance
+ihr Verhalten zu beeinflussen. Darf ich Sie fragen
+
+ein paar andere Fragen, die eingegangen sind
+gekommen sind. Eine davon, um auf Ihren Punkt zurückzukommen
+
+über die Besteuerung und das Anbieten von Anreizen. Und diese
+Frage ist, Professor Jipp, die Besteuerung von Verursachern
+
+ohne alternative Möglichkeiten zu bieten, ist
+ein Hindernis, und das gilt natürlich auch für
+
+wenn Sie Anreize bieten. Also, ja.
+Ja, Sie müssen die Möglichkeit dazu haben. Das ist
+
+richtig. Davon bin ich eigentlich ausgegangen. I
+habe eine Studie gesehen, die tatsächlich so aussah, als gäbe es
+
+neue Infrastrukturen für Radfahrer entwickelt. Das
+Problem war, dass niemand sie nutzte. Die Menschen
+
+immer noch ihr Auto benutzen, um zum Beispiel zu fahren,
+ins Stadtzentrum zu fahren. Und es gab
+
+etwas mehr in die Fahrradinfrastruktur.
+Und in dieser Stadt wurde eine App entwickelt.  
+
+Es wird automatisch verfolgt, ob die Nutzer
+mit dem Auto oder mit dem Fahrrad gefahren sind. Und wenn sie
+
+das richtige Verhalten mit ihrem Fahrrad gezeigt haben, haben sie
+Punkte gesammelt. Und wenn sie eine gewisse Punktzahl erreicht hatten
+
+Anzahl von Punkten, erhielten sie eine Belohnung, die
+anfangs eine Tasse Kaffee. Eine kleine Belohnung.
+
+Und nach einiger Zeit erhielten sie einen Preis
+für ihre Umweltfreundlichkeit
+
+Fahrradnutzer. Und das hat tatsächlich die Nutzung
+dieser Fahrradinfrastruktur. Das ist eine sehr einfache
+
+eine Möglichkeit, das richtige Verhalten zu belohnen. Und es ist
+einfach zu implementieren. Es ist gar nicht so schwierig.
+
+Und lassen Sie mich noch eine Publikumsfrage stellen
+die eine Frage der Planung ist. Aber die
+
+andere sind eingeladen, sich einzubringen, wenn sie es wünschen.
+Es geht teilweise auf das zurück, was wir besprochen haben
+
+in unserem Panel für lebenswerte Städte vor einer Weile
+heute Nachmittag. Wie wir Kohärenz erreichen zwischen
+
+städtische Infrastruktur und Planung und
+nationale Programme. Die Publikumsfrage lautet also
+
+liest: Wie kommt man zu einer intelligenten Mobilität
+wenn die meisten Länder mehr in die Infrastruktur investieren
+
+für zusätzliche Mobilität als in Dinge wie
+Bürgersteige und Radwege. Nun, Bürgersteige und Radwege
+
+Fahrspuren sind oft städtische Entscheidungen. Während nationale
+politische Entscheidungsträger in einem anderen Rahmen arbeiten.  
+
+Zunächst einmal an Sie, Meike Jipp, wie können wir
+als es im Moment der Fall ist, besser vernetzen?
+
+Aus meiner Sicht ist es am besten
+der beste Weg, die guten Beispiele zu zeigen.  
+
+In die Welt schauen und sehen, in welcher Stadt welche
+Lösung in welcher Stadt umgesetzt wurde. Wie hat
+
+es funktioniert? Und war die Stadt erfolgreich? Und ist diese
+Lösung auf meine Stadt übertragbar? Und auf meinen Staat?  
+
+Und wenn man die richtigen Personen erreicht, das ist natürlich
+natürlich ein großer Punkt, wir haben die Chance, auch
+
+die nationalen Systeme zu ändern. Es ist eine
+Herausforderung, natürlich. Es braucht auch
+
+Zeit. Aber meine Erfahrung ist, wenn man die guten
+Beispiele hat, und wenn die Leute sehen, wie diese Beispiele
+
+auch ihre Lösungen lösen werden, besteht die
+eine Chance, dass es, wie ich schon sagte, Zeit braucht.
+
+Eine weitere Frage aus dem Publikum, die in gewisser Weise
+denselben Punkt anspricht. Und es geht um die
+
+Komplexität der Herausforderung der Dekarbonisierung
+im Verkehrsbereich. Also, vielleicht kann ich
+
+Joanne Kubba, weil es auch eine Verbindung zu
+auch. Wer sind die Hauptpersonen, mit denen Sie sprechen?  
+
+Ist es auf städtischer Ebene? Ist es auf nationaler Ebene? Ist es beides?
+Und werden Sie in gewisser Weise selbst zum
+
+ein Vektor für die Weitergabe bewährter Praktiken? Ist
+Gibt es einen gewissen Grad, in dem Sie vorschlagen können, na ja,
+
+Wir haben hier eine interessante Lösung gesehen.
+Lösung gesehen, die hier verwendet wird? Denken Sie darüber nach.
+
+Ganz genau. Wir arbeiten sowohl auf Stadtebene als auch
+sogar auf nationaler Ebene. Aber auch,
+
+sogar auf EU-Ebene. Ich denke also, dass es wichtig ist
+wirklich wichtig, dass wir uns nicht isoliert
+
+in ein einziges Gespräch zu verwickeln. Das ist eigentlich
+einer der Hauptgründe, warum ich so gerne arbeite
+
+bei einem großen Unternehmen wie Uber. Weil die Auswirkungen
+der Einfluss, den man im Gespräch haben kann, ist so vielfältig
+
+und dynamisch. Denn wie gerade gesagt wurde, ist es
+wirklich wichtig für uns zu verstehen, wie
+
+Städte bewegen sich. Verschiedene Städte bewegen sich
+auf unterschiedliche Weise. Und es ist wirklich wichtig, dass
+
+wir sind in der Lage, Städte zu verstehen und mit ihnen zusammenzuarbeiten
+und nationalen Regierungen bei der Umsetzung
+
+Lösungen auf praktischer Ebene, die für die
+für die Dynamik dieser Stadt. Aber auch,
+
+müssen wir mit dem Laser arbeiten und verstehen, was
+was Sie von einer strategischen Ebene aus denken.
+
+Ich denke, dass wir ein Vektor sind, und das ist
+sehr treffend. Weißt du, es gibt eine Menge, was wir tun können.
+
+in der ganzen Welt voneinander lernen. Und
+Ich denke, einer der Vorteile einer großen
+
+Global Player ist, dass wir in der Lage sind, Beispiele zu sehen
+die von verschiedenen Orten kommen. So,
+
+In Dallas haben wir zum Beispiel schon früh eine große
+Transitpartnerschaft durchgeführt, die es uns ermöglichte
+
+mit dem Dart-System arbeiten, um den Nutzern die Möglichkeit zu geben
+die Wahl zwischen Uber und dem nächstgelegenen öffentlichen Verkehrsmittel
+
+Punkt. Und von dort aus eine Transitlösung nehmen.
+Technologie als Anreiz für die Menschen nutzen
+
+sich nachhaltiger zu bewegen, ist etwas, das
+etwas, das wir meiner Meinung nach tun können
+
+Hand in Hand und lernen von verschiedenen Städten
+der Welt zu lernen. Wir haben auch eine Menge
+
+aus dem, was wir in einer Stadt in Europa gemacht haben, gelernt
+und diese auf andere Städte übertragen. Und
+
+dann auch in Bezug auf Daten und wie man sie versteht
+Daten und Stadtplanungsdaten zu verstehen, ist etwas
+
+bei denen wir wirklich mit den Städten zusammenarbeiten wollen.
+Ich denke also, dass diese Gespräche unbedingt notwendig sind.
+
+dynamisch auf allen Ebenen und sehr vielseitig.
+Ich danke Ihnen vielmals. Und die letzte Frage geht an
+
+an Sie, Corina Apachite, mit der Bitte
+mit der Bitte um eine etwas kürzere Antwort.  
+
+Diese komplexe CO2-Herausforderung bedeutet natürlich
+für ein Unternehmen wie das Ihre wirklich in vielerlei Hinsicht
+
+sein eigenes Geschäftsmodell zu transformieren. Also, lassen Sie mich
+eine Art zweiteilige Frage stellen. Ganz allgemein,
+
+Wie wird das Geschäftsmodell Ihrer Meinung nach aussehen?
+sagen wir, in 10, 15, 20 Jahren? Und zweitens,
+
+innovative Lösungen innerhalb des Unternehmens. Wie können
+Sie sie testen und ausbauen? Weil ich I
+
+hatte Ende letzten Jahres ein sehr interessantes Gespräch
+Ende letzten Jahres mit niemand Geringerem als Elon Musk
+
+auf die große Batteriefabrik, die er hier
+hier außerhalb von Berlin baut. Und er sagte
+
+die größte Herausforderung für sie ist
+die Ausweitung von Pilotprojekten. Innovative neue Ideen.
+
+Die letzte Frage geht also an Sie zu diesen beiden
+diese beiden Aspekte. Die Umwandlung der
+
+Geschäftsmodell im Allgemeinen und dann die Erprobung
+innovative neue Möglichkeiten zu testen und zu skalieren.
+
+Also, zum ersten Teil der Frage.
+Geschäftsmodelle in den innovativen Geschäftsmodellen.  
+
+Sie sind viel beweglicher geworden. Abgeleitet
+aus den Bedürfnissen der Kunden. Sie sind nicht von
+
+Ingenieure, die zuvor gearbeitet haben, um
+erfolgreich zu sein. Bezogen auf den zweiten Teil
+
+der Frage, da stimme ich zu. Es ist ziemlich schwer, die
+diese Schwelle von einem Prototyp zu einem bestimmten
+
+Massenkonsum für alle. Wir haben verschiedene
+Stufen mit dem Continental. Wir werden etwas ausprobieren
+
+in der IT-Abteilung, mit der ich zusammenarbeite, um
+in eine größere Gemeinschaft des Continental zu übertragen.  
+
+Wir haben auch verschiedene Partner. Universitäten
+mit öffentlichen Alternativen. Und das ist, wie wir
+
+das innovative Produkt zu erweitern. Und so, indem wir
+Schritt für Schritt hoffen wir, dass wir die richtigen
+
+Innovationen auf der Straße, auf der Straße.
+Und um einen Beitrag zu einem sichereren, saubereren und
+
+intelligenteren Verkehr von morgen.
+Meike Jipp, ich habe Sie so nachdrücklich nicken sehen
+
+als ich die Skalierung erwähnte, denke ich, dass ich mich
+Sie um ein letztes Wort zu diesem Punkt bitten.
+
+Ich denke, es ist ein entscheidender Punkt, die Skalierung.
+Und aus meiner Sicht ist der wichtigste Punkt
+
+ist, dass wir in einem frühen Stadium der Entwicklung
+Welt in einem frühen Stadium der Entwicklung
+
+der Systeme. Prüfen Sie, ob unsere Ideen
+über die Lösungen tatsächlich gültig sind.  
+
+Wie reagieren die Menschen bei ihren Lösungen? Und
+was könnte meine Idee eigentlich ruinieren?  
+
+Und wenn das eine Idee war, die so gut ist, dass niemand
+etwas Negatives über sie sagen kann.  
+
+Und darüber hinaus die reale Welt in einem
+Welt in einem repräsentativen Rahmen. Diese verschiedenen
+
+Städte zum Beispiel auch einen Teil des städtischen Raums nutzen
+und konfrontieren die reale Welt mit diesen Ideen.
+
+Und wenn diese Idee dort überlebt, bin ich sicher
+werden wir sicher auch die Skalierung hinbekommen.
+
+Ich danke Ihnen. Vielen, vielen Dank an alle drei
+Damen für diesen sehr aufschlussreichen Austausch.  
+
+Ich freue mich sehr, dass Sie an dieser Diskussion
+an dieser Diskussion teilnehmen konnten und wünsche Ihnen alles Gute.
+
+

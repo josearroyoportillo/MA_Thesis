@@ -1,0 +1,772 @@
+Elektrizitätsnetze weltweit verzeichnen
+einen dramatischen Anstieg der Stromnachfrage.  
+
+Solar- und Windenergiekapazitäten werden
+weltweit täglich in großem Umfang hinzu.  
+
+Gleichzeitig hat die Digitalisierung tiefgreifende Auswirkungen auf den
+den Energiesektor und verbindet jeden mit allem,
+
+mit vielen neuen Marktchancen.
+Kluges Marktdesign hilft, diese zu nutzen
+
+Chancen bei Prosumer-Modellen. Aber
+es gibt auch Risiken wie neue Monopole.  
+
+Wie können diese neuen Paradigmen kombiniert werden
+um die Energiewende zu beschleunigen?
+
+Das ist in der Tat unser Thema. Ich glaube, ich muss Sie kaum
+muss ich Sie wohl kaum daran erinnern, meine Damen und Herren,
+
+dass intermittierende, verteilte
+Messung erneuerbarer Energiequellen
+
+stellen eine Herausforderung für einen Markt dar, der vor einem
+der vor einem Jahrzehnt für eine von fossilen Brennstoffen angetriebene Welt geschaffen wurde.  
+
+Wie kommt diese Branche von vorhersehbaren
+Erzeugungsmodellen zu einem weitaus variableren Netz
+
+die auf Angebot und Nachfrage sowie auf die Umwelt reagiert?
+Umwelt reagiert? Die digitalen Technologien, wie wir sie
+
+gerade durch den Film in Erinnerung gerufen, sind ein sehr wichtiger Teil
+dieser Lösung, und die Akteure der gesamten Wertschöpfungskette
+
+sind dabei, sie zu übernehmen. Zur Erleichterung und Ausweitung
+Bemühungen zu erleichtern und zu verstärken, werden kohärente politische Signale
+
+absolut entscheidend. In diesem Panel wollen wir also
+wollen wir die Lage auf dem Markt betrachten und sowohl
+
+Vorteile und Risiken. Wie kann eine intelligente Marktgestaltung
+die Chancen für grüne Geschäftsmodelle maximieren
+
+und welche Risiken und Herausforderungen auch mit der
+bei der Digitalisierung der Energiesysteme. Und
+
+wir haben ein hervorragendes Gremium. Ich werde sie
+sie gleich vorstellen, aber ich möchte
+
+um einen Blick darauf zu werfen, wie Sie auf die erste
+ersten unserer Publikumsumfragen. Wir haben Sie gefragt, welche
+
+Objekte und Wörter kommen Ihnen in den Sinn, wenn Sie an
+an intelligente Energiemarktdesigns denken, und Sie sind bereits
+
+diese Frage eifrig zu beantworten. Ich werde Ihnen
+ein wenig mehr Zeit geben, während ich Ihnen
+
+unsere Diskussionsteilnehmer, und dann werden wir zurückkommen
+und sehen uns die wichtigsten Wörter und Begriffe an
+
+die Sie für wichtig halten. Deshalb werde ich mich jetzt
+Einführungen wirklich kurz halten, damit wir möglichst
+
+Zeit für Diskussionen. Und es ist mir eine große Freude, den
+den Vizeminister des vietnamesischen Ministeriums für
+
+Industrie, Energie und Handel. Der ehemalige Präsident
+und CEO des nationalen Lastverteilungszentrums Vietnams
+
+für Elektrizität. Es ist großartig, bei uns zu sein
+Antonella Battaglini, CEO des Verbandes für erneuerbare Energien
+
+Grid-Initiative, einer Zusammenarbeit von NGOs
+und ÜNB aus ganz Europa zur Förderung nachhaltiger
+
+Netzentwicklung. Schön, Sie bei uns zu haben.
+Ich freue mich auch sehr, Stefan Kapferer, CEO
+
+von 50 Hertz. Und schließlich, sehr erfreut, dass
+Jo-Jo Hubbard zu uns stoßen kann. CEO und Mitbegründer von
+
+Electron, einer digitalen Startup-Plattform, die
+Nutzer über mehrere Märkte und Netze hinweg verbindet. Also
+
+Lassen Sie uns schnell zu dieser Wortwolke zurückkehren
+und sehen wir uns an, was unser Publikum denkt
+
+die wichtigsten Wörter und Begriffe, die ihnen einfallen
+die ihnen einfallen. Dezentralisierung, optimierte Netze,
+
+Mikronetze, Nachfrageflexibilität, intelligentes Netz.
+Und im Kleingedruckten steht alles von intelligenten
+
+Messung der Sektorkopplung, Preisgestaltung in Echtzeit,
+Flexibilität ist hier absolut entscheidend, Suffizienz
+
+und mehr. Mit all dem im Hinterkopf, liebe
+möchte ich Sie nun alle fragen, welche Herausforderungen
+
+die Sie durch das derzeitige Marktmodell aufgeworfen sehen und
+wo Sie die Vorteile eines Marktdesigns sehen
+
+die in der Tat die Anwendung der digitalen Technologien
+Technologien erleichtert. Und ich beginne mit dem vietnamesischen
+
+Herr Vizeminister. Bitte, Sir, fahren Sie fort. Übrigens
+Übrigens, liebes Gremium, wie immer sind wir super kurz
+
+pünktlich. Unser Zeitfenster für dieses Panel beträgt insgesamt 30
+Minuten, also bitte ich Sie, die Zeit einzuhalten.
+
+Ihre Ausführungen wirklich kurz, zwei bis drei Minuten
+maximal, wenn Sie möchten. Bitte, fahren Sie fort, Herr Hoang
+
+An.
+Ich danke Ihnen vielmals. Es ist
+
+Ich freue mich, am Berliner Energiewendedialog
+Transition Dialogue teilzunehmen. In Vietnam ist die
+
+Energiemarkt ist eines der wichtigsten Instrumente
+zur Erleichterung der Beteiligung der
+
+und auch das Stromsystem. Deshalb hat die
+Regierung Vietnams hat einen Fahrplan für die
+
+bis zum Jahr 2040 die ? Und
+grundsätzlich in Vietnam wie in anderen Ländern,
+
+der erste ist der Strommarkt. Und der nächste Strom
+Markt durch die Einführung der Strommarktregion, wir
+
+am Ende alle ? in das Stromnetz eindringen.
+Und so bieten wir Schritt für Schritt die Wahl für die
+
+Kunde. Ist der zugelassene Kunde, kann er
+einen Lieferanten auswählen und dann am Ende des
+
+Wir behandeln den Kunden auch wie einen
+einen Haushalt. Sie wählen ihren Lieferanten vielleicht als
+
+gut. Dieser Fahrplan ist also sehr wichtig für
+und steht im Einklang mit dem Prozess im Energiesektor,
+
+die in den letzten Jahren immer mehr an Bedeutung gewonnen hat?
+(unhörbar)
+
+In Anbetracht dessen haben wir auch einen Fahrplan
+für den Energiemarkt, und wir haben die
+
+Markt für den Primärbrennstoff für die Volkswirtschaft
+Wirtschaft und auch den Energiesektor. Also mit
+
+dieses intelligente Marktdesign, sehr wichtige Instrumente, um
+die Durchdringung des Marktes zu erleichtern, um die
+
+Investitionen dieses Sektors in den Stromsektor
+und Energiesektor. So wie in anderen Ländern,
+
+wir haben in der Vergangenheit eine internationale Gelegenheit
+wie z.B. ? und jetzt befinden wir uns im Bündelungsprozess
+
+zum Übergang. Und die Verteilung?
+(unhörbar)
+
+Zusammen mit dem brauchen wir also ein digitales System
+und ein ausgeklügeltes IT-System für den Markt.
+
+und auch für den Bau. Also ein intelligenter Fahrplan
+die auch von der vietnamesischen Regierung unterstützt wird, und
+
+wir bewegen uns auch auf dem Mikroweg
+und auch den Managementprozess.
+
+Ich danke Ihnen.
+Die Entwicklung eines
+
+Stromnetz in Vietnam. Und wir
+sehen ohne die ausgeklügelte
+
+Hard- und Software, konnten wir den erfolgreichen
+erfolgreichen Strommarkt und damit zusammen,
+
+Wir haben ein wirklich ausgeklügeltes und modernes System für
+den Systemmarktbetreiber und die
+
+einer der Erfolge Vietnams,
+wenn wir den Strommarkt einführen, ist, dass wir
+
+reduzierte die ??
+(unhörbar)
+
+Von 100 % in der Vergangenheit auf jetzt 46 %. Ich denke also
+denke, dass in Zukunft nicht der private Sektor
+
+Produzenten erhöht werden? und ich denke, das ist
+sehr konsequente Politik der vietnamesischen Regierung.
+
+Ich danke Ihnen. Ich danke Ihnen vielmals. Ich danke Ihnen sehr
+vielen Dank. Ich gebe jetzt weiter an Antonella Battaglini,
+
+denn wie ich schon sagte, arbeiten Sie in ganz
+Europa. Ich würde also gerne sehen, welche Herausforderungen
+
+wenn man sich die verschiedenen Länder und
+und Strommärkten. Inwieweit sind die Stromnetze
+
+und Märkte in der Lage sind, wachsende Mengen
+und was muss geschehen?
+
+Vielen Dank für die Einladung
+und Ihre Frage. Also,
+
+Natürlich gibt es große Unterschiede von einer
+Region zu einer anderen. Ich darf mich auf Europa beziehen, obwohl
+
+gibt es auch Ähnlichkeiten mit anderen entwickelten
+Märkten. Es ist wichtig zu betonen, dass
+
+Märkte, Energie und Infrastruktur müssen Hand in Hand
+Hand in Hand entwickelt werden. Der steigende Anteil von
+
+zuverlässigen erneuerbaren Energiequellen im System
+System bringt zwar einige Herausforderungen mit sich, aber auch
+
+bietet eine Fülle von Möglichkeiten. Was
+möchte ich betonen, dass heute
+
+Es besteht ein klarer Bedarf für den Ausbau des
+Stromnetzes auf allen Spannungsebenen
+
+denn viele der zuverlässigen erneuerbaren Energien sind
+auch auf der Niederspannungsebene angeschlossen sind,
+
+aber diese Mengen an erneuerbaren Energiequellen
+Energiequellen müssen von einem Gebiet zum anderen transportiert werden.
+
+in ein anderes Gebiet. Im Allgemeinen von dort, wo sie
+wo sie erzeugt werden, bis zu dem Ort, an dem sie verbraucht werden.  
+
+Zugleich erfordert ein System, das zunehmend
+auf erneuerbaren Energien basiert, natürlich eine
+
+verschiedene Mechanismen, einschließlich Marktmechanismen.
+Diese müssen sein? die Märkte müssen sein
+
+aktualisiert und umgestaltet, um die Flexibilität zu nutzen
+und Flexibilität zu ermöglichen. Alle Arten von Flexibilität
+
+benötigt wird, wird heute benötigt und die ??
+mehr, Flexibilität wird wahrscheinlich sein
+
+die wertvollste Ressource, die wir haben.
+Und das sollte sich auch auf dem Markt widerspiegeln.  
+
+Zusätzlich möchte ich die Tatsache erwähnen
+dass heute weder die Netzinfrastruktur noch der Markt
+
+Entwürfe vollständig repräsentiert sind, ja, vollständig
+vertreten und berücksichtigen alle potenziellen
+
+Optionen, die durch verteilte Ressourcen genutzt werden können
+Ressourcen. Wir haben noch einige Schwierigkeiten bei
+
+Modellierung verteilter Ressourcen, und das ist
+etwas, das sich sehr schnell ändern muss.  
+
+Verteilte Ressourcen, nicht nur verteilte
+Erzeugung, sondern auch verteilte Flexibilität
+
+sind wichtige Elemente, nicht nur um das
+das System stabil zu halten, um es schnell zu dekarbonisieren, sondern
+
+auch um die öffentliche Akzeptanz zu erhöhen. Wo es
+gibt es eine sehr deutliche Nachfrage, vor allem in Europa,
+
+aber nicht nur, für die Beteiligung der Gemeinden
+und der Bürger an dieser Energiewende. Also,
+
+Die größte Herausforderung sehe ich in der
+mit dem Timing zusammenhängt. Wir müssen schneller werden
+
+den Aufbau der Energieinfrastruktur. Wir
+müssen dies in Zusammenarbeit planen.  
+
+Und wir müssen die Märkte in der Welt verbessern.
+Produkte bewegen, auch Flexibilitätsprodukte.
+
+Ich danke Ihnen vielmals. Lassen Sie mich diese
+Bemerkungen und gehe direkt über zu Stefan
+
+Kapferer. Aus Ihrer Sicht als einer der Übertragungsnetzbetreiber
+mit dem größten Anteil an erneuerbarem Ökostrom,
+
+was sind Ihrer Meinung nach die Herausforderungen und
+die Lösungen, um die Art von Wissen zu erwerben
+
+Flexibilität, von der Antonella Battaglini gerade gesprochen hat
+gerade gesprochen hat? Sie sagte, wir sind nicht
+
+das Beste aus den sich bietenden Chancen zu machen
+vorhanden sind. Wie kann die Digitalisierung das ändern?
+
+Ich denke, es gibt drei Themen, Melinda.
+Das erste ist die Einführung der Infrastruktur
+
+so effizient wie möglich. Und wir alle wissen, dass
+dass es im Laufe des Jahres einige Zeiträume gibt, in denen das Netz
+
+Infrastruktur, wo sie nicht wirklich effizient genutzt wird
+und dass die Digitalisierung uns dabei helfen kann. Dynamisch
+
+Leitungsbewertung, bei der wir eine Menge Daten über die
+Temperatur, und die Temperatur ist, natürlich,
+
+ein begrenzender Faktor für die Netzinfrastruktur ist
+relevant. Das zweite Thema ist die Sektorkopplung. I
+
+war ein wenig überrascht, Melinda, dass dieses Wort
+in der Wortwolke so klein geschrieben war, weil
+
+offensichtlich ist die Sektorkopplung ein äußerst relevanter
+Aspekt für die Zukunft. Power-to-Heat-Technologien.  
+
+Power-to-Gas-Technologien, Wasserstoff in Bezug auf die
+Industrie. Eine Schlüsselrolle, um zwischen Produktion
+
+der erneuerbaren Energien und gleichzeitig die Nachfrage
+geringer ist, wird unmittelbar sein. Und der letzte Aspekt,
+
+und es wurde natürlich von Antonella erwähnt,
+ist die Verwaltung der Flexibilität. Und das
+
+Die Situation ändert sich jetzt sehr schnell, denn in ein paar
+einigen Jahren werden wir in unserer Regelzone in der
+
+Ostdeutschland, Millionen von Elektrofahrzeugen
+Fahrzeuge. Wir werden Millionen von Wärmepumpen sehen.  
+
+Die Speicherkapazitäten zu Hause werden immer billiger
+und billiger. Was also wird jetzt für die Verwaltung benötigt
+
+diese Art von Flexibilität in Zukunft zu erreichen, ist
+das richtige Gleichgewicht zwischen Echtzeitpreisen zu finden,
+
+die einen Anreiz bieten, diesen billigen Strom zu nutzen
+Strom zu nutzen, wenn er auf dem Markt ist, und die
+
+Verbrauch, wenn der Strom teurer ist.
+Und auf der anderen Seite brauchen wir für dieses Gleichgewicht
+
+eine Situation, in der wir noch die
+die Stabilität des Systems. Unser Ausgleich
+
+Verpflichtungen, die natürlich auch
+in einem dezentralisierten oder stärker dezentralisierten
+
+sehr komplexes System in der Zukunft.
+Herzlichen Dank, Stefan Kapferer. Als großer Fan
+
+der Sektorkopplung, lassen Sie mich nur sagen, dass vielleicht
+sie größer wurde, als wir uns von der Wortwolke entfernten,
+
+denn ein großer Teil des Publikums war noch
+noch abstimmen. Wir werden uns das also noch einmal ansehen
+
+vielleicht zu einem späteren Zeitpunkt. Lassen Sie mich jetzt zu Jo-Jo
+Hubbard. Und für Sie als Pionierin
+
+Start-up in diesem Sektor, welche Marktregeln
+und Strukturen sind Ihrer Meinung nach am nötigsten
+
+des Wandels und was sind die vielversprechendsten
+Lösungen, um diesen Wandel zu erreichen?
+
+Melinda, hallo. Vielen Dank, dass ich dabei sein darf. Also ich
+ich denke, es passt direkt zu dem, was Stefan gerade gesagt hat.
+
+über den Übergang zu Echtzeit-Preissignalen
+zu granularen Preissignalen, aber vor allem auch zu
+
+lokale Preissignale. Einer der großen Gewinner
+dieser Wortwolke war die Dezentralisierung
+
+mit einem "S" und einem "Z", und ich glaube, es wäre
+wäre größer gewesen, wenn wir uns alle auf die Schreibweise geeinigt hätten.  
+
+Ganz einfach gesagt, sind die heutigen Strommärkte und Preissignale
+Signale sind zu ungenau, um Anreize für die
+
+Netzkapazität auf lokaler Ebene. Wir haben also
+Billionen von Euro für die Aufrüstung von
+
+und den Ausbau lokaler Netze für all diese neuen
+Vermögenswerte zu verbinden und diese neue Art von
+
+von Geschäftsmodellen mit Sektorkopplung, und,
+jedes Heizpaneel, jede Batterie, jedes elektrische
+
+Ladestation in der Lage ist, auf recht
+auf recht detaillierte Preissignale reagieren. Sie ist in der Lage
+
+auf diese Märkte nahezu in Echtzeit zu reagieren, also
+Diese Art von Flexibilität muss einfach diese
+
+Preissignale. Und ich denke, wir sehen
+einige davon eingeführt werden. Wir sehen
+
+Artikel 32, der lokale Optimierungsmärkte verlangt.
+Seit diesem Jahr sehen wir in Großbritannien eine Menge
+
+und Australien und jetzt auch in Nordamerika,
+Nordamerika über die Widerstandsfähigkeit. Wir sind absolut
+
+auf diese Märkte zurückgreifen müssen, um
+um wahrscheinlich etwa 30% der Erzeugung zu optimieren
+
+und wahrscheinlich wird der Großteil der Nutzung
+wird auf lokaler Ebene stattfinden.
+
+Herzlichen Dank dafür. Ich würde gerne
+eine zweite, wirklich kurze Fragerunde, die
+
+ermöglicht es uns, ein wenig tiefer einzutauchen und noch konkreter zu werden.
+noch konkreter werden, aber ich habe auch ein Auge auf
+
+die Uhr. Wir haben noch etwa zehn Minuten, also
+werde ich alle bitten, sich sehr kurz zu fassen, wenn
+
+Sie würden mit Ihren Antworten auf diese Fragen,
+aber lassen Sie mich noch einmal mit dem Vizeminister beginnen,
+
+Herr Hoang An, ich möchte Sie bitten, ganz konkret darüber zu sprechen
+was Sie in Vietnam tun, um dieses Ziel zu erreichen.
+
+Flexibilität, die von allen Diskussionsteilnehmern
+betont hat, ist so wichtig, insbesondere
+
+Einbindung kleinerer dezentraler Erzeuger in das
+das Netz. Also, bitte, machen Sie weiter und, Sir, wenn Sie
+
+nicht länger als zwei Minuten dauern würde. Ich danke Ihnen.
+Ja, ich muss zugeben, dass wir vorausgesehen haben.
+
+viele Herausforderungen bei der
+Durchdringung der erneuerbaren Energien.  
+
+Und wir sind immer noch dabei, Maßnahmen zu entwickeln, wie wir
+besser an das Stromsystem anpassen können. Und eine der
+
+Herausforderungen besteht darin, diesen sicheren Betrieb
+mit dem Stromsystem zu gewährleisten. In Bezug auf Vietnam,
+
+wir haben fast ?? Zusammenarbeit mit den lokalen
+Ländern, und die Stromsysteme der Länder konnten nicht
+
+Vietnam unterstützen. Das ist wirklich anders als
+mit dem europäischen System. Das ist das erste.  
+
+Und die zweite ist, dass in Bezug auf den Markt,
+wie die neue Marktentwicklung der erneuerbaren Energien angenommen
+
+Energielösung. Dies ist eine weitere der
+Herausforderungen. Das ist es also, was wir wirklich tun müssen.
+
+Ich danke Ihnen vielmals. Und ich werde nun
+die anderen bitten, ebenfalls konkrete Informationen
+
+Fälle und Beispiele, wenn Sie möchten,
+über die Anpassung an ?? für eine intelligente
+
+Marktgestaltung. Und vielleicht vor allem,
+an Stefan Kapferer zu dem, was Sie bei uns machen
+
+50 Hertz, um dem grünen Strom und der
+und der zunehmenden Digitalisierung gerecht zu werden.  
+
+Ich glaube, du bist stumm geschaltet, Stefan. Stefan?
+Das tut mir leid, Melinda. Drei sehr deutliche
+
+Antworten auf diese Fragen. Und hinter mir können Sie
+sehen Sie unser Ziel, die 100%ige Deckung eines Stromnetzes
+
+Nachfrage in unserem Gebiet im Jahr 2032. Dies wird nur
+mit mehr Flexibilität im System funktionieren.  
+
+Zunächst prüfen wir gemeinsam mit den örtlichen Versorgungsunternehmen
+in Deutschland, wir haben Strom zu Wärme für einige
+
+lokalen Gemeinschaften in diesem Gebiet. Zweiter Aspekt,
+Dekarbonisierung bedeutet Energie in Bezug auf die Industrie
+
+zu ganz konkreten Projekten mit der Stahlindustrie in
+Hamburg, mit der Chemie in der Mitte von Deutschland.  
+
+Beide Branchen sind an grünem Wasserstoff interessiert
+weil sie die Elektrifizierung nur schwer aufhalten können.  
+
+Wir arbeiten also zusammen, um
+Elektrolyseure in diesen Bereichen. Die Herstellung
+
+von Wärmepumpen in Deutschland und ein Autohersteller
+war Elektrofahrzeuge, um diese Millionen zu betrachten
+
+der dezentralen Kapazität des Stromanstiegs
+in der Zukunft. Das ist etwas, das eine mittlere
+
+und langfristige Perspektive, aber das wird aus meiner
+auch aus meiner Sicht äußerst relevant.
+
+Ich danke Ihnen vielmals. Und an Antonella Battaglini,
+haben Sie eine oder zwei Fallstudien, die Sie
+
+teilen Sie uns mit, wo Sie einen sehr
+den effektiven Einsatz neuer Technologien gesehen haben, um an
+
+einige der Herausforderungen, über die wir hier sprechen?
+Ich denke auch daran, Sie um folgende Informationen zu bitten
+
+Fallstudien, dass BETD, unter anderem,
+sich um bewährte Praktiken dreht. Wenn Sie also
+
+ein paar bewährte Praktiken, die Sie nennen könnten
+zitieren könnten, wäre das sehr hilfreich, denke ich.
+
+Ich möchte die Arbeit erwähnen, die wir
+die wir mit den Großverbrauchern begonnen haben.  
+
+Kürzlich habe ich mich vor allem mit Google
+wegen ihrer 24/7-Visionen. Welche ist,
+
+meines Erachtens ein revolutionärer Ansatz.
+Google hat sich von seiner Verpflichtung, ein
+
+vollständig erneuerbar zu 24/7 vollständig
+dekarbonisiert. Dies bedeutet, dass es eine
+
+kritischen Gegner, und wir versuchen
+arbeiten wir daran, große Mengen an
+
+Verbraucher, die ähnliche Ziele verfolgen, und um
+herauszufinden, was genau vom Netz benötigt wird
+
+um diese Ziele zu erreichen, sondern auch
+auch was diese Großverbraucher bieten können
+
+der Stabilität und Sicherheit des Netzes
+Sicherheit. Wir stehen noch ganz am Anfang dieser
+
+Prozess, und es gibt mehr Arbeit zu tun
+als wir es in der Vergangenheit getan haben, aber
+
+Ich denke, dass dies sehr notwendig ist.
+Ich danke Ihnen vielmals. Und ich werde jetzt gehen zu
+
+Jo-Jo Hubbard wieder mit der Bitte, falls Sie eine haben
+eine Fallstudie zu erstellen, die einige der
+
+Vorteile von digitalen Start-up
+Technologien bei der Adressierung von ?
+
+Berücksichtigung des Bedarfs an Flexibilität,
+Dezentralisierung und so weiter. Ich danke Ihnen.
+
+Ich danke Ihnen vielmals. Also, ich möchte nur ein
+ein Beispiel nennen, den Marktplatz Electron
+
+unterstützt? das ist ein Marktplatz mit
+Farmen, die vom Netz getrennt sind, weil
+
+nicht genug Netzkapazität vorhanden ist, um
+in diesem Zeitraum weniger zu produzieren,
+
+und schaffen im Wesentlichen Platz in den Netzen
+für diese Windparks zu schaffen, damit sie vom Netz genommen werden können,
+
+Was bedeutet das? Es bedeutet, dass alle gewinnen.
+Es bedeutet, dass die Verbraucher für die Nutzung von Strom bezahlt werden.  
+
+Das bedeutet, dass mehr Strom ins Netz eingespeist wird. Das geschieht
+in Echtzeit, und es ist ein physischer Markt,
+
+Es beeinflusst also tatsächlich den Stromfluss. Es ist
+eines von sehr, sehr wenigen Beispielen weltweit,
+
+wenn nicht sogar einer der wenigen, in denen dies der Fall ist.
+Ich denke, einige der Herausforderungen sind damit verbunden,
+
+es muss supergranular sein, es muss
+Echtzeit sein, sie muss differenziert sein
+
+Region?zu?Region. Das muss man beginnen
+durch nationale Marktkoordination.
+
+Ich danke Ihnen vielmals. Sehr interessant. Meine Damen und
+meine Herren, unsere Redner waren so diszipliniert
+
+dass wir eigentlich noch Zeit für eine weitere Publikumsfrage
+Frage an Sie. Lassen Sie mich also zu unserer zweiten
+
+Publikumsfrage für dieses Panel, und zwar diese.
+Können Sie sich vorstellen, auf Ihrem eigenen Dach Strom zu produzieren?
+
+und den überschüssigen Strom mit Online-Tools zu verkaufen?
+Ich möchte die Zuhörer bitten, jetzt abzustimmen, und vielleicht
+
+werden wir Zeit haben, um eine wirklich schnelle
+Antwort von unseren Rednern zu bekommen. Also, können wir... können wir...
+
+Holen Sie die Frage auf den Bildschirm, liebe Techniker?
+Zweite Publikumsfrage. Das war's.
+
+Okay, wir sind natürlich auf einer
+Konferenz für erneuerbare Energien, aber lassen Sie uns
+
+ein paar Leute mehr Zeit zum Wählen. Vielleicht gibt es
+werden noch weitere Stimmen eingehen, die nicht
+
+ein so durchschlagendes positives Ergebnis haben? okay,
+wir haben 3%, die nein sagen, aber ich werde uns
+
+noch etwa 20 Sekunden, und dann werde ich einfach
+unsere Redner nach ihrer Meinung zu diesem Thema fragen.  
+
+Die Zahl der Nein-Stimmen nimmt zu, aber
+aber die überwältigende Mehrheit der Menschen antwortet, dass
+
+Umfrage? und ich stelle fest, dass wir definitiv
+ein Ergebnis aus dem Pool derjenigen sehen, die
+
+Abstimmung und die Tatsache, dass viele Teilnehmer
+dieser Konferenz sehr, sehr interessiert sind an den
+
+grüne Energiewende und erneuerbare Energien, aber
+vielleicht kann ich einfach alle fragen. Sehen Sie
+
+eine Veränderung der öffentlichen Meinung über
+Prosumerismus? Sehen Sie mehr und mehr
+
+Bereitschaft der Bürger, dezentralisierte Produzenten zu werden
+Produzenten zu werden? Die Liste der Redner ist lang,
+
+beginnend mit dem vietnamesischen Vizeminister Hoang
+An. Sehen Sie einen Wandel in Vietnam, Sir?
+
+Ja, ich denke, wir verlagern uns zu den Prosumenten.
+Und das ist eine Tendenz in Vietnam, jetzt haben wir
+
+fördern den Stromerzeuger auf dem Dach. Einer der
+den Prosumenten. Ich denke, ein dezentrales System ist
+
+die Zukunft sein wird, aber wir müssen
+diesen Prozess steuern, damit wir sicherstellen können
+
+das Sicherheitskonzept des gesamten Systems.
+Ich danke Ihnen. Antonella Battaglini, sind
+
+Sehen Sie einen Wandel in der öffentlichen Meinung?
+Der Appetit ist in ganz Europa sehr, sehr groß,
+
+aber die Hürden sind nach wie vor recht hoch, und
+daher ist die Durchdringung noch begrenzt. Wir müssen finden
+
+Lösungen zu entwickeln, um diese Möglichkeit
+für alle Verbraucher zu ermöglichen. Aber wir sollten immer daran denken
+
+berücksichtigen, dass wir das gesamte System optimieren müssen
+System zu optimieren, was zu einigen Einschränkungen führen wird.
+
+Ich danke Ihnen vielmals. Und Stefan
+Kapferer, was sehen Sie da draußen?
+
+Ja, offensichtlich, Melinda, ist es als Trend sehr
+aber ich denke, im Moment ist der Selbstkonsum
+
+wird immer wichtiger, und der Grund dafür ist
+dass Steuern, Gebühren und Abgaben nicht sehr attraktiv sind
+
+diese erneuerbaren Energien an andere Orte zu verkaufen
+Das ist also etwas, woran wir arbeiten müssen.
+
+Ich danke Ihnen. Und Jo-Jo Hubbard, dort drüben,
+und in den verschiedenen Märkten, in denen Sie tätig sind
+
+in der Sie arbeiten, sehen Sie
+eine wesentliche Veränderung der Einstellungen?
+
+Ja, absolut. Das ist keine Überraschung. Sie können
+ihren eigenen Strom erzeugen, wenn sie es wollen.
+
+verkaufen. Ich denke, es gibt drei Stufen in
+diesem Übergang. Die erste Phase ist abgeschlossen,
+
+Erneuerbare Energien in die Erde bringen.
+Digitalisierung zur Optimierung. Wir haben
+
+Das müssen wir zuerst tun, bevor Phase drei
+in der es richtig losgeht: Differenzierungsmerkmale,
+
+verschiedene Leiter von Verbraucherservices.
+Ich danke Ihnen vielmals. Antonella Battaglini,
+
+Ich möchte Sie bitten, ganz schnell
+die Dinge für uns zusammenzufassen. Können Sie uns
+
+was sind Ihrer Meinung nach die Leitprinzipien für
+Gestaltung des Strommarktes und vielleicht auch einige der
+
+die konkreten Vorteile der Digitalisierung für
+sowohl für kleine als auch für große Stromerzeuger und -verbraucher?
+
+Lassen Sie mich also mit vielleicht drei Punkten zusammenfassen
+Punkte zusammenfassen, und ich werde mit dem Markt beginnen.  
+
+Wir brauchen Preissignale in Echtzeit. Diese
+müssen so granular wie möglich sein, denn
+
+nur durch die Implementierung dieser Preissignale mit
+einem hohen Grad an Granularität können wir die
+
+lokale Lösungen, die einen optimierten
+um das Wachstum der erneuerbaren Energien zu bewältigen.  
+
+Die Digitalisierung kann definitiv helfen, nicht nur
+nicht nur, um unsere Ressourcen zu optimieren und zu nutzen,
+
+sondern auch die Nutzung der vorhandenen Ressourcen
+und schließlich die Sektorkopplung
+
+ist ein wichtiges Element und wird einen großen Beitrag
+zum Dekarbonisierungsprozess beitragen. Damit ist das Thema erledigt,
+
+Ich denke, das ist eine kurze Zusammenfassung des Gesprächs.
+In der Tat, das ist sie, aber eine sehr passende, so viele
+
+Dank an Sie, Antonella Battaglini. Vielen Dank
+an Sie, Stefan Kapferer von 50hertz. Vielen Dank
+
+an den stellvertretenden Minister aus Vietnam, Herrn Hoang An,
+sowie Jo-Jo Hubbard als Vertreter des Start-ups
+
+Perspektive für eine intelligente Marktgestaltung. Ich denke
+Sie alle haben sehr deutlich gemacht, dass unser Wort
+
+Wolke hat einige der Herausforderungen
+der Herausforderungen, aber auch zweifellos einige der
+
+die Möglichkeiten hier in diesem Raum. Gehen wir also
+und sehen wir uns diese Wortwolke noch einmal an,
+
+wenn wir können. Können wir das noch einmal auf den Bildschirm holen
+um nur einen kurzen Blick darauf zu werfen? Das nicht.  
+
+Können wir den anderen bekommen, mit dem wir angefangen haben,
+liebe Techniker? Es tut mir leid, ich überrasche sie
+
+mit diesem Antrag, aber wir wollen unter anderem sehen
+unter anderem, ob die Sektorkopplung irgendwelche
+
+größer. Ich sehe die Folie noch nicht, also vielleicht
+werden wir Schwierigkeiten haben, sie zu bekommen. Dann
+
+hoffentlich werden wir alle in der Lage sein, sie online zu sehen
+online zu sehen, wenn unsere Konferenz beendet ist. So,
+
+vielen Dank an unsere Referenten für diesen sehr, sehr
+anregende und interessante Interaktion.
+
+

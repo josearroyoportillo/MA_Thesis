@@ -1,0 +1,533 @@
+<html>
+<head>
+<title>master_thesis.ipynb</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #969896;}
+.s1 { color: #000000;}
+.s2 { color: #d73a49;}
+.s3 { color: #b31d28;}
+.s4 { color: #032f62;}
+.s5 { color: #005cc5;}
+.s6 { color: #183691;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+master_thesis.ipynb</font>
+</center></td></tr></table>
+<pre><span class="s0">#%% md 
+</span>
+<span class="s0">#%% md 
+</span># Topic Modeling of Solar Renewable Energy Projects 
+<span class="s0">#%% md 
+</span>## 1) Data 
+<span class="s0">#%% md 
+</span>### 1a) Add DENA to df 
+<span class="s0">#%% 
+</span><span class="s2">import </span>os <span class="s0"># reads directory of stored DENA pdfs</span>
+<span class="s2">import </span>re <span class="s0"># regex is used for finding date published of DENA report</span>
+
+<span class="s2">import </span>pandas
+<span class="s2">import </span>pandas <span class="s2">as </span>pd
+<span class="s2">from </span>pdfminer.high_level <span class="s2">import </span>extract_text <span class="s0"># reads pdf</span>
+
+df <span class="s3">= </span>pd.DataFrame(columns <span class="s3">= </span>[<span class="s4">&quot;name&quot;</span>, <span class="s4">&quot;year&quot;</span>, <span class="s4">&quot;doc&quot;</span>, <span class="s4">&quot;BETD&quot;</span>, <span class="s4">&quot;DENA&quot;</span>, <span class="s4">&quot;news&quot;</span>, <span class="s4">&quot;txt_sim_news&quot;</span>, <span class="s4">&quot;txt_sim_fce&quot;</span>, <span class="s4">&quot;txt_sim_proj&quot;</span>])
+betd_df <span class="s3">= </span>pd.DataFrame(columns <span class="s3">= </span>[<span class="s4">&quot;name&quot;</span>, <span class="s4">&quot;year&quot;</span>, <span class="s4">&quot;doc&quot;</span>, <span class="s4">&quot;BETD&quot;</span>, <span class="s4">&quot;DENA&quot;</span>, <span class="s4">&quot;news&quot;</span>, <span class="s4">&quot;txt_sim_news&quot;</span>, <span class="s4">&quot;txt_sim_fce&quot;</span>, <span class="s4">&quot;txt_sim_proj&quot;</span>])
+
+directory <span class="s3">= </span><span class="s4">'DENA'</span>
+
+<span class="s2">for </span>filename <span class="s2">in </span>os.listdir(directory)<span class="s3">:</span>
+    file <span class="s3">= </span>os.path.join(directory,filename)
+    <span class="s2">if </span>os.path.isfile(file)<span class="s3">:</span>
+        document <span class="s3">= </span>extract_text(file)
+        filename <span class="s3">= </span>filename.rstrip(<span class="s4">'.pdf'</span>)
+        reg_date <span class="s3">= </span>re.findall(<span class="s4">'2017|2018|2019|2020|2021|2022'</span>, document)
+
+        year <span class="s3">= </span><span class="s4">''</span>
+        <span class="s2">if </span>reg_date<span class="s3">:</span>
+            year  <span class="s3">= </span>reg_date[<span class="s5">0</span>]
+        <span class="s2">if not </span>reg_date<span class="s3">:</span>
+            reg_date <span class="s3">= </span>re.findall(<span class="s4">'2018|2019|2020|2021|2022'</span>, filename)
+            <span class="s2">if </span>reg_date<span class="s3">:</span>
+                year <span class="s3">= </span>reg_date[<span class="s5">0</span>]
+            <span class="s2">if not </span>reg_date<span class="s3">:</span>
+                year <span class="s3">= </span><span class="s4">'na'</span>
+        <span class="s0"># insert to df</span>
+        df.loc[<span class="s3">-</span><span class="s5">1</span>] <span class="s3">= </span>[filename, year ,document, <span class="s5">0</span>, <span class="s5">1</span>, <span class="s5">0</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>]
+        df.index <span class="s3">= </span>df.index <span class="s3">+ </span><span class="s5">1</span>
+        df <span class="s3">= </span>df.sort_index()
+
+print(df)
+<span class="s0"># print(df['doc'].iloc[2])</span>
+<span class="s0">#%% md 
+</span>### 1b) Importing BETD files 
+<span class="s0">#%% 
+</span>directories <span class="s3">= </span>[<span class="s4">'BETD18'</span>, <span class="s4">'BETD19'</span>, <span class="s4">'BETD21'</span>, <span class="s4">'BETD22'</span>]
+year <span class="s3">= </span><span class="s5">2018</span>
+<span class="s2">for </span>directory <span class="s2">in </span>directories<span class="s3">:</span>
+    <span class="s2">if </span>year <span class="s3">== </span><span class="s5">2020</span><span class="s3">:</span>
+        year <span class="s3">= </span>year <span class="s3">+ </span><span class="s5">1</span>
+    <span class="s2">for </span>filename <span class="s2">in </span>os.listdir(directory)<span class="s3">:</span>
+        file <span class="s3">= </span>os.path.join(directory,filename)
+        <span class="s2">if </span>os.path.isfile(file)<span class="s3">:</span>
+            <span class="s2">with </span>open(file, <span class="s4">'r'</span>, errors<span class="s3">=</span><span class="s4">'ignore'</span>) <span class="s2">as </span>f<span class="s3">:</span>
+                document <span class="s3">= </span>f.readlines()
+            filename <span class="s3">= </span>filename.rstrip(<span class="s4">'.pdf'</span>)
+
+            <span class="s0"># insert to df</span>
+            df.loc[<span class="s3">-</span><span class="s5">1</span>] <span class="s3">= </span>[filename, year ,document, <span class="s5">1</span>, <span class="s5">0</span>, <span class="s5">0</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>]
+            df.index <span class="s3">= </span>df.index <span class="s3">+ </span><span class="s5">1</span>
+            df <span class="s3">= </span>df.sort_index()
+
+            betd_df.loc[<span class="s3">-</span><span class="s5">1</span>] <span class="s3">= </span>[filename, year ,document, <span class="s5">1</span>, <span class="s5">0</span>, <span class="s5">0</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>]
+            betd_df.index <span class="s3">= </span>betd_df.index <span class="s3">+ </span><span class="s5">1</span>
+            betd_df <span class="s3">= </span>df.sort_index()
+    year <span class="s3">= </span>year <span class="s3">+ </span><span class="s5">1</span>
+<span class="s0">#%% md 
+</span>### 1c) Importing newspapers 
+<span class="s0">#%% 
+</span><span class="s2">from </span>pdfminer.high_level <span class="s2">import </span>extract_text
+
+directory <span class="s3">= </span><span class="s4">'newspapers'</span>
+
+<span class="s2">for </span>filename <span class="s2">in </span>os.listdir(directory)<span class="s3">:</span>
+    file <span class="s3">= </span>os.path.join(directory,filename)
+    <span class="s2">if </span>os.path.isfile(file)<span class="s3">:</span>
+        <span class="s2">try</span><span class="s3">:</span>
+            document <span class="s3">= </span>extract_text(file)
+            filename <span class="s3">= </span>filename.rstrip(<span class="s4">'.pdf'</span>)
+            reg_date <span class="s3">= </span>re.findall(<span class="s4">'2017|2018|2019|2020|2021|2022'</span>, document)
+
+            year <span class="s3">= </span><span class="s4">''</span>
+            <span class="s2">if </span>reg_date<span class="s3">:</span>
+                year  <span class="s3">= </span>reg_date[<span class="s5">0</span>]
+            <span class="s0"># insert to df</span>
+            df.loc[<span class="s3">-</span><span class="s5">1</span>] <span class="s3">= </span>[filename, year ,document, <span class="s5">0</span>, <span class="s5">0</span>, <span class="s5">1</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>, <span class="s4">'na'</span>]
+            df.index <span class="s3">= </span>df.index <span class="s3">+ </span><span class="s5">1</span>
+            df <span class="s3">= </span>df.sort_index()
+        <span class="s2">except</span><span class="s3">:</span>
+            <span class="s2">continue</span>
+
+print(df)
+<span class="s0">#%% md 
+</span>## 2) Text Preprocessing 
+<span class="s0">#%% md 
+</span>### 2a) Removing irrelevant data 
+<span class="s0">#%% 
+# removing years outside boundaries</span>
+df[<span class="s4">'year'</span>] <span class="s3">= </span>df[<span class="s4">'year'</span>].fillna(<span class="s5">0</span>)
+df <span class="s3">= </span>df[df.year <span class="s3">!= </span><span class="s5">0</span>]
+df <span class="s3">= </span>df[df.year <span class="s3">!= </span><span class="s5">2017</span>]
+df <span class="s3">= </span>df[df.year <span class="s3">!= </span><span class="s4">'na'</span>]
+
+betd_df[<span class="s4">'year'</span>] <span class="s3">= </span>betd_df[<span class="s4">'year'</span>].fillna(<span class="s5">0</span>)
+betd_df <span class="s3">= </span>betd_df[betd_df.year <span class="s3">!= </span><span class="s5">0</span>]
+betd_df <span class="s3">= </span>betd_df[betd_df.year <span class="s3">!= </span><span class="s5">2017</span>]
+betd_df <span class="s3">= </span>betd_df[betd_df.year <span class="s3">!= </span><span class="s4">'na'</span>]
+<span class="s0">#%% md 
+</span>### 2b) Removing noise with regex (Albrecht et al., 2020, pgs. 95-97) 
+<span class="s0">#%% 
+</span><span class="s2">import </span>html
+<span class="s2">import </span>re
+
+RE_SUSPICIOUS <span class="s3">= </span>re.compile(<span class="s4">r'[&lt;&gt;{}\[\]\\]'</span>)
+
+<span class="s2">def </span>impurity(text, min_len<span class="s3">=</span><span class="s5">10</span>)<span class="s3">:</span>
+    <span class="s0">&quot;&quot;&quot;returns the share of suspicious characters in a text&quot;&quot;&quot;</span>
+    <span class="s2">if </span>text <span class="s3">== </span><span class="s2">None or </span>len(text) <span class="s3">&lt; </span>min_len<span class="s3">:</span>
+        <span class="s2">return </span><span class="s5">0</span>
+    <span class="s2">else</span><span class="s3">:</span>
+        <span class="s2">return </span>len(RE_SUSPICIOUS.findall(text))<span class="s3">/</span>len(text)
+
+<span class="s2">def </span>clean(text)<span class="s3">:</span>
+    <span class="s0"># convert html escapes like &amp; to characters.</span>
+    text <span class="s3">= </span>html.unescape(text)
+    <span class="s0"># tags like</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'&lt;[^&lt;&gt;]*&gt;'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># markdown URLs like [Some text](https://....)</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'\[([^\[\]]*)\]\([^\(\)]*\)'</span>, <span class="s4">r'\1'</span>, str(text))
+    <span class="s0"># text or code in brackets like [0]</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'\[[^\[\]]*\]'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># standalone sequences of specials, matches  but not #cool</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'(?:^|\s)[&lt;&gt;{}\[\]+|\\:-]{1,}(?:\s|$)'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># standalone sequences of hyphens like --- or ==</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'(?:^|\s)[\-=\+]{2,}(?:\s|$)'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># sequences of white spaces</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'\s+'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing DENA word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'dena'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing taz word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'taz'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing handelsblatt word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'handelsblatt'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing tageszeitung word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'tageszeitung'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing innnen word</span>
+    <span class="s0"># text = re.sub(r'innen', ' ', str(text))</span>
+    <span class="s0"># replacing aktien word with aktie</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'aktien'</span>, <span class="s4">'aktie'</span>, str(text))
+    <span class="s0"># removing abbildung word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'abbildung'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing de word</span>
+    <span class="s0"># text = re.sub(r'de', ' ', str(text))</span>
+    <span class="s0"># removing lsblatt word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'lsblatt'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing ah word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'ah'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing nke word</span>
+    <span class="s0"># text = re.sub(r'nke', ' ', str(text))</span>
+    <span class="s0"># removing han word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'han'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing al word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'al'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing dafur word</span>
+    <span class="s0"># text = re.sub(r'dafur', ' ', str(text))</span>
+    <span class="s0"># removing pro word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'pro'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing nr word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'nr'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing print word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'print'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing len word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'len'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing rs word</span>
+    <span class="s0"># text = re.sub(r'rs', ' ', str(text))</span>
+    <span class="s0"># removing for word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'for'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing la word</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'la'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># removing bzw word</span>
+    <span class="s0"># text = re.sub(r'bzw', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'nen', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'rt', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'mo', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'vgl', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'the'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'and'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'of'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'to'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'for'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'is'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'as'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'la'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'are'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'on'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'be'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'with'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'from'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'rs', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'fin', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'thg', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'se', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'by'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'et', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'that'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'this'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'or'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'un'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'les'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'can'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'nr', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'son'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'of', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'verf', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'nn', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'mal', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'abb', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'il', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'Il'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'mo', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'rung', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'rungen', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'Ils'</span>, <span class="s4">' '</span>, str(text))
+    text <span class="s3">= </span>re.sub(<span class="s4">r'ils'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'ing', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'it'</span>, <span class="s4">' '</span>, str(text))
+    <span class="s0"># text = re.sub(r'Ing', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'rzeuge', ' ', str(text))</span>
+    <span class="s0"># text = re.sub(r'anfor', ' ', str(text))</span>
+    text <span class="s3">= </span>re.sub(<span class="s4">r'\n'</span>, <span class="s4">''</span>, str(text))
+    <span class="s2">return </span>text.strip()
+
+df[<span class="s4">'clean_doc'</span>] <span class="s3">= </span>df[<span class="s4">'doc'</span>].apply(clean)
+df[<span class="s4">'doc_impurity'</span>] <span class="s3">= </span>df[<span class="s4">'clean_doc'</span>].apply(impurity, min_len<span class="s3">=</span><span class="s5">20</span>) <span class="s0"># refers to % impurity of text (.09 means 9% are suspicious for text)</span>
+
+betd_df[<span class="s4">'clean_doc'</span>] <span class="s3">= </span>betd_df[<span class="s4">'doc'</span>].apply(clean)
+betd_df[<span class="s4">'doc_impurity'</span>] <span class="s3">= </span>betd_df[<span class="s4">'clean_doc'</span>].apply(impurity, min_len<span class="s3">=</span><span class="s5">20</span>) <span class="s0"># refers to % impurity of text (.09 means 9% are suspicious for text)</span>
+<span class="s0">#%% md 
+</span>### 2c) Character normalization with textacy (Albrecht et al., 2020, pgs. 98-99) 
+<span class="s0">#%% 
+# standardizes and normalizes words like urls, hyphens, unicode, numbers, etc.</span>
+<span class="s2">import </span>textacy
+<span class="s2">import </span>textacy.preprocessing <span class="s2">as </span>tprep
+
+<span class="s2">if </span>textacy.__version__ <span class="s3">&lt; </span><span class="s4">'0.11'</span><span class="s3">:</span>
+    <span class="s2">def </span>normalize(text)<span class="s3">:</span>
+        text <span class="s3">= </span>tprep.normalize_hyphenated_words(text)
+        text <span class="s3">= </span>tprep.normalize_quotation_marks(text)
+        text <span class="s3">= </span>tprep.normalize_unicode(text)
+        text <span class="s3">= </span>tprep.remove_accents(text)
+        text <span class="s3">= </span>re.sub(<span class="s4">r'_url_'</span>, <span class="s4">''</span>, str(text))
+        <span class="s2">return </span>text
+
+<span class="s2">else</span><span class="s3">:</span>
+    <span class="s0"># adjusted to textacy 0.11</span>
+    <span class="s2">def </span>normalize(text)<span class="s3">:</span>
+        text <span class="s3">= </span>tprep.normalize.hyphenated_words(text)
+        text <span class="s3">= </span>tprep.normalize.quotation_marks(text)
+        text <span class="s3">= </span>tprep.normalize.unicode(text)
+        text <span class="s3">= </span>tprep.remove.accents(text)
+        text <span class="s3">= </span>tprep.replace.emails(text)
+        text <span class="s3">= </span>tprep.replace.urls(text)
+        text <span class="s3">= </span>tprep.replace.numbers(text)
+        text <span class="s3">= </span>tprep.replace.phone_numbers(text)
+        text <span class="s3">= </span>tprep.replace.hashtags(text)
+        text <span class="s3">= </span>re.sub(<span class="s4">r'_url_'</span>, <span class="s4">''</span>, str(text))
+        <span class="s2">return </span>text
+
+df[<span class="s4">'clean_doc'</span>] <span class="s3">= </span>df[<span class="s4">'clean_doc'</span>].map(normalize)
+
+betd_df[<span class="s4">'clean_doc'</span>] <span class="s3">= </span>betd_df[<span class="s4">'clean_doc'</span>].map(normalize)
+<span class="s0">#%% md 
+</span>### 2d) Pattern-based data masking with textacy (Albrecht et al., 2020, pgs. 99-101) 
+<span class="s0">#%% 
+</span><span class="s2">if </span>textacy.__version__ <span class="s3">&lt; </span><span class="s4">'0.11'</span><span class="s3">:</span>
+    <span class="s0"># as in book</span>
+    replace_urls <span class="s3">= </span>textacy.preprocessing.replace_urls
+<span class="s2">else</span><span class="s3">:</span>
+    replace_urls <span class="s3">= </span>textacy.preprocessing.replace.urls
+
+df[<span class="s4">'clean_doc'</span>] <span class="s3">= </span>df[<span class="s4">'clean_doc'</span>].map(replace_urls)
+
+betd_df[<span class="s4">'clean_doc'</span>] <span class="s3">= </span>betd_df[<span class="s4">'clean_doc'</span>].map(replace_urls)
+<span class="s0">#%% md 
+</span>### 2e) Tokenization with nltk for German (Albrecht et al., 2020, pgs. 102-103) 
+<span class="s0">#%% 
+</span><span class="s2">import </span>nltk
+
+tokenizer <span class="s3">= </span>nltk.tokenize.ToktokTokenizer()
+
+<span class="s2">def </span>tokenize(text)<span class="s3">:</span>
+    tokens <span class="s3">= </span>tokenizer.tokenize(text)
+    <span class="s2">return </span>tokens
+
+betd_df[<span class="s4">'tokens'</span>] <span class="s3">= </span>betd_df[<span class="s4">'clean_doc'</span>].map(tokenize)
+<span class="s0">#%% md 
+</span>## 3) Topic Modeling 
+<span class="s0">#%% md 
+</span>### 3a) Separating the df into three sources 
+<span class="s0">#%% 
+</span><span class="s2">from </span>sklearn.feature_extraction.text <span class="s2">import </span>CountVectorizer
+<span class="s2">from </span>sklearn.decomposition <span class="s2">import </span>LatentDirichletAllocation
+<span class="s2">import </span>pyLDAvis.sklearn
+<span class="s2">from </span>tqdm.auto <span class="s2">import </span>tqdm
+<span class="s2">import </span>numpy <span class="s2">as </span>np
+<span class="s2">from </span>spacy.lang.de.stop_words <span class="s2">import </span>STOP_WORDS <span class="s2">as </span>stopwords
+
+dena_df <span class="s3">= </span>df[df.DENA <span class="s3">== </span><span class="s5">1</span>]
+news_df <span class="s3">= </span>df[df.news <span class="s3">== </span><span class="s5">1</span>]
+
+dena_df.shape <span class="s0"># sample size projects</span>
+news_df.shape <span class="s0"># sample size newspaper articles</span>
+betd_df.shape <span class="s0"># sample size FCE dialogue</span>
+
+<span class="s0"># for future depiction of topics</span>
+<span class="s0"># percent next to topics refers to percent contribution of word to topic</span>
+<span class="s2">def </span>display_topics(model, features, no_top_words<span class="s3">=</span><span class="s5">30</span>)<span class="s3">:</span>
+    pd.set_option(<span class="s4">'display.max_columns'</span>, <span class="s2">None</span>)
+    pd.set_option(<span class="s4">'display.max_rows'</span>, <span class="s2">None</span>)
+    df_topics <span class="s3">= </span>pd.DataFrame()
+    j <span class="s3">= </span>[]
+    <span class="s2">for </span>i <span class="s2">in </span>range (<span class="s5">30</span>)<span class="s3">:</span>
+        j.append(i<span class="s3">+</span><span class="s5">1</span>)
+    df_topics[<span class="s4">'#'</span>] <span class="s3">= </span>j
+    <span class="s2">for </span>topic, words <span class="s2">in </span>enumerate(model.components_)<span class="s3">:</span>
+        total <span class="s3">= </span>words.sum()
+        largest <span class="s3">= </span>words.argsort()[<span class="s3">::-</span><span class="s5">1</span>] <span class="s0"># invert sort order</span>
+        topic <span class="s3">= </span>int(topic) <span class="s3">+ </span><span class="s5">1</span>
+        topic_word <span class="s3">= </span><span class="s4">&quot;Topic %01d&quot; </span><span class="s3">% </span>topic
+        temp_list <span class="s3">= </span>[]
+        <span class="s2">for </span>i <span class="s2">in </span>range(<span class="s5">0</span>, no_top_words)<span class="s3">:</span>
+            temp_list_item <span class="s3">= </span><span class="s4">&quot;  %s (%2.2f)&quot; </span><span class="s3">% </span>(features[largest[i]], abs(words[largest[i]]<span class="s3">*</span><span class="s5">100.0</span><span class="s3">/</span>total))
+            temp_list.append(temp_list_item)
+        df_topics[topic_word] <span class="s3">= </span>temp_list
+
+    display(df_topics)
+<span class="s0">#%% md 
+</span>### 3b) BETD 
+<span class="s0">#%% md 
+</span>#### LDA (Albrecht et al., 2020, pgs. 221-222) 
+<span class="s0">#%% 
+# implementation of LDA with visualization</span>
+count_text_vectorizer <span class="s3">= </span>CountVectorizer(stop_words<span class="s3">=</span>list(stopwords), min_df<span class="s3">=</span><span class="s5">5</span>, max_df<span class="s3">=</span><span class="s5">0.7</span>)
+count_text_vectors <span class="s3">= </span>count_text_vectorizer.fit_transform(betd_df[<span class="s4">'clean_doc'</span>])
+lda_text_model <span class="s3">= </span>LatentDirichletAllocation(n_components <span class="s3">= </span><span class="s5">10</span>, random_state<span class="s3">=</span><span class="s5">42</span>)
+W_lda_text_matrix <span class="s3">= </span>lda_text_model.fit_transform(count_text_vectors)
+H_lda_text_matrix <span class="s3">= </span>lda_text_model.components_
+
+
+display_topics(lda_text_model, count_text_vectorizer.get_feature_names())
+W_lda_text_matrix.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_lda_text_matrix.sum()<span class="s3">*</span><span class="s5">100.0</span>
+<span class="s0">#%% 
+</span>lda_display <span class="s3">= </span>pyLDAvis.sklearn.prepare(lda_text_model, count_text_vectors, count_text_vectorizer, sort_topics<span class="s3">=</span><span class="s2">False</span>)
+pyLDAvis.display(lda_display)
+<span class="s0">#%% md 
+</span>#### Time development of models (Albrecht et al., 2020, pgs. 228-229) 
+<span class="s0">#%% 
+</span>W_lda_text_matrix.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_lda_text_matrix.sum()<span class="s3">*</span><span class="s5">100.0</span>
+
+betd_df[<span class="s4">'year'</span>] <span class="s3">= </span>betd_df[<span class="s4">'year'</span>].fillna(<span class="s5">0</span>)
+betd_df[<span class="s4">'year'</span>] <span class="s3">= </span>betd_df[<span class="s4">'year'</span>].astype(int)
+betd_df <span class="s3">= </span>betd_df[betd_df.year <span class="s3">!= </span><span class="s5">0</span>]
+betd_df <span class="s3">= </span>betd_df[betd_df.year <span class="s3">!= </span><span class="s5">2017</span>]
+
+
+year_data <span class="s3">= </span>[]
+
+<span class="s2">for </span>year <span class="s2">in </span>tqdm(np.unique(np.unique(betd_df[<span class="s4">&quot;year&quot;</span>])))<span class="s3">:</span>
+    W_year <span class="s3">= </span>lda_text_model.transform(count_text_vectors[np.array(betd_df[<span class="s4">&quot;year&quot;</span>] <span class="s3">== </span>year)])
+    year_data.append([year] <span class="s3">+ </span>list(W_year.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_year.sum()<span class="s3">*</span><span class="s5">100.0</span>))
+
+topic_names <span class="s3">= </span>[]
+voc <span class="s3">= </span>count_text_vectorizer.get_feature_names()
+
+j <span class="s3">= </span><span class="s5">1</span>
+<span class="s2">for </span>topic <span class="s2">in </span>lda_text_model.components_<span class="s3">:</span>
+    important <span class="s3">= </span>topic.argsort()
+    top_word <span class="s3">= </span>voc[important[<span class="s3">-</span><span class="s5">1</span>]] <span class="s3">+ </span><span class="s4">&quot; &quot; </span><span class="s3">+ </span>voc[important[<span class="s3">-</span><span class="s5">2</span>]]
+    <span class="s0"># topic_names.append(&quot;Topic &quot; + top_word)</span>
+    topic_names.append(<span class="s4">&quot;Topic &quot; </span><span class="s3">+ </span>str(j))
+    j <span class="s3">= </span>int(j) <span class="s3">+ </span><span class="s5">1</span>
+
+
+betd_df_year <span class="s3">= </span>pd.DataFrame(year_data, columns<span class="s3">=</span>[<span class="s4">&quot;year&quot;</span>] <span class="s3">+ </span>topic_names).set_index(<span class="s4">&quot;year&quot;</span>)
+print(betd_df_year)
+
+[<span class="s4">f'Topic </span><span class="s6">{</span>count_text_vectorizer.get_feature_names()[words.argsort()[<span class="s3">-</span><span class="s5">1</span>]]<span class="s6">}</span><span class="s4">' </span><span class="s2">for </span>words <span class="s2">in </span>lda_text_model.components_]
+
+betd_df_year.plot(title<span class="s3">=</span><span class="s4">'Development of Field Narratives over Time'</span>, grid<span class="s3">=</span><span class="s2">True</span>, use_index<span class="s3">=</span><span class="s2">True</span>, subplots<span class="s3">=</span><span class="s2">False</span>,
+                  ylabel<span class="s3">=</span><span class="s4">'Percent of Total Terms'</span>, xlabel<span class="s3">=</span><span class="s4">'Year'</span>, table<span class="s3">=</span><span class="s2">False</span>)
+
+<span class="s0">#%% 
+# betd_df_year = betd_df_year.loc[:, [&quot;Topic 1&quot;, &quot;Topic 2&quot;,&quot;Topic 5&quot;,&quot;Topic 9&quot;]]</span>
+display(betd_df_year)
+<span class="s0">#%% md 
+</span>### 3c) DENA 
+<span class="s0">#%% md 
+</span>#### LDA (Albrecht et al., 2020, pgs. 221-222) 
+<span class="s0">#%% 
+# implementation of LDA with visualization</span>
+count_text_vectorizer <span class="s3">= </span>CountVectorizer(stop_words<span class="s3">=</span>list(stopwords), min_df<span class="s3">=</span><span class="s5">5</span>, max_df<span class="s3">=</span><span class="s5">0.7</span>)
+count_text_vectors <span class="s3">= </span>count_text_vectorizer.fit_transform(dena_df[<span class="s4">'clean_doc'</span>])
+lda_text_model <span class="s3">= </span>LatentDirichletAllocation(n_components <span class="s3">= </span><span class="s5">10</span>, random_state<span class="s3">=</span><span class="s5">42</span>)
+W_lda_text_matrix <span class="s3">= </span>lda_text_model.fit_transform(count_text_vectors)
+H_lda_text_matrix <span class="s3">= </span>lda_text_model.components_
+
+
+display_topics(lda_text_model, count_text_vectorizer.get_feature_names())
+W_lda_text_matrix.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_lda_text_matrix.sum()<span class="s3">*</span><span class="s5">100.0</span>
+<span class="s0">#%% 
+</span>lda_display <span class="s3">= </span>pyLDAvis.sklearn.prepare(lda_text_model, count_text_vectors, count_text_vectorizer, sort_topics<span class="s3">=</span><span class="s2">False</span>)
+pyLDAvis.display(lda_display)
+<span class="s0">#%% md 
+</span>#### Time development of models (Albrecht et al., 2020, pgs. 228-229) 
+<span class="s0">#%% 
+</span>W_lda_text_matrix.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_lda_text_matrix.sum()<span class="s3">*</span><span class="s5">100.0</span>
+
+dena_df[<span class="s4">'year'</span>] <span class="s3">= </span>dena_df[<span class="s4">'year'</span>].fillna(<span class="s5">0</span>)
+dena_df[<span class="s4">'year'</span>] <span class="s3">= </span>dena_df[<span class="s4">'year'</span>].astype(int)
+dena_df <span class="s3">= </span>dena_df[dena_df.year <span class="s3">!= </span><span class="s5">0</span>]
+dena_df <span class="s3">= </span>dena_df[dena_df.year <span class="s3">!= </span><span class="s5">2017</span>]
+
+
+year_data <span class="s3">= </span>[]
+
+<span class="s2">for </span>year <span class="s2">in </span>tqdm(np.unique(np.unique(dena_df[<span class="s4">&quot;year&quot;</span>])))<span class="s3">:</span>
+    W_year <span class="s3">= </span>lda_text_model.transform(count_text_vectors[np.array(dena_df[<span class="s4">&quot;year&quot;</span>] <span class="s3">== </span>year)])
+    year_data.append([year] <span class="s3">+ </span>list(W_year.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_year.sum()<span class="s3">*</span><span class="s5">100.0</span>))
+
+topic_names <span class="s3">= </span>[]
+voc <span class="s3">= </span>count_text_vectorizer.get_feature_names()
+
+j <span class="s3">= </span><span class="s5">1</span>
+<span class="s2">for </span>topic <span class="s2">in </span>lda_text_model.components_<span class="s3">:</span>
+    important <span class="s3">= </span>topic.argsort()
+    top_word <span class="s3">= </span>voc[important[<span class="s3">-</span><span class="s5">1</span>]] <span class="s3">+ </span><span class="s4">&quot; &quot; </span><span class="s3">+ </span>voc[important[<span class="s3">-</span><span class="s5">2</span>]]
+    <span class="s0"># topic_names.append(&quot;Topic &quot; + top_word)</span>
+    topic_names.append(<span class="s4">&quot;Topic &quot; </span><span class="s3">+ </span>str(j))
+    j <span class="s3">= </span>int(j) <span class="s3">+ </span><span class="s5">1</span>
+
+
+dena_df_year <span class="s3">= </span>pd.DataFrame(year_data, columns<span class="s3">=</span>[<span class="s4">&quot;year&quot;</span>] <span class="s3">+ </span>topic_names).set_index(<span class="s4">&quot;year&quot;</span>)
+print(dena_df_year)
+
+[<span class="s4">f'Topic </span><span class="s6">{</span>count_text_vectorizer.get_feature_names()[words.argsort()[<span class="s3">-</span><span class="s5">1</span>]]<span class="s6">}</span><span class="s4">' </span><span class="s2">for </span>words <span class="s2">in </span>lda_text_model.components_]
+
+dena_df_year.plot(title<span class="s3">=</span><span class="s4">'Development of Project Narratives over Time'</span>, grid<span class="s3">=</span><span class="s2">True</span>, use_index<span class="s3">=</span><span class="s2">True</span>, subplots<span class="s3">=</span><span class="s2">False</span>,
+                  ylabel<span class="s3">=</span><span class="s4">'Percent of Total Terms'</span>, xlabel<span class="s3">=</span><span class="s4">'Year'</span>, table<span class="s3">=</span><span class="s2">False</span>)
+<span class="s0">#%% 
+# dena_df_year = dena_df_year.loc[:, [&quot;Topic 1&quot;, &quot;Topic 4&quot;,&quot;Topic 5&quot;,&quot;Topic 7&quot;]]</span>
+display(dena_df_year)
+<span class="s0">#%% md 
+</span>### 3d) Newspapers 
+<span class="s0">#%% md 
+</span>#### LDA (Albrecht et al., 2020, pgs. 221-222) 
+<span class="s0">#%% 
+# implementation of LDA with visualization</span>
+count_text_vectorizer <span class="s3">= </span>CountVectorizer(stop_words<span class="s3">=</span>list(stopwords), min_df<span class="s3">=</span><span class="s5">5</span>, max_df<span class="s3">=</span><span class="s5">0.7</span>)
+count_text_vectors <span class="s3">= </span>count_text_vectorizer.fit_transform(news_df[<span class="s4">'clean_doc'</span>])
+lda_text_model <span class="s3">= </span>LatentDirichletAllocation(n_components <span class="s3">= </span><span class="s5">10</span>, random_state<span class="s3">=</span><span class="s5">42</span>)
+W_lda_text_matrix <span class="s3">= </span>lda_text_model.fit_transform(count_text_vectors)
+H_lda_text_matrix <span class="s3">= </span>lda_text_model.components_
+
+
+display_topics(lda_text_model, count_text_vectorizer.get_feature_names())
+W_lda_text_matrix.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_lda_text_matrix.sum()<span class="s3">*</span><span class="s5">100.0</span>
+<span class="s0">#%% 
+</span>lda_display <span class="s3">= </span>pyLDAvis.sklearn.prepare(lda_text_model, count_text_vectors, count_text_vectorizer, sort_topics<span class="s3">=</span><span class="s2">False</span>)
+pyLDAvis.display(lda_display)
+<span class="s0">#%% md 
+</span>#### Time development of models (Albrecht et al., 2020, pgs. 228-229) 
+<span class="s0">#%% 
+</span>W_lda_text_matrix.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_lda_text_matrix.sum()<span class="s3">*</span><span class="s5">100.0</span>
+
+news_df[<span class="s4">'year'</span>] <span class="s3">= </span>news_df[<span class="s4">'year'</span>].fillna(<span class="s5">0</span>)
+news_df[<span class="s4">'year'</span>] <span class="s3">= </span>news_df[<span class="s4">'year'</span>].astype(int)
+news_df <span class="s3">= </span>news_df[news_df.year <span class="s3">!= </span><span class="s5">0</span>]
+news_df <span class="s3">= </span>news_df[news_df.year <span class="s3">!= </span><span class="s5">2017</span>]
+
+
+year_data <span class="s3">= </span>[]
+
+<span class="s2">for </span>year <span class="s2">in </span>tqdm(np.unique(np.unique(news_df[<span class="s4">&quot;year&quot;</span>])))<span class="s3">:</span>
+    W_year <span class="s3">= </span>lda_text_model.transform(count_text_vectors[np.array(news_df[<span class="s4">&quot;year&quot;</span>] <span class="s3">== </span>year)])
+    year_data.append([year] <span class="s3">+ </span>list(W_year.sum(axis<span class="s3">=</span><span class="s5">0</span>)<span class="s3">/</span>W_year.sum()<span class="s3">*</span><span class="s5">100.0</span>))
+
+topic_names <span class="s3">= </span>[]
+voc <span class="s3">= </span>count_text_vectorizer.get_feature_names()
+
+j <span class="s3">= </span><span class="s5">1</span>
+<span class="s2">for </span>topic <span class="s2">in </span>lda_text_model.components_<span class="s3">:</span>
+    important <span class="s3">= </span>topic.argsort()
+    top_word <span class="s3">= </span>voc[important[<span class="s3">-</span><span class="s5">1</span>]] <span class="s3">+ </span><span class="s4">&quot; &quot; </span><span class="s3">+ </span>voc[important[<span class="s3">-</span><span class="s5">2</span>]]
+    <span class="s0"># topic_names.append(&quot;Topic &quot; + top_word)</span>
+    topic_names.append(<span class="s4">&quot;Narr. &quot; </span><span class="s3">+ </span>str(j))
+    j <span class="s3">= </span>int(j) <span class="s3">+ </span><span class="s5">1</span>
+
+
+news_df_year <span class="s3">= </span>pd.DataFrame(year_data, columns<span class="s3">=</span>[<span class="s4">&quot;year&quot;</span>] <span class="s3">+ </span>topic_names).set_index(<span class="s4">&quot;year&quot;</span>)
+print(news_df_year)
+
+[<span class="s4">f'Topic </span><span class="s6">{</span>count_text_vectorizer.get_feature_names()[words.argsort()[<span class="s3">-</span><span class="s5">1</span>]]<span class="s6">}</span><span class="s4">' </span><span class="s2">for </span>words <span class="s2">in </span>lda_text_model.components_]
+
+news_df_year.plot(title<span class="s3">=</span><span class="s4">'Development of Societal Narratives over Time'</span>, grid<span class="s3">=</span><span class="s2">True</span>, use_index<span class="s3">=</span><span class="s2">True</span>, subplots<span class="s3">=</span><span class="s2">False</span>,
+                  ylabel<span class="s3">=</span><span class="s4">'Percent of Total Terms'</span>, xlabel<span class="s3">=</span><span class="s4">'Year'</span>, table<span class="s3">=</span><span class="s2">False</span>)
+<span class="s0">#%% 
+</span>display(news_df_year)
+<span class="s0">#%% md 
+</span></pre>
+</body>
+</html>

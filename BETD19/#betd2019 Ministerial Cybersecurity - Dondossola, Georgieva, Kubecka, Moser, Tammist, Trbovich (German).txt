@@ -1,0 +1,1983 @@
+Die zentralisierte Energiewende als Motor für
+für Widerstandsfähigkeit und Cybersicherheit. Die Energie
+
+Die Energiewende macht die Energiesysteme komplexer.
+Die Integration der erneuerbaren Energien ist eine Herausforderung.
+
+Die Digitalisierung kann uns helfen, Herausforderungen zu bewältigen.
+Mit Resilienz und Cybersicherheit Fragen aufwerfen
+
+und Datenschutz. Wir müssen die
+Flexibilität der. Künstliche Intelligenz
+
+und das Internet der Dinge können die Infrastruktur
+reibungsloser funktionieren. Durch die Nutzung dieser Technologien,
+
+könnte der Übergang selbst ein Argument sein.
+Er kann eine Triebkraft für Widerstandsfähigkeit und Cybersicherheit sein
+
+und Datenschutz.
+Ich danke Ihnen vielmals. Ich denke, dies war eine sehr
+
+gute Einführung und eine Art Hypothese
+die wir jetzt hier auf dem Podium testen wollen. Wenn
+
+ein dezentrales System kann die Widerstandsfähigkeit
+in der Cybersicherheit. Um dieses Thema zu behandeln, habe ich
+
+eine sehr interdisziplinäre und vielfältige Gruppe
+von Experten hier, die man wirklich braucht,
+
+Sie wissen schon, Arbeit an der Schnittstelle von Sicherheit
+und den Energiesystemen. Also, direkt neben
+
+Ich bin der Minister für Unternehmertum und
+Informationstechnologie von Estland, Rene Tammist.
+
+Er war auch Leiter des estnischen Verbands für erneuerbare
+Energieverbandes und bringt die Energiewende
+
+wobei Estland hier wirklich schon ziemlich weit ist.
+Willkommen und ich freue mich, dass Sie bei uns sind.
+
+das Gremium. Dann haben wir Professor Trbovich.
+Der Mitbegründer von GridSingularity, einer Blockchain
+
+Venture und im Verwaltungsrat der Europäischen
+Europäischen Instituts für Technologie. Sie ist
+
+Bemühungen in der öffentlichen Verwaltung, sondern
+hat aber auch das nötige technologische Wissen. Sie ist unser
+
+Blockchain- und Politik-Experte hier. Herzlich willkommen
+auch von meiner Seite. Dann haben wir Dr. Giovanna
+
+Dondossola. Sie ist eine führende Wissenschaftlerin in der
+Abteilung für Übertragung und Verteilung
+
+Technologie der Firma RSE in Italien. Sie
+leitet Projekte zu Cyberrisiken und intelligenten Netzen
+
+Kommunikation und verantwortlich für die Leistungsregelung
+Ausfallsicherheitstests. Sie wird uns einen Überblick geben
+
+was unsere Cyber-Risiken und elektrischen Kontrollsysteme
+Systeme. Vielen Dank, dass Sie hier mitmachen.
+
+Nun ja. Dann haben wir noch den Experten für Cyber-Bedrohungen und Kriegsführung
+Experte Chris Kubecka. Sie ist eine Sicherheitsforscherin
+
+und Geschäftsführerin von HypaSec. Sie hat umfangreiche
+Erfahrung im Umgang mit Cyberkriminalität
+
+Bedrohungen. Sie leitete die Sicherheitsgruppen in
+Saudi-Arabien. Und war mit einer Cyber-Operation konfrontiert.
+
+Sie ist unsere Expertin für Cyber-Kriegsführung und Cybersicherheit
+Experte hier. Dann begrüße ich auch Herrn Moser.
+
+Er ist Leiter des Referats für Versorgungssicherheit bei der
+Europäischen Kommission, GD Energie. Er ist verantwortlich für
+
+für die Entwicklung und Umsetzung von
+Energiesicherheitspolitik und arbeitete auch jahrelang
+
+bei der GD Umwelt zur Energiepolitik. Und?
+kann er uns etwas über die Herausforderungen der EU
+
+Sicherheitspolitik und ist Experte für Energie und Sicherheit
+Experte. Vielen Dank, dass Sie sich uns anschließen.
+
+Und zu guter Letzt haben wir noch Dr. Georgieva.
+Sie ist zuständig für Regierungsangelegenheiten und öffentliche Politik
+
+Managerin bei Google in Belgien. Sie hat einen Doktortitel
+in Rechtswissenschaften an der Universität von Enna und hat
+
+umfangreiche Erfahrung in der Cybersicherheitspolitik
+Politik. Sie bringt das Fachwissen über IT-Sicherheit ein
+
+von Google, die uns bei der Suche nach Lösungen
+für einige der Herausforderungen. Also, bevor wir
+
+in die Diskussion einsteigen, und ich atme erst einmal durch
+Atem, denn sechs Diskussionsteilnehmer sind eine ganze Menge.
+
+Wir haben auch die Möglichkeit für Ihre Teilnahme
+über Twitter. Es gibt also einen QR-Code, offensichtlich.
+
+Irgendwo. Ich glaube, Sie sehen es. Ich sehe es nicht
+sehe es von hier aus. Wo Sie Fragen stellen können
+
+und nehmen teil. Das Ziel ist es, eine Diskussion zu führen
+maximal 60 Minuten zu führen und dann wirklich zu gehen
+
+auch Raum für Ihre Fragen und Kommentare.
+Um uns also in die Diskussion einzuführen,
+
+Wir haben in dem Video gesehen, dass es eine Art Pose war
+wie das dezentralisierte System könnte sein könnte
+
+Möglichkeiten für die Cybersicherheit haben. Es könnte,
+Sie wissen schon, Widerstandsfähigkeit aufbauen. Aber erst wenn
+
+wir über diese Lösung sprechen, möchte ich Ihnen
+diese Frage an Sie stellen, Herr Minister Tammist.
+
+Wie sieht dieses dezentralisierte System aus
+und wo könnte es uns Ihrer Meinung nach helfen, die
+
+Cybersicherheit oder Widerstandsfähigkeit im Allgemeinen. Ja? - Ja.
+Ja, genau. Also gut.
+
+Ja. Liebe Kolleginnen und Kollegen. Ich sollte vielleicht
+der Einleitung erwähnen, obwohl
+
+Ich bin IT-Minister in Estland und komme aus dem
+Hintergrund aus dem Energiesektor. Und dann
+
+da ich auch mit einigen Übergängen vertraut bin
+auch auf der IT-Seite. Aber ich danke Ihnen
+
+dass ich hier sein darf. Estland wird vom Wired
+Magazin als die fortschrittlichste digitale Gesellschaft
+
+auf der Welt. Und das aus dem guten Grund
+Grund, denn digitale Lösungen sind eingebettet
+
+in unsere Gesellschaft, in unseren privaten Sektor,
+in unseren Regierungssektor. Und wenn es darum geht
+
+mit Energie ist das nicht anders. Wir sind also wirklich
+Lösungen zu finden, die wir anwenden können
+
+auch im Energiesektor. Derzeit mit
+der Übergang, den wir derzeit erleben, ist
+
+Sie haben so, mit diesen, diese Organisation,
+Dezentralisierung und drittens und haben eine Menge
+
+von Bedeutung für die ersten beiden. Dann haben wir vielleicht
+haben wir in gewissem Maße nicht so sehr darauf geachtet
+
+zur Digitalisierung und ich bin sehr froh, dass
+wir dies heute hier tun. So,
+
+Ich denke, das ist sehr wichtig. Also, wir haben erkannt.
+mit Dezentralisierung und Organisation,
+
+wir brauchten mehr Intelligenz. Mehr Intelligenz in
+in unsere Netze, in unsere Zählungen. Wir brauchen mehr
+
+Daten. Aber was ist dann mit diesen Daten passiert?
+ist die Frage. Vom Standpunkt der Regulierung aus gesehen
+
+haben wir im Laufe der Jahre ein Verdikt
+auf europäischer Ebene zur Verwirklichung der freien
+
+Energieflusses, um einen vollständig integrierten Energiebinnenmarkt
+Energiemarkt. Und ich selbst habe dazu beigetragen
+
+Ich habe mich in meiner bisherigen Laufbahn sehr intensiv mit diesem Ziel
+Karriere. Auch als Mitglied der Verwaltung
+
+Vorstand. Aber gleichzeitig haben wir ein Problem
+mit dem freien Fluss von Daten. Und das ist nicht nur
+
+mit dem Energiesektor. Aber es ist natürlich so, dass die
+die Gremien und verschiedene Bereiche. Und so,
+
+Was wir hier in Estland zu tun versuchen, ist
+wirklich auf Lösungen zu konzentrieren, die es ermöglichen
+
+Daten zu nutzen und dafür zu sorgen, dass die
+Digitalisierung auch im Energiesektor stattfindet.
+
+Ich bringe also nur einige Beispiele aus Estland.
+Eines davon ist der Fall der Windenergie.
+
+Ein estnisches Unternehmen versucht, einen Markt zu schaffen
+einen Markt für den direkten Handel zwischen Energie
+
+Erzeuger und Verbraucher. In der Regel große Energie
+Verbraucher und zur Nutzung der Blockchain-Technologie
+
+um dies zu ermöglichen. Also werden die Energiebits in Token
+die Energiebits und ermöglichen dann die langfristige
+
+Strombezugsvereinbarung zwischen den Partnern.
+Dies ist also ein Beispiel, das jetzt umgesetzt wird.
+
+in Australien getestet, und das Unternehmen ist bestrebt
+diese Lösungen auch in anderen Ländern zu erproben.
+
+Es ist wichtig, hier Diskussionen zu führen und
+diese Diskussionen hier zu führen und zu hören, ist
+
+wie man sicherstellt, dass Dritte Zugang zu den Daten haben
+auf die Daten. Und das ist natürlich wichtig
+
+um verschiedene Dienste anbieten zu können
+anzubieten. Und in diesem Zusammenhang haben wir ein Urteil
+
+in Estland und ich selbst habe in meiner früheren Laufbahn
+habe zu diesem Projekt beigetragen und versucht
+
+um eine Plattform für Datenketten zu schaffen. Und um sicherzustellen
+dass verschiedene Daten in diese Plattform einfließen
+
+und dann ist es möglich, sie mit ausdrücklicher
+Zustimmung der Verbraucher zu den Angeboten
+
+von verschiedenen Diensten. Und das im Moment,
+TSO diese Plattform für den europäischen Markt
+
+profitieren. Und alle Partner, die daran interessiert sind
+sind herzlich eingeladen, sich anzuschließen.
+
+Na gut. Ich danke Ihnen vielmals. Ich denke, dies
+gab uns bereits einen guten Überblick über, Sie wissen schon,
+
+wir brauchen einen freien Datenfluss. Wenn Sie digitalisieren.
+Aber das kann auch, Sie wissen schon, Sicherheit bringen
+
+Probleme und Fragen des Eigentums und des Zugangs
+und, Sie wissen schon, die Wahrung der Integrität der
+
+Daten, was auch unter dem Aspekt der Cybersicherheit wichtig ist.
+Perspektive wichtig sind. Ich würde, glaube ich, zurückstellen
+
+diese Frage auf eine gesamteuropäische, weil
+ich denke, dass dies etwas ist, was wir diskutieren sollten
+
+auch später noch. Aber zuerst möchte ich eine Frage stellen
+eine Frage als Blockchain-Experiment stellen.
+
+Welche Rolle spielt die Blockchain Ihrer Meinung nach
+bei der Digitalisierung und der dezentralen
+
+System? Besonders bei all den gefährdeten
+Daten, die erstellt und verwendet werden durch
+
+das?
+Vielen Dank, dass ich hier sein durfte, während wir die
+
+für das Panel wurde ich gebeten, über die
+neuen Bedrohungen nachzudenken. Was meinen Sie mit neu? Ich erkannte
+
+Ich bin in einem voreingenommenen Modus, weil sich in der Blockchain,
+ändern sich die Dinge jeden Tag. Für uns, wenn es passiert
+
+vor zwei Jahren, ist es uralt. Und die neue Cybersicherheits
+Bedrohung ist zwei oder drei Jahre alt. Oder ein paar Jahre alt.
+
+Alles in Bezug auf dieses neue IoT-System, in dem wir
+in dem wir jetzt leben. Und noch einmal, ich verstehe, dass
+
+Blockchain ist immer noch ein Hype. Ich sah eine Werbung
+für eine Blockchain-Sicherheitskonferenz mit
+
+die Nebenlinie, Blockchain ist das neue Schwarz. Also,
+warum die Aufregung? Und, wissen Sie, was ist
+
+Was ist der Wert dieser Aufregung? Es ist, dass es
+Vertrauen auf die Ebene der Geräte bringt. Also,
+
+es schafft Vertrauen zwischen den Geräten. Und deshalb,
+werden einige der Schwachstellen verringert. Es
+
+ist auch ein System, das von vornherein verteilt ist
+und daher gibt es nicht nur einen einzigen Punkt
+
+des Scheiterns. Und vor kurzem habe ich sogar gelesen
+dass die NASA begonnen hat, Blockchain zu nutzen, um
+
+selbst gegen diese Art von Angriffen zu schützen. Es ist also eine
+eine Technologie, die Sie in Kombination mit
+
+andere Technologien. In dem eben genannten Beispiel
+des Übertragungsnetzbetreibers haben sie die
+
+ein wunderbares System, das auf der Plattform
+dass jeder einen digitalen Ausweis besitzt und
+
+können mit dieser Plattform versuchen, einen besseren
+einen besseren Service für ihren Haushalt zu finden. Und
+
+Sie sind in der Lage, einige der Daten zu zeigen, die,
+Sie wissen schon, ihre Verbrauchsdaten, die auf diesem
+
+und ein Angebot von einem anderen Anbieter erhalten.
+Die und Diskussionen gerade jetzt ist genau,
+
+Sie wissen, wo diese Daten gespeichert werden und
+warum sind sie auf einem Server? Wenn Sie also Blockchain hinzufügen
+
+zusätzlich zu diesem Dienst, halten Sie die Daten nicht mehr
+Daten auf einem Server zu halten und Sie sind in der Lage,
+
+als eine Person, die, Sie wissen schon, die Eigentümerin dieser
+Daten in einer sichereren Umgebung aufzubewahren
+
+Mode. Es handelt sich also wirklich um eine Enabler-Technologie
+die man zu anderen Systemen hinzufügen kann, die
+
+Sie haben. Was wirklich interessant ist an
+der Blockchain-Authentifizierung ist, dass sie alle
+
+die Zeit, wissen Sie, was ist Ihre Identität?
+Manchmal, wo bist du? Zu welcher Zeit sind
+
+Sie dies tun? Und wenn Sie also
+den Grad des Vertrauens in Bezug auf die
+
+was die Identität ist, das kann man programmieren.
+Intelligente Verträge in einer Blockchain sind also nichts
+
+sondern Programme, die sagen: Wenn A dies tut
+dies und B das tut, dann passiert C. Sie
+
+können automatische Prozesse in die Blockchain programmieren
+um sicherzustellen, dass genügend Wissen vorhanden ist
+
+wer mit dem Netzwerk verbunden ist, wie
+Netzwerk verbunden ist, wie, und was sie dürfen
+
+im Netz machen? Und ich spreche von netzunabhängigen
+als auch, Sie wissen schon, den Netzausgleichsteil
+
+wo Blockchain sehr, sehr nützlich sein könnte.
+Es gibt eine Reihe von Anwendungen, die wirklich die
+
+Cybersicherheit. Die Schwachstelle bleibt immer
+bei Blockchain oder jeder anderen Technologie gleich.
+
+Das ist der Einstiegspunkt. Wir haben zum Beispiel
+ein Toolkit entwickelt, das dabei hilft, erneuerbare
+
+Energieerzeugung und Sie können Zertifikate ausstellen
+online. Sie können sie handeln und dies tun in
+
+eine höchst vertrauenswürdige Art und Weise. Wenn Sie das
+das Gleiche mit der Verfolgung der Umweltverschmutzung tun können, können Sie es nicht
+
+sich auf andere Sensoren verlassen, die weniger sicher sind.
+Weniger genau würde ich sagen. Wir haben gerade
+
+hatten ein Gespräch über die Ölverfolgung. Wo
+kommt dieses Öl her? Was ist passiert mit
+
+es in Bezug auf die Verarbeitung? Dort muss man
+mehr auf Zensoren und sogar Menschen angewiesen, um
+
+einige der Daten eingeben. Und da haben Sie
+das gleiche Problem mit oder ohne. Mit Blockchain
+
+Sie fügen Automatisierung hinzu, fügen Interaktion auf Geräteebene hinzu,
+verteilen Sie die Zugangspunkte so, dass
+
+Sie machen es sicherer und nicht unsicherer.
+Es handelt sich also um eine Technologie, die wirklich gut durchdacht ist
+
+für ein verteiltes IoT-System. Ich spreche nicht nur
+Energie; ich spreche auch über
+
+alle anderen Industrien, die den Nachweis erbringen müssen
+den Nachweis erbringen und standardisieren müssen. Einfach verlassen
+
+es vorerst dabei belassen.
+Okay. Also, ja, vielen Dank. Jetzt haben wir
+
+einen guten Überblick darüber bekommen, wie Blockchain vielleicht
+eine Lösung für einige Sicherheitsprobleme sein kann.
+
+Aber ich habe das Gefühl, dass wir nicht wirklich hier sitzen würden
+wenn wir alles mit Blockchain lösen könnten.
+
+Ich stelle Ihnen diese Frage, weil ich weiß, dass
+vielleicht einige der Cyber-Risiken, die wir
+
+sehen auch Kontrollsysteme für das Stromnetz
+und andere Dinge in der Energiebranche.
+
+Sektor, die digitalisiert wurden. Könnten Sie
+einen Überblick geben über, Sie wissen schon, was sind
+
+die Risiken, die Sie sehen und an denen Sie arbeiten
+an denen Sie arbeiten, und einige der Herausforderungen, die damit verbunden sind?
+
+Gut. Vielen Dank für Ihre Frage
+und natürlich auch für die Einladung. Es ist eine
+
+eine große Freude, hier zu sein. Und nur um auf die Frage
+die Frage, denke ich, dass es wichtig ist
+
+auf das Thema der Veranstaltung, die Energiewende, zu konzentrieren.
+Übergang. Und vor allem, wenn wir bedenken
+
+auch das Paket für saubere Energie. Sie alle wissen
+dass es drei Hauptpunkte gibt, die wir setzen können
+
+an der Spitze des Pakets für saubere Energie. Dieses
+sind dies Dekarbonisierung, Digitalisierung
+
+und Dezentralisierung. Also, natürlich, beginnend
+Dekarbonisierung beginnen wir mit dem ersten Punkt.
+
+Natürlich müssen wir uns auf die Integration der
+der erneuerbaren Energien in die Energieinfrastruktur.
+
+Das bedeutet natürlich, dass wir eine ganz andere,
+wie wir schon sagten, Infrastruktur. Und auch, um zu erwähnen
+
+dass sie der europäische Verband der Übertragungsnetzbetreiber ist
+Übertragungsnetzbetreibern ist, der alle ÜNB in
+
+Europa hat einige Aufforderungen veröffentlicht, die streng
+zum Beispiel eine der Aufforderungen, die sich auf die
+
+wird Systembetriebsleitfaden genannt. Und
+sie zielen nur auf den Informationsaustausch
+
+die für den Betrieb der dezentralen Energieinfrastruktur benötigt werden
+Energieinfrastruktur zu betreiben. Und zwar im Besonderen,
+
+sie definieren die Anforderungen für diesen
+Austausch von Informationen. Und für den Erhalt von Daten
+
+von den Nutzern, den so genannten signifikanten
+Netznutzer, die für alle Beteiligten verfügbar sind
+
+die solche Daten benötigen. Und alle Beteiligten
+bedeutet vor allem ÜNB, VNB, Verteilernetze.
+
+Aber auch mit Anbietern, zum Beispiel, um
+um die zukünftigen Märkte zu erschließen. Und so, Sie
+
+kann verstehen, dass man, um die
+schreiben, die digitale Lösung eines solchen
+
+großen Netznutzern, müssen wir natürlich
+nachhaltige Lösungen in Bezug auf die
+
+von Themen, die bei solchen digitalen Lösungen eine Rolle spielen.
+Und die meiste Zeit, wenn die Seiten des Netzes
+
+Nutzer nicht groß genug ist, bedeutet dies, dass sie
+z. B. auf der Konnektivität beruhen müssen
+
+die von Drittanbietern bereitgestellt wird.
+Das bedeutet also, dass auch dieser Betreiber über
+
+zuverlässige Dienste anzubieten und natürlich auch
+natürlich die Anbieter digitaler Dienste wie,
+
+Natürlich müssen die Anbieter cloudbasierter Dienste
+zuverlässige Dienste für solche Informationen anbieten
+
+tauschen. Also, all diese), natürlich,
+sind Prioritäten für die Verbindung solcher verteilten
+
+Energieressourcen an das Hauptnetz anzuschließen. Und um
+das gesamte dezentralisierte digitale
+
+Infrastrukturen. Was bedeutet das für die Cybersicherheit?
+was bedeutet das? Sie wissen also, dass in Europa
+
+wir haben die Richtlinie zur Informationssicherheit
+die bereits in Kraft ist und in den verschiedenen Mitgliedsstaaten
+
+Staaten. Und natürlich verlangt diese Richtlinie
+zu ermitteln, welches die wesentlichen Dienste sind
+
+natürlich auch die Energieversorger und die
+Betreiber und auch Anbieter digitaler Dienste.
+
+Sie sind in der Verordnung als solche gekennzeichnet und bieten
+das gegebene Maß an Sicherheit. Also, natürlich,
+
+Fähigkeiten im Bereich der Cybersicherheit. Und das sind,
+natürlich Sicherheitsvorkehrungen. Also, zur Umsetzung
+
+die geeigneten Sicherheitsmaßnahmen in Bezug auf
+zu den bewerteten Risiken. So,
+
+die Risikobewertung ist eine wichtige Triebfeder für die
+Umsetzung der Cybersicherheit. Also, was
+
+über die neuen Risiken dieser dezentralen Energieinfrastruktur sagen?
+Energieinfrastruktur sagen? Wir haben gesagt, wenn wir
+
+natürlich auf die architektonische Ebene schauen,
+werden die Angriffe, denen Sie ausgesetzt sind, verstärkt. Denn
+
+das gesamte dezentrale System ist viel breiter
+breiter. Wenn wir also die Auswirkungen der
+
+Gesamtrisiken müssen wir alle verschiedenen
+verschiedenen Komponenten und die verschiedenen Netze berücksichtigen,
+
+Technologien, die für den Betrieb der Energieinfrastruktur
+der Energieinfrastruktur beteiligt sind.
+
+Ich danke Ihnen. Ich möchte zwei Dinge aufgreifen
+die Sie sagten. Also, erstens, was Sie sagten, na ja,
+
+Es gibt immer mehr Unternehmen, vielleicht auch
+IT-Unternehmen einziehen. Und das könnte dann
+
+machen, könnten sie Einstiegspunkte sein. Wir haben
+kürzlich in den USA einen Anschlag, bei dem es
+
+eine Spear-Phishing-Kampagne, die an ein Unternehmen
+die ein Zulieferer von, Sie wissen schon, dem primären
+
+Ziel und durch dieses würden sie tatsächlich
+auf das Hauptziel zugreifen und dann,
+
+Sie wissen, dass die ultimative Cybersicherheit
+angestrebt wird. Lassen Sie uns über diese Herausforderung sprechen
+
+und auch auf der Meta-Ebene, auf der politischen Ebene
+Ebene, auf politischer Ebene, werde ich auf Folgendes hinweisen
+
+Sie, Herr Moser. Und diese Richtlinie besagt.
+wissen Sie, Sie sollten identifizieren, was kritisch ist,
+
+was wesentliche Dienstleistungen sind. Aber ich finde das
+sehr, sehr schwierig auf diese Weise. Und wo
+
+Siehst du, weißt du, was der Gedanke dahinter war?
+dahinter steckt, vielleicht? Am Anfang auf was
+
+kritisch ist? Und wie könnten wir dann mit dieser
+mit dieser Herausforderung aus politischer Sicht umgehen, wenn,
+
+wissen Sie, dass immer mehr Anbieter und Unternehmen
+drängen in diesen Bereich. Wie können wir, Sie
+
+einen Überblick darüber zu behalten, was mögliche
+potenzielle Einstiegspunkte sein könnten?
+
+Irgendwo muss man ja anfangen. Die Dienstleistungen der Mitglieder
+werden von den Mitgliedsstaaten als die wichtigsten
+
+wichtige relevante Dienste für das Funktionieren eines
+eines Systems. Das ist im Grunde der Ausdruck
+
+der Verhältnismäßigkeit. Aber natürlich muss das gesamte
+System im Auge behalten werden. Auch außerhalb
+
+die wesentlichen Dienstleistungen. Besonders wenn sie
+kann es einen Angriff von vielen gleichzeitig geben
+
+Zeit, die ähnliche Merkmale haben. Ich denke also
+die Botschaft an das gesamte System, die Mitgliedsstaaten
+
+und Interessengruppen das gesamte System im Auge behalten
+System und nicht nur einige der vielleicht
+
+die wichtigsten Nutzer und Dienste. Und ziehen
+die Lehren ziehen und sie auch auf die anderen anwenden.
+
+Das ist ziemlich kritisch. Und ziemlich wichtig.
+Und es gibt keine einheitliche Anwendung. Es ist
+
+den Mitgliedstaaten überlassen, zu definieren, was sie
+als wesentlich erachten. Und ich denke, dass die
+
+Instrument, das von entscheidender Bedeutung ist, und das im Mittelpunkt
+für alle unsere Bemühungen hier: Risikobewertungen.
+
+Auch die Risikobewertungen müssen regelmäßig mit
+regelmäßig und unvoreingenommen vorgenommen werden. Und wann immer
+
+etwas Neues passiert, um daraus Lehren zu ziehen.
+Und dann können Sie entscheiden, ob Sie
+
+anpassen, zum Beispiel auch die Ernennung
+als wesentlicher Dienstleistungsanbieter. Oder was sonst
+
+Lektionen, die Sie auf andere Teile des
+des Systems übertragen.
+
+Nun gut. Nun, ich danke Ihnen. Also, wir haben einen
+einen kleinen Überblick über einige der Lösungen
+
+und auch die Cyber-Risiken. Aber ich denke, einer der
+einer der Akteure, die noch fehlen
+
+Was ist die Bedrohungslandschaft?
+Womit befassen wir uns also eigentlich? Wer ist
+
+die Energiewende in Angriff zu nehmen und
+was sehen wir? Und so stelle ich diese Frage
+
+Sie hatten ja bereits Erfahrung im Umgang mit einer
+mit einer Cyber-Operation, die auf ein Unternehmen gerichtet war
+
+alle Unternehmen. Können Sie uns einen Überblick über die
+die Bedrohungslage geben? Wie ernst ist diese?
+
+Und wer hat es auf uns abgesehen?
+Es gibt eine Menge Leute, die es auf eine Menge Leute abgesehen haben.
+
+verschiedene Betreiber. Die kritische nationale
+Infrastruktur eines jeden Landes ist in der Tat
+
+einzigartig und wird von jedem Mitgliedsstaat entschieden.
+Das kann ein wenig verwirrend sein, wenn es
+
+ist ein Großangriff, der von einem Land zum anderen gehen kann
+auf ein anderes übergreifen kann. Wir sind durch unsere Energie miteinander verbunden
+
+Netz und wir haben auch Verbindungen zu anderen Nicht-EU-Ländern.
+Aber europäische Länder. Wo ihre Geopolitik
+
+können auch uns beeinflussen. Gut, dass es zum Beispiel
+ein anhaltender Konflikt zwischen Serbien und
+
+Kosovo, was zu einer Unterspannungsdeharmonisierung im
+des EU-Stromnetzes verursachte, und wir verloren 113 Gigawatt
+
+von Strom über einen Zeitraum von fast vier Jahren
+Zeitraum. Und alle europäischen Systemuhren
+
+wie bei Ihrer Mikrowelle und Ihrem Backofen
+bis zu sechs Minuten Zeitverlust wegen Unterspannung
+
+geopolitisch bedingt. Im Fall des
+Angriffs auf Saudi Aramco gab es frühere
+
+Angriffe gegen die iranische Infrastruktur
+in Bezug auf Urananreicherungsanlagen. Dort
+
+Stuxnet, und dann Flamme, sie hatten eine
+eine brennende amerikanische Flagge auf ihrer Malware.
+
+Als sie im Jahr 2012 Saudi Aramco angriffen
+mit etwas namens Shamoon, der Variante
+
+hatte eine brennende amerikanische Flagge. Das Besondere
+Angriff war, dass 20 % der Opfer
+
+Energie wird über Saudi Aramco geleitet. Es ist bekannt
+als das wertvollste Unternehmen der Welt. Und
+
+Wenn man ein Unternehmen angreift, das Spinnen auf der ganzen Welt hat
+können Sie die Märkte tiefgreifend beeinträchtigen mehr
+
+als nur in einem Land. Wir müssen uns also
+die Geopolitik betrachten, die sich auf die
+
+unsere Energie in einem Bereich und erkennen, dass sie
+tatsächlich unsere Energie hier beeinflussen kann. In der
+
+der Anschläge haben wir die Möglichkeit in Betracht gezogen
+die Möglichkeit, dass Saudi Aramco sich komplett
+
+von der Ölproduktion ab, könnten wir
+400$450 pro Barrel Öl haben. Und das würde haben
+
+war für viele Volkswirtschaften verheerend. Es ist
+sehr wichtig, dass wir uns ein wenig mehr mit
+
+denn was dort passiert, kann uns hier
+was dort geschieht, kann uns hier tief berühren. Und
+
+Wenn es um Geld und Politik geht, sind diese Dinge leider
+Politik im Spiel ist, sind diese Dinge ein Ziel.
+
+Sehr sogar.
+Sehr gut. Ich danke Ihnen. Also, bevor wir zu
+
+einige der IT-Sicherheitslösungen, die ich wissen möchte
+Ich bin mir ziemlich sicher, dass sie bei Google
+
+Viele Cyberangriffe sind ständig im Gange. Ich möchte
+zuerst Sie in Estland fragen, denn Sie sehen
+
+diese auch geopolitische Situation in Estland,
+Sie wissen, dass eine der größten Herausforderungen
+
+größere Cyberangriffe auf eine politische IT-Infrastruktur.
+Wie bereiten Sie sich darauf vor, Sie wissen schon, auf diese
+
+für ein solches Szenario? Was sind denn einige der
+Ihre Strategien, Lösungen, praktischen Lösungen
+
+die Estland in Betracht zieht?
+Sicher. Ich danke Ihnen für diese Frage. In der Tat,
+
+je mehr Dienste wir online haben, desto besser
+unsere Cybersicherheit werden muss.
+
+Und das ist, glaube ich, sehr wichtig zu bedenken
+zu bedenken, dass wir jedes Mal, wenn wir eine Verbindung
+
+neue Dienste, neue Daten, dann vor allem mit
+dem Internet, dann müssen wir unsere
+
+auch Sicherheitssysteme. Also, was wir tun
+wir wirklich viel Aufmerksamkeit auf die
+
+auf die Cybersicherheit. Und die Art und Weise, wie wir
+digitalen Gesellschaften auf einer verteilten
+
+Basis. Wir haben also keine zentralisierten Datenbanken.
+Sondern verteilte Systeme, die miteinander verbunden sind
+
+zu einer Infrastruktur. Und ich denke, dies ist
+auch wichtig, wenn wir über die
+
+Europäischer Ansatz. Wie sollten wir also den
+diesen grenzüberschreitenden Datenaustausch aufbauen, um die
+
+sicher, dass wir ein widerstandsfähiges System aufbauen?
+Sie haben also ein Beispiel für Estland geschrieben
+
+aus dem Jahr 2007, als wir einen schweren Cyberangriff
+gegen unsere Systeme. Was wir also gelernt haben aus
+
+dass wir zunächst mehr in unsere Systeme investieren müssen
+unsere Systeme und wir haben angefangen, Blockchain zu nutzen
+
+um die Integrität und Sicherheit unserer Daten zu schützen.
+Zu dieser Zeit hatten wir also den Begriff
+
+der Blockchain war noch nicht einmal geboren, glaube ich. Also,
+benutzten wir stattdessen den Begriff der Zeitstempelung.
+
+Und die gleiche Technologie wird heute auch
+mit unserer Plattform für Datenketten. Was ich erwähnt habe
+
+vorher. Und unsere Dateien werden tatsächlich benutzt
+um diese mit der Blockchain zu schützen.
+
+Wir bauen also in der Tat ein Resilienzsystem
+System auf dezentraler Basis. Und ich denke
+
+Dies ist ein guter Ansatz, auch wenn wir einen
+Paneuropäischer Ansatz.
+
+Nun gut. Nun würde ich Sie gerne fragen, Dr. Georgieva,
+als Google, Sie wissen schon, als ein sehr innovatives
+
+Unternehmen, wie schaffen Sie es, innovativ zu bleiben
+und gleichzeitig die Cybersicherheit
+
+im Sinn? Was sind einige der Lösungen oder
+Erfahrungen aus einem privaten Unternehmen
+
+Standpunkt mit, wissen Sie, ziemlich sicher, zumindest
+zumindest bei den Netzwerken, mit denen ich zu tun hatte.
+
+Ich danke Ihnen vielmals. Ich denke, ich muss
+dem, was Sie gerade gesagt haben, nichts hinzufügen. Danke
+
+vielen Dank für diese Einladung. Es ist wirklich
+Teil dieser sehr interessanten Veranstaltung zu sein
+
+Konferenz. Und ich habe all den sehr interessanten
+interessanten Diskussionen der letzten zwei Tage.
+
+Wir haben in der Tat eines der größten Netze der Welt
+größten Netze in einer stark vernetzten Welt.
+
+Angesichts der sich ständig weiterentwickelnden Cyber-Bedrohungen würde ich sagen
+ist definitiv ein Problem. Und ich werde einfach
+
+Ich gebe Ihnen zwei Zahlen. Wir haben etwa jede Minute
+verhindern wir, dass 12 Millionen Spam-Nachrichten die
+
+Ihr Gmail-Konto. Jeden Tag sichern wir
+3 Milliarden Geräte auf der ganzen Welt mit unserem
+
+Safe-Browsing-Antimalware-System. Die Zahlen
+sind ziemlich erstaunlich, und wir haben eine Menge Produkte
+
+und Dienstleistungen mit über einer Milliarde Nutzern
+und Kunden. In der Tat, und das ist der Grund, warum auf den ersten
+
+Sicherheit ist eigentlich in der Mitte, im Zentrum
+unseres Denkens. Sicherheit war und ist immer noch
+
+war schon immer ein sehr zentrales Thema, das
+unser Denken bestimmt. Es treibt unser strukturelles
+
+unser Denken, unser Handeln, unsere Schulungen
+die wir mit unseren Kollegen durchführen. Und auch,
+
+die Rechenzentren und wir haben, natürlich, es ist
+Sicherheitsdenken ist auch Teil unserer operativen
+
+und Katastrophenplanung. Das gilt natürlich auch,
+um so sicher zu sein, wie wir es sind. Welche
+
+ist immer noch wirksam. Dass wir Sicherheit denken und
+Sicherheit vordenken. Ich denke also, dass in den letzten
+
+In den letzten Jahren ist sicherheitsbasiertes Design ein großes Modewort.
+Tatsächlich haben wir in den letzten Jahren
+
+dieses Prinzip von Anfang an. Und
+die Frage ist, wie man anfängt zu entwickeln
+
+und das Produkt schaffen? Wir haben auch ich denke
+es ist sehr wichtig, dass die Cybersicherheit
+
+nicht ein endgültiger Zustand. Es ist ein ständiger Prozess.
+Es ist eine Konstante, eigentlich ein Kontinuum,
+
+einen kontinuierlichen und automatischen Schutz und
+Vorbeugung und Reaktion. Also, wir haben tatsächlich
+
+drei Elemente, über die man nachdenken sollte. Wir haben, für
+nur um Ihnen einige Beispiele zu geben, haben wir,
+
+zum Beispiel schützen wir die Daten
+mit mehreren Sicherheitsebenen wie Verschlüsselung,
+
+zum Beispiel. HTTPS oder Transport Layer Security.
+Wir haben und das ist, was ich immer versuche
+
+zu erklären. Wir haben die Sicherheit eingebaut. Oder Sicherheit
+ist eine Menge wir sind uns bewusst, dass es eine Möglichkeit gibt
+
+und deshalb haben wir versucht, so viel Sicherheit wie möglich einzubauen.
+so viel Sicherheit wie möglich einzubauen. Wir alle wissen also, dass
+
+Cybersicherheit ist ein sehr komplexes Thema.
+Ich zum Beispiel würde sagen, ich bin wahrscheinlich
+
+kein normaler Nutzer, aber ich möchte mich nicht
+mich nicht langweilen, während ich das Internet nutze mit
+
+den ganzen Sicherheitskram. Ich will also nicht, dass die Benutzer
+einen Cyber-Abschluss haben. Deshalb ist das alles
+
+die Möglichkeit, sie in die Sicherheit einzubauen.
+Was auch sehr wichtig ist, ist die Zusammenarbeit.
+
+Zusammenarbeit mit unseren Wettbewerbern, Zusammenarbeit
+mit Nichtregierungsorganisationen und der Zivilgesellschaft, mit der akademischen Welt.
+
+Das ist sehr wichtig. Und vielleicht auch, um Ihnen ein
+ein Beispiel mit unserem Cloud-Service zu geben. Denn
+
+warum das ein bisschen Werbung ist, das tut mir
+Das tut mir leid. Aber das ist tatsächlich eine Tatsache.
+
+Es ist eigentlich eine sehr sichere Umgebung.
+Sie müssen auf die Hardware zurückgreifen.
+
+Wir produzieren zum Beispiel unsere eigenen Hardware
+Chips für die Cloud. Das ist also der Punkt, an dem die
+
+den so genannten Titan-Chip. Wir haben ihn vor zwei
+vor zwei Jahren eingeführt. Wir haben, zum Beispiel platzieren wir um
+
+es eine unsichtbare Grenze, die VPS-Dienst
+Kontrollen. Und auch das Streben nach Transparenz.
+
+In der Cloud haben Sie einen Prüfpfad, der
+jedes Mal, wenn ein Google-Mitarbeiter interagiert
+
+mit Ihren Daten. Ich denke also, dass dies Maßnahmen sind
+die Sie im Bereich der Cybersicherheit ergreifen können.
+
+Und ich denke, was ich auch erwähnt habe, ist, dass selbst
+wenn Sie die beste Cybersicherheit aufbauen
+
+gibt es immer noch ein bisschen weniger
+für die Benutzer, wo man Cyber-Hygiene codieren muss.
+
+Das ist so eine Art, wo man sich die Zähne putzt
+Ihren Zahn. Es ist eine Art von reflektiert oder waschen
+
+die Hände vor dem Essen. Ich erinnere mich nur,
+es gab eine Sache, es gab einen Alarm über
+
+Glücklicherweise war es ein falscher Alarm über den
+Tsunami. Und es gab eine sehr interessante
+
+Bild im Internet. Es lief herum wie
+als der Sicherheitsexperte alles erklärt hat.
+
+Und hinter ihm stand der Computer mit dem Postit
+mit seinem Passwort. Es ist die Art von Ding
+
+Das sind Dinge, die wir nicht verhindern können.
+Wir bieten eine Menge Tipps und Tricks für die Sicherheit
+
+Schulungen und auch für die Nutzer. Es ist eine Art
+ein sehr komplexes Programm. Man muss denken
+
+darüber. Und noch einmal, es ist eine Zusammenarbeit
+und jeder muss sich darum kümmern. Aber
+
+auch eine große Verantwortung derjenigen, die die
+die Dienstleistungen und Produkte anbieten.
+
+Okay. Also, was ich aus dieser ersten Runde mitgenommen habe
+ersten Runde, in der ich mir wirklich die
+
+Thema Dezentralisierung und Resilienz
+ist, dass es nicht wirklich eine Lösung gibt. Und ich
+
+Meine persönliche Hypothese ist, dass die Dezentralisierung
+im Allgemeinen eine bessere Sicherheit schaffen könnte.
+
+Aber es wird nicht, Sie wissen schon, es wird nicht
+alle Cyber-Risiken und Cyber-Bedrohungen zu beheben
+
+mit denen wir konfrontiert sind. Wenn wir also, ich denke
+und auch eines der Dinge, die irgendwie kamen
+
+ist, dass es keinen einzigen Akteur gibt, der
+lösen. Lassen Sie uns ein wenig darüber sprechen.
+
+Als Politikwissenschaftler bin ich immer daran interessiert
+Sie wissen schon, eine neue Herausforderung. Was bedeutet
+
+unser System tun und was müssen private Unternehmen
+tun müssen, und was der Nutzer tun muss und wie wir die
+
+dass sie bestimmte Dinge tun? Schnelle Reaktion?
+Ja, sehr schnelle Reaktion. Eine andere ist das Teilen
+
+Ihre Lehren aus einer Bedrohung. Wenn Sie durch
+die Öffentlichkeit und teilen all dies. Ich denke, dies
+
+in der Cybersicherheits-Community gibt es eine Reihe von
+gibt es eine Menge von Plattformen, die genau
+
+wie das hier, wo für oder uns, wo man das austauschen kann
+dies. Und ich glaube, Sie haben in der Richtlinie erwähnt,
+
+da sie eine Vergangenheit im öffentlichen Sektor haben.
+Ich denke, sie haben das Netzwerk geschaffen, das
+
+ein sehr interessantes technisches Segen Sie es ist
+ein technischer, nationaler und staatlicher sind
+
+miteinander zu kooperieren und miteinander zu reden
+miteinander reden. Ich denke, das ist das Wichtigste
+
+Sachen. Miteinander reden.
+Ich danke Ihnen.
+
+Ich möchte, dass wir unterscheiden zwischen, Sie wissen schon
+vorsichtig und verantwortungsbewusst zu sein, wenn es
+
+in Sachen Sicherheit. Und trotzdem innovativ, oder?
+Denn wenn wir einige der Angriffe entmystifizieren,
+
+Das werden wir z. B. in der Ukraine herausfinden,
+das System nicht über eine Zwei-Faktor-Authentifizierung verfügte,
+
+oder? Also, das ist etwas, was Sie lösen können,
+oder? Ohne jeden zu alarmieren, nicht zu innovieren
+
+und nicht mehr zu verbinden, um zusätzliche Dienste anzubieten.
+Dienste.
+
+Bow, wie bringt man die Leute dazu, einige
+einige der Grundlagen der Cybersicherheit? Was
+
+sind Ihre Ideen dazu?
+Ich denke, auf der einen Seite gibt es Elemente, die mit
+
+an das Netzmanagement, wenn wir Verantwortliche haben
+wenn Netzmanagement und Übertragung
+
+Betreiber im Allgemeinen. Ich spreche von agiler
+Politikgestaltung. Das ist die Konferenz.
+
+Eines meiner Lieblingsthemen ist der intelligente Zähler
+oder der so genannte Smart Meter. Wer in diesem Raum
+
+denkt, dass der intelligente Zähler wirklich intelligent ist?
+Ich danke Ihnen. Sie können eine genauere Abrechnung erhalten
+
+damit, das ist doch fantastisch, oder? Und nicht
+zu aufregend. Aber man kann so viel mehr tun
+
+mit ihm. Sie können wirklich auf der Nachfrageseite
+Seite der Energie arbeiten. Und man kann wirklich bieten
+
+Flexibilität mit diesem Gerät. Und in der Welt
+der Blockchain, in der wir uns befinden, und, Sie wissen schon,
+
+meine Organisation hat eine globale Energie
+Blockchain-basierte Plattform für verschiedene Anwendungen aufgebaut.
+
+Für uns ist ein Smartphone, Entschuldigung, ein intelligenter
+Zähler ist wie ein Smartphone, richtig? Also, wenn
+
+Sie Dienstleistungen anbieten wollen, die
+die weit über die Rechnungsstellung hinausgehen, brauchen Sie eine
+
+Verbindung zu diesem so genannten intelligenten Zähler,
+oder? Sie müssen also diese Möglichkeit haben. Sie
+
+eine Verbindung zu einem SCADA-System haben müssen.
+Und da brauchen wir mehr Beweglichkeit bei den politischen Entscheidungsträgern
+
+um zu verstehen, was möglich ist und warum das
+nicht die Sicherheit beeinträchtigt, sondern sie verbessert
+
+Sicherheit einer Reihe von Diensten.
+Okay. Ich werde hier einspringen, denn das ist
+
+eine direkte Art des Wortangriffs auf die öffentliche Politik
+Entscheidungsträger.
+
+Es ist ein Vorschlag.
+Es ist ein Vorschlag, agiler zu sein. Ich werde
+
+bei der Europäischen Kommission zu fragen, was Sie
+was Sie von agiler Politikgestaltung halten und ob
+
+denken Sie, dass es vielleicht genug Interaktion
+mit, ja, neueren Unternehmen und Lernen
+
+über neue Technologien? Ja, natürlich.
+Wir haben einen breiten Rahmen. Ist es immer noch der
+
+erste Runde? Okay. Ich habe nämlich noch nicht wirklich
+noch nicht gesprochen. Also
+
+Sie können jetzt weitersprechen.
+Okay. Also, ich möchte nur sagen, dass ich von
+
+der europäischen Perspektive gibt es eine sehr große
+Bemühungen, alle zusammenzubringen. Über
+
+die NIS-Richtlinie. Aber auch, mit einem besonderen
+Anstrengungen im Energiesektor, denn wir haben
+
+im Dialog mit den Akteuren des Energiesektors festgestellt
+Interessengruppen des Energiesektors, dass es sehr spezifische
+
+Merkmale des Energiesektors. Nicht zu vernachlässigen sind Echtzeit
+Anforderungen, Kaskadeneffekte, sondern auch
+
+den Technologiemix. Und es gibt verschiedene
+Formen der Zusammenarbeit zwischen den Mitgliedsstaaten
+
+und mit der Kommission. Also, der öffentliche Sektor.
+Aber auch in Bezug auf den privaten Sektor.
+
+Wo im Grunde jeder beteiligt ist, der beteiligt sein muss
+involviert sein müssen. Es ist natürlich wichtig, dass
+
+dass die großen Netzbetreiber dabei sind.
+Aber auch Technologieanbieter und auch die
+
+kleinere Spieler. Hierfür haben wir ein spezielles
+Forum für den Austausch von Informationen und Analysen.
+
+Das europäische Energie-ISAC, Zentrum für Informationsaustausch und
+Analysezentrum. Aber es gibt auch andere
+
+Initiativen im Wesentlichen aus dem privaten Sektor
+die mit der Kommission und der Kommission zusammenarbeiten
+
+Mitgliedsstaaten. Wir stützen uns auf das Paket für saubere Energie
+Paket, das natürlich auf die Digitalisierung setzt,
+
+wir werden ein Netz für Cybersicherheit einrichten
+das die Bemühungen der Europäischen Kommission
+
+NIS-Richtlinie zur Festlegung spezifischer Regeln
+zu erlassen. Es wurde eine Expertengruppe eingesetzt, die
+
+hat daran gearbeitet. Und es wird einen Auftrag geben
+für das Übertragungssystem und die Verteilung
+
+System und die Zusammenarbeit mit den Beteiligten
+auszuarbeiten. Das Ziel besteht darin, Folgendes zu ermitteln
+
+welche weiteren Regeln notwendig und sinnvoll sind, um
+um die Cybersicherheit voranzubringen. Es gibt auch
+
+das Cyber-Gesetz aus dem letzten Jahr, das
+ein System für die Zertifizierung entwickelt. Dort
+
+müssen wir herausfinden, was tatsächlich
+für den Energiesektor nützlich ist, denn es gibt
+
+sind Vor- und Nachteile der Zertifizierung.
+Wir wollen die Dinge nicht voreilig regeln. Wir
+
+eine gemeinsame Auffassung darüber zu finden, was
+zertifiziert werden sollte. Was auf dem Tisch liegt
+
+als Optionen oder Prozesse. Aber auch Dienstleistungen
+und Produkte als möglich) zertifiziert werden.
+
+Die Kommission hat letzte Woche eine
+Empfehlung zur sektorübergreifenden Cybersicherheit
+
+was der erste Schritt zu einem Netzwerk ist, das
+eine Einladung zu einer Debatte mit den Interessengruppen ist.
+
+Es ist nicht etwas, von dem wir sagen, es sei die letzte
+und endgültige Wahrheit. Es ist etwas, das wir überarbeiten müssen
+
+und ich lade Sie ein, einen Blick darauf zu werfen. Sie ist
+vom letzten Mittwoch. Unsere Empfehlung zu
+
+das. Im Grunde entwickeln wir unsere Ansichten darüber, was
+was getan werden sollte, um das Problem der Echtzeit
+
+Anforderungen, der Kaskadeneffekt im Technologie
+mix. Und natürlich sind einige der Themen
+
+die erwähnt wurden, werden dort aufgegriffen
+weil sie aus einem Dialog mit dem
+
+Experten. Vor allem spezifische Risikobewertungen.
+Redundanz im System in Bezug auf
+
+von Netzen. Automatisierte Antworten. Dann, natürlich
+natürlich die öffentlich/private Zusammenarbeit und dann
+
+Sicherheit durch Technik. Vermeidung von Spillover-Effekten
+und zur Erreichung der Widerstandsfähigkeit der
+
+System. Cybersicherheit ist nicht isoliert zu betrachten
+isoliert zu betrachten. Wir sind dazu da, die Widerstandsfähigkeit
+
+des Energiesystems im Ausland. Wir haben ein umfangreiches
+Regulierungsnetz und -rahmen für Gas und
+
+Strom, Versorgungssicherheit. Das betrachtet
+bereits auf alle Risiken. Die Bemühungen hier
+
+sollen gezielt dafür sorgen, dass auch die
+Cyber-Risiken durchdacht werden. Und in der
+
+politischen Debatte haben wir eine sehr enge Verbindung
+auch mit dem Schutz von kritischen Infrastrukturen.
+
+Was manchmal nicht direkt verbunden ist
+aus konzeptioneller Sicht, aber in der Praxis,
+
+ja. Wir haben dort einen sehr alten Rechtsrahmen
+aus dem Jahr 2008 und die NIS-Richtlinie ist relativ
+
+neu ab 2016. Das müssen wir
+in Zukunft zusammenführen. Das ist im Grunde das
+
+der Schutz kritischer Infrastrukturen wird
+zusammen mit der Cybersicherheit. Sie haben erwähnt
+
+zuvor, dass es keinen einheitlichen Ansatz
+in den Mitgliedsstaaten für wesentliche Dienstleistungen
+
+oder kritische Infrastrukturen. Das ist richtig.
+Das sind einige der Probleme, die Sie haben
+
+die wir in Zukunft angehen müssen. Und ich denke, was
+absolut entscheidend ist, dass der Dialog
+
+ist sehr intensiv. Eine der Herausforderungen dabei
+ist, dass die Mitgliedsstaaten manchmal nicht
+
+auch nach ihren eigenen nationalen Gesetzen nicht berechtigt
+mit anderen zu sprechen, Informationen auszutauschen
+
+die im Grunde genommen über sehr oberflächliche
+Fragen hinausgeht. Eine unserer wirklichen Herausforderungen wird also sein
+
+einen vertrauenswürdigen Gesprächskanal zu entwickeln
+in dem Informationen ausgetauscht und weitergegeben werden können
+
+in die richtigen Hände und das hat
+Vertrauen aufgebaut werden. Wir haben gesehen
+
+das in anderen Bereichen.
+Ich muss Sie unterbrechen, tut mir leid. Aber ich danke Ihnen
+
+vielen Dank, dass Sie uns einen guten Überblick über
+nicht nur öffentlich/private Partnerschaften bei der Umsetzung,
+
+sondern auch bei der Politikgestaltung. Und vielleicht ist sie
+noch nicht unbedingt so agil. Aber sie ist bei
+
+zumindest Offenheit. Und es gibt einen Dialog. Und
+dann würde ich es als, Sie wissen schon, Verständnis sehen
+
+dass dies tatsächlich notwendig ist, um eine
+gute Politik zu machen. Bevor wir zu Mr. Dialogue gehen
+
+oder Mr. Twitter und sehen Sie, was einige
+der Fragen und Kommentare, die Sie gestellt haben
+
+Ich habe gesehen, dass Sie den Drang hatten, zu sprechen.
+Also werde ich dir das Mikrofon geben. Und gebe auch
+
+Ihnen die Gelegenheit, und dann gehen wir rüber
+und öffnen uns.
+
+In den letzten zehn Jahren habe ich mich intensiv
+Forschung über die Fragilität der EU betrieben
+
+Netz gegenüber dem US-Netz. Und das nordamerikanische
+Netz, sollte ich klarstellen. Und einige meiner Beobachtungen
+
+sind dies. In den Vereinigten Staaten ist die kritische nationale
+Infrastruktur ein Teil der nationalen Verteidigung
+
+Strategie. Und die Idee ist, proaktiv zu schützen,
+zu schützen, abzumildern, zu minimieren und die Menge
+
+des Schadens. In den Vereinigten Staaten hat das
+Department of Homeland Security, ICS cert
+
+und regelmäßiges Scannen der kritischen nationalen
+Infrastrukturen und berichten direkt an die
+
+Betreibern, denn die überwiegende Mehrheit ist nicht im
+nicht im Besitz von Regierungen, sondern im Besitz von privaten Unternehmen ist.
+
+Hier in Europa ist das nicht der Fall. Es gibt
+gibt es nur wenige nationale Zertifizierungsstellen, die proaktiv
+
+Scannen. Das ist ein großes Problem, denn wenn
+man innovativ sein will, muss man springen, verbinden
+
+und Dinge tun, und nicht jeder ist sich bestimmter
+Gefahren, die Teil der nationalen Sicherheit sein könnten.
+
+Verteidigungsstrategie. Aber es gibt keine Kohärenz
+wenn es um kritische nationale Infrastrukturen geht
+
+und Teil dieser Strategie hier in Europa.
+Wenn ich mir die beiden Netze anschaue, dann sehe ich
+
+dass die Vereinigten Staaten in dieser Hinsicht
+in dieser Hinsicht viel reifer zu sein. Und ein letztes
+
+Hinzuzufügen ist, dass es derzeit
+zwei bekannte energiespezifische Zertifikate hier im
+
+Europäische Union. In Europa. Aber nur eine ist
+wirklich ausgereift, voll ausgereift, einsatzbereit und in Betrieb
+
+und das ist der österreichische Energieausweis.
+Energieausweis. Wir haben noch einen weiten Weg vor uns, wenn
+
+über Vorbeugung und proaktive Maßnahmen zu sprechen.
+Denn in Europa sind wir einfach noch nicht so weit
+
+noch nicht.
+Da die Frage an die politischen Entscheidungsträger gerichtet war
+
+von links. Dann stimme ich völlig mit
+dem Punkt, dass die Regierungen mehr
+
+bei der Suche nach Lösungen und der Förderung von
+die Lösungen. Und ich denke, dass eine Menge tatsächlich
+
+ergibt sich aus dem politischen Willen. Was wir also
+in Estland festgestellt und gesehen haben, ist, dass in
+
+um diese digitale Gesellschaft zu entwickeln, muss es einen
+muss es einen ständigen politischen Willen geben, dies zu tun.
+
+Auf diese Weise haben wir tatsächlich eingeführt
+Evoting. Das einzige Land der Welt, das so
+
+weit. Und das ist nicht die einzige kritische Infrastruktur
+die sich in Richtung Digitalisierung bewegt. Und
+
+Ich denke also, dass der politische Wille definitiv vorhanden ist
+um voranzukommen, um zu erreichen, dass
+
+das richtige Gleichgewicht zwischen dem Schutz der
+Schutz der Privatsphäre und dem gleichzeitigen Bemühen
+
+sicherstellen, dass die Innovation da ist und dass
+dass diese Lösungen auch wirklich umgesetzt werden. Und
+
+nach vorne eingestellt werden.
+Also gut. Ich danke Ihnen. Also, ja, ich übergebe
+
+Ich übergebe an Mr. Dialogue.
+Ich danke Ihnen. Nun gut. Also, wir haben eine letzte
+
+Runde am Mentimeter. Also, wenn ich den
+den QR-Code noch einmal hochholen. Wir haben relativ
+
+geringe Beteiligung im Moment. Ich möchte also betonen
+betonen, dass dies Ihre letzte Chance ist
+
+Konferenz teilzunehmen. Wenn Sie es nicht tun
+tun, werden Sie es für den Rest Ihres Lebens bereuen.
+
+Ihres Rückflugs nach Hause. Also, bitte, klicken Sie
+auf die Schaltflächen dort und lassen Sie uns die
+
+Fragen beantwortet. Ein paar Tweets, die ich gerne
+zeigen möchte. Einer von ihnen ist mit einem Bild
+
+hier. Also, diejenigen von Ihnen, die nicht in der Lage sind
+die nicht am Mittagessen der Frauen oben teilnehmen können. Dies ist
+
+wie es aussah. Aber eigentlich ist dies
+eine verpasste Gelegenheit. Denn dieser Raum
+
+ist nicht so besonders. Das ist es nicht, was dich
+eifersüchtig. Was dich eifersüchtig macht, ist, wenn
+
+drehen sie sich in diese Richtung und machen ein Foto von der
+Dachterrasse. Wenn also eine der Damen
+
+ein Bild von der Terrasse und möchten alle
+alle neidisch machen, verwenden Sie bitte den Hashtag
+
+und das werde ich in meinem letzten Auftritt heute zeigen
+heute zeigen. Ansonsten hatten wir noch ein paar Fragen
+
+hier. Mal sehen, ob mein iPad funktioniert. CSF fragt
+wie wir mit dem Problem umgehen sollen, wenn wir in
+
+Blockchain werden falsche Informationen in das
+dem System zugeführt. Und Jose will wissen, ob Smart
+
+Die Zähler sind nicht wirklich so intelligent. Ihre Designer
+sind auch nicht so schlau? Ich denke, ich würde
+
+das mit der Umfrage verbinden, die wir jetzt
+die wir jetzt zeigen werden. Also, schalten wir um
+
+rüber zur Umfrage. Und wir haben drei Fragen
+hier. Die erste lautet: Ist die Integration von
+
+Erneuerbare Energien als Chance oder Herausforderung. Die meisten
+Die meisten Menschen hielten sie für eine Chance. Sollte
+
+der Diskurs über die Energiewende sich
+mehr auf die Widerstandsfähigkeit der Cybersicherheit? Überwältigend
+
+ja. Und hier ist die Frage, mit der ich ein
+ein wenig Schwierigkeiten hatte. Wird die Verschiebung
+
+die erneuerbaren Energien das Risiko von Cyber-Bedrohungen erhöhen?
+Es ist ungefähr halb und halb. Obwohl es so aussieht
+
+als ob die Leute noch wählen würden.
+Fragen wir doch mal unsere Experten hier.
+
+Aber ich möchte das eigentlich problematisieren
+problematisieren. Denn die Frage ist für mich nicht wirklich
+
+ob erneuerbare Energien das Risiko von Cyber-Bedrohungen erhöhen
+Bedrohungen erhöhen, sondern ob Dinge wie die "Smart Everything
+
+wird das Risiko kaum erhöhen. Ich habe noch nicht gehört, dass
+dass Windmühlen eine Cyber-Bedrohung darstellen. Ich habe
+
+Ich habe gehört, dass sie Krebs verursachen. Also, vielleicht können Sie
+können Sie das kommentieren. Und ich übergebe an
+
+Julia jetzt. Ich danke dir.
+Das ist toll. Ich danke Ihnen vielmals. Ich mag diese Werkzeuge.
+
+Also, ja, vielleicht nur eine kurze Runde zur Beantwortung
+diese letzte Frage. Erneuerbare Energien, unsere Energie
+
+Übergang ist diese Erhöhung tatsächlich die
+Risiken. Beginnen Sie mit Ihnen und gehen Sie dann herum.
+
+Ich habe eine sehr schnelle Antwort. Seit 2017 hat Google
+eine Quote von 100 % für erneuerbare Energien erreicht. Wir sind
+
+in unseren betrieblichen Rechenzentren und unserer Infrastruktur
+setzen wir zu 100 % auf Solar- und Windenergie. Vielleicht zu
+
+hochsicher und erneuerbar zu sein
+ist kein Widerspruch. Sonst noch jemand?
+
+Die Erneuerbaren würden mehr Digitalisierung erfordern,
+es erhöht die Risiken, aber nur, wenn nicht richtig
+
+angesprochen. Das Thema wird immer wichtiger
+die Bewältigung von Cyberrisiken. Dies kann geschehen
+
+und wenn man das richtig macht, Risikobewertungen,
+Risikobewusstsein, Schulungen. Aber auch die Akzeptanz
+
+der Verantwortung eines jeden Nutzers, eines jeden
+einzelnen Nutzers. Und nicht grundsätzlich die Verantwortung delegieren
+
+und denken, dass sich andere um alles kümmern
+von anderen Leuten erledigt wird. Dann wird die erneuerbare Integration
+
+erhöht nicht die Gesamtrisiken.
+Es gäbe eine Situation, in der ich zufällig
+
+zu sehen, ob erneuerbare Energien eingeführt werden, um
+eine Bedrohung und Risiken darstellen. Das wäre der Fall, wenn wir
+
+nicht richtig planen, um die Menschen zu besseren
+bessere Arbeitsplätze zu schaffen, z. B. in der Kohleindustrie. Und halten Sie die
+
+sozioökonomischen Klassen gut. Denn ich habe Fälle gesehen
+Fälle von armutsbedingter Cyberkriminalität gesehen.
+
+Umgang mit Malware, Ransomware und Spam
+Angriffen und so weiter. Wenn wir Menschen zurücklassen,
+
+der Durchschnittslohn eines Malware-Operators beträgt
+10.000 Euro pro Woche. Das müssen wir im Auge behalten
+
+im Hinterkopf, dass wir beim Übergang
+wir nicht so viele Menschen zurücklassen können.
+
+Ja. Von meiner Seite aus denke ich, dass ich
+grundsätzlich mit dem einverstanden bin, was gesagt wurde
+
+vorher. Aber natürlich ist eine solch komplexe
+verteilte Infrastruktur eine Herausforderung von
+
+dem Standpunkt der Cybersicherheit. Das heißt nicht, dass
+dass wir es nicht schaffen können. Natürlich, das Geschäft.
+
+Aber die Verantwortung muss verteilt werden.
+Natürlich nicht gleich, es gibt nicht die eine Lösung
+
+für alle Beteiligten geeignet. Also, natürlich,
+können sie speziell auf die Rahmenbedingungen eingehen,
+
+können zum Beispiel die Kosten für die Umsetzung von
+für die Umsetzung von Cybersicherheit und Informations
+
+Sicherheitsmanagementsysteme. Natürlich, wenn
+wir den Betreiber verkleinern und kleinere
+
+Betreiber von Websites müssen natürlich die
+Cybersicherheit auf eine andere Art und Weise verwalten. Also, wir haben
+
+um ihnen ein, wie wir sagen, weiches Handbuch
+für sie. Wir müssen also die Anbieter einbeziehen.
+
+Wir sagten also: Zusammenarbeit. Und, natürlich,
+müssen wir auch neue Instrumente für die Verwaltung entwickeln,
+
+zum Beispiel für die Erkennung von Cybersicherheit.
+Das ist ein weiteres Thema aus der Forschung. Als ein
+
+Schmerzpunkt, sehen wir natürlich die Notwendigkeit, die
+die Fähigkeit zu entwickeln und zu verbessern, die
+
+neue Bedrohungen. Um Werkzeuge zu entwickeln, zum Beispiel
+Tools zu entwickeln, die auf maschinellem Lernen, Deep
+
+Lernen und Datenanalytik. Und das ist ein
+Punkt. Also, in nur einer Regel, die Sie haben
+
+dass die Dezentralisierung natürlich eine Herausforderung
+aus Sicht der Cybersicherheit eine Herausforderung darstellt.
+
+bietet aber auch eine Chance für die gesamte
+Widerstandsfähigkeit des Systems. Also, warum nicht?
+
+Ich glaube, die Menschen waren geteilter Meinung, denn einerseits
+auf der einen Seite die Anzahl und die Komplexität zunahm.
+
+Andererseits sind die erneuerbaren Energien bereits
+vorhanden. Oder? Wir haben diese Komplexität bereits.
+
+Beantwortung der beiden Fragen zu Blockchain
+Blockchain über Twitter zu beantworten. Also, eine bezieht sich auf
+
+zum Zugangspunkt. Und ich dachte, ich hätte das
+das angesprochen. Nämlich, dass es sich um eine Blockchain-basierte
+
+Datenbank ist zur Zeit die sicherste Datenbank
+Datenbank. Der Einstiegspunkt bleibt die Schwachstelle.
+
+Wenn es sich um ein Gerät handelt, das vertrauenswürdiger ist, wenn
+eine Person, die Daten eingibt, haben Sie immer noch
+
+die Möglichkeit menschlichen Versagens. Und dass
+wenn wir nicht alle durch Maschinen ersetzt werden
+
+und ich glaube nicht, dass wir das tun werden, bleibt
+ein Thema bleiben. Wie kann es angegangen werden? Ich meine,
+
+indem Sie einfach die Schichten, die Sie haben
+die Sie im Moment haben und die Sie abhaken können
+
+und Ausgewogenheit, um eine ausreichende Genauigkeit
+und Transparenz zu gewährleisten und möglichst viele gerätegestützte
+
+Datenpunkte wie möglich. Die andere Frage
+bezog sich auf politische Entscheidungsträger und intelligente Zähler.
+
+Es geht nicht um die Frage, ob die politischen Entscheidungsträger
+klug genug? Es ist eher eine Frage, dass
+
+sie haben diese wirklich schwere Last eines sehr
+sehr wichtiges Thema, nämlich die Energieversorgung und
+
+Energiesicherheit, was ich voll und ganz verstehe.
+Und dass es Zeit braucht, eine Entscheidung zu treffen.
+
+Die Zertifizierung eines Geräts braucht Zeit. Aber wegen
+diesem Rückstand und diesen Verzögerungen,
+
+Wenn Innovationen entstehen, werden sie nicht
+nicht so schnell eingeführt, wie sie es könnten, und sie
+
+können viele andere Dienste für Kunden ermöglichen
+die ebenso wichtig sind und die noch
+
+diese Sicherheit aufrechtzuerhalten. Es ist also eher eine Frage
+die Frage, wie man sicherstellt, dass man die
+
+Sie die Veränderungen um sich herum und setzen sie
+schneller umzusetzen und dabei das Gefühl zu haben
+
+ausreichend getestet, wissen Sie, für eine regulatorische
+Sandkasten, was auch immer als Regulierungsbehörde verfügbar ist?
+
+Außerdem habe ich ein Start-up-Unternehmen kennengelernt.
+Sie sind tatsächlich einer der Finalisten, die
+
+im Laufe des Tages. Sie haben einen Währungsbegrenzer hergestellt
+Währungsbegrenzer, wie sie es nennen, der Ihre
+
+Haus sehr flexibel. Und führt diesen zusätzlichen
+Service, der nicht nur für die Kunden wichtig ist
+
+Haushalt, sondern auch für das
+Netzmanagement. Sie können viel mehr als nur
+
+was sie tun, und sie können zu einem
+wirklich intelligenten intelligenten Messgerät werden. Und es gibt andere
+
+Innovatoren wie diese. Aber sie werden sich Zeit lassen
+denn sie sind sich nicht sicher, ob sie die
+
+in diesem Bereich, weil die Zertifizierung ein
+ein so abgeschlossenes Thema ist. Ich bin nur alles, was ich vorschlage
+
+ist, dass es ein offeneres Thema wird.
+Dass wir die regulatorischen Sandkästen schneller bekommen.
+
+Dass wir, wenn wir einmal testen, dann das Gefühl haben
+zuversichtlich, dass bestimmte Lösungen funktionieren können
+
+und die Sicherheit aufrechterhalten oder sogar erhöhen. Das
+wir sie schneller umsetzen können. Das ist
+
+der einzige Vorschlag, den ich hier auf dem Tisch habe
+habe. Ich danke Ihnen.
+
+Ich denke, es ist natürlich wichtig, über
+technischen und institutionellen Fähigkeiten in
+
+um den zunehmenden Cyber-Bedrohungen zu begegnen.
+Bedrohungen. Aber auf die Frage, ob ein
+
+dezentralisierte Energieerzeugung zunimmt
+Cyber-Bedrohungen, so lautet die Antwort wohl nein. Also,
+
+müssen wir uns auf eine weiter fortschreitende
+die Digitalisierung, die neue Arten von Bedrohungen mit sich bringt.
+
+Aber bei dieser Cyber-Bedrohung für erneuerbare Energien ist
+nicht der richtige Ansatz. Wir sind in Estland
+
+die ständig mit ähnlichen Herausforderungen konfrontiert sind. Also,
+wie man das richtige Gleichgewicht findet zwischen
+
+den Cyberschutz, die Cybersicherheit und die
+Innovation? Und so, ich denke, wichtig ist hier
+
+dass wir transparent mit den Cyber-Bedrohungen umgehen
+Bedrohungen, die wir in dieser Gesellschaft haben. Und
+
+diskutieren diese Fragen auch offen mit unseren
+unseren Bürgern. Und das ist wichtig, um
+
+mit der digitalen Gesellschaft voranzukommen, die Menschen
+Vertrauen in unsere eServices haben. Wenn es kein Vertrauen gibt,
+
+dann ist es auch als Politiker sehr schwierig
+die weitere Digitalisierung voranzutreiben. Also,
+
+Ich denke, dass dies wirklich wichtig ist.
+Okay. Ich würde gerne noch eine letzte Runde machen für
+
+eine spezifische Herausforderung, die wir also erörtert haben
+nun die Herausforderung der Innovation und der Widerstandsfähigkeit
+
+und Cybersicherheit. Und wie Sie schon sagten,
+Risikobewertung, wir brauchen Risikobewusstsein. Wir
+
+brauchen den Dialog. Also, ich bin, wissen Sie, dies ist
+ich denke, das ist bereits ein erster Schritt, um einen
+
+eine solche auf Cybersicherheit und Widerstandsfähigkeit ausgerichtete
+Diskussion auf einer Energiewende-Konferenz.
+
+Und Sie haben es erwähnt. Die Digitalisierung, aber auch
+die Mühe der, Sie wissen schon, wir müssen das umsetzen.
+
+Die Herausforderung, die ich sehe, die, Sie wissen schon,
+sich viele Unternehmen stellen werden, aber
+
+auch im öffentlichen Sektor gibt es eigentlich noch
+genug Möglichkeiten für Cyber- und IT-Sicherheitsleute
+
+Treffen mit dem Energiesektor,
+wichtigen Leuten, die die Entwicklung vorantreiben
+
+Innovation dort, was könnten Wege sein, wo
+wie wir diese Menschen zusammenbringen können?
+
+Und welche Möglichkeiten gibt es, um
+mehr Menschen für die IT-Sicherheit zu interessieren,
+
+Cybersicherheit im Schnittpunkt der Energie
+Politik? Also, nur um eine kurze Runde zu machen, wie
+
+vielleicht haben Sie eine Empfehlung für die Leute
+aus dem Publikum. Oder Ideen, wie wir uns bewegen können
+
+dieses Thema voranzutreiben, denn es scheint, dass
+Cybersicherheit die Innovation behindern könnte und
+
+Das ist nicht das, was wir wollen, oder? Also,
+ja, wer auch immer zuerst anfangen möchte.
+
+Ich kann anfangen. Also, was wir befürworten ist
+wir haben tatsächlich technische Lösungen zur Verfügung.
+
+Wie ich bereits erwähnt habe. Um eine
+eine aktuellere Unterstützung für unsere Daten zu ermöglichen
+
+und Eingliederung. Wir bieten also
+die Plattform als Datenkettenplattform für
+
+jeder, der daran interessiert ist. Und wir sind in Gesprächen
+derzeit mit mehreren europäischen Ländern. Und
+
+die sich für diese Plattform einsetzen. Auch wenn die Länder
+nicht über eine ähnliche Infrastruktur oder ein ähnliches System
+
+Architektur, wie wir sie in Estland haben, haben wir noch
+technische Lösungen, um die Architektur
+
+sicherzustellen, dass diese verteilten, dezentralen
+Datenknotenpunkte an das System angeschlossen werden können.
+
+Und wir haben auch Protokolle, gemeinsame Protokolle,
+um sicherzustellen, dass die verschiedenen Protokolle
+
+kann tatsächlich auf der gleichen Basis betrieben werden.
+Und für die Authentifizierung haben wir offen für
+
+die verfügbaren Systeme. Also, alle verschiedenen
+Länder müssen also nicht alle eine ähnliche Digitalisierung haben
+
+wie wir sie in Estland haben. Was wir also befürworten
+ist die Zusammenarbeit. Und dann offen anbieten
+
+solche Lösungen.
+Okay. Also, nicht immer bei Null anfangen, ich
+
+raten. Ja?
+Ja, ich danke Ihnen vielmals. Ich glaube, was Minister
+
+Tammist sagte, ist sehr wichtig. Die Frage
+des Vertrauens, und Vertrauen kommt sehr oft mit
+
+Sicherheit. Es geht darum, ob ich dem Dienst vertraue. Und
+das ist es, was wir erleben. Dieser Weg für uns
+
+ist, dass man von Anfang an an die Sicherheit denken
+von Anfang an. Habe ich das Produkt
+
+die ich anbiete? Und wenn es nicht sicher ist
+dann ist es nicht innovativ. Das ist die Frage,
+
+jedes Unternehmen, insbesondere Energieunternehmen, müssen
+haben Sie die Risikobewertung verzögert vorgenommen
+
+für meine Dienstleistung oder mein Produkt? Habe ich die richtigen Leute
+falls etwas passiert, z. B. ein Computerausfall
+
+Notfalleinsatzteam? Habe ich eine Strategie
+für dieses Thema? Was ist eigentlich wann?
+
+etwas passiert, und auch das ist Cybersicherheit,
+es gibt keine 100%ige Cybersicherheit. Aber Sie
+
+können lernen, wie sie damit umgehen können. Haben Sie zum Beispiel
+haben Sie einen Plan, wenn etwas passiert, wie
+
+reagiere ich? Auch das ist sehr wichtig. Deshalb,
+deshalb gibt es zum Beispiel eine Menge von
+
+Übungen. Dasselbe gilt für eine Feuerdraht
+Übung. Das Gleiche gilt für die Cybersicherheit.
+
+Man muss sich bewegen, was kontaktiert man?
+wohin geht man? Und ich denke, ich denke, was
+
+Stefan erwähnte, ist eigentlich die sehr spezifische
+Verantwortung des Energiesektors ist wie,
+
+Ich meine, wenn man ehrlich ist, nur um einen kleinen Witz zu machen
+wenn es keine Energie gibt, gibt es auch nichts
+
+was sonst noch in der Welt passiert. Das ist also eine große
+eine große Verantwortung. Und ich denke, das ist
+
+sehr wichtig, dass wir verstehen, dass wir verantwortlich sind.
+verantwortlich sind. Wir sind also ein Teil davon. Und
+
+die wir liefern müssen. Das heißt also, dass es
+nicht der Nutzer, der liefern muss, sondern wir an
+
+liefern. Und selbst wenn es sich um Google oder ein
+Energieunternehmen, es ist das Vertrauen, das wir
+
+erstellen, und wir erstellen sie nur, wenn wir alle
+diese kleinen Schritte. Manchmal ist es wie
+
+Risikobewertung und dann merkt man, oh,
+da ist eine Lücke. Es ist nicht abgedeckt, oder ich weiß nicht
+
+einen IT-Mitarbeiter oder so etwas haben. Sehr
+kleine Schritte.
+
+Okay. Also, ja, nur ein kurzer Kommentar zu der
+Übung, falls Sie es noch nicht wissen. Nächste Woche
+
+führt das NATO-Kompetenzzentrum ein
+Szenario, ein fiktives Szenario, in dem auch
+
+wird es einen Cyberangriff auf kritische Infrastrukturen geben.
+Der Energiesektor, und das ist weltweit.
+
+durchgespielt, wie gehen wir damit um? Also, definitiv
+etwas, das man verfolgen sollte. Normalerweise veröffentlichen sie
+
+anschließend einen Bericht. Das könnte von Interesse sein.
+Also
+
+Ich danke Ihnen. Vielleicht noch ein paar abschließende Gedanken.
+Erstens: Ich bin sehr engagiert in
+
+Energie-Blockchain-Innovationsraum. Die meisten Anwendungen
+liegen nicht in einem regulierten Bereich. Zum großen Teil
+
+weil sie durch Vorschriften abgeschreckt werden.
+Je agiler die politischen Entscheidungsträger werden, desto mehr
+
+Innovation wird auch in diesem Bereich Einzug halten.
+Im Moment konzentriert sie sich auf andere Bereiche. Unter
+
+in Bezug auf Länder, die mit gutem Beispiel vorangehen,
+man überlegt und ist sich nicht sicher, ob sie
+
+Mitglied der EU sein wird oder nicht. Also,
+es ist das Vereinigte Königreich. Es ist eigentlich der Anführer hier, wo
+
+wir haben einen Regulator, der mit der Innovationsabteilung
+Abteilung. Und die Finanzierung von Piloten und Tests
+
+in einem regulatorischen Sandkasten in diesem Bereich. Und
+sie begannen dies ein Jahr und neun Monate
+
+vor. Ich war dabei, als sie ihren regulatorischen
+Sandkasten. Der dritte Gedanke, den ich habe, ist, dass
+
+ein Großteil der technischen Entwicklung findet
+hier in Europa. Vieles davon hier in Berlin.
+
+Ich bin in Berlin ansässig. Ein großer Teil des Einsatzes
+findet in Asien und Australien statt. Denn es ist
+
+einen weniger regulierten Bereich. Hier das Beispiel von
+der estnischen Stromgesellschaft B in Australien.
+
+Das ist also eine Herausforderung für meinen Kollegen, dass
+dass sie dies auch in Estland tun. Und schließlich, wenn
+
+Sie sind wirklich begeistert von diesen Themen,
+Wir haben ein jährliches Gipfeltreffen von politischen Entscheidungsträgern,
+
+Corporate Startups hier in Berlin Ende Juni
+Ende Juni. Er heißt Event Horizon Summit.
+
+Wir sind der offizielle Blockchain-Partner dieser
+Konferenz. Und Sie können sich uns dort anschließen, um wirklich
+
+viele dieser Themen vertiefen, wenn Sie sich für Blockchain
+für Sie von Interesse ist.
+
+Ich danke Ihnen.
+Wenn ich auf diese Bemerkung zu Estland eingehen darf.
+
+Ja, sie werden es auch in Estland testen,
+in Europa.
+
+Ausgezeichnet.
+Okay. Zurück zu der Frage, warum intelligente
+
+Zähler nicht so ansprechend sind? Denn das ist mein
+Telefon für den Benutzer und den Kunden. Also, ich
+
+Ich denke, das wissen wir natürlich alle ganz genau. Wir
+müssen, ich meine, wir können den Vorteil von
+
+ein Smartphone. Es ist viel schwieriger für
+für den normalen Kunden, den Wert der
+
+Wert von Demand-Response-Programmen. Also, natürlich
+was man braucht, ist natürlich, dass man auch
+
+eine kulturelle Kampagne, die versucht, die
+Kunden in solche Programme zur Nachfragereduzierung einbinden
+
+um sie für die Vorteile zu sensibilisieren.
+Denn nicht alle unsere Häuser sind heute so intelligent.
+
+Das ist natürlich etwas, das kommen wird.
+Aber es ist noch nicht verfügbar. Also, der Vorteil
+
+und die Vorteile in wirtschaftlicher Hinsicht
+können heute noch nicht eingeschätzt werden. Es ist also ein Thema.
+
+Sie muss vorbereitet werden, um alle Kunden
+Kunden in die Energiewende einzubeziehen.
+
+Nun gut. Die beiden letzten Bemerkungen, bitte. Und außerdem,
+noch einmal zur Frage der Widerstandsfähigkeit, Sie wissen schon,
+
+Resilienz aufbauen. Was ist etwas, das wir
+jetzt im Auge behalten oder mehr tun sollten
+
+von?
+In Ihrer Geschäftskontinuitätsplanung und -durchführung
+
+Kontinuitätsplanung, das Risiko eines Cyber-Ereignisses,
+insbesondere ein größeres Cyber-Ereignis, das
+
+Sie oder Ihre Drittparteien oder Lieferanten müssen
+in diese Kontinuitätspläne aufgenommen und berücksichtigt werden
+
+als ein weiteres Ereignis. Auch bei verschiedenen Arten
+Übungen und so weiter, würden Sie nicht wollen
+
+ein Pilot oder ein Kopilot ein Flugzeug fliegen, wenn
+wenn sie nicht vorher im Simulator waren. Also, ich
+
+wenn ein Großereignis eintritt, muss man
+muss man völlig technisch werden
+
+und nicht-technischen Personen, Rechts- und Regulierungsbehörden
+und so weiter, als Team zusammenarbeiten und mit der Vorbereitung
+
+diese Dinge jetzt. Die Frage ist nicht ob, sondern
+es geht wirklich um das Wann. Ich würde sagen, Vorbereitung und
+
+in die Planung der Geschäftskontinuität, des Betriebs
+Kontinuitätsplanung diese Arten von Ereignissen.
+
+Nun gut. Und da Sie sehr spät gesprochen haben,
+haben Sie jetzt die letzten Bemerkungen.
+
+Ich stimme dem, was Chris gesagt hat, voll und ganz zu. Aber in der Tat,
+geht es bei der Frage auch um Fähigkeiten. Und ich denke
+
+Es besteht eine erhebliche Qualifikationslücke bei
+bei den am Energiesystem beteiligten Nutzern. Sie sind
+
+nicht genügend IT-Experten für Cybersicherheit. Und wahrscheinlich
+nicht genug Wissen unter den verschiedenen
+
+die normalen Benutzer. Ich denke also, dass dies eine
+eine besondere Anstrengung der Unternehmen erfordern. Die
+
+Netzbetreiber, sowohl Übertragungs- als auch Verteilungsnetzbetreiber
+Netzbetreiber, aber auch andere Akteure in
+
+das Energiesystem, um die normalen Nichtfachleute
+Nutzer, d. h. ihre Angestellten, auf Folgendes aufmerksam zu machen
+
+das. Aber auch Privatleuten sollte man
+Natürlich sollten auch Privatpersonen einfache Tipps bekommen, wenn es passiert,
+
+über den Straßenverkehr, zum Beispiel über Unfälle.
+Das gibt es schon seit Jahrzehnten. Bildung
+
+von Kindern, von jungen Menschen. Wie vermeidet man
+Unfälle. Dies muss zunehmend in den Vordergrund rücken
+
+auch für Cyberrisiken. Um sie zu befähigen
+verantwortungsvolle Nutzer zu sein. Sonst werden sie einfach
+
+wissen es nicht. Sie haben keine Chance. Dies ist eine
+große Herausforderung. Es bedeutet nicht, dass jeder
+
+muss ein Experte werden. Aber eine Art Mindestmaß an
+Bewusstsein und Wissen über die Gefahren, die
+
+sein könnte. Und ich denke, viele in der Praxis
+haben schon so ein Phishing entwickelt
+
+Angriffe, die Sie beachten sollten, wenn Sie eine E-Mail
+von einem Freund erhalten. Sie sieht ein bisschen seltsam aus. Dann
+
+Klicken Sie nicht darauf, laden Sie keine Dinge herunter.
+Das muss also zunehmen, und dann denke ich
+
+die Sicherheit wird sicherlich insgesamt verbessert werden.
+Absolute Sicherheit wird es nie geben. Es
+
+wird es wichtig sein, Übungen durchzuführen, insbesondere
+in den Unternehmen des Energiesystems und
+
+und dann die Lehren daraus ziehen. Und dann üben
+wie Sie schon sagten, mit der NATO, mit Ihnen mit
+
+der Mitgliedsstaaten, insbesondere grenzüberschreitend.
+Mehrere Mitglieder arbeiten zusammen. Hinweis auf
+
+auch, dass einige Mitgliedsstaaten unterschiedlich
+organisiert sind. Es geht also nicht darum, dass es
+
+immer die einfache Korrespondenz in demselben
+Ministerium in der anderen Hauptstadt. Manchmal ist es
+
+Agenturen, manchmal das Büro des Premierministers.
+Es muss ein Netzwerk geben, in dem die Menschen
+
+rufen sich gegenseitig an und haben sofortige Kontakte
+und dieses Netz muss warm gehalten werden. Also,
+
+Bewegung ist im Grunde der Weg, um in Kontakt zu bleiben.
+Nun gut. Nun, vielen Dank. Ich habe sicherlich
+
+eine Menge gelernt. Ich hoffe, Sie hatten auch Spaß nach
+der Mittagspause nach diesem Gespräch.
+
+Und hoffentlich können wir dieses Gespräch und diesen
+Dialog fortsetzen. Helfen Sie bitte all unseren Experten
+
+hier auf der Bühne.
+
+Und wir sind pünktlich fertig geworden. Also, vielen Dank
+vielmals.
+
+
